@@ -1,0 +1,4272 @@
+{
+    "Episode Number": "06x08",
+    "Episode Title": "Let me Hear Your Balalaikas Ringin",
+    "Recap": [
+        "Rory's old flame Jess returns with exciting news about his life - and some criticism about hers (such as dropping out of Yale and joining the DAR). Luke sponsors a girls' soccer team. Lorelai projects her feelings about being a bad mother onto her dog."
+    ],
+    "Show Title": "Gilmore Girls",
+    "Transcript": [
+        "[PREVIOUSLY_ON]",
+        "(OPEN in Lorelai's house, night. The house looks like it's prepped to be painted. Lorelai is sitting on an armchair looking at some paint samples with Paul Anka near by, and Luke pacing around)",
+        "LORELAI: Your impatience is very distracting.",
+        "LUKE: I said nothing.",
+        "LORELAI: I'm getting a vibe.",
+        "LUKE: I can't control my vibe.",
+        "LORELAI: Maybe I should do this alone.",
+        "LUKE: No.",
+        "LORELAI: But I need to collect my thoughts.",
+        "LUKE: The last time I left you alone with your thoughts, I came back and you were in the reds again.",
+        "LORELAI: So?",
+        "LUKE: We've ruled out red.",
+        "LORELAI: Why did we rule out red?",
+        "LUKE: Because you don't like red.",
+        "LORELAI: Right. And when I'm right, I'm right. Red would be way too much in here. Now, just give me a minute to concentrate. Cone of silence, please.",
+        "LUKE: You got it. (notices Lorelai's shoes lined on the floor) Hey, what are all your shoes doing down here?",
+        "LORELAI: You broke the cone.",
+        "LUKE: Yeah. They're gonna get ruined. (he starts picking them up)",
+        "LORELAI: Oh, well, talk to Paul Anka. He's one by one marched every pair of my shoes downstairs, and I have no idea why. Lined them up perfectly, too. Left, right, left, right. He's very a**l when he misbehaves.",
+        "LUKE: Yeah. I'll clear them out.",
+        "LORELAI: No, no, no. Don't. I want him to march them back up himself. How else will he learn?",
+        "LUKE: Fine. (drops the shoes) Whatever. (pointing at Paul Anka) Weirdo. (sits on the bed opposite Lorelai)",
+        "LORELAI: Why did I say I don't like red?",
+        "LUKE: I think your exact words were, \"better dead than red\".",
+        "LORELAI: 'Cause I'm liking red now.",
+        "LUKE: What happened to the white you picked? That was such a nice white, and you were so sure about it.",
+        "LORELAI: It didn't go with Paul Anka.",
+        "LUKE: Unbelievable.",
+        "LORELAI: Look. (holds up the paint sample to Paul Anka)",
+        "LUKE: Oh, yeah. You're right. That does not work, not at all.",
+        "LORELAI: See?",
+        "LUKE: I was kidding.",
+        "LORELAI: You know, your kidding is really slowing down the process here, big-time. Hey, uh, what about a...blue?",
+        "LUKE: We're painting the outside blue.",
+        "LORELAI: Or maybe a yellow.",
+        "LUKE: Oh, come on now. Yellow really doesn't go with Paul Anka.",
+        "LORELAI: You know, if nothing goes with him, we may have to move.",
+        "LUKE: Do you want to know the problem here?",
+        "LORELAI: Actually, no. I don't like problems. I avoid them when I can, and I don't like people pointing them out to me.",
+        "LUKE: The guys are almost done prepping the walls, and then they're gonna want to paint. If we don't have a colour for them, they're gonna have nothing to do, and then they're gonna bolt, and we won't see them again for weeks.",
+        "LORELAI: That is so cold.",
+        "LUKE: Well they go where the money is. If they're not painting, they're not earning.",
+        "LORELAI: Oh, wait. Paul Anka. Maybe he has an opinion on all this.",
+        "LUKE: Oh, I'm sure he does.",
+        "LORELAI: Okay, dude. Check them out. Don't overthink it. What looks good to you? (holds up the paint samples for him and he licks a one) Ooh! He licked the dark magenta.",
+        "LUKE: You know dogs are colour-blind.",
+        "LORELAI: Okay, technicality. What about the baseboards? Baseboards. (he licks again) Ooh! Dark magenta baseboards. Interesting choice.",
+        "LUKE: I need a beer. (gets up and makes his way to the kitchen)",
+        "LORELAI: Oh. Oh, get one for me, too, please. (at Paul Anka) How about the ceiling? (the dog licks again and Lorelai gasps) Dark magenta! You've got the queer eye, my friend. (pets Paul Anka) Oh yeah!",
+        "OPENING CREDITS",
+        "(CUT to Rory's bedroom at the mansion, morning. Rory is asleep. There is a knock on the door and Rory wakes up startled)",
+        "EMILY (from outside the door): Rise and shine!",
+        "RORY: No, no, no, no, no.",
+        "EMILY (from outside the door): It's a beautiful morning.",
+        "RORY: No rising. No shining.",
+        "EMILY (from outside the door): Don't let it go to waste. I'll be back in five if I don't see you.",
+        "RORY: (angry and frustrated) No, no more \"back in five\"! (lies back down)",
+        "(CUT to Luke's diner, morning. Lorelai and Luke walk in the diner coming from upstairs in mid-conversation)",
+        "LORELAI: It's perfect. A light, slightly washed-out green like you see in renaissance wall paintings, with the baseboards painted an aquamarine blue, but dulled so it's got a little Latin touch. And you paint the ceilings off-white with a hint of yellow to go great with the floors and just give the whole space a nice glow. (Lorelai sits on a stool at the counter as Luke stays behind the counter) What do you think?",
+        "LUKE: We're not painting my apartment.",
+        "LORELAI: (chuckles) Why not?",
+        "LUKE: Because we're painting your house. That's why you have the colour samples.",
+        "LORELAI: Mm-hm, and there's not enough paint to paint your place and the other place?",
+        "LUKE: There's not enough time. As you work on the perfect colours for my house and Babette's house and Mr.Lanahan's house and Sookie's house...",
+        "LORELAI: Oh, I showed Sookie that blanched almond. She flipped.",
+        "LUKE: ...And the post office and the church and the odd fellows hall, the painters are getting closer and closer to being ready to paint your house. You gotta focus or...",
+        "LORELAI: Or what?",
+        "LUKE: I'm gonna take that away. (indicating at the paint-sample thingy)",
+        "LORELAI: Oh, no! You would not take my paint-sample thingy away from me.",
+        "LUKE: I most certainly would.",
+        "LORELAI: Well, that would seriously slow down the process. And I don't know if you know this, but if the painters have nothing to do, they'll move on to another job. (a townie - Maggie - and two little girls - Tilly and Megan - walk up to Luke and Lorelai)",
+        "LUKE: It's \"the twilight zone\". I do not know what to do here. (Lorelai notices they have company)",
+        "LORELAI: Hey. I think the lullaby league is looking for you.",
+        "LUKE: (at the girls) Oh. Yeah?",
+        "MEGAN: Mr.Danes, I'm Megan, and this is Tilly.",
+        "TILLY: Hi.",
+        "MEGAN: Um, we go to Stars Hollow Middle School. You went there. (Luke stares at the girls)",
+        "LORELAI: I think they're looking for confirmation.",
+        "LUKE: Yeah, I went.",
+        "MAGGIE: He's busy, girls. Don't keep him long.",
+        "MEGAN: Well, we're on a soccer team, and we lost our sponsor.",
+        "LORELAI: Aw, who was your sponsor?",
+        "MEGAN: Luger's bait and tackle.",
+        "LORELAI: Oh, that's right. They're shutting down. (at Luke) Luger's wife caught him at that motel with the transv...(remembers that there are kids around) sistor radio, and, uh, he retired honourably.",
+        "LUKE: So, what are you here for?",
+        "MEGAN: We were wondering if you would sponsor our team.",
+        "LUKE: Well, I don't know...",
+        "TILLY: You just have to buy our jerseys.",
+        "MEGAN: It'll say \"Luke's Diner\" on the back.",
+        "TILLY: Plus our name: \"The bobcats\". And you pitch in for trophies if we win.",
+        "MEGAN: But you don't even have to go to the games if you don't want.",
+        "TILLY: Yeah. You don't have to come.",
+        "LUKE: Girls, no offence, but I don't think so. It's not my thing.",
+        "MAGGIE: No problem. Thank him for his time, girls. (the girls look a bit sad)",
+        "MEGAN: Thank you.",
+        "TILLY: Thank you, Mr.Danes.",
+        "LUKE: You're welcome.",
+        "LORELAI: Bye. (the girls and Maggie go back to their table) Wow, Oliver Twist just kindly asked for a little more gruel, and you kicked him right in the junk.",
+        "LUKE: Who?",
+        "LORELAI: You broke those darling little girls' hearts.",
+        "LUKE: They'll find someone else.",
+        "LORELAI: How is this not your thing?",
+        "LUKE: I don't want to coach a soccer team.",
+        "LORELAI: They don't need a coach. How closely were you listening?",
+        "LUKE: Well, not that closely. Kids usually talk, but they don't say anything. You know, they just kind of yammer, so if you don't find them cute, they're just boring.",
+        "LORELAI: God, you should really have your own children's show, you know, as an alternative to the nice ones.",
+        "LUKE: You know what I mean.",
+        "LORELAI: It's just a sponsorship, and they're from your alma mater, which, by the way, is looking drab and could use a touch-up. I'd recommend the light salmon. Doesn't that mean something?",
+        "LUKE: I guess a little.",
+        "LORELAI: You don't even have to go to the games, and you'd get to have your name on the back of the jerseys. Free advertising, how cool is that?",
+        "LUKE: Well, yeah, that might be all right.",
+        "LORELAI: Hey, and you'll get that photo that sponsors get of the whole team sitting on the field, and you can display it like Al's Pancake World does. Ooh, Al...that sea-green with burnt-sienna trim.",
+        "LUKE: (grabs the sample thingy away from her) I warned you.",
+        "LORELAI: OH! I'm sorry! I'm sorry! Come on. Give it back, please. I'm jonesing. I need my colours. Please. (he gives it back)",
+        "LUKE: Think they're any good?",
+        "LORELAI: I don't know if that matters.",
+        "(Luke walks up to the girls and Maggie's table)",
+        "LUKE: Hey, uh, if you still want a sponsor, we can give it a shot.",
+        "MEGAN: Really?!",
+        "TILLY: Yay! (the girls get up and hug Luke)",
+        "MAGGIE: Oh, that's wonderful, Luke. Thank you.",
+        "LUKE: (a bit uncomfortable) I guess this is you being grateful.",
+        "LORELAI: (pointing at a blue shade from the sample thingy) For the jerseys.",
+        "(CUT to Gilmore mansion, morning. Rory is coming down the stairs talking on her cell phone at Logan. The scene CUTS between Rory at the mansion and Logan at Yale)",
+        "RORY: You really get, like, no notice on these things, do you?",
+        "LOGAN: None. It's a \"grab your bag and meet me at the tarmac, son, over and out\", and it's always at an ungodly hour.",
+        "RORY: 6:00 am?",
+        "LOGAN: That's my bedtime, for God's sake.",
+        "RORY: So. where's he dragging you this time?",
+        "LOGAN: A paper in Omaha. What state is that in again?",
+        "RORY: Nebraska.",
+        "LOGAN: Ah. Corn, farm animals, football.",
+        "RORY: Oh, and they love condescension in Nebraska, too, so hit them with that as soon as you disembark.",
+        "LOGAN: Well, you have got to be free tonight, my dear, 'cause I'm getting the group together for a blow-out. Do not tell me you're working.",
+        "RORY: I can make some time for you. (notices Emily sitting in the room she was about to enter, turns the other way and start almost whispering) Oops. Evasive manoeuvre.",
+        "LOGAN: What?",
+        "RORY: My grandmother.",
+        "LOGAN: Is she coming at you with a knife or something?",
+        "RORY: It's one thing to be forced to move into the big house, but now the big house is feeling Tom thumb tiny. My grandmother's everywhere.",
+        "LOGAN: The older generation...They have their methods of ubiquity.",
+        "RORY: I'm positive that there are at least five of her wandering the property like she's a Cylon.",
+        "LOGAN: (whispering) So, can you meet me out here tonight?",
+        "RORY: Why are you whispering?",
+        "LOGAN: Because you're whispering.",
+        "RORY: That's cute. I'll see you at your place? eight o'clock?",
+        "LOGAN: Perfect.",
+        "RORY: See you then. (hangs up the phone and is about to exit the house, but Emily comes in the room just in time and startles her)",
+        "EMILY: Rory!",
+        "RORY: Oh, hi, Grandma. I was just heading out, in kind of a hurry. (does not",
+        "turn around to look at Emily)",
+        "EMILY: Heading out where?",
+        "RORY: Errands. Just errands.",
+        "EMILY: You know, Shandinka would be willing to do your errands for you. She has a used SUV.",
+        "RORY: I can do them myself.",
+        "EMILY: Is something wrong with your face?",
+        "RORY: No.",
+        "EMILY: Why are you hiding it? (Rory turns around to face Emily) It looks fine.",
+        "RORY: It is fine.",
+        "EMILY: So, are you staying overnight at Paris' again this week?",
+        "RORY: Maybe.",
+        "EMILY: That's so fun. Having a girlfriend for sleepovers. You know, Paris can sleep over here sometime if you want.",
+        "RORY: Great. Thanks.",
+        "EMILY: Your Grandfather's out of town for a few days, so it's just us girls. Got a preference for dinner tonight?",
+        "RORY: I may not make it for dinner tonight, Grandma.",
+        "EMILY: Oh. I was looking forward to it.",
+        "RORY: Sorry.",
+        "EMILY: It's always good to give 24-hours notice on these things.",
+        "RORY: Again, sorry.",
+        "EMILY: You're looking skinnier, and you're skipping dinner.",
+        "RORY: I'm not skipping dinner. I'm having dinner out.",
+        "EMILY: You're not bulimic?",
+        "RORY: I really have to go, Grandma.",
+        "EMILY: One last thing. The Russian tea for the DAR...That's going well?",
+        "RORY: Yeah. It's like clockwork. It's an easy one. Teas are easy.",
+        "EMILY: Oh! That reminds me. (goes off to the other room)",
+        "RORY: I really have to go, Grandma (quietly to herself) she said for the umpteenth time. (Emily comes back in, holding a dress)",
+        "EMILY: What do you think?",
+        "RORY: It's nice. Whose is it?",
+        "EMILY: It's for you, for the Russian tea. Want to try it on?",
+        "RORY: Later. Please. I really, really have to go.",
+        "EMILY: Well, that's something to look forward to.",
+        "RORY: Definitely.",
+        "EMILY: See you later.",
+        "RORY: See you later. (Rory exits. Outside of the house now, she takes a calming breath and walks off)",
+        "(CUT to Lorelai's house, night. Babette and Lorelai are in the living room. Babette is sitting on the armchair, looking through the sample thingy and Lorelai is hovering over her)",
+        "BABETTE: Oh, this is hard. This is so hard.",
+        "LORELAI: Yeah, I know.",
+        "BABETTE: I can be so indecisive. Put me in front of a bin of cantaloupe, it'll take me an hour to pick one. An hour! And this is harder than cantaloupe.",
+        "LORELAI: Come on. Focus, Babette. A green, an off-white. what do you think?",
+        "BABETTE: They all seem fine.",
+        "LORELAI: See, I don't know if you're aware of this, but if painters are ready to paint, and you don't have your colours ready, they'll leave, and you'll never see them again, so the clock is ticking here.",
+        "LUKE (OS): Don't let her bully you, Babette.",
+        "BABETTE: But I gotta pick a colour!",
+        "LUKE (OS): Lorelai's gotta pick a colour!",
+        "LORELAI: Just leave us alone out here! Go about your business! (sits on the bed close to Babette)",
+        "LUKE (OS): You're being cruel to Babette, and you're going to rot in hell for this.",
+        "LORELAI: I'm just getting her opinion.",
+        "BABETTE: I've caused an argument. I'm horrible.",
+        "LUKE (OS): You've got till close of day tomorrow, and that's it.",
+        "BABETTE: Good! That'll give me enough time!",
+        "LUKE (OS): Not you, Babette, Lorelai!",
+        "BABETTE: Oh, he's mad at me.",
+        "LORELAI: He's not mad at you. And he's right. It's my thing. I should do it.",
+        "BABETTE: Thank God. Well, here's the information you wanted for Paul Anka. You got your training schools. Training's always good for them.",
+        "LORELAI: Yeah, uh, I took him to a few sessions. He fell in love with a poodle and got very distracted.",
+        "BABETTE: And doggy day care. Let him run around with other dogs. Good for socializing him.",
+        "LORELAI: Well, the other dogs we've come across on walks, he'll bark at them, and then when they turn and look at him, he'll play dead. It's kind of sad.",
+        "BABETTE: Well, he's the cutest basket case I've ever seen. That's for sure. Gotta go. (they stand up)",
+        "LORELAI: Okay. Thanks for coming, Babette. This will help. So... (talking very quietly) hey, if you were gonna pick between the papaya whip I showed you and the medium spring green...",
+        "LUKE (OS): STOP IT!",
+        "LORELAI: God, he's got good ears.",
+        "BABETTE: See you, doll. Good luck!",
+        "LORELAI: Thanks. Bye.",
+        "BABETTE: Bye! (they walk towards the door)",
+        "(CUT to kitchen, continuous. Luke is sitting at the table talking on the phone, and looking at a catalogue. Lorelai comes in and sits with him)",
+        "LUKE: Yeah, I want the two-colour team name on the front in script and the \"Luke's Diner\" in a vertical arch above the number on the back.",
+        "LORELAI: \"L\" for Lorelai.",
+        "LUKE: \"L\" for Luke's.",
+        "LORELAI: Hey, our names have the same first letter.",
+        "LUKE: You like the style?",
+        "LORELAI: Classy.",
+        "LUKE: (on the phone) But I want really nice stitching, even if it costs extra. I don't care that it's double. Just do it. I want my girls to look good.",
+        "LORELAI: Listen to Daddy Warbucks.",
+        "LUKE: Yeah. 12 for the team plus three spares will do it. 15 in all. (Lorelai get his attention and point at herself - she wants a jersey) Uh, plus another medium, 16, (Lorelai points at Luke) and an extra-large men's, so 17. (Paul Anka comes on the kitchen, starts to scratch Rory's bedroom door and is whimpering. Lorelai points at him too) And one for a medium dog. Yeah. Dog. And this is a rush order. I want them for the next game. Okay, thanks, Ollie. Bye. (hangs up)",
+        "LORELAI: Those girls are gonna be styling.",
+        "LUKE: Yeah, well, they're gonna have the best uniforms in the league. I've seen pictures of the other teams. Little bag ladies.",
+        "LORELAI: Look how you've embraced this.",
+        "LUKE: Well, the more I thought about it, the more fun it seemed, you know. And my friend Ed told me the team is actually pretty good. They got a chance to go all the way.",
+        "LORELAI: Cool. Wow. They could make a movie about this someday. You know...The reluctant, handsome diner owner sponsoring a team that goes all the way to the national finals, and you know who would play you?",
+        "LUKE: Who?",
+        "LORELAI: Tobey Maguire!",
+        "LUKE: He's way younger than me.",
+        "LORELAI: But his career is hot. Go with Tobey.",
+        "LUKE: What about that Vito Morgenstern?",
+        "LORELAI: Sure. Or Viggo Mortensen.",
+        "LUKE: Oh.",
+        "LORELAI: Or Donald Sutherland.",
+        "LUKE: Too old.",
+        "LORELAI: We'll dye his hair.",
+        "LUKE: He's got jowls.",
+        "LORELAI: You're picky. (Paul Anka whimpers again and keeps on scraching Rory's door)",
+        "LUKE: What's he doing?",
+        "LORELAI: I don't know. He's been doing that a lot lately. Hey, hey, buddy, there's nothing for you there. (he lies down) He need geritol? He's been lethargic lately. He's depressed or something. (Luke takes the phone again and starts dialling) Who are you calling?",
+        "LUKE: Just saw something in this thing. (on phone) Hey, Ollie, it's Luke Danes again. Listen, I was looking through your brochure again. You can make caps, too, right?",
+        "LORELAI: Soccer players wear caps?",
+        "LUKE: (at Lorelai) No, I just think they'll look cute in them. (on phone) Yeah, what's your highest quality cap you got there? Yeah, I don't want plastic in the sizing. It's cheapo. You got that kind that you kind of pull on the cloth thingy to size it, right? (Lorelai gets up and bends over Paul Anka to pet him) Great. Well, give me 20 of those.",
+        "(CUT to Rich Man's Shoe, night. A folk singer is on the stage singing. Rory, Logan, Finn, Colin, Rosemary and Juliet are sitting at a table. The boys seem rather drunk. Finn and Colin perk up when the folk singer, who is a girl, sings \"met her\")",
+        "FINN: \"Met her\".",
+        "COLIN: Cool. A girl-on-girl thing. (the song goes \"there I took her life\") It's a snuff film.",
+        "FINN: A lesbian snuff film. (she repeats the last couple of verses)",
+        "COLIN: A redundant lesbian snuff film. How INXS missed her, I don't know.",
+        "LOGAN: Raise a glass to INXS.",
+        "FINN: My countrymen, I'm less than proud to say.",
+        "COLIN: I cannot, cannot believe they've reinstated folk night at my beloved pub.",
+        "FINN: It's a travesty!",
+        "JULIET: Is there any alcohol left in the state of Connecticut that's not inside them?",
+        "ROSEMARY: I doubt it.",
+        "LOGAN: So, boys, another round?",
+        "COLIN: Posthaste. Barkeep!",
+        "RORY: You've hardly touched the drink in front of you.",
+        "LOGAN: Ah, but I'm anticipating. You don't wait till the drink's done to order another. That's for amateurs.",
+        "RORY: Right. I forgot you went pro.",
+        "LOGAN: So, boys, boys, when is the Life & Death Brigade going out again? We have been remiss.",
+        "COLIN: I have ideas. Big ideas. Potentially harmful ideas. (another customer from a near by table turns at them)",
+        "CUSTOMER: Hey, you mind?",
+        "COLIN: Boyfriend?",
+        "FINN: Brother.",
+        "COLIN: Or both. He could be southern.",
+        "LOGAN: Hey. New drinking game. Every time the folk singer sounds sincere, we have to take a drink.",
+        "JULIET: Buckle up. It's gonna be a long night.",
+        "FINN: Come on. Start folding your own, gents. (he folds up a piece of napkin and throws it towards the stage) Whoever hits the folk singer first wins. (Colin follows his lead)",
+        "(CUT to outside Rich Man's Shoe, night much later on. The gang comes out of the bar. The boys are totally wasted. Rory is supporting Logan because he's too drunk and tries to lead him and get Colin and Finn in her car. The girls stay back)",
+        "FINN: Good morning, New Haven! My, my, you look fresh and appealing tonight!",
+        "MAN (OS): Shut up!",
+        "FINN: God has spoken to me... rather rudely.",
+        "MAN (OS): Shut up!",
+        "RORY: Finn, keep it down.",
+        "COLIN: (climbs on car and hold on to a street light pole) Finn, watch. Tostingo! (throws a glass he was holding in the air, Finn pretends to be shooting at it and it shatters)",
+        "MAN (OS): Hey...Shut up!",
+        "LOGAN: Why are we leaving, Ace?",
+        "RORY: Because they're closing.",
+        "LOGAN: That's no excuse.",
+        "RORY: We've overstayed our welcome.",
+        "LOGAN: That makes me sad.",
+        "RORY: You've gotta get your plane in the morning.",
+        "JULIET: Have I gained weight?",
+        "ROSEMARY: Why?",
+        "JULIET: Finn didn't make a pass at me.",
+        "FINN: No, love, my brain is cloudy. Here I am making a pass at you. Pass, pass!",
+        "COLIN: That is so expositional.",
+        "RORY: Guys, just get in the car. (the boys look in through the open car door but don't move)",
+        "COLIN: I've forgotten how to get into a car.",
+        "FINN: Me too. Rory, did you have your owner's manual with you, love?",
+        "RORY: Oh, my god. Just get in! (starts pushing them in)",
+        "JULIET: Bon voyage.",
+        "ROSEMARY: Good luck with your ringling. (the girls walk off)",
+        "LOGAN: One more drink. (he stalks off back to the bar. One of the workers is closing the gate)",
+        "COLIN: Oh, we've got a runner!",
+        "LOGAN: Come on (Rory runs after Logan)",
+        "RORY: Logan!",
+        "LOGAN: Hey, come on. Let me in. (steadying himself on the pub's gate)",
+        "RORY: Oh, Logan, they're closed.",
+        "LOGAN: I have to apologize to that folk singer.",
+        "RORY: She's not here. Everyone's gone.",
+        "LOGAN: I hurt her feelings.",
+        "RORY: She's a folk singer. She's used to it. Come on. (she grabs him and starts walking him back to the car)",
+        "LOGAN: I don't want to go to Omaha tomorrow.",
+        "RORY: I know.",
+        "LOGAN: It's boring.",
+        "RORY: I know.",
+        "LOGAN: And it's not here.",
+        "RORY: Come on. Yeah.",
+        "LOGAN: I don't like steaks or insurance or football or anything else that they have there.",
+        "RORY: You like steaks.",
+        "LOGAN: Do they even have electricity there?",
+        "RORY: Yeah. Yeah. They just got it last year.",
+        "LOGAN: Don't make me go.",
+        "RORY: I'm not making you go. I'm just trying to get you home.",
+        "LOGAN: But getting me home means that I have to go to sleep, and when I wake up, I have to go on a plane to Omaha. (they finally reach the car and Rory tries to help Logan in) Where's Omaha? Where's Omaha?",
+        "RORY: Oh. Just get in, please.",
+        "LOGAN: (as he sits gets in) Aah! Ahh! (Rory looks around for Colin and Finn. They are gone)",
+        "RORY: Colin? Finn?",
+        "MAN (OS): Shut up!",
+        "RORY: Guys!",
+        "MAN (OS): Shut up!",
+        "(CUT to Gilmore mansion driveway, night. Rory drives up and gets out of her car. Someone walks up to the gate and Rory turns to see who it is)",
+        "RORY: Jess. (he opens the gate and help himself in)",
+        "JESS: Hey.",
+        "RORY: Hey.",
+        "(they stare at each other)",
+        "RORY: I...sorry. That wasn't a sentence.",
+        "JESS: I got the gist. (he walks up to her)",
+        "RORY: What are you doing here?",
+        "JESS: I got a job. Professional driveway stalker.",
+        "RORY: Pays good?",
+        "JESS: Yeah, but the hours suck.",
+        "RORY: Jess...?",
+        "JESS: I'm in town on a little business. All nice and aboveboard.",
+        "RORY: How'd you know where to find me?",
+        "JESS: Luke. I shook it out of him. He wasn't sure if it was okay.",
+        "RORY: It's okay. You look good. The years don't seem to have hardened you.",
+        "JESS: Yeah, you look good, too. I know this is kind of weird, but there's actually something I wanted to tell you. Show you, actually. (Rory looks up at the house, Jess notices) I can come back another time.",
+        "RORY: No, it's just, uh, we're kind of exposed here. My...her window's, like, right there.",
+        "JESS: Whose?",
+        "RORY: Uh, my Grandma's. You want to come in?",
+        "JESS: You sure?",
+        "RORY: Yeah. Come on. But just be careful. She's a very light sleeper. (they start walking towards the house)",
+        "(CUT to Rory's room, continuous. They enter)",
+        "RORY: So, here we are.",
+        "JESS: Casa Rory. (Rory closes the door, takes a pillow from the bed and puts it on the foot of the door. Jess looks on)",
+        "RORY: So our voices don't carry.",
+        "JESS: Very prudent.",
+        "RORY: This is not really my taste.",
+        "JESS: Yeah, not unless you've aged about 90 years.",
+        "RORY: I haven't.",
+        "JESS: Is that for Halloween? (pointing at the dress Emily was showing Rory earlier)",
+        "RORY: No, no. This is just for a function I have to go to.",
+        "JESS: Function?",
+        "RORY: It's just a job. The DAR. Daughters of the American Revolution. It's not a career or anything.",
+        "JESS: I hope not.",
+        "RORY: No. See, don't get the wrong idea. I'm just here temporarily. My mom and I...",
+        "JESS: Luke alluded to something.",
+        "RORY: It's a long story. I was crashing in the pool house, and that was just temporary, but the pool house became storage, so then I had to move into the main house. All temporary.",
+        "JESS: Isn't school in session?",
+        "RORY: Mm-hmm.",
+        "JESS: Why aren't you living on campus?",
+        "RORY: Because I'm not going.",
+        "JESS: You graduate already, Doogie?",
+        "RORY: No. I'm just taking a little time off.",
+        "JESS: Time off.",
+        "RORY: So, where are you living, Jess? I want to know about you, mystery man.",
+        "(they sit)",
+        "JESS: I'm in Philly.",
+        "RORY: Really?",
+        "JESS: Don't laugh.",
+        "RORY: No, I'm not. Philadelphia's gotten cool.",
+        "JESS: And New York's gotten expensive. Anyway, it's a pretty cool scene in Philly now. Lot of younger people there...pretty big art scene.",
+        "RORY: I know. I read that in the New York Times. They had a picture of a bunch of young people standing on a roof, kind of eclectic and all. It looked fun. I mean, it was clearly one of those pictures that wasn't candid. It was looking a little stiff, but they looked happy.",
+        "JESS: Are you nervous?",
+        "RORY: A little. It's been a long time.",
+        "JESS: I'm a little nervous, too.",
+        "RORY: Good. I'm not alone.",
+        "JESS: So, I didn't just come here to chat. I wanted to show you something. (takes hios bag and starts looking for something)",
+        "RORY: Right. You said that.",
+        "JESS: Yeah, and I didn't think you'd believe it if I didn't show it to you in person. (takes out a book and give it to her)",
+        "RORY: Well, colour me curious. A book. (reading the cover) \"'The Subsect'...written by Jess Mariano.\"",
+        "JESS: It's no misprint.",
+        "RORY: You wrote a book?",
+        "JESS: A short novel.",
+        "RORY: You wrote a book?!",
+        "JESS: And through a fluke, I got it to these guys that have a small press, and they read it. I don't know if they were high or something, but they decided to publish it.",
+        "RORY: You wrote a book.",
+        "JESS: There's no money in it. They only printed like 500 of them. Believe me, I'm not quitting my day job.",
+        "RORY: But you wrote it. You wrote a book. (gets up and starts pacing around flipping the pages a bit)",
+        "JESS: Yeah, I know. It's hard to believe.",
+        "RORY: You sat down and wrote a novel.",
+        "JESS: Author-distributed, too. That's what I'm doing here. I'm going around begging independent bookstores to put it in stock. Got it in a few.",
+        "RORY: Cool! Where?",
+        "JESS: Around.",
+        "RORY: I want to see it in a store.",
+        "JESS: I can give you the addresses.",
+        "RORY: You know what I'm gonna do when I see it in the store?",
+        "JESS: What?",
+        "RORY: You know that section toward the front, the staff recommendations? I'm gonna grab a copy of your book and put it in that section, and then I'm going to write my own little recommendation on a card and attach it so people see it and buy it.",
+        "JESS: Read it first. That way you can discourage people from buying it.",
+        "RORY: No way! I know it's good. (she sits again) Jess, you've got such a great brain. I knew that if you could just sit down and stop shaking it around, you could do something like this. I knew it. I knew it.",
+        "JESS: I know you did. I work at that press now. Five smelly guys in a cramped room on Locust Street putting out about three books a month. But it's fun.",
+        "RORY: What about a sequel? Are you writing a sequel?",
+        "JESS: You should read it before you get too jazzed about it, okay?",
+        "RORY: Shh! (they are quiet for a few seconds and Rory looks alert. After a bit she sighs) Sorry. I thought I heard footsteps. I think we're okay.",
+        "JESS: It's kind of late. I should go.",
+        "RORY: It is kind of late. (they both get up and start moving to the door)",
+        "JESS: So, I just basically wanted to show you that. Uh, tell you... tell you that I couldn't have done it without you.",
+        "RORY: Thanks.",
+        "JESS: I'm gonna be around for a couple days. Can we talk again? Preferably above a whisper.",
+        "RORY: Yeah. I'd like that. How about tomorrow night?",
+        "JESS: Eight okay?",
+        "RORY: Yep.",
+        "JESS: Good. I'll sneak out on my own.",
+        "RORY: Cool. (they get to the door. Jess picks up the pillow and gives it to Rory. She sees the book in her hand) Oh, hey. The book.",
+        "JESS: Oh, it's yours. (he leaves and closes the door. Rory sits on her bed and starts going through the book a bit)",
+        "[SCENE_BREAK]",
+        "(CUT to soccer field, morning. Two teams - one of them is The Bobcats - are warming up. There are a bunch of soccer parents on the side lines. Luke and Lorelai make their way through, wearing their matching Bobcat jerseys)",
+        "LORELAI: So, where are the bleachers?",
+        "LUKE: Oh, they don't have bleachers at soccer games. They just stand on the sidelines.",
+        "LORELAI: But, where do we go if we feel like making out in the middle of the game?",
+        "LUKE: I don't think they'd mind if we did it right here in front of them.",
+        "LORELAI: Cool. Got a nice crowd here, Mr.Sponsor.",
+        "LUKE: Not bad. Not bad.",
+        "LORELAI: So, these are soccer moms, huh?",
+        "LUKE: They're just really bored spinsters.",
+        "LORELAI: They seem very concerned with education and national security. (Luke chuckles. Maggie sees the tow of them walking around and runs up to the)",
+        "MAGGIE: Luke! Hi! You came!",
+        "LUKE: Oh, yeah. I thought I'd come down, see the girls in action.",
+        "MAGGIE: Oh, they give it their all. You'll be proud.",
+        "LUKE: I'm sure I will.",
+        "LORELAI: Look at those girls. Look how cute they are in those uniforms.",
+        "LUKE: Check out the other team's. Cheap fabric, cheap stitching.",
+        "LORELAI: Look at the sponsor. Fred's dry cleaning. Ruined a favorite sweater years ago. Today he pays. (Tilly and Megan run up to Luke and Lorelai)",
+        "MEGAN: Luke!",
+        "TILLY: You came!",
+        "LUKE: Hey, girls. You ready to play?",
+        "MEGAN: We hope so.",
+        "LUKE: The other team? I think you're gonna wipe the floor with them.",
+        "MEGAN: I think we've got a shot.",
+        "LUKE: No, I know you've got a shot. Don't forget. We're having a little celebration at the diner afterwards, win or lose.",
+        "MEGAN: Cool.",
+        "TILLY: We better get back.",
+        "LUKE: All right. Have a good game.",
+        "MEGAN: See ya!",
+        "LORELAI: Bend it like Beckham! (the girls run off) Oh, so, I dropped Paul Anka off at doggy day care. It was a little scary.",
+        "LUKE: No, that'll be good for him.",
+        "LORELAI: He seemed okay. He was a little standoffish at first, but then he got very friendly with the cash register. And then a dog ran up to him, and he played dead for a couple seconds, and when that didn't work, he ran off playing with the other dogs. I think it's gonna do him some good.",
+        "LUKE: I think so, too. (the game begins) Oh, here we go.",
+        "LORELAI: Oh, who got the ball?",
+        "LUKE: Well, The Bobcats lost the toss, so the other team got the ball.",
+        "LORELAI: So, we've lost already?",
+        "LUKE: Just the toss. It means nothing.",
+        "LORELAI: How many points are we behind 'cause we screwed up the tossing?",
+        "LUKE: Nothing, it just started. 0-0.",
+        "LORELAI: Were we talking during the toss? How did we miss the toss?",
+        "LUKE: Just watch the game.",
+        "LORELAI: Okay. Look at that Megan run.",
+        "LUKE: Ooh, she's making her move.",
+        "LORELAI: She's fast.",
+        "LUKE: Yeah, see her coming up behind that girl? She's gonna try to steal and then move the ball forward and get it to the...",
+        "LORELAI: OH!",
+        "LUKE: OH! What was that?",
+        "SOCCER DAD: Good hustle, girls! Good hustle!",
+        "LORELAI: Is that girl unconscious?",
+        "LUKE: No, no, no. She's getting up. She's a little-little wobbly though.",
+        "LORELAI: Is it okay for Megan to slam her elbow in that girl's neck like that?",
+        "LUKE: I don't think...(Tilly attacks girl who falls down) Oh, my God!",
+        "LORELAI: Oh! That was poor little Tilly.",
+        "LUKE: There's blood. I see blood.",
+        "LORELAI: Who is their coach? Sam Peckinpah?",
+        "MAGGIE: Way to go, Tilly. Dominate. Dominate.",
+        "LORELAI: Shouldn't that be a foul or something?",
+        "MAGGIE: Oh, don't worry. Tilly is an expert at knowing when the ref is watching and when he isn't. Agression! Agression! Agression!",
+        "LORELAI: I cannot watch this. (hides her eyes. Luke keeps on watching the game which, from all the noises one can tell, is quite violent. We hear bunch and a groan, and Luke kinda steps back) Ah! I heard that. It was just as bad as seeing it.",
+        "LUKE: Now I think that girl's unconscious.",
+        "(CUT to soccer field parking, morning, later on. Everyone is making their way to their cars. Luke and Lorelai run to the truck, get in and look stunned)",
+        "LORELAI: It was...it was...",
+        "LUKE: Violent.",
+        "LORELAI: \"Scarface\" on a soccer field.",
+        "LUKE: Those little girls. Megan, Tilly.",
+        "LORELAI: Animals! Animals!",
+        "LUKE: Did you see the blood on their jerseys?",
+        "LORELAI: Oh, I did! I did see that. And the refs, they look like they're afraid to call penalties.",
+        "LUKE: Can you blame them?",
+        "LORELAI: It's Alicia. Duck. (they duck)",
+        "LUKE: Ohh...she's not coming after us. Although she is walking right toward us. Oh! She turned.",
+        "LORELAI: Oh, thank God. (they sit up straight again)",
+        "LUKE: She turned away.",
+        "LORELAI: Okay.",
+        "LUKE: Oh, those sweet, little 11-year-old girls.",
+        "LORELAI: Killers! Killers all!",
+        "LUKE: They won. They won that game.",
+        "LORELAI: Bobcats 37, humanity nothing. I don't want to go to another game.",
+        "LUKE: Me neither.",
+        "LORELAI: Good. (they look around a bit)",
+        "LUKE: Seems like a good time to get away.",
+        "LORELAI: Yeah, they're all distracted. Gun it! Gun it! (Luke starts the car and they drive off)",
+        "(CUT to Gilmore mansion driveway, night. Jess is outside and starts throwing pebles at a window. Rory comes out and he gets startled. He sees it's her and relaxes as she walks up to him, chuckling)",
+        "RORY: What are you doing?",
+        "JESS: (whispering) I didn't know if it was okay to ring or not.",
+        "RORY: She's not here.",
+        "JESS: (normal volume) She's not?",
+        "RORY: She's playing bridge tonight.",
+        "JESS: Oh, good. I parked on the street so she wouldn't see.",
+        "RORY: You're very good at covert ops.",
+        "JESS: Years of practice. So, where do you want to go?",
+        "RORY: I don't know. I don't know the area that well.",
+        "JESS: You live here.",
+        "RORY: I know, but Hartford's still a mystery. Even when I went to Chilton, I got right on the bus and headed home. So I don't even have any old high school hangouts to revisit. And these days, I've just been eating here.",
+        "JESS: Well, I just prefer not going someplace that has food in the title.",
+        "RORY: Meaning...",
+        "JESS: Olive, chilli, soup. No gardens. No plantations.",
+        "RORY: Got it. Something funkier.",
+        "JESS: Steer me to the college district. I'll find us something funky.",
+        "RORY: Sounds good. (a car drives up. It's Logan. Jess looks at Rory, she looks at Logan as he exits the car smiling) Logan.",
+        "LOGAN: Am I interrupting something? (he walks up to them)",
+        "RORY: No. Hey. When did you get back?",
+        "LOGAN: Couple hours ago.",
+        "RORY: Oh, I...I thought you were getting back tomorrow.",
+        "LOGAN: I thought I'd surprise you, Ace.",
+        "RORY: Well, I'm glad you did 'cause you get to meet my old friend, Jess. This is Logan, my boyfriend. Logan, this is Jess. He's in from out of town. (uncomfortable silence) Wow. That sounded so grown-up. We're at the age now where we say things like \"in from out of town\" and \"old friend\", 'cause when you're young, all your friends are new, and you have to get old to have old friends. (uncomfortable chuckling from Rory. Logan extends his hand to Jess)",
+        "LOGAN: How you doing? (they shake)",
+        "JESS: Okay.",
+        "RORY: We were just gonna go grab a bite to eat.",
+        "LOGAN: Great. Well, how about if we all go together. Is that okay?",
+        "JESS: Okay by me.",
+        "LOGAN: Good",
+        "RORY: All right. Good. We were actually at a loss for where to go, so you actually saved us.",
+        "LOGAN: Call me superman. (at Jess) Why don't you follow us.",
+        "JESS: Sure. (Logan puts his arm around Rory's shoulders and stears her to the passenger side of his car. Rory is a bit uncomfortable with the gesture)",
+        "LOGAN: Great. Come on.",
+        "(CUT to Lorelai's house, evening. Lorelai enters and notices all her shoes lined up leading to Rory's room. Paul Anka is laying in front of Rory' bedroom door. Lorelai leans over him concerned and starts petting him)",
+        "LORELAI: Baby. (feeling his nose) Ohh.",
+        "(CUT to Luke's diner, evening. Luke is sitting with the team. They are occupying a few tables. The girls are eating burgers and Luke is trying to talk to them)",
+        "LUKE: Look. I'm not saying take a dive or let them win...",
+        "TILLY: Good burger.",
+        "LUKE: Thanks, I'm not even saying let them score a goal, which the other team did not. (Megan and Tilly high-five)",
+        "MEGAN: Yeah! Shutout!",
+        "TILLY: Donut!",
+        "SOCCER GIRL: They ate some dirt.",
+        "LUKE: They did. They did. They ate some dirt. You fed it to them, but all I'm saying is do you have to hit them so hard?",
+        "MEGAN: It's part of the game.",
+        "TILLY: Yeah, you have to be aggressive, or they'll roll over you.",
+        "MEGAN: You're not being competitive if your jersey doesn't have a little O negative on it.",
+        "LUKE: I know. Absolutely. But, uh, for example, Megan, that bicycle kick you did.",
+        "MEGAN: Bicycle kicks are allowed.",
+        "LUKE: Not on another girl's head.",
+        "MEGAN: She was all up in my grill!",
+        "LUKE: I know, and I don't like it when people are all up in my grill, but there are other ways to deal with it.",
+        "TILLY: We play the way the boys play.",
+        "SOCCER GIRL: Watch them. You'll see.",
+        "LUKE: But boys are boys, and girls are girls. (the girls react and Luke is a bit shocked)",
+        "MEGAN: I cannot believe I'm hearing this.",
+        "TILLY: So we're just supposed to play like cute little girls like we're at some tea party?",
+        "LUKE: I'm not saying that.",
+        "TILLY: We want to win. Which means we gotta kick some butt!",
+        "THE WHOLE TEAM: Yeah!",
+        "LUKE: (looking at Tilly stunned) You were so shy when I met you. (the telephone rings) I'll be right back. (Luke walks over to the counter to get the phone and listens to girls, resigned, for a bit talking about how they \"creamed those guys\". On the phone) Luke's.",
+        "(CUT to Lorelai's house, continuous. Lorelai is in the living room on the phone. The scene CUTS between Luke at the diner and Lorelai at home)",
+        "LORELAI: Hey. It's me.",
+        "LUKE: Hey, what's wrong?",
+        "LORELAI: It's Paul Anka. He's sick.",
+        "LUKE: He's sick?",
+        "LORELAI: Yeah. He doesn't want to walk or eat or anything. He's never been sick in his whole life. I mean, I haven't had him his whole life, so it's possible that he's been sick in his life. I'll never know for sure, but to me it's as if it's the first time he's ever been sick.",
+        "LUKE: He got sick when he ate that chocolate. Did he eat more chocolate?",
+        "LORELAI: He hasn't eaten chocolate. He hasn't eaten anything in two days.",
+        "LUKE: Get him to the vet.",
+        "LORELAI: I did. The vet just said that he has some sort of bug and to let him be until it passes. I feel so helpless.",
+        "LUKE: Well, I've got the team here, so as soon as they're gone, I'll come over. I mean, they wolf it down like pigs, so it's not gonna be that long unless they want a third helping.",
+        "LORELAI: Maybe I should take him back to the vet.",
+        "LUKE: Just let Paul Anka be. Dogs are dogs. They know how to heal.",
+        "LORELAI: Paul Anka isn't a dog. He's some sort of hybrid. Maybe that vet doesn't specialize in hybrids.",
+        "LUKE: Sit tight. I'll be over soon.",
+        "LORELAI: Okay. Bye.",
+        "LUKE: Bye. (they hang up. Luke turns around just in time to hear the girls laughing and Megan say)",
+        "MEGAN: She went one way and her knee went the other. (the girls cheer as Luke sighs and walks back over to them)",
+        "(CUT to Rich Man's Shoe, evening. Rory, Logan and Jess are sitting at a table twith their drinks talking)",
+        "LOGAN: I live pretty close. I'd have had you over to check it out, but it's a bit of a mess.",
+        "RORY: And you don't serve food, so we would have been starving at your place.",
+        "LOGAN: I've got appetizers, half-full bag of chips. Just check the expiration date before you dive in.",
+        "JESS: I'm good with this place.",
+        "LOGAN: Little pointer. Don't come on folk night.",
+        "JESS: Yeah, I'm not a big fan of folk music.",
+        "LOGAN: Something we have in common.",
+        "JESS: Great. (looks at Rory who looks back at him a bit uncomfortable)",
+        "LOGAN: Where's a waitress? (at a waitress) Yo, yo. Right here. Uh, another McKellen's neat, and, Jess, another brew?",
+        "JESS: I'm still working on this one.",
+        "LOGAN: Another one, just in case. (the waitress walks off)",
+        "RORY: Well, we should probably order. It's a big menu, so if you need guidance...",
+        "JESS: I'm not hungry.",
+        "LOGAN: You're not hungry?",
+        "JESS: Nope.",
+        "LOGAN: I thought the whole point was you two were going to get something to eat?",
+        "RORY: And talk.",
+        "LOGAN: Well, yes, it's a given that you're gonna talk while you eat. You know, chef de cuisine will gladly make anything you want if nothing there appeals.",
+        "RORY: The burgers are good here.",
+        "JESS: Maybe a burger.",
+        "LOGAN: Get one of those fancy ones, too, and it's on me, so don't let the price stop you.",
+        "JESS: I'll pay for my own. (looking through his menu)",
+        "LOGAN: Good man. (reading his menu) So, how long have you two known each other?",
+        "JESS: (closes the menu) A while.",
+        "LOGAN: You date?",
+        "RORY: Yes. We used to date.",
+        "LOGAN: Ah! No hemming. No hawing. Good course of action. (closes his menu) So, were you two high school sweethearts? Rock around the clock, two straws in the milkshake?",
+        "RORY: Logan.",
+        "LOGAN: Hey, did we cheers? I don't think we cheered. That's bad luck. Let's cheers.",
+        "JESS: I think we did already, twice.",
+        "LOGAN: Well, let's do it again. Cheers.",
+        "RORY and JESS: Cheers. (they cling their glasses and drink)",
+        "LOGAN: So...what do you do, Jess?",
+        "JESS: Oh, this and that.",
+        "LOGAN: Describe the \"this\". Describe the \"that\".",
+        "RORY: He writes.",
+        "LOGAN: You write? Impressive. What do you write?",
+        "JESS: Nothing important.",
+        "RORY: He wrote a book.",
+        "LOGAN: Oh, you penned the great American novel, Jess?",
+        "JESS: Wasn't quite that ambitious.",
+        "LOGAN: So, what are we talking here? Short novel? Kafka length or longer? Dos Passos, Tolstoy? Or longer? Robert Musil? Proust? I'm not throwing you with these names, am I?",
+        "JESS: You seem very obsessed with length.",
+        "LOGAN: I'm just trying to get a picture in my head, that's all.",
+        "RORY: It's a short novel.",
+        "LOGAN: (at Rory) Any good?",
+        "RORY: I haven't read it yet.",
+        "LOGAN: Yet? Well, at least you'll have one reader. That's something.",
+        "JESS: Yeah.",
+        "LOGAN: You know, I should just write down all my random thoughts and stuff that happens to me and conversations I have and just add a bunch of \"he said, she said\"-'s, and get it published. You got a copy on you?",
+        "JESS: No.",
+        "LOGAN: You should send me a copy.",
+        "JESS: Sure. And where do I send it? The blond dick at Yale?",
+        "RORY: Jess. (Jess picks up his coat and get up)",
+        "LOGAN: Whoa, whoa. We're just trying to keep it friendly here, buddy. (Logan gets up and blocks his way)",
+        "JESS: Get out of my way. (Jess by-passes him and walks out. Rory gets up and follows Jess)",
+        "LOGAN: Forget him, Rory.",
+        "RORY: Don't follow me.",
+        "(CUT to outside Rich Mans' Shoe, continuous. Jess is leaving and Rory runs up to him)",
+        "RORY: Jess, wait. (he stops and turns to look at her) Jess, I'm sorry.",
+        "JESS: We shouldn't have done this.",
+        "RORY: He's just in a bad way lately.",
+        "JESS: He's a jerk.",
+        "RORY: He was. In there, definitely. I'm so sorry.",
+        "JESS: I read that guy the second I saw him. I should have begged off.",
+        "RORY: Well, I didn't want you to.",
+        "JESS: He better not come out here.",
+        "RORY: Please, Jess. He had a lot to drink. He's tired from travelling. This isn't him. I swear.",
+        "JESS: What the hell is going on?",
+        "RORY: I told you. He's tired, and his family's bugging him right now.",
+        "JESS: No, no. I mean with you. What's going on with you?",
+        "RORY: What do you mean?",
+        "JESS: You know what I mean. I know you better than anyone. This isn't you.",
+        "RORY: I don't know.",
+        "JESS: What are you doing? Living at your grandparents' place, being in the DAR, no Yale...why did you drop out of Yale?!",
+        "RORY: It's complicated.",
+        "JESS: It's not! It's not complicated.",
+        "RORY: You don't know.",
+        "JESS: This isn't you. This, you going out with this jerk, with the Porsche. We made fun of guys like this.",
+        "RORY: You caught him on a bad night.",
+        "JESS: This isn't about him. Okay, screw him. What's going on with you? This isn't you, Rory. You know it isn't. What's going on?",
+        "RORY: I don't know. I don't know.",
+        "JESS: Hey, uh... may-may-maybe we'll catch up at a better time. (he starts to leave, but stops and turns) Happy birthday, by the way. Wasn't that a couple weeks ago, your birthday? (Rory nods. Jess nods back, smiles and leaves. Rory watches him go for a bit and re-enters the pub angry and determined)",
+        "(CUT to inside Rich Man's Shoe, continuous. Rory comes in and walks up to the table and Logan, who is sitting drinking from his glass. She does not sit but hoover's over him)",
+        "LOGAN: You're not gonna believe this. Over the music, the crowd, I hear one girl's voice cutting through it all, the folk singer. She's in the corner with her boyfriend. I sent them over a round of drinks. What the hell? He gone?",
+        "RORY: Yes, he's gone.",
+        "LOGAN: Writers are so sensitive.",
+        "RORY: You were a jerk, Logan.",
+        "LOGAN: I was just challenging him. Jeez. Hey, if Hemingway can take it, so can he. Hey, if he wanted to, he could have taken a pop at me. Pugnacity! It's a vital component of literary life. Again, consult your Hemingway. Come on. Do not let this guy get to you.",
+        "RORY: You're getting to me.",
+        "LOGAN: Me?",
+        "RORY: Yes. You were an ass.",
+        "LOGAN: Look, I'm sorry I came back early. I really messed things up here.",
+        "RORY: Jess wrote a book. He wrote a book, and you mocked him.",
+        "LOGAN: I did not mock him.",
+        "RORY: He's doing something.",
+        "LOGAN: Good. Fine. He's doing something. Everybody in the world's doing something. More power to him.",
+        "RORY: I'm not. I mean, what am I doing? I'm living with my grandparents.",
+        "LOGAN: That's temporary. Have a drink.",
+        "RORY: Temporary can turn into forever.",
+        "LOGAN: You're not living with the Gilmore's forever.",
+        "RORY: I'm palling with my grandmother and being waited on by a maid. I come home, and my shoes are magically shined. My clothes are magically clean, ironed, and laid out. My bed is magically turned down. I'm in the DAR? I'm going to meetings and teas and cocktail parties?",
+        "LOGAN: Again, temporary. Have a drink.",
+        "RORY: And wasting my time partying and drinking, just hanging out doing nothing.",
+        "LOGAN: Whoa, whoa, whoa. (he gets up) Don't pull me into this.",
+        "RORY: I didn't say anything about you.",
+        "LOGAN: Yes, you did. Don't make me feel guilty for your drinking and partying. That's your choice. I'm not forcing you. When I ask you out, you can say no.",
+        "RORY: It's all we do.",
+        "LOGAN: It's not all we do.",
+        "RORY: It's all you do.",
+        "LOGAN: Well, it's my prerogative, you know. You're damn straight. I'm gonna party. I'm gonna do it while I have the chance because come June, my life is over.",
+        "RORY: Oh, yes, your horrible life. Let's hear about it.",
+        "LOGAN: Got a week?",
+        "RORY: You have every door open to you. You have opportunities that anyone would kill for, including me.",
+        "LOGAN: No one's stopping you from making whatever you want happen. Go into journalism. Go into politics. Be a doctor. Be a clown. Do whatever you want.",
+        "RORY: It's not as easy when it's not handed to you.",
+        "LOGAN: Really? It's all so easy for me? (getting upset) I don't want that life. It's forced on me. You talk about all these doors being open? All I see is one door, and I'm being pushed through it. I have no choice. You try living without options.",
+        "RORY: How hard are you fighting it?",
+        "LOGAN: I didn't tell you to quit Yale. You did that. I gave you one month, you went beyond that month, and it had nothing to do with me. It was all you. Now, you want to change? Change it, but don't blame me. Don't you dare blame me. You know what? Why don't you go off with John, Jack, whatever his name is?",
+        "RORY: Oh, I'm not going off with Jess. (Logan sighs tired form the fight)",
+        "LOGAN: Come on.",
+        "RORY: Where?",
+        "LOGAN: Let's go. I want to go. I don't want to be here.",
+        "RORY: I don't want to go.",
+        "LOGAN: Well, I drove you here, and I want to go!",
+        "RORY: (determined) I don't want to go.",
+        "LOGAN: Fine. (takes some money and throws it on the table) That'll cover the bill, cab. Do whatever you want. It's your choice. (Logan leaves and Rory is left alone watching him go)",
+        "(CUT to, Gilmore Mansion, morning. Emily walks up to Rory's room and knocks on the door)",
+        "EMILY: Rory, it's 7:30. (no answer so she knocks again) Rory? (she opens the door and enters)",
+        "(CUT to inside Rory's room continuous. Emily walks in and looks around, worried, in the empty room and made bed)",
+        "(CUT to Lorelai's house, morning. Luke is sleeping in Lorelai's bed in the living room. He reaches out to Lorelai and doesn't feel her in the bed so he wakes up and sits up in bed)",
+        "LUKE: Lorelai? (no answer so he gets out of bed, and starts making his way to Rory's room looking around for Lorelai. He reaches Rory's bedroom door, looks in and enters)",
+        "(CUT to inside Rory's room, continuous. Luke makes his way to the armchair Lorelai is sleeping in. Paul Anka in on Rory's bed also resting, wearing his \"Bobcats\" jersey. Luke sits on the floor next to Lorelai who wakes up abruptly after he nudges her. She looks tired and is in verge of tears)",
+        "LORELAI: Is he okay?",
+        "LUKE: Yeah. He looks the same.",
+        "LORELAI: Is he breathing?",
+        "LUKE: He's breathing.",
+        "LORELAI: Nice and steady?",
+        "LUKE: He's fast asleep.",
+        "LORELAI: Good.",
+        "LUKE: You been here all night?",
+        "LORELAI: Uh, I kept thinking I heard him.",
+        "LUKE: Yeah, he does snore occasionally.",
+        "LORELAI: And then he was cold, so I put his jersey on him.",
+        "LUKE: Yeah, I think he likes it.",
+        "LORELAI: Yeah. Every time I'd go back up to bed, you know, after checking on him, I just was convinced that he needed me, so I came back, and finally I just ended up here.",
+        "LUKE: Ah, it's as good a place as any.",
+        "LORELAI: Yeah. He doesn't want to eat anything. I had all these milk-bones ready for him, but he doesn't want anything.",
+        "LUKE: What's the baster for?",
+        "LORELAI: In case he's thirsty, but he can't lift his head, so I can just shoot water in his mouth.",
+        "LUKE: Got it.",
+        "LORELAI: (sighs) Doesn't seem to want anything.",
+        "LUKE: He's gonna be okay. He's strong.",
+        "LORELAI: He's so helpless. It must be so awful to be sick when you're a dog... 'cause you can't run or play and you don't watch TV or do anything to pass the time. Watching a lot of TV is the only good part about being sick.",
+        "LUKE: I know.",
+        "LORELAI: And the thing with the shoes. He was trying to tell me something.",
+        "LUKE: What?",
+        "LORELAI: He was trying to tell me to put my shoes on and take him to the vet because he felt something coming on, and he was trying to ward it off, and I didn't take him.",
+        "LUKE: I don't think that's why he was playing with your shoes.",
+        "LORELAI: I tried so hard. I have a list of things that he's afraid of on the fridge, and I tried to do the right thing. I should not have so socialized him at Kirk's doggy day care the other day. I should have taken him to the best doggy day care in the country, even if it was in Seattle. That's where I should have taken him.",
+        "LUKE: He's fine hanging with Kirk.",
+        "LORELAI: I did this wrong. I did this all wrong. How could I have let this happen? How did I not see it coming? How didn't I step in and do something, and...why can't I fix these things?",
+        "LUKE: Hey. (he starts playing with her hair trying to comfort her)",
+        "LORELAI: (really starting to loose it now) I'm a bad mother!",
+        "LUKE: You're not a bad mother. Oh. Did you sleep at all?",
+        "LORELAI: A little.",
+        "LUKE: You stay home this morning. I'll call Sookie and tell her you'll be late. He's gonna be okay.",
+        "LORELAI: I hope so. (Luke reaches up to her and kisses her head)",
+        "LUKE: Everything's gonna be okay. (they sit and watch Paul Anka)",
+        "(CUT to Lane's apartment, morning. Rory walks in the kitchen from Lane's bedroom and walks up to Lane)",
+        "LANE: Good morning, friend.",
+        "RORY: Back at you, friend. Where are the guys?",
+        "LANE: Uh, they go to work early. I made you coffee.",
+        "RORY: Oh, I've got time for a sip. (Lane bring the pot and a mug and starts pouring) Thanks for letting me crash here.",
+        "LANE: Anytime you want.",
+        "RORY: I might take you up on that.",
+        "LANE: I can't wait to hear the whole story.",
+        "RORY: (after a long sip) Still living it.",
+        "LANE: So, I got a message on my cell phone, from your grandmother.",
+        "RORY: On your cell phone?",
+        "LANE: How did she get the number?",
+        "RORY: Ugh. She's Emily Gilmore. I gotta run. Bye. (starts gathering her things)",
+        "LANE: Drive carefully. (Rory exits)",
+        "(CUT to the Russian tea party. Waiters are serving tea and a traditional Russian band is playing music. Emily enters the hall looking around with an angry determined look. She spots Rory and walks up to her. Rory is giving instructions to one of the waiters)",
+        "RORY: A fresh platter is all we need. Thanks.",
+        "EMILY: I need to go somewhere and have a little talk with you.",
+        "RORY: Later, Grandma. I'm needed out here.",
+        "EMILY: Young lady, I insist that we go somewhere and talk right now.",
+        "RORY: Grandma, I am sorry. I can't.",
+        "EMILY: There's a kitchen here. We'll go there.",
+        "RORY: No. I'm not going to the kitchen with you. We'll talk later.",
+        "EMILY: Must they play those damn guitars?",
+        "RORY: They're balalaikas.",
+        "EMILY: They're too loud.",
+        "RORY: They're Russian, and they're not mic'ed. That's their volume.",
+        "EMILY: I'm not liking this tone of yours.",
+        "RORY: Well, you're forcing the tone, Grandma. I said I'll talk to you later, but right now, I'm not leaving this room. (walks off, making her way through the hall and Emily follows her)",
+        "EMILY: Where were you last night? Why didn't you call?",
+        "RORY: You're overreacting.",
+        "EMILY: You're not wearing your dress.",
+        "RORY: I didn't have time to go home.",
+        "EMILY: You almost missed the event.",
+        "RORY: No. I was early for the event. What I missed was your inspection of me back at the house. That's what you're upset about.",
+        "EMILY: My inspections, missy, are for your own good. You're new to the DAR. You don't know the proper procedure for things, the proper dress.",
+        "RORY: I do okay.",
+        "EMILY: This is not just about me. Everyone was worried about you.",
+        "RORY: You mean everyone you called when you took my private address book and tried to find me?",
+        "EMILY: Yes, I did call people.",
+        "RORY: Well, you shouldn't have.",
+        "EMILY: A lot of good it did. You should update that ridiculous address book of yours. Half the numbers were disconnected.",
+        "RORY: Oh, I'll do that.",
+        "EMILY: You have people in there you haven't spoken to for years. You should remove them.",
+        "RORY: Uh-huh.",
+        "EMILY: I'm throwing that book out.",
+        "RORY: Do not throw that book out.",
+        "EMILY: Do not use that tone with me.",
+        "RORY: I want to be very clear.",
+        "EMILY: You are becoming more like your mother with every passing day.",
+        "RORY: And you are becoming more like my mother's mother with every passing day.",
+        "EMILY: That's it! That's it!",
+        "RORY: What's it?",
+        "EMILY: You're grounded.",
+        "RORY: Grounded?",
+        "EMILY: Yes.",
+        "RORY: I'm 21. You can't ground me.",
+        "EMILY: And no more sleepovers at Paris' house.",
+        "RORY: Grandma, I go wherever I want, whenever I want. And I haven't been sleeping at Paris' house three nights a week. I've been at Logan's.",
+        "EMILY: When your father gets home, we're going to talk about the house rules and be on the same page once and for all.",
+        "RORY: You mean my grandfather.",
+        "EMILY: You know what I meant.",
+        "RORY: Well, I'd have to be living at the house to have house rules.",
+        "EMILY: What does that mean?",
+        "RORY: Excuse me. (turns around and walks away in a huff)",
+        "EMILY: (calling after her) Young lady, do not walk away from me. (Emily seeing as the conversation is over starts to leave, obviously upset, as the band keeps on playing)",
+        "END Of Episode 6.08 - Let Me Hear Your Balalaikas Ringing Out"
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[PREVIOUSLY_ON]",
+            "lines": [
+                [
+                    "background",
+                    "(OPEN in Lorelai's house, night. The house looks like it's prepped to be painted. Lorelai is sitting on an armchair looking at some paint samples with Paul Anka near by, and Luke pacing around)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Your impatience is very distracting."
+                ],
+                [
+                    "luke",
+                    "LUKE: I said nothing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm getting a vibe."
+                ],
+                [
+                    "luke",
+                    "LUKE: I can't control my vibe."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Maybe I should do this alone."
+                ],
+                [
+                    "luke",
+                    "LUKE: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But I need to collect my thoughts."
+                ],
+                [
+                    "luke",
+                    "LUKE: The last time I left you alone with your thoughts, I came back and you were in the reds again."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So?"
+                ],
+                [
+                    "luke",
+                    "LUKE: We've ruled out red."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why did we rule out red?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Because you don't like red."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Right. And when I'm right, I'm right. Red would be way too much in here. Now, just give me a minute to concentrate. Cone of silence, please."
+                ],
+                [
+                    "luke",
+                    "LUKE: You got it. (notices Lorelai's shoes lined on the floor) Hey, what are all your shoes doing down here?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You broke the cone."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. They're gonna get ruined. (he starts picking them up)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, well, talk to Paul Anka. He's one by one marched every pair of my shoes downstairs, and I have no idea why. Lined them up perfectly, too. Left, right, left, right. He's very a**l when he misbehaves."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. I'll clear them out."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, no, no. Don't. I want him to march them back up himself. How else will he learn?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Fine. (drops the shoes) Whatever. (pointing at Paul Anka) Weirdo. (sits on the bed opposite Lorelai)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why did I say I don't like red?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I think your exact words were, \"better dead than red\"."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: 'Cause I'm liking red now."
+                ],
+                [
+                    "luke",
+                    "LUKE: What happened to the white you picked? That was such a nice white, and you were so sure about it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It didn't go with Paul Anka."
+                ],
+                [
+                    "luke",
+                    "LUKE: Unbelievable."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look. (holds up the paint sample to Paul Anka)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, yeah. You're right. That does not work, not at all."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: See?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I was kidding."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You know, your kidding is really slowing down the process here, big-time. Hey, uh, what about a...blue?"
+                ],
+                [
+                    "luke",
+                    "LUKE: We're painting the outside blue."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Or maybe a yellow."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, come on now. Yellow really doesn't go with Paul Anka."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You know, if nothing goes with him, we may have to move."
+                ],
+                [
+                    "luke",
+                    "LUKE: Do you want to know the problem here?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Actually, no. I don't like problems. I avoid them when I can, and I don't like people pointing them out to me."
+                ],
+                [
+                    "luke",
+                    "LUKE: The guys are almost done prepping the walls, and then they're gonna want to paint. If we don't have a colour for them, they're gonna have nothing to do, and then they're gonna bolt, and we won't see them again for weeks."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That is so cold."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well they go where the money is. If they're not painting, they're not earning."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, wait. Paul Anka. Maybe he has an opinion on all this."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, I'm sure he does."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, dude. Check them out. Don't overthink it. What looks good to you? (holds up the paint samples for him and he licks a one) Ooh! He licked the dark magenta."
+                ],
+                [
+                    "luke",
+                    "LUKE: You know dogs are colour-blind."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, technicality. What about the baseboards? Baseboards. (he licks again) Ooh! Dark magenta baseboards. Interesting choice."
+                ],
+                [
+                    "luke",
+                    "LUKE: I need a beer. (gets up and makes his way to the kitchen)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh. Oh, get one for me, too, please. (at Paul Anka) How about the ceiling? (the dog licks again and Lorelai gasps) Dark magenta! You've got the queer eye, my friend. (pets Paul Anka) Oh yeah!"
+                ],
+                [
+                    "background",
+                    "OPENING CREDITS"
+                ]
+            ],
+            "participants": {
+                "lorelai": 24,
+                "luke": 23
+            }
+        },
+        {
+            "id": 2,
+            "title": "(CUT to Rory's bedroom at the mansion, morning. Rory is asleep. There is a knock on the door and Rory wakes up startled)",
+            "lines": [
+                [
+                    "emily (from outside the door)",
+                    "EMILY (from outside the door): Rise and shine!"
+                ],
+                [
+                    "rory",
+                    "RORY: No, no, no, no, no."
+                ],
+                [
+                    "emily (from outside the door)",
+                    "EMILY (from outside the door): It's a beautiful morning."
+                ],
+                [
+                    "rory",
+                    "RORY: No rising. No shining."
+                ],
+                [
+                    "emily (from outside the door)",
+                    "EMILY (from outside the door): Don't let it go to waste. I'll be back in five if I don't see you."
+                ],
+                [
+                    "rory",
+                    "RORY: (angry and frustrated) No, no more \"back in five\"! (lies back down)"
+                ]
+            ],
+            "participants": {
+                "emily (from outside the door)": 3,
+                "rory": 3
+            }
+        },
+        {
+            "id": 3,
+            "title": "(CUT to Luke's diner, morning. Lorelai and Luke walk in the diner coming from upstairs in mid-conversation)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: It's perfect. A light, slightly washed-out green like you see in renaissance wall paintings, with the baseboards painted an aquamarine blue, but dulled so it's got a little Latin touch. And you paint the ceilings off-white with a hint of yellow to go great with the floors and just give the whole space a nice glow. (Lorelai sits on a stool at the counter as Luke stays behind the counter) What do you think?"
+                ],
+                [
+                    "luke",
+                    "LUKE: We're not painting my apartment."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (chuckles) Why not?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Because we're painting your house. That's why you have the colour samples."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Mm-hm, and there's not enough paint to paint your place and the other place?"
+                ],
+                [
+                    "luke",
+                    "LUKE: There's not enough time. As you work on the perfect colours for my house and Babette's house and Mr.Lanahan's house and Sookie's house..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, I showed Sookie that blanched almond. She flipped."
+                ],
+                [
+                    "luke",
+                    "LUKE: ...And the post office and the church and the odd fellows hall, the painters are getting closer and closer to being ready to paint your house. You gotta focus or..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Or what?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm gonna take that away. (indicating at the paint-sample thingy)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, no! You would not take my paint-sample thingy away from me."
+                ],
+                [
+                    "luke",
+                    "LUKE: I most certainly would."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, that would seriously slow down the process. And I don't know if you know this, but if the painters have nothing to do, they'll move on to another job. (a townie - Maggie - and two little girls - Tilly and Megan - walk up to Luke and Lorelai)"
+                ],
+                [
+                    "luke",
+                    "LUKE: It's \"the twilight zone\". I do not know what to do here. (Lorelai notices they have company)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey. I think the lullaby league is looking for you."
+                ],
+                [
+                    "luke",
+                    "LUKE: (at the girls) Oh. Yeah?"
+                ],
+                [
+                    "megan",
+                    "MEGAN: Mr.Danes, I'm Megan, and this is Tilly."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Hi."
+                ],
+                [
+                    "megan",
+                    "MEGAN: Um, we go to Stars Hollow Middle School. You went there. (Luke stares at the girls)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I think they're looking for confirmation."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, I went."
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: He's busy, girls. Don't keep him long."
+                ],
+                [
+                    "megan",
+                    "MEGAN: Well, we're on a soccer team, and we lost our sponsor."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Aw, who was your sponsor?"
+                ],
+                [
+                    "megan",
+                    "MEGAN: Luger's bait and tackle."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, that's right. They're shutting down. (at Luke) Luger's wife caught him at that motel with the transv...(remembers that there are kids around) sistor radio, and, uh, he retired honourably."
+                ],
+                [
+                    "luke",
+                    "LUKE: So, what are you here for?"
+                ],
+                [
+                    "megan",
+                    "MEGAN: We were wondering if you would sponsor our team."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, I don't know..."
+                ],
+                [
+                    "tilly",
+                    "TILLY: You just have to buy our jerseys."
+                ],
+                [
+                    "megan",
+                    "MEGAN: It'll say \"Luke's Diner\" on the back."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Plus our name: \"The bobcats\". And you pitch in for trophies if we win."
+                ],
+                [
+                    "megan",
+                    "MEGAN: But you don't even have to go to the games if you don't want."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Yeah. You don't have to come."
+                ],
+                [
+                    "luke",
+                    "LUKE: Girls, no offence, but I don't think so. It's not my thing."
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: No problem. Thank him for his time, girls. (the girls look a bit sad)"
+                ],
+                [
+                    "megan",
+                    "MEGAN: Thank you."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Thank you, Mr.Danes."
+                ],
+                [
+                    "luke",
+                    "LUKE: You're welcome."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Bye. (the girls and Maggie go back to their table) Wow, Oliver Twist just kindly asked for a little more gruel, and you kicked him right in the junk."
+                ],
+                [
+                    "luke",
+                    "LUKE: Who?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You broke those darling little girls' hearts."
+                ],
+                [
+                    "luke",
+                    "LUKE: They'll find someone else."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How is this not your thing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't want to coach a soccer team."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: They don't need a coach. How closely were you listening?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, not that closely. Kids usually talk, but they don't say anything. You know, they just kind of yammer, so if you don't find them cute, they're just boring."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: God, you should really have your own children's show, you know, as an alternative to the nice ones."
+                ],
+                [
+                    "luke",
+                    "LUKE: You know what I mean."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's just a sponsorship, and they're from your alma mater, which, by the way, is looking drab and could use a touch-up. I'd recommend the light salmon. Doesn't that mean something?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I guess a little."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You don't even have to go to the games, and you'd get to have your name on the back of the jerseys. Free advertising, how cool is that?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, yeah, that might be all right."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey, and you'll get that photo that sponsors get of the whole team sitting on the field, and you can display it like Al's Pancake World does. Ooh, Al...that sea-green with burnt-sienna trim."
+                ],
+                [
+                    "luke",
+                    "LUKE: (grabs the sample thingy away from her) I warned you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: OH! I'm sorry! I'm sorry! Come on. Give it back, please. I'm jonesing. I need my colours. Please. (he gives it back)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Think they're any good?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I don't know if that matters."
+                ],
+                [
+                    "background",
+                    "(Luke walks up to the girls and Maggie's table)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey, uh, if you still want a sponsor, we can give it a shot."
+                ],
+                [
+                    "megan",
+                    "MEGAN: Really?!"
+                ],
+                [
+                    "tilly",
+                    "TILLY: Yay! (the girls get up and hug Luke)"
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: Oh, that's wonderful, Luke. Thank you."
+                ],
+                [
+                    "luke",
+                    "LUKE: (a bit uncomfortable) I guess this is you being grateful."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (pointing at a blue shade from the sample thingy) For the jerseys."
+                ]
+            ],
+            "participants": {
+                "lorelai": 22,
+                "luke": 24,
+                "megan": 9,
+                "tilly": 6,
+                "maggie": 3
+            }
+        },
+        {
+            "id": 4,
+            "title": "(CUT to Gilmore mansion, morning. Rory is coming down the stairs talking on her cell phone at Logan. The scene CUTS between Rory at the mansion and Logan at Yale)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: You really get, like, no notice on these things, do you?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: None. It's a \"grab your bag and meet me at the tarmac, son, over and out\", and it's always at an ungodly hour."
+                ],
+                [
+                    "rory",
+                    "RORY: 6:00 am?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: That's my bedtime, for God's sake."
+                ],
+                [
+                    "rory",
+                    "RORY: So. where's he dragging you this time?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: A paper in Omaha. What state is that in again?"
+                ],
+                [
+                    "rory",
+                    "RORY: Nebraska."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Ah. Corn, farm animals, football."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, and they love condescension in Nebraska, too, so hit them with that as soon as you disembark."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Well, you have got to be free tonight, my dear, 'cause I'm getting the group together for a blow-out. Do not tell me you're working."
+                ],
+                [
+                    "rory",
+                    "RORY: I can make some time for you. (notices Emily sitting in the room she was about to enter, turns the other way and start almost whispering) Oops. Evasive manoeuvre."
+                ],
+                [
+                    "logan",
+                    "LOGAN: What?"
+                ],
+                [
+                    "rory",
+                    "RORY: My grandmother."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Is she coming at you with a knife or something?"
+                ],
+                [
+                    "rory",
+                    "RORY: It's one thing to be forced to move into the big house, but now the big house is feeling Tom thumb tiny. My grandmother's everywhere."
+                ],
+                [
+                    "logan",
+                    "LOGAN: The older generation...They have their methods of ubiquity."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm positive that there are at least five of her wandering the property like she's a Cylon."
+                ],
+                [
+                    "logan",
+                    "LOGAN: (whispering) So, can you meet me out here tonight?"
+                ],
+                [
+                    "rory",
+                    "RORY: Why are you whispering?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Because you're whispering."
+                ],
+                [
+                    "rory",
+                    "RORY: That's cute. I'll see you at your place? eight o'clock?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Perfect."
+                ],
+                [
+                    "rory",
+                    "RORY: See you then. (hangs up the phone and is about to exit the house, but Emily comes in the room just in time and startles her)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Rory!"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, hi, Grandma. I was just heading out, in kind of a hurry. (does not"
+                ],
+                [
+                    "background",
+                    "turn around to look at Emily)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Heading out where?"
+                ],
+                [
+                    "rory",
+                    "RORY: Errands. Just errands."
+                ],
+                [
+                    "emily",
+                    "EMILY: You know, Shandinka would be willing to do your errands for you. She has a used SUV."
+                ],
+                [
+                    "rory",
+                    "RORY: I can do them myself."
+                ],
+                [
+                    "emily",
+                    "EMILY: Is something wrong with your face?"
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "emily",
+                    "EMILY: Why are you hiding it? (Rory turns around to face Emily) It looks fine."
+                ],
+                [
+                    "rory",
+                    "RORY: It is fine."
+                ],
+                [
+                    "emily",
+                    "EMILY: So, are you staying overnight at Paris' again this week?"
+                ],
+                [
+                    "rory",
+                    "RORY: Maybe."
+                ],
+                [
+                    "emily",
+                    "EMILY: That's so fun. Having a girlfriend for sleepovers. You know, Paris can sleep over here sometime if you want."
+                ],
+                [
+                    "rory",
+                    "RORY: Great. Thanks."
+                ],
+                [
+                    "emily",
+                    "EMILY: Your Grandfather's out of town for a few days, so it's just us girls. Got a preference for dinner tonight?"
+                ],
+                [
+                    "rory",
+                    "RORY: I may not make it for dinner tonight, Grandma."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh. I was looking forward to it."
+                ],
+                [
+                    "rory",
+                    "RORY: Sorry."
+                ],
+                [
+                    "emily",
+                    "EMILY: It's always good to give 24-hours notice on these things."
+                ],
+                [
+                    "rory",
+                    "RORY: Again, sorry."
+                ],
+                [
+                    "emily",
+                    "EMILY: You're looking skinnier, and you're skipping dinner."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm not skipping dinner. I'm having dinner out."
+                ],
+                [
+                    "emily",
+                    "EMILY: You're not bulimic?"
+                ],
+                [
+                    "rory",
+                    "RORY: I really have to go, Grandma."
+                ],
+                [
+                    "emily",
+                    "EMILY: One last thing. The Russian tea for the DAR...That's going well?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah. It's like clockwork. It's an easy one. Teas are easy."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh! That reminds me. (goes off to the other room)"
+                ],
+                [
+                    "rory",
+                    "RORY: I really have to go, Grandma (quietly to herself) she said for the umpteenth time. (Emily comes back in, holding a dress)"
+                ],
+                [
+                    "emily",
+                    "EMILY: What do you think?"
+                ],
+                [
+                    "rory",
+                    "RORY: It's nice. Whose is it?"
+                ],
+                [
+                    "emily",
+                    "EMILY: It's for you, for the Russian tea. Want to try it on?"
+                ],
+                [
+                    "rory",
+                    "RORY: Later. Please. I really, really have to go."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, that's something to look forward to."
+                ],
+                [
+                    "rory",
+                    "RORY: Definitely."
+                ],
+                [
+                    "emily",
+                    "EMILY: See you later."
+                ],
+                [
+                    "rory",
+                    "RORY: See you later. (Rory exits. Outside of the house now, she takes a calming breath and walks off)"
+                ]
+            ],
+            "participants": {
+                "rory": 30,
+                "logan": 11,
+                "emily": 18
+            }
+        },
+        {
+            "id": 5,
+            "title": "(CUT to Lorelai's house, night. Babette and Lorelai are in the living room. Babette is sitting on the armchair, looking through the sample thingy and Lorelai is hovering over her)",
+            "lines": [
+                [
+                    "babette",
+                    "BABETTE: Oh, this is hard. This is so hard."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, I know."
+                ],
+                [
+                    "babette",
+                    "BABETTE: I can be so indecisive. Put me in front of a bin of cantaloupe, it'll take me an hour to pick one. An hour! And this is harder than cantaloupe."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Come on. Focus, Babette. A green, an off-white. what do you think?"
+                ],
+                [
+                    "babette",
+                    "BABETTE: They all seem fine."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: See, I don't know if you're aware of this, but if painters are ready to paint, and you don't have your colours ready, they'll leave, and you'll never see them again, so the clock is ticking here."
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): Don't let her bully you, Babette."
+                ],
+                [
+                    "babette",
+                    "BABETTE: But I gotta pick a colour!"
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): Lorelai's gotta pick a colour!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Just leave us alone out here! Go about your business! (sits on the bed close to Babette)"
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): You're being cruel to Babette, and you're going to rot in hell for this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm just getting her opinion."
+                ],
+                [
+                    "babette",
+                    "BABETTE: I've caused an argument. I'm horrible."
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): You've got till close of day tomorrow, and that's it."
+                ],
+                [
+                    "babette",
+                    "BABETTE: Good! That'll give me enough time!"
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): Not you, Babette, Lorelai!"
+                ],
+                [
+                    "babette",
+                    "BABETTE: Oh, he's mad at me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He's not mad at you. And he's right. It's my thing. I should do it."
+                ],
+                [
+                    "babette",
+                    "BABETTE: Thank God. Well, here's the information you wanted for Paul Anka. You got your training schools. Training's always good for them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, uh, I took him to a few sessions. He fell in love with a poodle and got very distracted."
+                ],
+                [
+                    "babette",
+                    "BABETTE: And doggy day care. Let him run around with other dogs. Good for socializing him."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, the other dogs we've come across on walks, he'll bark at them, and then when they turn and look at him, he'll play dead. It's kind of sad."
+                ],
+                [
+                    "babette",
+                    "BABETTE: Well, he's the cutest basket case I've ever seen. That's for sure. Gotta go. (they stand up)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay. Thanks for coming, Babette. This will help. So... (talking very quietly) hey, if you were gonna pick between the papaya whip I showed you and the medium spring green..."
+                ],
+                [
+                    "luke (os)",
+                    "LUKE (OS): STOP IT!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: God, he's got good ears."
+                ],
+                [
+                    "babette",
+                    "BABETTE: See you, doll. Good luck!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Thanks. Bye."
+                ],
+                [
+                    "babette",
+                    "BABETTE: Bye! (they walk towards the door)"
+                ]
+            ],
+            "participants": {
+                "babette": 12,
+                "lorelai": 11,
+                "luke (os)": 6
+            }
+        },
+        {
+            "id": 6,
+            "title": "(CUT to kitchen, continuous. Luke is sitting at the table talking on the phone, and looking at a catalogue. Lorelai comes in and sits with him)",
+            "lines": [
+                [
+                    "luke",
+                    "LUKE: Yeah, I want the two-colour team name on the front in script and the \"Luke's Diner\" in a vertical arch above the number on the back."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: \"L\" for Lorelai."
+                ],
+                [
+                    "luke",
+                    "LUKE: \"L\" for Luke's."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey, our names have the same first letter."
+                ],
+                [
+                    "luke",
+                    "LUKE: You like the style?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Classy."
+                ],
+                [
+                    "luke",
+                    "LUKE: (on the phone) But I want really nice stitching, even if it costs extra. I don't care that it's double. Just do it. I want my girls to look good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Listen to Daddy Warbucks."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. 12 for the team plus three spares will do it. 15 in all. (Lorelai get his attention and point at herself - she wants a jersey) Uh, plus another medium, 16, (Lorelai points at Luke) and an extra-large men's, so 17. (Paul Anka comes on the kitchen, starts to scratch Rory's bedroom door and is whimpering. Lorelai points at him too) And one for a medium dog. Yeah. Dog. And this is a rush order. I want them for the next game. Okay, thanks, Ollie. Bye. (hangs up)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Those girls are gonna be styling."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, well, they're gonna have the best uniforms in the league. I've seen pictures of the other teams. Little bag ladies."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look how you've embraced this."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, the more I thought about it, the more fun it seemed, you know. And my friend Ed told me the team is actually pretty good. They got a chance to go all the way."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Cool. Wow. They could make a movie about this someday. You know...The reluctant, handsome diner owner sponsoring a team that goes all the way to the national finals, and you know who would play you?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Who?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Tobey Maguire!"
+                ],
+                [
+                    "luke",
+                    "LUKE: He's way younger than me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But his career is hot. Go with Tobey."
+                ],
+                [
+                    "luke",
+                    "LUKE: What about that Vito Morgenstern?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Sure. Or Viggo Mortensen."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Or Donald Sutherland."
+                ],
+                [
+                    "luke",
+                    "LUKE: Too old."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: We'll dye his hair."
+                ],
+                [
+                    "luke",
+                    "LUKE: He's got jowls."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You're picky. (Paul Anka whimpers again and keeps on scraching Rory's door)"
+                ],
+                [
+                    "luke",
+                    "LUKE: What's he doing?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I don't know. He's been doing that a lot lately. Hey, hey, buddy, there's nothing for you there. (he lies down) He need geritol? He's been lethargic lately. He's depressed or something. (Luke takes the phone again and starts dialling) Who are you calling?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Just saw something in this thing. (on phone) Hey, Ollie, it's Luke Danes again. Listen, I was looking through your brochure again. You can make caps, too, right?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Soccer players wear caps?"
+                ],
+                [
+                    "luke",
+                    "LUKE: (at Lorelai) No, I just think they'll look cute in them. (on phone) Yeah, what's your highest quality cap you got there? Yeah, I don't want plastic in the sizing. It's cheapo. You got that kind that you kind of pull on the cloth thingy to size it, right? (Lorelai gets up and bends over Paul Anka to pet him) Great. Well, give me 20 of those."
+                ]
+            ],
+            "participants": {
+                "luke": 16,
+                "lorelai": 15
+            }
+        },
+        {
+            "id": 7,
+            "title": "(CUT to Rich Man's Shoe, night. A folk singer is on the stage singing. Rory, Logan, Finn, Colin, Rosemary and Juliet are sitting at a table. The boys seem rather drunk. Finn and Colin perk up when the folk singer, who is a girl, sings \"met her\")",
+            "lines": [
+                [
+                    "finn",
+                    "FINN: \"Met her\"."
+                ],
+                [
+                    "colin",
+                    "COLIN: Cool. A girl-on-girl thing. (the song goes \"there I took her life\") It's a snuff film."
+                ],
+                [
+                    "finn",
+                    "FINN: A lesbian snuff film. (she repeats the last couple of verses)"
+                ],
+                [
+                    "colin",
+                    "COLIN: A redundant lesbian snuff film. How INXS missed her, I don't know."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Raise a glass to INXS."
+                ],
+                [
+                    "finn",
+                    "FINN: My countrymen, I'm less than proud to say."
+                ],
+                [
+                    "colin",
+                    "COLIN: I cannot, cannot believe they've reinstated folk night at my beloved pub."
+                ],
+                [
+                    "finn",
+                    "FINN: It's a travesty!"
+                ],
+                [
+                    "juliet",
+                    "JULIET: Is there any alcohol left in the state of Connecticut that's not inside them?"
+                ],
+                [
+                    "rosemary",
+                    "ROSEMARY: I doubt it."
+                ],
+                [
+                    "logan",
+                    "LOGAN: So, boys, another round?"
+                ],
+                [
+                    "colin",
+                    "COLIN: Posthaste. Barkeep!"
+                ],
+                [
+                    "rory",
+                    "RORY: You've hardly touched the drink in front of you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Ah, but I'm anticipating. You don't wait till the drink's done to order another. That's for amateurs."
+                ],
+                [
+                    "rory",
+                    "RORY: Right. I forgot you went pro."
+                ],
+                [
+                    "logan",
+                    "LOGAN: So, boys, boys, when is the Life & Death Brigade going out again? We have been remiss."
+                ],
+                [
+                    "colin",
+                    "COLIN: I have ideas. Big ideas. Potentially harmful ideas. (another customer from a near by table turns at them)"
+                ],
+                [
+                    "customer",
+                    "CUSTOMER: Hey, you mind?"
+                ],
+                [
+                    "colin",
+                    "COLIN: Boyfriend?"
+                ],
+                [
+                    "finn",
+                    "FINN: Brother."
+                ],
+                [
+                    "colin",
+                    "COLIN: Or both. He could be southern."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey. New drinking game. Every time the folk singer sounds sincere, we have to take a drink."
+                ],
+                [
+                    "juliet",
+                    "JULIET: Buckle up. It's gonna be a long night."
+                ],
+                [
+                    "finn",
+                    "FINN: Come on. Start folding your own, gents. (he folds up a piece of napkin and throws it towards the stage) Whoever hits the folk singer first wins. (Colin follows his lead)"
+                ]
+            ],
+            "participants": {
+                "finn": 6,
+                "colin": 7,
+                "logan": 5,
+                "juliet": 2,
+                "rosemary": 1,
+                "rory": 2,
+                "customer": 1
+            }
+        },
+        {
+            "id": 8,
+            "title": "(CUT to outside Rich Man's Shoe, night much later on. The gang comes out of the bar. The boys are totally wasted. Rory is supporting Logan because he's too drunk and tries to lead him and get Colin and Finn in her car. The girls stay back)",
+            "lines": [
+                [
+                    "finn",
+                    "FINN: Good morning, New Haven! My, my, you look fresh and appealing tonight!"
+                ],
+                [
+                    "man (os)",
+                    "MAN (OS): Shut up!"
+                ],
+                [
+                    "finn",
+                    "FINN: God has spoken to me... rather rudely."
+                ],
+                [
+                    "man (os)",
+                    "MAN (OS): Shut up!"
+                ],
+                [
+                    "rory",
+                    "RORY: Finn, keep it down."
+                ],
+                [
+                    "colin",
+                    "COLIN: (climbs on car and hold on to a street light pole) Finn, watch. Tostingo! (throws a glass he was holding in the air, Finn pretends to be shooting at it and it shatters)"
+                ],
+                [
+                    "man (os)",
+                    "MAN (OS): Hey...Shut up!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Why are we leaving, Ace?"
+                ],
+                [
+                    "rory",
+                    "RORY: Because they're closing."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That's no excuse."
+                ],
+                [
+                    "rory",
+                    "RORY: We've overstayed our welcome."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That makes me sad."
+                ],
+                [
+                    "rory",
+                    "RORY: You've gotta get your plane in the morning."
+                ],
+                [
+                    "juliet",
+                    "JULIET: Have I gained weight?"
+                ],
+                [
+                    "rosemary",
+                    "ROSEMARY: Why?"
+                ],
+                [
+                    "juliet",
+                    "JULIET: Finn didn't make a pass at me."
+                ],
+                [
+                    "finn",
+                    "FINN: No, love, my brain is cloudy. Here I am making a pass at you. Pass, pass!"
+                ],
+                [
+                    "colin",
+                    "COLIN: That is so expositional."
+                ],
+                [
+                    "rory",
+                    "RORY: Guys, just get in the car. (the boys look in through the open car door but don't move)"
+                ],
+                [
+                    "colin",
+                    "COLIN: I've forgotten how to get into a car."
+                ],
+                [
+                    "finn",
+                    "FINN: Me too. Rory, did you have your owner's manual with you, love?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, my god. Just get in! (starts pushing them in)"
+                ],
+                [
+                    "juliet",
+                    "JULIET: Bon voyage."
+                ],
+                [
+                    "rosemary",
+                    "ROSEMARY: Good luck with your ringling. (the girls walk off)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: One more drink. (he stalks off back to the bar. One of the workers is closing the gate)"
+                ],
+                [
+                    "colin",
+                    "COLIN: Oh, we've got a runner!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Come on (Rory runs after Logan)"
+                ],
+                [
+                    "rory",
+                    "RORY: Logan!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey, come on. Let me in. (steadying himself on the pub's gate)"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, Logan, they're closed."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I have to apologize to that folk singer."
+                ],
+                [
+                    "rory",
+                    "RORY: She's not here. Everyone's gone."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I hurt her feelings."
+                ],
+                [
+                    "rory",
+                    "RORY: She's a folk singer. She's used to it. Come on. (she grabs him and starts walking him back to the car)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: I don't want to go to Omaha tomorrow."
+                ],
+                [
+                    "rory",
+                    "RORY: I know."
+                ],
+                [
+                    "logan",
+                    "LOGAN: It's boring."
+                ],
+                [
+                    "rory",
+                    "RORY: I know."
+                ],
+                [
+                    "logan",
+                    "LOGAN: And it's not here."
+                ],
+                [
+                    "rory",
+                    "RORY: Come on. Yeah."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I don't like steaks or insurance or football or anything else that they have there."
+                ],
+                [
+                    "rory",
+                    "RORY: You like steaks."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Do they even have electricity there?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah. Yeah. They just got it last year."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Don't make me go."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm not making you go. I'm just trying to get you home."
+                ],
+                [
+                    "logan",
+                    "LOGAN: But getting me home means that I have to go to sleep, and when I wake up, I have to go on a plane to Omaha. (they finally reach the car and Rory tries to help Logan in) Where's Omaha? Where's Omaha?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh. Just get in, please."
+                ],
+                [
+                    "logan",
+                    "LOGAN: (as he sits gets in) Aah! Ahh! (Rory looks around for Colin and Finn. They are gone)"
+                ],
+                [
+                    "rory",
+                    "RORY: Colin? Finn?"
+                ],
+                [
+                    "man (os)",
+                    "MAN (OS): Shut up!"
+                ],
+                [
+                    "rory",
+                    "RORY: Guys!"
+                ],
+                [
+                    "man (os)",
+                    "MAN (OS): Shut up!"
+                ]
+            ],
+            "participants": {
+                "finn": 4,
+                "man (os)": 5,
+                "rory": 19,
+                "colin": 4,
+                "logan": 16,
+                "juliet": 3,
+                "rosemary": 2
+            }
+        },
+        {
+            "id": 9,
+            "title": "(CUT to Gilmore mansion driveway, night. Rory drives up and gets out of her car. Someone walks up to the gate and Rory turns to see who it is)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Jess. (he opens the gate and help himself in)"
+                ],
+                [
+                    "jess",
+                    "JESS: Hey."
+                ],
+                [
+                    "rory",
+                    "RORY: Hey."
+                ],
+                [
+                    "background",
+                    "(they stare at each other)"
+                ],
+                [
+                    "rory",
+                    "RORY: I...sorry. That wasn't a sentence."
+                ],
+                [
+                    "jess",
+                    "JESS: I got the gist. (he walks up to her)"
+                ],
+                [
+                    "rory",
+                    "RORY: What are you doing here?"
+                ],
+                [
+                    "jess",
+                    "JESS: I got a job. Professional driveway stalker."
+                ],
+                [
+                    "rory",
+                    "RORY: Pays good?"
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, but the hours suck."
+                ],
+                [
+                    "rory",
+                    "RORY: Jess...?"
+                ],
+                [
+                    "jess",
+                    "JESS: I'm in town on a little business. All nice and aboveboard."
+                ],
+                [
+                    "rory",
+                    "RORY: How'd you know where to find me?"
+                ],
+                [
+                    "jess",
+                    "JESS: Luke. I shook it out of him. He wasn't sure if it was okay."
+                ],
+                [
+                    "rory",
+                    "RORY: It's okay. You look good. The years don't seem to have hardened you."
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, you look good, too. I know this is kind of weird, but there's actually something I wanted to tell you. Show you, actually. (Rory looks up at the house, Jess notices) I can come back another time."
+                ],
+                [
+                    "rory",
+                    "RORY: No, it's just, uh, we're kind of exposed here. My...her window's, like, right there."
+                ],
+                [
+                    "jess",
+                    "JESS: Whose?"
+                ],
+                [
+                    "rory",
+                    "RORY: Uh, my Grandma's. You want to come in?"
+                ],
+                [
+                    "jess",
+                    "JESS: You sure?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah. Come on. But just be careful. She's a very light sleeper. (they start walking towards the house)"
+                ]
+            ],
+            "participants": {
+                "rory": 11,
+                "jess": 9
+            }
+        },
+        {
+            "id": 10,
+            "title": "(CUT to Rory's room, continuous. They enter)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: So, here we are."
+                ],
+                [
+                    "jess",
+                    "JESS: Casa Rory. (Rory closes the door, takes a pillow from the bed and puts it on the foot of the door. Jess looks on)"
+                ],
+                [
+                    "rory",
+                    "RORY: So our voices don't carry."
+                ],
+                [
+                    "jess",
+                    "JESS: Very prudent."
+                ],
+                [
+                    "rory",
+                    "RORY: This is not really my taste."
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, not unless you've aged about 90 years."
+                ],
+                [
+                    "rory",
+                    "RORY: I haven't."
+                ],
+                [
+                    "jess",
+                    "JESS: Is that for Halloween? (pointing at the dress Emily was showing Rory earlier)"
+                ],
+                [
+                    "rory",
+                    "RORY: No, no. This is just for a function I have to go to."
+                ],
+                [
+                    "jess",
+                    "JESS: Function?"
+                ],
+                [
+                    "rory",
+                    "RORY: It's just a job. The DAR. Daughters of the American Revolution. It's not a career or anything."
+                ],
+                [
+                    "jess",
+                    "JESS: I hope not."
+                ],
+                [
+                    "rory",
+                    "RORY: No. See, don't get the wrong idea. I'm just here temporarily. My mom and I..."
+                ],
+                [
+                    "jess",
+                    "JESS: Luke alluded to something."
+                ],
+                [
+                    "rory",
+                    "RORY: It's a long story. I was crashing in the pool house, and that was just temporary, but the pool house became storage, so then I had to move into the main house. All temporary."
+                ],
+                [
+                    "jess",
+                    "JESS: Isn't school in session?"
+                ],
+                [
+                    "rory",
+                    "RORY: Mm-hmm."
+                ],
+                [
+                    "jess",
+                    "JESS: Why aren't you living on campus?"
+                ],
+                [
+                    "rory",
+                    "RORY: Because I'm not going."
+                ],
+                [
+                    "jess",
+                    "JESS: You graduate already, Doogie?"
+                ],
+                [
+                    "rory",
+                    "RORY: No. I'm just taking a little time off."
+                ],
+                [
+                    "jess",
+                    "JESS: Time off."
+                ],
+                [
+                    "rory",
+                    "RORY: So, where are you living, Jess? I want to know about you, mystery man."
+                ],
+                [
+                    "background",
+                    "(they sit)"
+                ],
+                [
+                    "jess",
+                    "JESS: I'm in Philly."
+                ],
+                [
+                    "rory",
+                    "RORY: Really?"
+                ],
+                [
+                    "jess",
+                    "JESS: Don't laugh."
+                ],
+                [
+                    "rory",
+                    "RORY: No, I'm not. Philadelphia's gotten cool."
+                ],
+                [
+                    "jess",
+                    "JESS: And New York's gotten expensive. Anyway, it's a pretty cool scene in Philly now. Lot of younger people there...pretty big art scene."
+                ],
+                [
+                    "rory",
+                    "RORY: I know. I read that in the New York Times. They had a picture of a bunch of young people standing on a roof, kind of eclectic and all. It looked fun. I mean, it was clearly one of those pictures that wasn't candid. It was looking a little stiff, but they looked happy."
+                ],
+                [
+                    "jess",
+                    "JESS: Are you nervous?"
+                ],
+                [
+                    "rory",
+                    "RORY: A little. It's been a long time."
+                ],
+                [
+                    "jess",
+                    "JESS: I'm a little nervous, too."
+                ],
+                [
+                    "rory",
+                    "RORY: Good. I'm not alone."
+                ],
+                [
+                    "jess",
+                    "JESS: So, I didn't just come here to chat. I wanted to show you something. (takes hios bag and starts looking for something)"
+                ],
+                [
+                    "rory",
+                    "RORY: Right. You said that."
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, and I didn't think you'd believe it if I didn't show it to you in person. (takes out a book and give it to her)"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, colour me curious. A book. (reading the cover) \"'The Subsect'...written by Jess Mariano.\""
+                ],
+                [
+                    "jess",
+                    "JESS: It's no misprint."
+                ],
+                [
+                    "rory",
+                    "RORY: You wrote a book?"
+                ],
+                [
+                    "jess",
+                    "JESS: A short novel."
+                ],
+                [
+                    "rory",
+                    "RORY: You wrote a book?!"
+                ],
+                [
+                    "jess",
+                    "JESS: And through a fluke, I got it to these guys that have a small press, and they read it. I don't know if they were high or something, but they decided to publish it."
+                ],
+                [
+                    "rory",
+                    "RORY: You wrote a book."
+                ],
+                [
+                    "jess",
+                    "JESS: There's no money in it. They only printed like 500 of them. Believe me, I'm not quitting my day job."
+                ],
+                [
+                    "rory",
+                    "RORY: But you wrote it. You wrote a book. (gets up and starts pacing around flipping the pages a bit)"
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, I know. It's hard to believe."
+                ],
+                [
+                    "rory",
+                    "RORY: You sat down and wrote a novel."
+                ],
+                [
+                    "jess",
+                    "JESS: Author-distributed, too. That's what I'm doing here. I'm going around begging independent bookstores to put it in stock. Got it in a few."
+                ],
+                [
+                    "rory",
+                    "RORY: Cool! Where?"
+                ],
+                [
+                    "jess",
+                    "JESS: Around."
+                ],
+                [
+                    "rory",
+                    "RORY: I want to see it in a store."
+                ],
+                [
+                    "jess",
+                    "JESS: I can give you the addresses."
+                ],
+                [
+                    "rory",
+                    "RORY: You know what I'm gonna do when I see it in the store?"
+                ],
+                [
+                    "jess",
+                    "JESS: What?"
+                ],
+                [
+                    "rory",
+                    "RORY: You know that section toward the front, the staff recommendations? I'm gonna grab a copy of your book and put it in that section, and then I'm going to write my own little recommendation on a card and attach it so people see it and buy it."
+                ],
+                [
+                    "jess",
+                    "JESS: Read it first. That way you can discourage people from buying it."
+                ],
+                [
+                    "rory",
+                    "RORY: No way! I know it's good. (she sits again) Jess, you've got such a great brain. I knew that if you could just sit down and stop shaking it around, you could do something like this. I knew it. I knew it."
+                ],
+                [
+                    "jess",
+                    "JESS: I know you did. I work at that press now. Five smelly guys in a cramped room on Locust Street putting out about three books a month. But it's fun."
+                ],
+                [
+                    "rory",
+                    "RORY: What about a sequel? Are you writing a sequel?"
+                ],
+                [
+                    "jess",
+                    "JESS: You should read it before you get too jazzed about it, okay?"
+                ],
+                [
+                    "rory",
+                    "RORY: Shh! (they are quiet for a few seconds and Rory looks alert. After a bit she sighs) Sorry. I thought I heard footsteps. I think we're okay."
+                ],
+                [
+                    "jess",
+                    "JESS: It's kind of late. I should go."
+                ],
+                [
+                    "rory",
+                    "RORY: It is kind of late. (they both get up and start moving to the door)"
+                ],
+                [
+                    "jess",
+                    "JESS: So, I just basically wanted to show you that. Uh, tell you... tell you that I couldn't have done it without you."
+                ],
+                [
+                    "rory",
+                    "RORY: Thanks."
+                ],
+                [
+                    "jess",
+                    "JESS: I'm gonna be around for a couple days. Can we talk again? Preferably above a whisper."
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah. I'd like that. How about tomorrow night?"
+                ],
+                [
+                    "jess",
+                    "JESS: Eight okay?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yep."
+                ],
+                [
+                    "jess",
+                    "JESS: Good. I'll sneak out on my own."
+                ],
+                [
+                    "rory",
+                    "RORY: Cool. (they get to the door. Jess picks up the pillow and gives it to Rory. She sees the book in her hand) Oh, hey. The book."
+                ],
+                [
+                    "jess",
+                    "JESS: Oh, it's yours. (he leaves and closes the door. Rory sits on her bed and starts going through the book a bit)"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "rory": 36,
+                "jess": 36
+            }
+        },
+        {
+            "id": 11,
+            "title": "(CUT to soccer field, morning. Two teams - one of them is The Bobcats - are warming up. There are a bunch of soccer parents on the side lines. Luke and Lorelai make their way through, wearing their matching Bobcat jerseys)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: So, where are the bleachers?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, they don't have bleachers at soccer games. They just stand on the sidelines."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But, where do we go if we feel like making out in the middle of the game?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't think they'd mind if we did it right here in front of them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Cool. Got a nice crowd here, Mr.Sponsor."
+                ],
+                [
+                    "luke",
+                    "LUKE: Not bad. Not bad."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, these are soccer moms, huh?"
+                ],
+                [
+                    "luke",
+                    "LUKE: They're just really bored spinsters."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: They seem very concerned with education and national security. (Luke chuckles. Maggie sees the tow of them walking around and runs up to the)"
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: Luke! Hi! You came!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, yeah. I thought I'd come down, see the girls in action."
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: Oh, they give it their all. You'll be proud."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm sure I will."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look at those girls. Look how cute they are in those uniforms."
+                ],
+                [
+                    "luke",
+                    "LUKE: Check out the other team's. Cheap fabric, cheap stitching."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look at the sponsor. Fred's dry cleaning. Ruined a favorite sweater years ago. Today he pays. (Tilly and Megan run up to Luke and Lorelai)"
+                ],
+                [
+                    "megan",
+                    "MEGAN: Luke!"
+                ],
+                [
+                    "tilly",
+                    "TILLY: You came!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey, girls. You ready to play?"
+                ],
+                [
+                    "megan",
+                    "MEGAN: We hope so."
+                ],
+                [
+                    "luke",
+                    "LUKE: The other team? I think you're gonna wipe the floor with them."
+                ],
+                [
+                    "megan",
+                    "MEGAN: I think we've got a shot."
+                ],
+                [
+                    "luke",
+                    "LUKE: No, I know you've got a shot. Don't forget. We're having a little celebration at the diner afterwards, win or lose."
+                ],
+                [
+                    "megan",
+                    "MEGAN: Cool."
+                ],
+                [
+                    "tilly",
+                    "TILLY: We better get back."
+                ],
+                [
+                    "luke",
+                    "LUKE: All right. Have a good game."
+                ],
+                [
+                    "megan",
+                    "MEGAN: See ya!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Bend it like Beckham! (the girls run off) Oh, so, I dropped Paul Anka off at doggy day care. It was a little scary."
+                ],
+                [
+                    "luke",
+                    "LUKE: No, that'll be good for him."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He seemed okay. He was a little standoffish at first, but then he got very friendly with the cash register. And then a dog ran up to him, and he played dead for a couple seconds, and when that didn't work, he ran off playing with the other dogs. I think it's gonna do him some good."
+                ],
+                [
+                    "luke",
+                    "LUKE: I think so, too. (the game begins) Oh, here we go."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, who got the ball?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, The Bobcats lost the toss, so the other team got the ball."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, we've lost already?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Just the toss. It means nothing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How many points are we behind 'cause we screwed up the tossing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Nothing, it just started. 0-0."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Were we talking during the toss? How did we miss the toss?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Just watch the game."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay. Look at that Megan run."
+                ],
+                [
+                    "luke",
+                    "LUKE: Ooh, she's making her move."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: She's fast."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, see her coming up behind that girl? She's gonna try to steal and then move the ball forward and get it to the..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: OH!"
+                ],
+                [
+                    "luke",
+                    "LUKE: OH! What was that?"
+                ],
+                [
+                    "soccer dad",
+                    "SOCCER DAD: Good hustle, girls! Good hustle!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is that girl unconscious?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No, no, no. She's getting up. She's a little-little wobbly though."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is it okay for Megan to slam her elbow in that girl's neck like that?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't think...(Tilly attacks girl who falls down) Oh, my God!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh! That was poor little Tilly."
+                ],
+                [
+                    "luke",
+                    "LUKE: There's blood. I see blood."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Who is their coach? Sam Peckinpah?"
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: Way to go, Tilly. Dominate. Dominate."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Shouldn't that be a foul or something?"
+                ],
+                [
+                    "maggie",
+                    "MAGGIE: Oh, don't worry. Tilly is an expert at knowing when the ref is watching and when he isn't. Agression! Agression! Agression!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I cannot watch this. (hides her eyes. Luke keeps on watching the game which, from all the noises one can tell, is quite violent. We hear bunch and a groan, and Luke kinda steps back) Ah! I heard that. It was just as bad as seeing it."
+                ],
+                [
+                    "luke",
+                    "LUKE: Now I think that girl's unconscious."
+                ]
+            ],
+            "participants": {
+                "lorelai": 22,
+                "luke": 24,
+                "maggie": 4,
+                "megan": 5,
+                "tilly": 2,
+                "soccer dad": 1
+            }
+        },
+        {
+            "id": 12,
+            "title": "(CUT to soccer field parking, morning, later on. Everyone is making their way to their cars. Luke and Lorelai run to the truck, get in and look stunned)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: It was...it was..."
+                ],
+                [
+                    "luke",
+                    "LUKE: Violent."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: \"Scarface\" on a soccer field."
+                ],
+                [
+                    "luke",
+                    "LUKE: Those little girls. Megan, Tilly."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Animals! Animals!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Did you see the blood on their jerseys?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, I did! I did see that. And the refs, they look like they're afraid to call penalties."
+                ],
+                [
+                    "luke",
+                    "LUKE: Can you blame them?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's Alicia. Duck. (they duck)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Ohh...she's not coming after us. Although she is walking right toward us. Oh! She turned."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, thank God. (they sit up straight again)"
+                ],
+                [
+                    "luke",
+                    "LUKE: She turned away."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, those sweet, little 11-year-old girls."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Killers! Killers all!"
+                ],
+                [
+                    "luke",
+                    "LUKE: They won. They won that game."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Bobcats 37, humanity nothing. I don't want to go to another game."
+                ],
+                [
+                    "luke",
+                    "LUKE: Me neither."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good. (they look around a bit)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Seems like a good time to get away."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, they're all distracted. Gun it! Gun it! (Luke starts the car and they drive off)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 11,
+                "luke": 10
+            }
+        },
+        {
+            "id": 13,
+            "title": "(CUT to Gilmore mansion driveway, night. Jess is outside and starts throwing pebles at a window. Rory comes out and he gets startled. He sees it's her and relaxes as she walks up to him, chuckling)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: What are you doing?"
+                ],
+                [
+                    "jess",
+                    "JESS: (whispering) I didn't know if it was okay to ring or not."
+                ],
+                [
+                    "rory",
+                    "RORY: She's not here."
+                ],
+                [
+                    "jess",
+                    "JESS: (normal volume) She's not?"
+                ],
+                [
+                    "rory",
+                    "RORY: She's playing bridge tonight."
+                ],
+                [
+                    "jess",
+                    "JESS: Oh, good. I parked on the street so she wouldn't see."
+                ],
+                [
+                    "rory",
+                    "RORY: You're very good at covert ops."
+                ],
+                [
+                    "jess",
+                    "JESS: Years of practice. So, where do you want to go?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know. I don't know the area that well."
+                ],
+                [
+                    "jess",
+                    "JESS: You live here."
+                ],
+                [
+                    "rory",
+                    "RORY: I know, but Hartford's still a mystery. Even when I went to Chilton, I got right on the bus and headed home. So I don't even have any old high school hangouts to revisit. And these days, I've just been eating here."
+                ],
+                [
+                    "jess",
+                    "JESS: Well, I just prefer not going someplace that has food in the title."
+                ],
+                [
+                    "rory",
+                    "RORY: Meaning..."
+                ],
+                [
+                    "jess",
+                    "JESS: Olive, chilli, soup. No gardens. No plantations."
+                ],
+                [
+                    "rory",
+                    "RORY: Got it. Something funkier."
+                ],
+                [
+                    "jess",
+                    "JESS: Steer me to the college district. I'll find us something funky."
+                ],
+                [
+                    "rory",
+                    "RORY: Sounds good. (a car drives up. It's Logan. Jess looks at Rory, she looks at Logan as he exits the car smiling) Logan."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Am I interrupting something? (he walks up to them)"
+                ],
+                [
+                    "rory",
+                    "RORY: No. Hey. When did you get back?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Couple hours ago."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, I...I thought you were getting back tomorrow."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I thought I'd surprise you, Ace."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I'm glad you did 'cause you get to meet my old friend, Jess. This is Logan, my boyfriend. Logan, this is Jess. He's in from out of town. (uncomfortable silence) Wow. That sounded so grown-up. We're at the age now where we say things like \"in from out of town\" and \"old friend\", 'cause when you're young, all your friends are new, and you have to get old to have old friends. (uncomfortable chuckling from Rory. Logan extends his hand to Jess)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: How you doing? (they shake)"
+                ],
+                [
+                    "jess",
+                    "JESS: Okay."
+                ],
+                [
+                    "rory",
+                    "RORY: We were just gonna go grab a bite to eat."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Great. Well, how about if we all go together. Is that okay?"
+                ],
+                [
+                    "jess",
+                    "JESS: Okay by me."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Good"
+                ],
+                [
+                    "rory",
+                    "RORY: All right. Good. We were actually at a loss for where to go, so you actually saved us."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Call me superman. (at Jess) Why don't you follow us."
+                ],
+                [
+                    "jess",
+                    "JESS: Sure. (Logan puts his arm around Rory's shoulders and stears her to the passenger side of his car. Rory is a bit uncomfortable with the gesture)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Great. Come on."
+                ]
+            ],
+            "participants": {
+                "rory": 14,
+                "jess": 11,
+                "logan": 8
+            }
+        },
+        {
+            "id": 14,
+            "title": "(CUT to Lorelai's house, evening. Lorelai enters and notices all her shoes lined up leading to Rory's room. Paul Anka is laying in front of Rory' bedroom door. Lorelai leans over him concerned and starts petting him)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Baby. (feeling his nose) Ohh."
+                ]
+            ],
+            "participants": {
+                "lorelai": 1
+            }
+        },
+        {
+            "id": 15,
+            "title": "(CUT to Luke's diner, evening. Luke is sitting with the team. They are occupying a few tables. The girls are eating burgers and Luke is trying to talk to them)",
+            "lines": [
+                [
+                    "luke",
+                    "LUKE: Look. I'm not saying take a dive or let them win..."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Good burger."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thanks, I'm not even saying let them score a goal, which the other team did not. (Megan and Tilly high-five)"
+                ],
+                [
+                    "megan",
+                    "MEGAN: Yeah! Shutout!"
+                ],
+                [
+                    "tilly",
+                    "TILLY: Donut!"
+                ],
+                [
+                    "soccer girl",
+                    "SOCCER GIRL: They ate some dirt."
+                ],
+                [
+                    "luke",
+                    "LUKE: They did. They did. They ate some dirt. You fed it to them, but all I'm saying is do you have to hit them so hard?"
+                ],
+                [
+                    "megan",
+                    "MEGAN: It's part of the game."
+                ],
+                [
+                    "tilly",
+                    "TILLY: Yeah, you have to be aggressive, or they'll roll over you."
+                ],
+                [
+                    "megan",
+                    "MEGAN: You're not being competitive if your jersey doesn't have a little O negative on it."
+                ],
+                [
+                    "luke",
+                    "LUKE: I know. Absolutely. But, uh, for example, Megan, that bicycle kick you did."
+                ],
+                [
+                    "megan",
+                    "MEGAN: Bicycle kicks are allowed."
+                ],
+                [
+                    "luke",
+                    "LUKE: Not on another girl's head."
+                ],
+                [
+                    "megan",
+                    "MEGAN: She was all up in my grill!"
+                ],
+                [
+                    "luke",
+                    "LUKE: I know, and I don't like it when people are all up in my grill, but there are other ways to deal with it."
+                ],
+                [
+                    "tilly",
+                    "TILLY: We play the way the boys play."
+                ],
+                [
+                    "soccer girl",
+                    "SOCCER GIRL: Watch them. You'll see."
+                ],
+                [
+                    "luke",
+                    "LUKE: But boys are boys, and girls are girls. (the girls react and Luke is a bit shocked)"
+                ],
+                [
+                    "megan",
+                    "MEGAN: I cannot believe I'm hearing this."
+                ],
+                [
+                    "tilly",
+                    "TILLY: So we're just supposed to play like cute little girls like we're at some tea party?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm not saying that."
+                ],
+                [
+                    "tilly",
+                    "TILLY: We want to win. Which means we gotta kick some butt!"
+                ],
+                [
+                    "the whole team",
+                    "THE WHOLE TEAM: Yeah!"
+                ],
+                [
+                    "luke",
+                    "LUKE: (looking at Tilly stunned) You were so shy when I met you. (the telephone rings) I'll be right back. (Luke walks over to the counter to get the phone and listens to girls, resigned, for a bit talking about how they \"creamed those guys\". On the phone) Luke's."
+                ]
+            ],
+            "participants": {
+                "luke": 9,
+                "tilly": 6,
+                "megan": 6,
+                "soccer girl": 2,
+                "the whole team": 1
+            }
+        },
+        {
+            "id": 16,
+            "title": "(CUT to Lorelai's house, continuous. Lorelai is in the living room on the phone. The scene CUTS between Luke at the diner and Lorelai at home)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Hey. It's me."
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey, what's wrong?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's Paul Anka. He's sick."
+                ],
+                [
+                    "luke",
+                    "LUKE: He's sick?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah. He doesn't want to walk or eat or anything. He's never been sick in his whole life. I mean, I haven't had him his whole life, so it's possible that he's been sick in his life. I'll never know for sure, but to me it's as if it's the first time he's ever been sick."
+                ],
+                [
+                    "luke",
+                    "LUKE: He got sick when he ate that chocolate. Did he eat more chocolate?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He hasn't eaten chocolate. He hasn't eaten anything in two days."
+                ],
+                [
+                    "luke",
+                    "LUKE: Get him to the vet."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I did. The vet just said that he has some sort of bug and to let him be until it passes. I feel so helpless."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, I've got the team here, so as soon as they're gone, I'll come over. I mean, they wolf it down like pigs, so it's not gonna be that long unless they want a third helping."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Maybe I should take him back to the vet."
+                ],
+                [
+                    "luke",
+                    "LUKE: Just let Paul Anka be. Dogs are dogs. They know how to heal."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Paul Anka isn't a dog. He's some sort of hybrid. Maybe that vet doesn't specialize in hybrids."
+                ],
+                [
+                    "luke",
+                    "LUKE: Sit tight. I'll be over soon."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay. Bye."
+                ],
+                [
+                    "luke",
+                    "LUKE: Bye. (they hang up. Luke turns around just in time to hear the girls laughing and Megan say)"
+                ],
+                [
+                    "megan",
+                    "MEGAN: She went one way and her knee went the other. (the girls cheer as Luke sighs and walks back over to them)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 8,
+                "luke": 8,
+                "megan": 1
+            }
+        },
+        {
+            "id": 17,
+            "title": "(CUT to Rich Man's Shoe, evening. Rory, Logan and Jess are sitting at a table twith their drinks talking)",
+            "lines": [
+                [
+                    "logan",
+                    "LOGAN: I live pretty close. I'd have had you over to check it out, but it's a bit of a mess."
+                ],
+                [
+                    "rory",
+                    "RORY: And you don't serve food, so we would have been starving at your place."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I've got appetizers, half-full bag of chips. Just check the expiration date before you dive in."
+                ],
+                [
+                    "jess",
+                    "JESS: I'm good with this place."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Little pointer. Don't come on folk night."
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah, I'm not a big fan of folk music."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Something we have in common."
+                ],
+                [
+                    "jess",
+                    "JESS: Great. (looks at Rory who looks back at him a bit uncomfortable)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Where's a waitress? (at a waitress) Yo, yo. Right here. Uh, another McKellen's neat, and, Jess, another brew?"
+                ],
+                [
+                    "jess",
+                    "JESS: I'm still working on this one."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Another one, just in case. (the waitress walks off)"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, we should probably order. It's a big menu, so if you need guidance..."
+                ],
+                [
+                    "jess",
+                    "JESS: I'm not hungry."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You're not hungry?"
+                ],
+                [
+                    "jess",
+                    "JESS: Nope."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I thought the whole point was you two were going to get something to eat?"
+                ],
+                [
+                    "rory",
+                    "RORY: And talk."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Well, yes, it's a given that you're gonna talk while you eat. You know, chef de cuisine will gladly make anything you want if nothing there appeals."
+                ],
+                [
+                    "rory",
+                    "RORY: The burgers are good here."
+                ],
+                [
+                    "jess",
+                    "JESS: Maybe a burger."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Get one of those fancy ones, too, and it's on me, so don't let the price stop you."
+                ],
+                [
+                    "jess",
+                    "JESS: I'll pay for my own. (looking through his menu)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Good man. (reading his menu) So, how long have you two known each other?"
+                ],
+                [
+                    "jess",
+                    "JESS: (closes the menu) A while."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You date?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yes. We used to date."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Ah! No hemming. No hawing. Good course of action. (closes his menu) So, were you two high school sweethearts? Rock around the clock, two straws in the milkshake?"
+                ],
+                [
+                    "rory",
+                    "RORY: Logan."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey, did we cheers? I don't think we cheered. That's bad luck. Let's cheers."
+                ],
+                [
+                    "jess",
+                    "JESS: I think we did already, twice."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Well, let's do it again. Cheers."
+                ],
+                [
+                    "rory and jess",
+                    "RORY and JESS: Cheers. (they cling their glasses and drink)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: So...what do you do, Jess?"
+                ],
+                [
+                    "jess",
+                    "JESS: Oh, this and that."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Describe the \"this\". Describe the \"that\"."
+                ],
+                [
+                    "rory",
+                    "RORY: He writes."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You write? Impressive. What do you write?"
+                ],
+                [
+                    "jess",
+                    "JESS: Nothing important."
+                ],
+                [
+                    "rory",
+                    "RORY: He wrote a book."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Oh, you penned the great American novel, Jess?"
+                ],
+                [
+                    "jess",
+                    "JESS: Wasn't quite that ambitious."
+                ],
+                [
+                    "logan",
+                    "LOGAN: So, what are we talking here? Short novel? Kafka length or longer? Dos Passos, Tolstoy? Or longer? Robert Musil? Proust? I'm not throwing you with these names, am I?"
+                ],
+                [
+                    "jess",
+                    "JESS: You seem very obsessed with length."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I'm just trying to get a picture in my head, that's all."
+                ],
+                [
+                    "rory",
+                    "RORY: It's a short novel."
+                ],
+                [
+                    "logan",
+                    "LOGAN: (at Rory) Any good?"
+                ],
+                [
+                    "rory",
+                    "RORY: I haven't read it yet."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Yet? Well, at least you'll have one reader. That's something."
+                ],
+                [
+                    "jess",
+                    "JESS: Yeah."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You know, I should just write down all my random thoughts and stuff that happens to me and conversations I have and just add a bunch of \"he said, she said\"-'s, and get it published. You got a copy on you?"
+                ],
+                [
+                    "jess",
+                    "JESS: No."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You should send me a copy."
+                ],
+                [
+                    "jess",
+                    "JESS: Sure. And where do I send it? The blond dick at Yale?"
+                ],
+                [
+                    "rory",
+                    "RORY: Jess. (Jess picks up his coat and get up)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Whoa, whoa. We're just trying to keep it friendly here, buddy. (Logan gets up and blocks his way)"
+                ],
+                [
+                    "jess",
+                    "JESS: Get out of my way. (Jess by-passes him and walks out. Rory gets up and follows Jess)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Forget him, Rory."
+                ],
+                [
+                    "rory",
+                    "RORY: Don't follow me."
+                ]
+            ],
+            "participants": {
+                "logan": 27,
+                "rory": 12,
+                "jess": 18,
+                "rory and jess": 1
+            }
+        },
+        {
+            "id": 18,
+            "title": "(CUT to outside Rich Mans' Shoe, continuous. Jess is leaving and Rory runs up to him)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Jess, wait. (he stops and turns to look at her) Jess, I'm sorry."
+                ],
+                [
+                    "jess",
+                    "JESS: We shouldn't have done this."
+                ],
+                [
+                    "rory",
+                    "RORY: He's just in a bad way lately."
+                ],
+                [
+                    "jess",
+                    "JESS: He's a jerk."
+                ],
+                [
+                    "rory",
+                    "RORY: He was. In there, definitely. I'm so sorry."
+                ],
+                [
+                    "jess",
+                    "JESS: I read that guy the second I saw him. I should have begged off."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I didn't want you to."
+                ],
+                [
+                    "jess",
+                    "JESS: He better not come out here."
+                ],
+                [
+                    "rory",
+                    "RORY: Please, Jess. He had a lot to drink. He's tired from travelling. This isn't him. I swear."
+                ],
+                [
+                    "jess",
+                    "JESS: What the hell is going on?"
+                ],
+                [
+                    "rory",
+                    "RORY: I told you. He's tired, and his family's bugging him right now."
+                ],
+                [
+                    "jess",
+                    "JESS: No, no. I mean with you. What's going on with you?"
+                ],
+                [
+                    "rory",
+                    "RORY: What do you mean?"
+                ],
+                [
+                    "jess",
+                    "JESS: You know what I mean. I know you better than anyone. This isn't you."
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know."
+                ],
+                [
+                    "jess",
+                    "JESS: What are you doing? Living at your grandparents' place, being in the DAR, no Yale...why did you drop out of Yale?!"
+                ],
+                [
+                    "rory",
+                    "RORY: It's complicated."
+                ],
+                [
+                    "jess",
+                    "JESS: It's not! It's not complicated."
+                ],
+                [
+                    "rory",
+                    "RORY: You don't know."
+                ],
+                [
+                    "jess",
+                    "JESS: This isn't you. This, you going out with this jerk, with the Porsche. We made fun of guys like this."
+                ],
+                [
+                    "rory",
+                    "RORY: You caught him on a bad night."
+                ],
+                [
+                    "jess",
+                    "JESS: This isn't about him. Okay, screw him. What's going on with you? This isn't you, Rory. You know it isn't. What's going on?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know. I don't know."
+                ],
+                [
+                    "jess",
+                    "JESS: Hey, uh... may-may-maybe we'll catch up at a better time. (he starts to leave, but stops and turns) Happy birthday, by the way. Wasn't that a couple weeks ago, your birthday? (Rory nods. Jess nods back, smiles and leaves. Rory watches him go for a bit and re-enters the pub angry and determined)"
+                ]
+            ],
+            "participants": {
+                "rory": 12,
+                "jess": 12
+            }
+        },
+        {
+            "id": 19,
+            "title": "(CUT to inside Rich Man's Shoe, continuous. Rory comes in and walks up to the table and Logan, who is sitting drinking from his glass. She does not sit but hoover's over him)",
+            "lines": [
+                [
+                    "logan",
+                    "LOGAN: You're not gonna believe this. Over the music, the crowd, I hear one girl's voice cutting through it all, the folk singer. She's in the corner with her boyfriend. I sent them over a round of drinks. What the hell? He gone?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yes, he's gone."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Writers are so sensitive."
+                ],
+                [
+                    "rory",
+                    "RORY: You were a jerk, Logan."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I was just challenging him. Jeez. Hey, if Hemingway can take it, so can he. Hey, if he wanted to, he could have taken a pop at me. Pugnacity! It's a vital component of literary life. Again, consult your Hemingway. Come on. Do not let this guy get to you."
+                ],
+                [
+                    "rory",
+                    "RORY: You're getting to me."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Me?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yes. You were an ass."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Look, I'm sorry I came back early. I really messed things up here."
+                ],
+                [
+                    "rory",
+                    "RORY: Jess wrote a book. He wrote a book, and you mocked him."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I did not mock him."
+                ],
+                [
+                    "rory",
+                    "RORY: He's doing something."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Good. Fine. He's doing something. Everybody in the world's doing something. More power to him."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm not. I mean, what am I doing? I'm living with my grandparents."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That's temporary. Have a drink."
+                ],
+                [
+                    "rory",
+                    "RORY: Temporary can turn into forever."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You're not living with the Gilmore's forever."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm palling with my grandmother and being waited on by a maid. I come home, and my shoes are magically shined. My clothes are magically clean, ironed, and laid out. My bed is magically turned down. I'm in the DAR? I'm going to meetings and teas and cocktail parties?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Again, temporary. Have a drink."
+                ],
+                [
+                    "rory",
+                    "RORY: And wasting my time partying and drinking, just hanging out doing nothing."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Whoa, whoa, whoa. (he gets up) Don't pull me into this."
+                ],
+                [
+                    "rory",
+                    "RORY: I didn't say anything about you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Yes, you did. Don't make me feel guilty for your drinking and partying. That's your choice. I'm not forcing you. When I ask you out, you can say no."
+                ],
+                [
+                    "rory",
+                    "RORY: It's all we do."
+                ],
+                [
+                    "logan",
+                    "LOGAN: It's not all we do."
+                ],
+                [
+                    "rory",
+                    "RORY: It's all you do."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Well, it's my prerogative, you know. You're damn straight. I'm gonna party. I'm gonna do it while I have the chance because come June, my life is over."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, yes, your horrible life. Let's hear about it."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Got a week?"
+                ],
+                [
+                    "rory",
+                    "RORY: You have every door open to you. You have opportunities that anyone would kill for, including me."
+                ],
+                [
+                    "logan",
+                    "LOGAN: No one's stopping you from making whatever you want happen. Go into journalism. Go into politics. Be a doctor. Be a clown. Do whatever you want."
+                ],
+                [
+                    "rory",
+                    "RORY: It's not as easy when it's not handed to you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Really? It's all so easy for me? (getting upset) I don't want that life. It's forced on me. You talk about all these doors being open? All I see is one door, and I'm being pushed through it. I have no choice. You try living without options."
+                ],
+                [
+                    "rory",
+                    "RORY: How hard are you fighting it?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: I didn't tell you to quit Yale. You did that. I gave you one month, you went beyond that month, and it had nothing to do with me. It was all you. Now, you want to change? Change it, but don't blame me. Don't you dare blame me. You know what? Why don't you go off with John, Jack, whatever his name is?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, I'm not going off with Jess. (Logan sighs tired form the fight)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Come on."
+                ],
+                [
+                    "rory",
+                    "RORY: Where?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Let's go. I want to go. I don't want to be here."
+                ],
+                [
+                    "rory",
+                    "RORY: I don't want to go."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Well, I drove you here, and I want to go!"
+                ],
+                [
+                    "rory",
+                    "RORY: (determined) I don't want to go."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Fine. (takes some money and throws it on the table) That'll cover the bill, cab. Do whatever you want. It's your choice. (Logan leaves and Rory is left alone watching him go)"
+                ]
+            ],
+            "participants": {
+                "logan": 22,
+                "rory": 21
+            }
+        },
+        {
+            "id": 20,
+            "title": "(CUT to, Gilmore Mansion, morning. Emily walks up to Rory's room and knocks on the door)",
+            "lines": [
+                [
+                    "emily",
+                    "EMILY: Rory, it's 7:30. (no answer so she knocks again) Rory? (she opens the door and enters)"
+                ]
+            ],
+            "participants": {
+                "emily": 1
+            }
+        },
+        {
+            "id": 21,
+            "title": "(CUT to inside Rory's room continuous. Emily walks in and looks around, worried, in the empty room and made bed)",
+            "lines": [],
+            "participants": {}
+        },
+        {
+            "id": 22,
+            "title": "(CUT to Lorelai's house, morning. Luke is sleeping in Lorelai's bed in the living room. He reaches out to Lorelai and doesn't feel her in the bed so he wakes up and sits up in bed)",
+            "lines": [
+                [
+                    "luke",
+                    "LUKE: Lorelai? (no answer so he gets out of bed, and starts making his way to Rory's room looking around for Lorelai. He reaches Rory's bedroom door, looks in and enters)"
+                ]
+            ],
+            "participants": {
+                "luke": 1
+            }
+        },
+        {
+            "id": 23,
+            "title": "(CUT to inside Rory's room, continuous. Luke makes his way to the armchair Lorelai is sleeping in. Paul Anka in on Rory's bed also resting, wearing his \"Bobcats\" jersey. Luke sits on the floor next to Lorelai who wakes up abruptly after he nudges her. She looks tired and is in verge of tears)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Is he okay?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. He looks the same."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is he breathing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: He's breathing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Nice and steady?"
+                ],
+                [
+                    "luke",
+                    "LUKE: He's fast asleep."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good."
+                ],
+                [
+                    "luke",
+                    "LUKE: You been here all night?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh, I kept thinking I heard him."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, he does snore occasionally."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: And then he was cold, so I put his jersey on him."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, I think he likes it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah. Every time I'd go back up to bed, you know, after checking on him, I just was convinced that he needed me, so I came back, and finally I just ended up here."
+                ],
+                [
+                    "luke",
+                    "LUKE: Ah, it's as good a place as any."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah. He doesn't want to eat anything. I had all these milk-bones ready for him, but he doesn't want anything."
+                ],
+                [
+                    "luke",
+                    "LUKE: What's the baster for?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: In case he's thirsty, but he can't lift his head, so I can just shoot water in his mouth."
+                ],
+                [
+                    "luke",
+                    "LUKE: Got it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (sighs) Doesn't seem to want anything."
+                ],
+                [
+                    "luke",
+                    "LUKE: He's gonna be okay. He's strong."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He's so helpless. It must be so awful to be sick when you're a dog... 'cause you can't run or play and you don't watch TV or do anything to pass the time. Watching a lot of TV is the only good part about being sick."
+                ],
+                [
+                    "luke",
+                    "LUKE: I know."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: And the thing with the shoes. He was trying to tell me something."
+                ],
+                [
+                    "luke",
+                    "LUKE: What?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He was trying to tell me to put my shoes on and take him to the vet because he felt something coming on, and he was trying to ward it off, and I didn't take him."
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't think that's why he was playing with your shoes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I tried so hard. I have a list of things that he's afraid of on the fridge, and I tried to do the right thing. I should not have so socialized him at Kirk's doggy day care the other day. I should have taken him to the best doggy day care in the country, even if it was in Seattle. That's where I should have taken him."
+                ],
+                [
+                    "luke",
+                    "LUKE: He's fine hanging with Kirk."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I did this wrong. I did this all wrong. How could I have let this happen? How did I not see it coming? How didn't I step in and do something, and...why can't I fix these things?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey. (he starts playing with her hair trying to comfort her)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (really starting to loose it now) I'm a bad mother!"
+                ],
+                [
+                    "luke",
+                    "LUKE: You're not a bad mother. Oh. Did you sleep at all?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: A little."
+                ],
+                [
+                    "luke",
+                    "LUKE: You stay home this morning. I'll call Sookie and tell her you'll be late. He's gonna be okay."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I hope so. (Luke reaches up to her and kisses her head)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Everything's gonna be okay. (they sit and watch Paul Anka)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 18,
+                "luke": 18
+            }
+        },
+        {
+            "id": 24,
+            "title": "(CUT to Lane's apartment, morning. Rory walks in the kitchen from Lane's bedroom and walks up to Lane)",
+            "lines": [
+                [
+                    "lane",
+                    "LANE: Good morning, friend."
+                ],
+                [
+                    "rory",
+                    "RORY: Back at you, friend. Where are the guys?"
+                ],
+                [
+                    "lane",
+                    "LANE: Uh, they go to work early. I made you coffee."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, I've got time for a sip. (Lane bring the pot and a mug and starts pouring) Thanks for letting me crash here."
+                ],
+                [
+                    "lane",
+                    "LANE: Anytime you want."
+                ],
+                [
+                    "rory",
+                    "RORY: I might take you up on that."
+                ],
+                [
+                    "lane",
+                    "LANE: I can't wait to hear the whole story."
+                ],
+                [
+                    "rory",
+                    "RORY: (after a long sip) Still living it."
+                ],
+                [
+                    "lane",
+                    "LANE: So, I got a message on my cell phone, from your grandmother."
+                ],
+                [
+                    "rory",
+                    "RORY: On your cell phone?"
+                ],
+                [
+                    "lane",
+                    "LANE: How did she get the number?"
+                ],
+                [
+                    "rory",
+                    "RORY: Ugh. She's Emily Gilmore. I gotta run. Bye. (starts gathering her things)"
+                ],
+                [
+                    "lane",
+                    "LANE: Drive carefully. (Rory exits)"
+                ]
+            ],
+            "participants": {
+                "lane": 7,
+                "rory": 6
+            }
+        },
+        {
+            "id": 25,
+            "title": "(CUT to the Russian tea party. Waiters are serving tea and a traditional Russian band is playing music. Emily enters the hall looking around with an angry determined look. She spots Rory and walks up to her. Rory is giving instructions to one of the waiters)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: A fresh platter is all we need. Thanks."
+                ],
+                [
+                    "emily",
+                    "EMILY: I need to go somewhere and have a little talk with you."
+                ],
+                [
+                    "rory",
+                    "RORY: Later, Grandma. I'm needed out here."
+                ],
+                [
+                    "emily",
+                    "EMILY: Young lady, I insist that we go somewhere and talk right now."
+                ],
+                [
+                    "rory",
+                    "RORY: Grandma, I am sorry. I can't."
+                ],
+                [
+                    "emily",
+                    "EMILY: There's a kitchen here. We'll go there."
+                ],
+                [
+                    "rory",
+                    "RORY: No. I'm not going to the kitchen with you. We'll talk later."
+                ],
+                [
+                    "emily",
+                    "EMILY: Must they play those damn guitars?"
+                ],
+                [
+                    "rory",
+                    "RORY: They're balalaikas."
+                ],
+                [
+                    "emily",
+                    "EMILY: They're too loud."
+                ],
+                [
+                    "rory",
+                    "RORY: They're Russian, and they're not mic'ed. That's their volume."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm not liking this tone of yours."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, you're forcing the tone, Grandma. I said I'll talk to you later, but right now, I'm not leaving this room. (walks off, making her way through the hall and Emily follows her)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Where were you last night? Why didn't you call?"
+                ],
+                [
+                    "rory",
+                    "RORY: You're overreacting."
+                ],
+                [
+                    "emily",
+                    "EMILY: You're not wearing your dress."
+                ],
+                [
+                    "rory",
+                    "RORY: I didn't have time to go home."
+                ],
+                [
+                    "emily",
+                    "EMILY: You almost missed the event."
+                ],
+                [
+                    "rory",
+                    "RORY: No. I was early for the event. What I missed was your inspection of me back at the house. That's what you're upset about."
+                ],
+                [
+                    "emily",
+                    "EMILY: My inspections, missy, are for your own good. You're new to the DAR. You don't know the proper procedure for things, the proper dress."
+                ],
+                [
+                    "rory",
+                    "RORY: I do okay."
+                ],
+                [
+                    "emily",
+                    "EMILY: This is not just about me. Everyone was worried about you."
+                ],
+                [
+                    "rory",
+                    "RORY: You mean everyone you called when you took my private address book and tried to find me?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Yes, I did call people."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, you shouldn't have."
+                ],
+                [
+                    "emily",
+                    "EMILY: A lot of good it did. You should update that ridiculous address book of yours. Half the numbers were disconnected."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, I'll do that."
+                ],
+                [
+                    "emily",
+                    "EMILY: You have people in there you haven't spoken to for years. You should remove them."
+                ],
+                [
+                    "rory",
+                    "RORY: Uh-huh."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm throwing that book out."
+                ],
+                [
+                    "rory",
+                    "RORY: Do not throw that book out."
+                ],
+                [
+                    "emily",
+                    "EMILY: Do not use that tone with me."
+                ],
+                [
+                    "rory",
+                    "RORY: I want to be very clear."
+                ],
+                [
+                    "emily",
+                    "EMILY: You are becoming more like your mother with every passing day."
+                ],
+                [
+                    "rory",
+                    "RORY: And you are becoming more like my mother's mother with every passing day."
+                ],
+                [
+                    "emily",
+                    "EMILY: That's it! That's it!"
+                ],
+                [
+                    "rory",
+                    "RORY: What's it?"
+                ],
+                [
+                    "emily",
+                    "EMILY: You're grounded."
+                ],
+                [
+                    "rory",
+                    "RORY: Grounded?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Yes."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm 21. You can't ground me."
+                ],
+                [
+                    "emily",
+                    "EMILY: And no more sleepovers at Paris' house."
+                ],
+                [
+                    "rory",
+                    "RORY: Grandma, I go wherever I want, whenever I want. And I haven't been sleeping at Paris' house three nights a week. I've been at Logan's."
+                ],
+                [
+                    "emily",
+                    "EMILY: When your father gets home, we're going to talk about the house rules and be on the same page once and for all."
+                ],
+                [
+                    "rory",
+                    "RORY: You mean my grandfather."
+                ],
+                [
+                    "emily",
+                    "EMILY: You know what I meant."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I'd have to be living at the house to have house rules."
+                ],
+                [
+                    "emily",
+                    "EMILY: What does that mean?"
+                ],
+                [
+                    "rory",
+                    "RORY: Excuse me. (turns around and walks away in a huff)"
+                ],
+                [
+                    "emily",
+                    "EMILY: (calling after her) Young lady, do not walk away from me. (Emily seeing as the conversation is over starts to leave, obviously upset, as the band keeps on playing)"
+                ],
+                [
+                    "background",
+                    "END Of Episode 6.08 - Let Me Hear Your Balalaikas Ringing Out"
+                ]
+            ],
+            "participants": {
+                "rory": 25,
+                "emily": 25
+            }
+        }
+    ]
+}

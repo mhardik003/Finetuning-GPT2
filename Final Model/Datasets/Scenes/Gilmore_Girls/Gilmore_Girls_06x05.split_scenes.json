@@ -1,0 +1,3996 @@
+{
+    "Episode Number": "06x05",
+    "Episode Title": "We've Got Magic to do",
+    "Recap": [
+        "Lorelai attends Miss Patty's recital and sends Luke off to the woods to commune with nature, but Luke feels like Lorelai has banished him. Rory's World War II-themed DAR bash is a piperoo (even when suddenly impoverished Paris joins the proletariat as a server). But the bash goes smash when Richard confronts Mitchum Huntzberger."
+    ],
+    "Show Title": "Gilmore Girls",
+    "Transcript": [
+        "[PREVIOUSLY_ON]",
+        "(OPEN in Luke's diner, morning. Lorelai and Luke walk in carrying a bunch of shopping bags each)",
+        "LORELAI: Oh! Winded! Too many steps.",
+        "LUKE: I said I'd carry them.",
+        "LORELAI: Need water. Gunga din!",
+        "LUKE: They're not that heavy.",
+        "LORELAI: Yeah! You should take those steps out. They get in the way.",
+        "LUKE: First thing tomorrow. Man, you bought a lot of stuff. (they set the bags on the counter, Luke goes behind it and Lorelai starts looking though them)",
+        "LORELAI: All stuff I need or want, or think I might someday need or want. (excited) OK now let's find your new wallet!",
+        "LUKE: We can get it later.",
+        "LORELAI: (looking through some bags) No, it's buried in here somewhere. Have I looked in this bag already?",
+        "LUKE: You didn't have to buy me a new wallet. My old wallet was fine.",
+        "LORELAI: Your old wallet has Velcro.",
+        "LUKE: It works.",
+        "LORELAI: It's disgusting. Now come on, let's find it. (notices something in one of the bags) Wait a second. What is this?",
+        "LUKE: (approaching Lorelai) Your underwear. (Lorelai picks out of the bag a huge pink satin pair of panties)",
+        "LORELAI: (stunned) Uh! Thanks a lot!",
+        "LUKE: (suppressing a laugh) I didn't see how big they were. What are they doing in there?",
+        "LORELAI: Well, I'm guessing probably hiding from their real owners, 'cause I would hate to be wrapped around the woman who fit those.",
+        "LUKE: Maybe you just grabbed the wrong bag.",
+        "LORELAI: (takes out a huge pair of bunny slippers and sets them on the counter) Oh, poor thing, she's single. (her cell phone rings and she reaches for it. Luke clears his throat and points at the \"No Cell Phones\" sign)",
+        "LUKE: It still applies. (Lorelai answers the phone anyway)",
+        "LORELAI: Hello? Sookie? Sookie, slow down, I can't understand a word you're saying.",
+        "LUKE: (amused looking at the slippers) She's got huge feet.",
+        "LORELAI: The Inn's on fire?!",
+        "LUKE: (concerned) What?",
+        "LORELAI: The stove is on fire? Well, put it out. It's out? So you're saying, there was a fire, but now it's out. Good, what's the damage?",
+        "LUKE: You had a fire?",
+        "LORELAI: Okay, okay, good. I'll be right there. (hangs up. To Luke) The wall behind the stove caught fire. There's damage, but nothing major. Thank God.",
+        "LUKE: (quickly walks over to Lorelai) Come on. I'll take you.",
+        "LORELAI: Oh, my God! Another fire at the Inn, like the Independence Inn. Oh, no! Am I a fire starter? I'm a fire starter, aren't I?",
+        "LUKE: You are not a fire starter. (calls to the kitchen) Caesar, we'll be right back.",
+        "LORELAI: What about the bags?",
+        "LUKE: Caesar will put the bags away. Let's go.",
+        "LORELAI: Go first, in case things burst into flames behind me as I walk.",
+        "LUKE: Will do. (the start to exit the diner)",
+        "OPENING CREDITS",
+        "(CUT to Dragonfly Inn kitchen, morning. Luke and Jackson are working over at the stove. Lorelai, Sookie and Michel are further away talking)",
+        "SOOKIE: I saw my whole life pass before my eyes. That's how traumatic it was!",
+        "MICHEL: She's been Scarlett O'Hara for two hours. It's sickening.",
+        "SOOKIE: My whole life. Flash! I mean, that's upsetting! You know, not that it's been a bad life, although I could have skipped seeing \"Mummenschanz.\"",
+        "LUKE: Do you want to hand me the screwdriver?",
+        "JACKSON: I would kind of need a third hand to do that.",
+        "LORELAI: Why are the boys bickering?",
+        "SOOKIE: There's something in the air today.",
+        "JACKSON: (Luke holds up a flashlight in Jackson's direction) Could you not shine that in my face?",
+        "LUKE: Just move your face.",
+        "JACKSON: You mean off of my head?",
+        "LORELAI: So, Mutt and Jeff, what's the prognosis there?",
+        "LUKE: When's the last time you checked your ductwork?",
+        "SOOKIE: Never. Oh, boy, I shouldn't be allowed in a kitchen!",
+        "LUKE: (walking away from the stove) My guess is that the grease built up in the back, and the ventilation's not great, and the wall heated up, and it burned.",
+        "LORELAI: So what do we do?",
+        "SOOKIE: Don't tell me we're shut down!",
+        "LUKE: You'll have to repair the wall before you put the stove back, and you're gonna have to clean your ductwork.",
+        "JACKSON: (walks away from the stove) Which means closing the kitchen till you do.",
+        "SOOKIE: Well, then, fix it now.",
+        "JACKSON: You need a pro to do this.",
+        "LUKE: And if an insurance guy doesn't see it before you fix it, he won't pay.",
+        "MICHEL: Well, I've already talked to the insurance company. They've never heard of us.",
+        "LORELAI: That's impossible. We're customers. We send them a check every month.",
+        "MICHEL: The people I talked to, all very rude, by the way, said they don't even cover businesses such as ours.",
+        "LORELAI: Again, a mistake. I'll get the policy out. I'll call them myself. (to Luke and Jackson) Thank you.",
+        "LUKE: You really should get a second screwdriver.",
+        "JACKSON: Nag, nag, nag. (Luke and Jackson exit the Inn kitchen)",
+        "(CUT to Gilmore mansion patio, morning. The DAR ladies, Emily and Rory are having drinks and talking)",
+        "NORA: We should be flayed.",
+        "NANCY: Don't overreact, Nora.",
+        "NORA: We should never have let it get to this point. We're all at fault here.",
+        "VIVIAN: It's a humiliation.",
+        "EMILY: Ladies, we know this. No one is more embarrassed than myself, but what are we going to do?",
+        "NANCY: How many tables are still unsold?",
+        "EMILY: Over half.",
+        "DAR LADIES: (upset) Oh! Unbelievable!",
+        "VIVIAN: This is a function for our troops.",
+        "NORA: We'll be the laughingstock of the DAR. We'll lose our national accreditation, and this is a very weak drink.",
+        "EMILY: It's just punch, Nora.",
+        "NORA: My point, dear.",
+        "EMILY: I simply don't understand people.",
+        "DAR LADY2: This money was designated for additional armor for the boys at Fort Drum.",
+        "VIVIAN: We've insulted the organization, insulted our troops...",
+        "NORA: We might as well all march to Mount Vernon, drop our drawers, and do something foul on George Washington's grave.",
+        "EMILY: (disapprovingly) Nora!",
+        "NORA: I'm sorry, but I'm really upset about this, and I'm far too sober to put it in any sort of perspective.",
+        "RORY: But the function is still a week away. There's time to fix this. (the ladies make cutesy \"Oh\" sounds)",
+        "VIVIAN: Rory, you're darling.",
+        "EMILY: She's new, ladies.",
+        "VIVIAN: A week is nothing.",
+        "EMILY: Again, what do we do?",
+        "NANCY: We should cancel the event.",
+        "EMILY: This is a nightmare.",
+        "VIVIAN: Is Constance not showing her face on purpose?",
+        "EMILY: Would you?",
+        "RORY: Why would Constance...?",
+        "EMILY: She's running the event...into the ground. I blame myself. I let her talk me into it.",
+        "NANCY: She's never slipped up like this before.",
+        "RORY: Is it definitely too late to do something?",
+        "EMILY: To do what?",
+        "RORY: I don't know. To publicize the event more, get those tables sold?",
+        "EMILY: We spent our budget for publicity. We're wiped out.",
+        "RORY: But a budget is just an estimation. It's guesswork, fake numbers. In any business endeavour, sometimes it makes sense to run a deficit in order to achieve a bigger payoff later.",
+        "NORA: We're lunching with Grover Norquist.",
+        "RORY: Well, have we tried getting the word out online? A lot can be done that way. (the ladies listen carefully and seem impressed and interested) And maybe we can add some entertainment or a theme. Send out some e-mails. E-mailing doesn't cost a thing.",
+        "EMILY: We hadn't thought about e-mail.",
+        "RORY: I think there's a way to correct this. A week is plenty of time.",
+        "NORA: Well, well, well, we have a star amongst us.",
+        "RORY: (chuckles) Who?",
+        "NORA: You!",
+        "RORY: (taken aback) Me?",
+        "NORA: (defiant) Take it over.",
+        "RORY: What?",
+        "VIVIAN: I think that's a wonderful idea!",
+        "EMILY: I don't know. We have a mountain here, ladies.",
+        "NORA: We're screwing the pooch, Emily, and we've got to go balls out. I, for one, will not have those priggish twigs from the New York chapters lording this over us. We need to take a swing here, and Babe Ruth sits before us.",
+        "EMILY: (to Rory) You shouldn't feel pressured.",
+        "RORY: I know.",
+        "NORA: My essence is, that if Rory doesn't think she can do it, she'll turn us down.",
+        "EMILY: I suppose that's true.",
+        "NORA: What do you say, you slugger?",
+        "RORY: I'll do it. (the ladies make triumphant noises and gestures)",
+        "NORA: Yes! Let's ring Constance.",
+        "NANCY: We'll put you in touch with the people at the venue immediately.",
+        "NORA: And you'll have an assistant. Lacey. You'll love her.",
+        "DAR LADY2: I'd look at the menu.",
+        "NORA: And we'll set up a discretionary fund. This publicity idea you were thinking of may be the key. (the ladies and Rory start talking about planning the function while Emily looks concerned)",
+        "(CUT to Sookie and Jackson's house, night. Davey is watching TV, while the Lorelai, Luke and Jackson are eating dinner. Sookie is in the kitchen and starts walking towards the dinning table)",
+        "SOOKIE: Dig in, everybody.",
+        "LORELAI: I'm past digging, I'm burrowing. This is delicious.",
+        "SOOKIE: Tri-tip on the barbecue, you can't beat it. Oh! (to Jackson) Hey, you turn the barbecue off?",
+        "JACKSON: The barbecue is off.",
+        "LORELAI: Good stuff, huh?",
+        "LUKE: Really good.",
+        "JACKSON: Thanks. Excuse me. (yelling) Davey, turn the volume down!",
+        "LUKE: The vegetables are good, Sookie.",
+        "SOOKIE: Thanks, Luke. (yelling) Davey, you heard your father. Turn it down!",
+        "LORELAI: Oh, I'll turn it down.",
+        "SOOKIE: No, we want Davey to do it.",
+        "JACKSON: That's how he learns. (to Davey) You heard me, son. Turn it down.",
+        "SOOKIE: (screeching) Turn it down!",
+        "JACKSON: Right now.",
+        "SOOKIE: Ooh, I need a lemon slice. (picks up her glass and gets up and walks to the kitchen)",
+        "JACKSON: So did anybody see that new show on TV last night?",
+        "LORELAI: The one where they were solving crimes by cutting bodies open and poking their organs?",
+        "JACKSON: No.",
+        "SOOKIE: The one where they're solving crimes from 30 years ago by going to graveyards and cutting open bodies and poking their organs?",
+        "JACKSON: No.",
+        "LORELAI: OH! The one where people are missing, and they find their bodies, and cut them open, and poke their organs, and that's how they solve crimes?",
+        "JACKSON: No.",
+        "LORELAI: What else is on?",
+        "JACKSON: (shouting) You gotta turn the TV down, son!",
+        "LORELAI: Are you sure you don't want me to...",
+        "JACKSON: He's got to learn. (shouting) You heard me, son! Volume down!",
+        "SOOKIE: (from kitchen screeching) Volume down!",
+        "JACKSON: Listen to your mother! (voice back to normal volume) What's that show I'm thinking of?",
+        "SOOKIE: (walking back toward the table) I'm back. (sits down) You like the squash, Luke?",
+        "JACKSON: Oh, this is gonna bug me.",
+        "LUKE: I'm not a big fan of the squash.",
+        "SOOKIE: OH! I forgot the pepper flakes. (gets up again)",
+        "LORELAI: Sookie, your food's getting cold.",
+        "JACKSON: (to Luke) I thought you liked squash.",
+        "LUKE: Nope.",
+        "JACKSON: What's that vegetable I thought you liked? (Luke looks at him unfazed)",
+        "LORELAI: Hey Sookie, do you have a fork for Paul Anka? He likes his own fork. Uh, plastic preferred.",
+        "SOOKIE: Got one here.",
+        "JACKSON: Oh, now this is gonna bug me! What is that vegetable?",
+        "SOOKIE: The plastic's too high for me to reach. It's up there.",
+        "LORELAI: Oh, I'll get it. You have to eat. (gets up and takes Sookie's plate with her to the kitchen)",
+        "SOOKIE: Jackson, what's that smell?",
+        "JACKSON: Oh, man, I left the barbecue on.",
+        "SOOKIE: We cannot set this place on fire, too. I have had enough fires this week.",
+        "JACKSON: I'll get it. (get up from the table and as he walks past the TV) Turn the volume down, Davey. I'm not gonna tell you twice.",
+        "LORELAI: Here you go. It's nice and lean, the way you like it. (gives PA a treat)",
+        "SOOKIE: Dog who doesn't like fat. That's just weird.",
+        "LORELAI: He's not weird. He's trying to maintain his bathing-suit figure.",
+        "SOOKIE: So, speaking of my least favourite word in the world, fire. Where are we with the insurance company?",
+        "LORELAI: Uh, nowhere. I got the same run-around they gave Michel.",
+        "SOOKIE: Then let's just do the work. Forget the insurance. Give me back my kitchen.",
+        "LORELAI: Tom's all ready to jump in, but we can't afford to do it without the insurance money. That's why we have insurance.",
+        "SOOKIE: We have stupid insurance. I mean, this policy, wasn't it set up by your...",
+        "LORELAI: Yes.",
+        "SOOKIE: So if we're getting the run-around does it mean that you have to...?",
+        "LORELAI: Yes.",
+        "SOOKIE: Sorry.",
+        "LORELAI: I know. It seemed like a good idea at the time. I'll call him tomorrow.",
+        "JACKSON: (as he walk back in a baby starts crying) Barbecue's off.",
+        "SOOKIE: Martha's up.",
+        "JACKSON: (walks out of the room again) I'm on it. Turn the TV down, Davey.",
+        "SOOKIE: Turn it down. You heard us. Turn it down. I'm gonna count to 10, Davey. Then the TV is going off for the rest of the week.10...9...8...7...6...5...4...3...2...1...(as Sookie is counting down Lorelai notices Luke sitting alone at the table eating his food)",
+        "(CUT to Gilmore mansion, night. Emily and Richard are sitting in the living room each respectively reading a book. While Richard looks completely absorbed in what he's reading, Emily seems to have other things on her mind)",
+        "EMILY: She threw out the menu.",
+        "RICHARD: (distracted) Hmm?",
+        "EMILY: Rory. She's changed the entire menu.",
+        "RICHARD: What menu?",
+        "EMILY: Richard, listen when I talk to you.",
+        "RICHARD: I'm sorry, Emily. It takes a second to emerge from Samuel Beckett. He's a strange man. (takes off his glasses and closes his book) Go on.",
+        "EMILY: Rory threw out the entire menu for the Fort Drum event. I mean, granted, Constance was going with Cornish game hen, been there, done that. And her fetish for Brussels sprouts is upsetting. But to throw out the entire menu? So close to the event?",
+        "RICHARD: I can't say that I'm a big fan of DAR cuisine. So I may not be of much help.",
+        "EMILY: I'm trying not to butt in, but how can I not worry?",
+        "RICHARD: (puts on his glasses and re-opens his book) By not thinking about it.",
+        "EMILY: Is there still a USO?",
+        "RICHARD: I think so. Why?",
+        "EMILY: That's the theme, the USO. Or that's where it's being held. Oh, my god, she didn't change the menu and the location? Is that possible?",
+        "RICHARD: You should ask her.",
+        "EMILY: I'm trying to keep out of it.",
+        "RICHARD: You're doing a terrific job.",
+        "EMILY: She's not serving salmon puffs.",
+        "RICHARD: (shuts his book a bit irritated) Good night, Mr.Beckett. (turns his attention to Emily)",
+        "EMILY: We've never not served salmon puffs. Not in 25 years have we staged an event without salmon puffs.",
+        "RICHARD: Emily, please. It's Rory. What she tackles, she conquers. This girl could name the state capitals at three. Recite the periodic table at four. Discuss Schopenhauer's influence on Nietzsche when she was ten. She's read every book by every author with a Russian surname and had a 4.2 grade-point average at one of the toughest schools on the east coast. If she's excluding salmon puffs, she has a good reason to exclude salmon puffs. And I, for one, have complete confidence in her ability to tackle this job, and so should you.",
+        "EMILY: Fine, go back to your Beckett.",
+        "RICHARD: (goes back to reading his book) Thank you.",
+        "EMILY: (wistful) Salmon puffs.",
+        "(CUT to Dragonfly Inn kitchen, morning. Sookie is instructing her crew. Lorelai looks on)",
+        "SOOKIE: We'll show 'em. Huh, guys!? (pats one of the assistant chefs on the chest) We'll show 'em, you don't need fancy stuff like stoves in order to make a delicious meal. We've got salads. Lots and lots of salads, caprese and endive and arugula and...Ooh! Cold sandwiches. And beef carpaccio and tuna carpaccio and vegetable carpaccio and...(to Lorelai) Oh, my God. I need my frigging stove back. I'm dying here!",
+        "LORELAI: Okay, hang in there, hon. (to kitchen crew) Thanks. (as the crew starts to exit Richard walks in the kitchen with another man)",
+        "RICHARD: Lorelai, I hope it's all right walking in like this. I knew where the kitchen was, so I just figured I'd come back. Sookie.",
+        "SOOKIE: You're our knight in shining armor, Mr.Gilmore.",
+        "RICHARD: (indicating the man he brought along) This is Harris. He'll do the inspection, get the lay of the land. Shouldn't take long. (to Harris) Go ahead and start. (Harris walks over to the stove. To Lorelai and Sookie) I should apologize for the red tape and the delay. As a rule, we don't take on small accounts like this, except under extraordinary circumstances. Until the news reached my desk, no one was sure of what to do.",
+        "LORELAI: Uh huh.",
+        "RICHARD: I can write you a check today. I figured that would please you.",
+        "LORELAI: Terrific.",
+        "SOOKIE: I'm going to go call Tom and see if he can race right over here and start the work. (to Richard) Bless you, sir. You're my golden god. (Sookie leaves. Lorelai and Richard seem uncomfortable as Harris goes on with the inspection)",
+        "LORELAI: So, um, how's your big plan working out?",
+        "RICHARD: Excuse me?",
+        "LORELAI: Oh, your big plan for Rory. How's that going, Dad?",
+        "RICHARD: Let me know if you need anything, Harris.",
+        "LORELAI: Is she back at Yale?",
+        "RICHARD: Lorelai...",
+        "LORELAI: oh, I take it she's not.",
+        "RICHARD: No, she's not.",
+        "LORELAI: Huh. But it's in the works?",
+        "RICHARD: We'll be here ten minutes.",
+        "LORELAI: No, wait! Let me guess. You're gonna trick her into going back, right? Like you'll drive up and drop her off at Yale, then you'll drive away really quickly before she catches on. Is that one of the plans?",
+        "RICHARD: (staring to get mad) Is there anything I can do to expedite this, Harris?",
+        "LORELAI: You see that family of Logan's recently. The...Hamburgers?",
+        "RICHARD: Huntzbergers.",
+        "LORELAI: Right, right. How are the old Huntzbergers? They behaving any better than that night they humiliated your granddaughter?",
+        "RICHARD: They did not humiliate her.",
+        "LORELAI: Rory said they did.",
+        "RICHARD: I know the Huntzbergers. They're fine people. What happened that night was a misunderstanding, because they have nothing against Rory.",
+        "LORELAI: No?",
+        "RICHARD: Why would they?",
+        "LORELAI: Ask them!",
+        "RICHARD: It's not true!",
+        "LORELAI: Well, then that granddaughter of yours, what a liar.",
+        "RICHARD: Harris, take a couple of pictures and we'll go. (to Lorelai) We just need the quote from your contractor in writing. Send all his bills directly to me.",
+        "LORELAI: Will do.",
+        "RICHARD: Goodbye. (he exits. Harris takes one last picture and follows him)",
+        "LORELAI: (to the, now, empty kitchen) It's been lovely.",
+        "(CUT to pool house, morning. Rory is planning the event with the assistance of three more people)",
+        "RORY: What about silverware?",
+        "GLENDA: I can get you 1940s, the real thing. It's plates though. Plates are a toughie.",
+        "LACEY: Plates break.",
+        "GLENDA: I can get you a couple of dozen, hand-painted, not 100.",
+        "RORY: So, what's our best bet? An off-white, new, but made to look vintage?",
+        "LANCE: Off-white would be super.",
+        "RORY: They should be heavy, right? Solid?",
+        "GLENDA: Oh, my servers are gonna love that.",
+        "RORY: Then not too heavy. Lacey, get me samples of all this?",
+        "LACEY: Will do.",
+        "RORY: Now, there must be a colour photo of the Hollywood Canteen. I mean, we've checked the Internet. The library?",
+        "LACEY: The Getty in California has one in their collection, but they're very flaky on the phone.",
+        "RORY: Ugh, California.",
+        "LANCE: I'm so over the west coast.",
+        "RORY: A bunch of granola heads. (a cell phone rings. Lacey answers)",
+        "LACEY: Rory Gilmore's phone...Who's calling?...One moment, please. (to Rory) It's Logan Huntzberger.",
+        "RORY: I'll take that. (takes the phone from Lacey) Hello?",
+        "LOGAN: (he's at Yale. The scene switches between Rory at the pool house and Logan at school) Oh, my God. Who was that?",
+        "RORY: My assistant. I forwarded my phone to hers.",
+        "LOGAN: You have an assistant?",
+        "RORY: Just for this DAR thing. I get a million calls.",
+        "LOGAN: well I consider myself lucky to be patched through.",
+        "RORY: You have priority clearance.",
+        "LOGAN: So, good news. I got the PA system you wanted at the price you wanted.",
+        "RORY: Really? Oh, cool. Lacey, PA system: Done.",
+        "LACEY: Excellent.",
+        "RORY: (to Logan on phone) That's great.",
+        "LOGAN: This guy's done the sound at every party I've ever thrown. He's the best in the business.",
+        "RORY: (there is a knock at the door. It's Paris) And, oh, goody. Paris is here. And she looks upset.",
+        "LOGAN: That and a bulldozer would knock me over.",
+        "PARIS: Excuse me? The door is locked.",
+        "LACEY: (to Rory) Do you know her?",
+        "RORY: Let her in, then hide. (to Logan on phone) I'll call you later.",
+        "LOGAN: Bye. (hangs up)",
+        "PARIS: (as Lacey opens the door for her, in mock Lacey voice) \"Do you know her?\". (back to normal voice) I'm only her best friend. Who the hell are you?",
+        "RORY: Paris, come here. Calm down. (Paris walks over to her) What's wrong?",
+        "PARIS: I'm broke.",
+        "RORY: Broke? How?",
+        "PARIS: My parents flipped the bird at the IRS one too many times. They've frozen everything. All I've got is my trust fund, which doesn't kick in till I'm twenty-five. Unless you can whip out a magic wand and age me four years, I'm a goner.",
+        "RORY: Just, sit down. Calm down. (lead her to the couch where they sit)",
+        "PARIS: My ATM refused me. I thought it was just that particular one. So I went to another, and it refused me, too. So I went to the bank and used a few choice expletives, and a bunch of guys in suits started closing in on me. So I started pacing and yelling, \"Attica! Attica!\", and then the manager hit a little red button under his desk, so I ran out of there and came right over here. I'm a pauper. I'll be playing a hurdy gurdy on street corners and selling pencils out of a tin cup.",
+        "RORY: Slow down.",
+        "PARIS: Yale's paid for, through the end of the year, thank God. But...what'll I do about everything else I need? What'll I do?",
+        "RORY: You'll just have to do what everyone else who needs money has to do.",
+        "PARIS: What's that?",
+        "RORY: What people do.",
+        "PARIS: What am I, a mind reader?",
+        "RORY: Get a job.",
+        "PARIS: A job? I've never had a job. I don't know the first thing about having a job. All I've got on my resume is academic achievements, which will mean doodly-squat when I'm in line with 11,000 people vying for an opening in the garden department at Wal-Mart.",
+        "RORY: Paris, wait. As you said, Yale's paid for. That's the bright side. From now on, you'll just have to keep your expenses low. And I could get you some work. Right away. How would that be?",
+        "PARIS: Really?",
+        "RORY: Yes. I know you'll be a hard worker. That's a given.",
+        "PARIS: I definitely would be. And, you know I speak Chinese and Farsi, if that'll help.",
+        "RORY: Well, I need servers for the food. You could do that, right?",
+        "PARIS: I think so.",
+        "RORY: See? You're on the road to recovery.",
+        "PARIS: Oh, thanks. (they get up and Paris approaches Glenda, Lacey and the guy) And I'll work my butt off, too, Glenda. Oh, and I know a smattering of ancient Aramaic, if that helps.",
+        "GLENDA: It could.",
+        "LANCE: If Christ shows up.",
+        "PARIS: And who are you?",
+        "RORY: Go home, Paris. You've had a rough day.",
+        "PARIS: I guess.",
+        "RORY: I'll call you with the details.",
+        "PARIS: Thanks. (walks over to Rory and whispers) Hey, uh, can you spot me a 20...",
+        "RORY: Sure.",
+        "PARIS: (whispering) ...5, 25?",
+        "RORY: (grabs some cash and gives it to Paris) Um, here you go.",
+        "PARIS: Thanks. (she leaves)",
+        "RORY: (approaching the three assistants) I owe you more than you currently realize. Okay, where were we?",
+        "(CUT to Lorelai's kitchen, night. Luke is cooking as Lorelai walks in)",
+        "LORELAI: Mmm.",
+        "LUKE: Pasta's almost done, sauce is close, too.",
+        "LORELAI: Luke, you could have just used the store-bought sauce I have. (starts to lay the table)",
+        "LUKE: Ugh, that stuff is junk.",
+        "LORELAI: (insulted) It's delicious Italian sauce.",
+        "LUKE: OK, first off, it's not. Second, all you had was four already-opened jars, two of which I couldn't get the lids off of.",
+        "LORELAI: Somebody needs some gym time,",
+        "LUKE: And one of them had a layer of white fuzz on it.",
+        "LORELAI: That was a little gross.",
+        "LUKE: And the last one, green fuzz.",
+        "LORELAI: Also gross.",
+        "LUKE: I make better, just like mama taught me.",
+        "LORELAI: I know you do. How's Paul Anka's dinner coming?",
+        "LUKE: His hamburger's close, too.",
+        "LORELAI: You're not overcooking it, (Luke walks over to the fridge) 'cause, you know, he likes it rare plus, you know, not too rare, but not medium rare.",
+        "LUKE: (picks up a flier from the fridge) I'm cooking it to his exacting specifications. (read the flier) Miss Patty's having a recital?",
+        "LORELAI: Oh, yeah. It's her big annual show. All her kids in all her classes get to perform. It's be there or be square. Best show in town.",
+        "LUKE: It's a Thursday, right? That's a good night. I can have Caesar close for me.",
+        "LORELAI: Why?",
+        "LUKE: So I can go with you.",
+        "LORELAI: Oh, no. Luke, you're not going to this recital.",
+        "LUKE: Why not?",
+        "LORELAI: Because it's a night of kids dancing, singing, twirling batons. You'll hate it.",
+        "LUKE: No, I won't.",
+        "LORELAI: Yes, you will.",
+        "LUKE: Not my first choice in entertainment, but I'll go.",
+        "LORELAI: Luke, no. You have been sacrificing too much of yourself these past few months. You go with me to my movies, you tag along when I go shopping. And that dinner at Sookie and Jackson's...how you kept from killing us all, I'll never know.",
+        "LUKE: I haven't been complaining about any of this.",
+        "LORELAI: I know, and that has filled me with no end of guilt. You've been a saint, but you've got to do your Luke stuff, too. When was the last time you went camping or fishing?",
+        "LUKE: You don't like camping or fishing.",
+        "LORELAI: That shouldn't stop you from camping or fishing.",
+        "LUKE: I'd go if I felt like it.",
+        "LORELAI: Well, then go Thursday while I'm at the recital. I'll go with Sookie. It'll be fun with her.",
+        "LUKE: You sure?",
+        "LORELAI: Yeah! Go. You haven't been camping in forever. Be Grizzly Adams.",
+        "LUKE: Okay, sure, I'll go camping.",
+        "LORELAI: (approaches Luke at the stove) Good. (notices something in a pan, PA's dinner) Oh, it's officially...",
+        "LUKE: Oh, medium rare, not rare plus. I'll get him another. (Luke takes the hamburger out of the pan and prepares another)",
+        "(CUT to Gilmore mansion dining room, night. Richard, Emily and Rory are having dinner. Richard attempts to engage the women in some conversation but Rory seems distracted)",
+        "RICHARD: Well, I don't know why I bother. The great books take practically a lifetime to read as it is. But if you heed the word of Mortimer Adler, one needs to read a classic three times to fully comprehend its meaning.",
+        "RORY: (distracted) Yeah.",
+        "RICHARD: I wonder if Mortimer ever read \"Euclid's geometry\" three times. That's a fun read. Have you read \"Euclid's geometry\"?",
+        "RORY: (not any less distracted) Me? No.",
+        "RICHARD: It doesn't get any drier. What have you been reading lately? I keep forgetting to ask. (makes a gesture to answer but instead starts texting someone with her cell phone)",
+        "EMILY: Rory?",
+        "RORY: Sorry, guys. The event's right around the corner, and I just keep thinking of things I have to do. I'm just texting Lacey.",
+        "EMILY: So how's that going?",
+        "RORY: Good, really good.",
+        "EMILY: Good. Did Lacey mention the partitions?",
+        "RORY: (still texting) Partitions?",
+        "EMILY: At Wafford Hall. It's so big, and these partitions can cut the room wherever you like so it won't look so empty. They're not very decorative, but they work.",
+        "RORY: Hold on just a second. (end texting and puts the phone down) Partitions?",
+        "EMILY: For the room.",
+        "RORY: But we won't have any room. We're sold out.",
+        "EMILY: Sold out? That's not possible.",
+        "RORY: Oh, it's a fact. The theme got people's attention. Plus, the online campaign went like gangbusters. We're having to turn people away. That's what I was texting Lacey about. I'm trying to squeeze in a few more, but we're fighting the fire department over it.",
+        "EMILY: (disbelieving and impressed) You're turning people away?",
+        "RORY: But still encouraging them to give a sizable donation to our boys.",
+        "RICHARD: Brilliant.",
+        "EMILY: (brightly) Sold out!",
+        "RICHARD: (to Rory) I knew you could do it!",
+        "EMILY: Good job!",
+        "RORY: Thank you.",
+        "EMILY: Continue texting.",
+        "RORY: Oh, thank you. (picks up her phone again as Richard and Emily continue eating)",
+        "[SCENE_BREAK]",
+        "(CUT to Wafford Hall-venue for the DAR event, morning. Workers are setting up tables and decorations while Rory is walking through the hall thinking she's talking to someone when in reality she's talking to thin air)",
+        "RORY: Oh, when the band gets here, grab Gerry and get them to do a sound check. Make sure they're happy with the sound. Not just cheery, because...(turns around and sees nobody there) Lacey? Where's my Lacey?",
+        "LACEY: (runs towards Rory) Here.",
+        "RORY: Come on, honey, keep up.",
+        "LACEY: I spotted the security guard, so I filled him in.",
+        "RORY: Excellent. Cross that off the list. Servers are here?",
+        "LACEY: Got them all waiting in the back.",
+        "RORY: Excellent! (as they start walking to the kitchen Rory addresses two guys putting up a poster) Wow! Treat her gently there, boys. Betty's life was tough enough.",
+        "(CUT to Wafford Hall's kitchen, continuous. There is a bunch of people waiting. Rory walks in and sees Paris)",
+        "RORY: Hey, Paris.",
+        "PARIS: Rory, I clocked in.",
+        "RORY: Cool!",
+        "PARIS: They gave me this card, and it had my name on it. And I shoved it in the clock thing, and it made the punchy sound, and I'm officially on the job.",
+        "RORY: Great!",
+        "PARIS: And I'm prepared too. I was a little nervous last night about making small talk with co-workers. So I went to the video store and rented \"Working Girl\" and the first season of \"Just Shoot Me\". Got a couple of Wendie Malick bon mots that have already come in handy.",
+        "RORY: Very good. Welcome.",
+        "PARIS: Thanks, boss.",
+        "RORY: I'm gonna welcome the whole group here.",
+        "PARIS: No problem. (Rory walks past Paris and addresses the rest of the crowd. Paris stands behind Rory)",
+        "RORY: Hello. You must be my servers. I'm Rory Gilmore. I'm running this little shindig. How are all of you today?",
+        "SERVERS: Good. Great.",
+        "RORY: You all come highly recommended by Glenda, our catering manager, so I know you're all top notch...",
+        "PARIS: (cuts Rory off and walks up front) Yeah, super. Looks like a good group. Good group.",
+        "RORY: (whispering to Paris) Um, you know, you should probably be standing over with the others.",
+        "PARIS: Oh, right. I'm one of them. Got it. Sorry. (walks over to the rest of the group)",
+        "RORY: (to the whole group) So it's going to be hard work tonight. We have 100 people dining with us. But I want you to have fun, too. We have your outfits on a rack over here. Your name should be on them. It's a good cause, so let's get changed and go do. (walks away)",
+        "PARIS: (to one of the other servers) So, working hard or hardly working? (the girl giggles) Oh, my, oh, my. I love it! (the whole group approaches the rack to get their outfits)",
+        "(CUT to Miss Patty's, night. The studio is filled with people. Sookie and Lorelai walk in and approach the lady passing out the programs. They each take one)",
+        "SOOKIE: (as she takes a program) Hey, thanks.",
+        "LORELAI: (as she takes a program) Thank you.",
+        "SOOKIE: So where's Luke tonight?",
+        "LORELAI: As we speak, he's off communing with nature.",
+        "SOOKIE: Oh, good for him. (they sit)",
+        "LORELAI: Yeah.",
+        "SOOKIE: (reading from the program) Ooh, the ballerinas are doing \"Swan Lake\". That always makes me cry.",
+        "LORELAI: (opens the program) Oh, Patty's packed it all in. Baton twirling, a modelling exhibition. She's added a couple new features, too.",
+        "SOOKIE: Yeah, what's krumping?",
+        "LORELAI: Um, like hip-hop dance, I think, more herky-jerky.",
+        "SOOKIE: And what is pubic speaking?",
+        "LORELAI: I'm hoping it's a misprint.",
+        "SOOKIE: I hope so, too.",
+        "PATTY: (declaring the start of the show. Everyone is now seated) Welcome, everybody, to the 28th Annual Miss Patty's School Grand Recital. (the audience applauds) Thank you. We have a lot on the program tonight. So, without further ado, please welcome my intermediate pupils as they welcome you. Hit it, boys. (a young boy in a blue outfit and a hat comes on stage as the piano starts to play)",
+        "LORELAI: She always does a fun opening number.",
+        "(the boy starts singing the song \"We've Got Magic To Do\")",
+        "LORELAI: Isn't he cute?",
+        "SOOKIE: Darling.",
+        "(as he keeps up with the song a bunch of kids join him. They are taking the show off the stage and in the audience. All the kids are dancing and singing)",
+        "SOOKIE: Uh-oh, they're in the audience.",
+        "LORELAI: Oh! I...I hate it when they come into the audience. Okay. Yeah... (the kids start gesturing vividly in front of Lorelai and Sookie's faces) This is...this is not good.",
+        "(the kids continue their act and start throwing glitter out to the audience. They hit Sookie and Lorelai with a great amount of it. The women react)",
+        "LORELAI: AAH!",
+        "SOOKIE: OH!",
+        "LORELAI: Blowing stuff on us! (the kids continue on with their show, into the audience)",
+        "(CUT to Wafford Hall, night. The event is just staring up. Some guests have arrived. There is a band that are impersonating the Andrews Sisters, who are singing on stage. Rory and Lacey walk around the hall doing last minute inspections)",
+        "RORY: People seem hungry tonight. Tell...",
+        "LACEY: ...Glenda to speed the trays up a bit.",
+        "RORY: Yeah, and let the sound guy know...",
+        "LACEY: ...that the drums are a little loud.",
+        "RORY: And it's a tad warm.",
+        "LACEY: Already had them adjust the AC.",
+        "RORY: Any incoming choppers, radar?",
+        "LACE: Choppers? No. What do you mean?",
+        "RORY: That was a joke, Lacey.",
+        "LACEY: Oh. Sorry.",
+        "RORY: You're a doll. Remember to have a little fun tonight, too.",
+        "LACEY: Will do...Radar. I get it now. That was funny. I'll be back. (Lacey walks briskly away, Rory follows. Paris approaches a guest with a tray of appetizers)",
+        "PARIS: (offering the tray) Appetizers?",
+        "GUEST: Oh, thank you. (takes an appetizer and eats it)",
+        "PARIS: You're welcome. So how was that?",
+        "GUEST: It was fine, very good.",
+        "PARIS: I meant the transaction. I'd love a performance review. Come on, be my Dave Navarro.",
+        "GUEST: (a bit uncomfortable) Um, you were fine.",
+        "PARIS: I'm gonna need more. It was T.S. Eliot who said criticism is as inevitable as breathing and said that we should be none the worse for articulating what passes in our mind when we read a book, see a play or, now I'm elaborating, pass a cheddar and olive ball. I need some feedback.",
+        "GUEST: Really, you offered it to me well, and all seemed great, and I don't want to talk about this anymore.",
+        "PARIS: Good. Thank you, this has been a help. (walks away from the guest. Emily and Richard have now arrived at the event. The hostess welcomes them at the door)",
+        "HOSTESS: Welcome to the Hollywood Canteen.",
+        "RICHARD: Thank you. We're the Gilmores.",
+        "EMILY: (impressed) Richard, look at this place!",
+        "RICHARD: It's wonderful.",
+        "HOSTESS: Here is your table number. And take a pin, both of you.",
+        "RICHARD: Oh, thank you.",
+        "EMILY: Yeah, thank you. (they enter the hall properly now) Oh, I love this song. And look at the band. It's the Andrews Sisters.",
+        "RICHARD: They've kept in pretty good shape. (Rory walks up to the G-parents)",
+        "RORY: Hi, guys.",
+        "RICHARD: Aw! Looks like you've got a hit on your hands.",
+        "RORY: So far, so good. No one's dancing, though.",
+        "EMILY: Oh, it's early. You'll see plenty of dancing after dinner.",
+        "RICHARD: You'll see some dancing right now.",
+        "EMILY: Richard, it's before dinner. There's no dancing during appetizers.",
+        "RICHARD: Come on, let's show these fuddy-duddies how it's done. (leads Emily to the dance floor and they start dancing, as Rory looks at them smiling)",
+        "(CUT to woods, night. Luke is sitting alone at the campsite in front of a fire. He looks sad, upset and miserable)",
+        "(CUT to Wafford Hall, night. It's now dinnertime. Richard, Emily and Nancy are at the same table deep in conversation)",
+        "RICHARD: My father was a huge Benny Goodman fan. Hated Glenn Miller, hated him. Always claimed it wasn't the enemy who shot down that plane of his, but music lovers.",
+        "EMILY: Oh, Richard, that's a horrible thing to say.",
+        "RICHARD: It was my father who said it.",
+        "EMILY: But you just repeated it. (Rory approaches their table) Here's the woman of the hour.",
+        "RICHARD: Ah!",
+        "RORY: How's the food, everybody?",
+        "NANCY: The macaroni and cheese, what an inspiration!",
+        "RICHARD: Rory, please accept my profound thanks for serving food at a DAR event which is remarkably edible.",
+        "EMILY: Oh, Richard. We always have good food.",
+        "RICHARD: You have fancy good food. If I never look at another duck's liver for the rest of my life, I will be a happy man. (Lacey, come up to Rory a bit upset)",
+        "LACEY: Rory, could I pull you away for just a second?",
+        "RORY: Sure. Excuse me, everybody. (the girls walk away)",
+        "NANCY: She's so poised...like you, Emily.",
+        "LACEY: A party's arrived. I'm looking, looking. They did not RSVP, but they're expecting a table.",
+        "RORY: Oh, great. Where are they?",
+        "LACEY: By the war bonds table. It's Shira Huntzberger. She waltzed in with a group of ladies in tow and made it clear she expected to be accommodated.",
+        "RORY: (starting to get worked up) Did she?",
+        "LACEY: And not very nicely either.",
+        "RORY: (sarcastically) Oh, what a shock.",
+        "LACEY: But you know her, right? That's your boyfriend's mother.",
+        "RORY: Yeah, yeah, I know her.",
+        "LACEY: I didn't mean to insult her before. She was just very abrupt.",
+        "RORY: It's OK. I'll take care of it.",
+        "LACEY: (passes Rory a piece of paper) Here's the seating chart.",
+        "RORY: Thanks. (takes the seating chart and exits to the kitchen)",
+        "(CUT to Wafford Hall's kitchen, continuous. Rory enters and Paris is there working)",
+        "PARIS: Hey, boss. It's interesting, you know. Karl Marx has come alive for me today. I never understood what he was yammering about before, and now it just seems so obviously wrong that those who control capital should make their fortunes off the labour of the working class. What's wrong with you?",
+        "RORY: Shira Huntzberger is here.",
+        "PARIS: Logan's mom?",
+        "RORY: And she showed up with no warning. No RSVP, no donation to the cause that I know of. Just sashayed in, expecting everyone to fall at her feet.",
+        "PARIS: I hate that.",
+        "RORY: I hate her. Hate! Strong, unadulterated, blind...Uurrghh!",
+        "PARIS: Wow. You're always so Desmond Tutu-ey. This is refreshing.",
+        "RORY: I should tell her to leave. I should march up to her and tell her to grab those arrogance-dripping, petulance-oozing, surgically cosmeticized bims she brought along and hit the bricks.",
+        "PARIS: I bet they all have money, too. Every one of those commodity fetishists.",
+        "RORY: How can she expect a table? The tables are for the people who are polite enough to respond to an invitation in the proper manner.",
+        "PARIS: I bet you the Romanovs never RSVP'd either. They got theirs. Capitalist scum.",
+        "RORY: I hate her!",
+        "PARIS: I hate the rich. A hard rain is gonna fall, you know what I'm saying?",
+        "RORY: I really hate her!",
+        "PARIS: They should die.",
+        "RORY: I should probably give her a table.",
+        "PARIS: What?",
+        "RORY: Well, we have a spare table. We kept it open in case of something like this. I should give it to her.",
+        "PARIS: But she doesn't deserve it.",
+        "RORY: I know, but this is business. It's not personal. I should give her that table.",
+        "PARIS: Fine. Whatever you think. You're the boss. Hey, boss, how much are you being paid in this job of yours? (Rory looks at Paris for a beat and then walks way)",
+        "(CUT to main Hall, continuous. Rory walks out of the kitchen, takes a second to calm down and approaches Shira and her party. The whole conversation seems to be held in forced politeness)",
+        "RORY: Mrs. Huntzberger.",
+        "SHIRA: Rory, hi! What are you doing here?",
+        "RORY: I'm running this event.",
+        "SHIRA: I didn't know.",
+        "RORY: Well, now you do.",
+        "SHIRA: I think I've been bad.",
+        "RORY: Oh, really? Why?",
+        "SHIRA: I just showed up without any warning. I didn't think I could come, so I didn't call. Then I could, and the group and I just came down.",
+        "RORY: It happens.",
+        "SHIRA: That's what I told that other girl. She was a bit rude.",
+        "RORY: Lacey? I'll talk to her.",
+        "SHIRA: Could you get us a table?",
+        "RORY: Of course. Come.",
+        "SHIRA: It's not a problem?",
+        "RORY: Oh! Not at all. (leads Shira and the ladies that accompany her to a table) Come with me. It's all set up.",
+        "SHIRA: Oh, you are the best.",
+        "RORY: It's just my job.",
+        "SHIRA: So no Logan?",
+        "RORY: Not tonight.",
+        "SHIRA: Not his thing?",
+        "RORY: Oh, you know Logan. Here we are.",
+        "SHIRA: Thank you so much. (as she sits down) And you look so pretty.",
+        "RORY: So do you. Have a good time.",
+        "SHIRA: I'm sure we will. (Rory walks away upset)",
+        "(CUT to Wafford Hall's bar. Richard, Emily and Vivian are having drinks and talking)",
+        "VIVIAN: You've created a superstar here tonight, Emily. I hope you know that.",
+        "EMILY: Well, yes, I do.",
+        "VIVIAN: There's already talk of giving her the A.A.",
+        "RICHARD: An A.A?",
+        "VIVIAN: An Abigail Adams, for distinguished service above and beyond.",
+        "EMILY: She deserves it.",
+        "VIVIAN: She's made this a must-be-at event. I'm guessing that's what brought Shira here.",
+        "EMILY: (excited) Shira? Shira Huntzberger's here?",
+        "VIVIAN: Rumsfeld, himself, would probably call her and thank her for the donation she made on the way in. Hillbilly armor will be a thing of the past.",
+        "EMILY: Where is she sitting?",
+        "VIVIAN: Up front. The table by the band.",
+        "EMILY: (shocked) Oh, my God!",
+        "RICHARD: (confused) What?",
+        "EMILY: Oh, my god. Excuse me. (Emily rushes off over to Rory at the other end of the bar) Rory, where's the seating chart?",
+        "RORY: What? Why?",
+        "EMILY: There's been a terrible mistake.",
+        "RORY: What mistake?",
+        "EMILY: You sat Shira Huntzberger at the slush table.",
+        "RORY: It was all that was available.",
+        "EMILY: The slush table is a loser table.",
+        "RORY: But why would we have a loser table?",
+        "EMILY: It's for people who show up unannounced.",
+        "RORY: (pissy) She was unannounced.",
+        "EMILY: There's people, then there's the Huntzbergers. They cannot sit at that table. This needs to be rectified.",
+        "RORY: I don't know what I can do. Every table is taken.",
+        "EMILY: I'll take care of it. Give me the seating chart. I'll find someone to bump. There's always someone to bump.",
+        "RORY: (opening up the seating chart and passing it to Emily) Grandma, it doesn't seem fair to bump someone.",
+        "EMILY: It's not. But if we don't find better seating for the Huntzbergers, it'll be a major faux pas, and it may be the only thing people remember from this otherwise wonderful event.",
+        "RORY: Wow.",
+        "EMILY: Yes.",
+        "RORY: Well, thank you for helping. And it's not the Huntzbergers.",
+        "EMILY: (distracted by the seating chart) What?",
+        "RORY: You keep saying \"the Huntzbergers.\" It's only Shira and some friends.",
+        "EMILY: And Mitchum.",
+        "RORY: No.",
+        "EMILY: Yes. He's right over there. (points to Mitchum's direction. Rory looks around, notices Mitchum and starts to panic. Emily gasps gleefully) The Bettertons. Perfect! We'll bump Constance Betterton. It's a win/win. (walks away and leaves a scared looking Rory alone. Rory quickly gathers her things and walks away)",
+        "(CUT to Wafford Hall's kitchen, continuous. Rory walks in quickly and drops her notes on the counter. Paris seems to be taking a break)",
+        "RORY: (upset) Paris?!",
+        "PARIS: I'm just on my break. You're white as a sheet.",
+        "RORY: I'm having trouble...breathing.",
+        "PARIS: (walks over to Rory) You're having a panic attack.",
+        "RORY: I think so.",
+        "PARIS: Don't worry. I have these all the time.",
+        "RORY: What do I do?",
+        "PARIS: Well, it depends. There are different kinds. Does it feel like an elephant is sitting on your chest?",
+        "RORY: No.",
+        "PARIS: Does your chest feel like an overinflated balloon with a slow leak?",
+        "RORY: Uum...Not really.",
+        "PARIS: Sharp needles, intermittently poking into your left ventricle?",
+        "RORY: I don't know from ventricles, but there is a needle thing.",
+        "PARIS: You need Diazepam. 50...no, 100 milligrams. I'll get my purse. (starts to leave)",
+        "RORY: No, wait. I don't want any Diazepam. (Paris stops and walks back up at Rory)",
+        "PARIS: Well, what do you want? Fluoxetine, Protriptyline? I have others floating around the bottom of my purse. I have no idea what they are, but just popping a few can't hurt. Pretty hot grab bag",
+        "RORY: These people...Those people, they didn't even RSVP. That's not right. This is for our boys. They need to make a donation.",
+        "PARIS: (walks closer to Rory) Tough night for you, huh?",
+        "RORY: Shira's one thing. I can deal with her. But Mitchum? I can't see him. I can't face him. It's too much. After what he did, what he said to me. (voice breaks)",
+        "PARIS: What did he say to you?",
+        "RORY: If it weren't for him, I wouldn't have...",
+        "PARIS: you wouldn't have what? Rory?",
+        "RORY: Nothing, nothing. He's just...They're just not the nicest people.",
+        "PARIS: Well, the rich never are, because they don't have to be. When you control the means of production, it reduces the incentive to humanize workers. The capitalist system...",
+        "RORY (cuts Paris off) You know, I haven't eaten all day. I...I think I should eat. That's my problem. (walks away)",
+        "PARIS: Sure, boss, go eat. There's probably somewhere else where you eat, right? Special room.",
+        "(CUT to Miss Patty's, night. Some girls are on stage dancing \"Swan Lake\". Lorelai and Sookie are watching the show. Sookie is tear eyed)",
+        "SOOKIE: It's just so damn beautiful.",
+        "LORELAI: (sympathetically) I know, honey. (the dance is over and the audience starts to applaud)",
+        "PATTY: The Miss Patty Ballerinas, everybody. Now I would like to introduce a special new segment of my annual recital entitled \"It Was 20 Years Ago Today.\" One of our local townsmen is going to re-create an act that he performed on this very stage 20 years ago. This young man was a talented pupil of my wonderful dancing skills and a genius tumbler. He once did ninety-eight somersaults in a row without throwing up. But that's nothing compared with his talent for mime. Here to present a piece of his own creation, entitled \"The Journey Of Man\", exactly as he performed it 20 years ago is...Kirk! (The audience applauds, Lorelai whistles. The lights go down and creepy, dramatical, mystical music starts to play. Kirk walks on stage and lies down. A spotlight on him is the only thing illuminating the stage)",
+        "LORELAI: (whispering to Sookie) Oh, it's moments like these that make life worth living. (Kirk starts up with his number. He pretends to be a sperm swimming then an embryo. All this is done in a very Kirk like disturbing manner)",
+        "LORELAI: Ew.",
+        "SOOKIE: Ew. (the same dramatic music keeps playing, now accompanied by chanting. Kirk is now re-enacting birth)",
+        "LORELAI: (disgusted) Ew!",
+        "SOOKIE: (disgusted) Ew! (Kirk does some funny - well not meant to be funny, but they come off that way - faces and gestures as he does that thing where doctors hit the baby's back in order to make it cry)",
+        "LORELAI: So it's the birth of Lucille Ball? (Kirk is now an infant, walking like he's holding someone?s hand. Slowly he starts to stand up straight and then pretends to hold a bundle. Lorelai gasps!) He's a parent now, I get that.",
+        "SOOKIE: He's moving along at a nice clip. (Lorelai notices Luke's truck at the diner and sees Luke getting out and going back in)",
+        "LORELAI: I'll be right back.",
+        "SOOKIE: I'll catch you up when you return. (Lorelai gets up and exits the studio)",
+        "(CUT to Luke's diner, continuous. Luke is unpacking his camping stuff. Lorelai knocks on the diner door. Luke walks over, unlocks it for her and walks back to the counter. Lorelai comes in)",
+        "LORELAI: Hey, Grizzly Adams. Why are you back? The woods closed or something?",
+        "LUKE: No, they weren't closed. I was...I don't know. It's...what it is. Nature.",
+        "LORELAI: Nature? Nature is...",
+        "LUKE: You know, it's there, I saw it. Trees, leaves, whatever.",
+        "LORELAI: OK, that's your second answer in the form of a haiku. Let's get beyond that. Why are you back?",
+        "LUKE: Because I felt like coming back. I can't do what I want to do?",
+        "LORELAI: Of course you can.",
+        "LUKE: Good.",
+        "LORELAI: But camping is something you want to do.",
+        "LUKE: No, it's what you wanted me to do.",
+        "LORELAI: When did you turn against camping?",
+        "LUKE: I didn't turn against camping. I'm just trying to understand, why you were trying to get rid of me tonight.",
+        "LORELAI: I wasn't doing that.",
+        "LUKE: Well, you sent me off to the woods. What if I don't want to go off to the woods?",
+        "LORELAI: But you always want to go to the woods.",
+        "LUKE: Well, I don't like going to the woods when I'm being banished to them.",
+        "LORELAI: No one is banishing you.",
+        "LUKE: It felt like it.",
+        "LORELAI: Well, then, that's my fault. (sits on a nearby stool)",
+        "LUKE: (sighs) Look... I like doing things with you. Surprised I have to tell you that.",
+        "LORELAI: You don't have to tell me that.",
+        "LUKE: I like going shopping with you, I like having dinner with Sookie and Jackson. The actual shopping seems a little pointless, and Sookie's kids drive me up a wall, but you're there, and I like hanging with you.",
+        "LORELAI: I know that.",
+        "LUKE: And, I could have been fun at this recital. I mean, you're probably sitting there mocking most of it. I can mock stuff.",
+        "LORELAI: Oh, you're a great mocker. I was only thinking of you when I mentioned the camping. You haven't been camping since we got together, and I was feeling weird about that. You should do the things you like.",
+        "LUKE: I do do the things I like.",
+        "LORELAI: Well, I wasn't getting rid of you. I want you to do whatever you want to do with me. I know that sounded dirty, and dirty things count, but I didn't mean the dirty things. You and me can hang whenever, wherever.",
+        "LUKE: Yeah, well, maybe I'm being sensitive.",
+        "LORELAI: I really wasn't getting rid of you.",
+        "LUKE: I mean, I'm not dying to see baton twirling.",
+        "LORELAI: I'm happy to be with a man who isn't.",
+        "LUKE: Was there baton twirling?",
+        "LORELAI: Oh, yes, and it was no fun. She didn't drop it once. You want to come back to the recital with me? Kirk is doing something strange and disturbing.",
+        "LUKE: Nah, I think I might go back out camping. Wouldn't mind doing some fishing.",
+        "LORELAI: Good.",
+        "LUKE: Yeah. Good.",
+        "LORELAI: OK. (Lorelai leaves and Luke turns back his focus to his camping equipment)",
+        "(CUT to Miss Patty's Studio, continuous. Kirk is now lying on the stage and he seems to be in some sort of fit. Lorelai enters and makes her way to her seat)",
+        "LORELAI: Excuse me. Thank you. Hey.",
+        "SOOKIE: Kirk's dying.",
+        "LORELAI: Oh. Well, it's gonna happen to all of us one day. (notices Kirk twitching all over the place) Just not so spazzy. (Kirk finally seems to have *died* and the music stops. The audience starts applauding and cheering)",
+        "PATTY: And that's our show, everybody, and I think it was the best one ever! From all of us at the Miss Patty School, we thank you. (everyone starts to get up as music starts playing again. It's \"We Got Magic To Do\" now performed by all the pupils. The show is taken in the audience so everyone sits back down)",
+        "SOOKIE: (disappointed) OOooohh...",
+        "LORELAI: They're back. (as one of the kids starts singing and gesturing in front of her face) OK. (they throw glitter at them again) Oh, wow! You'd think they would have run out of glitter by now.",
+        "SOOKIE: This is so stressful! (the show seems to go on until the song is over)",
+        "(CUT to Wafford Hall's men?s room, night. Richard is washing his hands. Apparently the DAR event is still going on. Mitchum walks in the men?s room and greats Richard)",
+        "MITCHUM: Richard.",
+        "RICHARD: Oh, Mitchum, old boy. I didn't know you were out there.",
+        "MITCHUM: Just got here. It's quite the affair we got going here.",
+        "RICHARD: And for a wonderful cause.",
+        "MITCHUM: Not stuffy like the others. No smell of mothballs.",
+        "RICHARD: Well you know my granddaughter is responsible for it.",
+        "MITCHUM: Oh, yeah?",
+        "RICHARD: Mmm. Planned the whole thing.",
+        "MITCHUM: Well, that's nice. I didn't know that. She's a sweet kid.",
+        "RICHARD: The sweetest.",
+        "MITCHUM: Yeah. I wish Rory nothing but the best. (walks over to the mirror and starts fixing his hair a bit and straightening his tie) I came straight from work without looking in a mirror. Wish I had.",
+        "RICHARD: (chuckles) Mitchum, just out of curiosity, what happened with all of that?",
+        "MITCHUM: All of what?",
+        "RICHARD: Uh, that paper of yours in Stanford. Something apparently got blown out of proportion. There was some misunderstanding.",
+        "MITCHUM: Oh, it was nothing much. She's a great kid.",
+        "RICHARD: She is. And a great journalist. I've read things she's written. She's a talent.",
+        "MITCHUM: Maybe.",
+        "RICHARD: What do you mean \"maybe\"?",
+        "MITCHUM: well, I worked with her, Richard. I read her stuff, too.",
+        "RICHARD: Meaning?",
+        "MITCHUM: I've read great. I know what great is.",
+        "RICHARD: Well, when I said great, I didn't mean she was Ben Bradley yet, but she could be.",
+        "MITCHUM: (looks over at Richard for a beat) Anything's possible. (starts to walk away)",
+        "RICHARD: What exactly happened at that paper, Mitchum? (walks over to Mitchum)",
+        "MITCHUM: It didn't work out, Richard. It was just one of those things. She's better off for what I did.",
+        "RICHARD: And what exactly did you do?",
+        "MITCHUM: Nothing you wouldn't have done.",
+        "RICHARD: Oh? And what was that?",
+        "MITCHUM: You're in the business world. You have employees, yes?",
+        "RICHARD: Of course.",
+        "MITCHUM: Say you got a guy working in your office. You brought him in. Nice guy, everybody loves him, but he just doesn't have it. He's a drain on the company. What are you gonna do?",
+        "RICHARD: My granddaughter was not a drain on your company.",
+        "MITCHUM: My point is that I wasn't going to put her in a position to become a drain. Now, Richard, really, we should get back out there.",
+        "RICHARD: What did you say to her?",
+        "MITCHUM: Richard...!",
+        "RICHARD: (persistent) what did you say to her, Mitchum?",
+        "MITCHUM: I did what I do with everyone. I called it like I saw it. I was honest with her. I don't pussyfoot. You know that.",
+        "RICHARD: You crushed her.",
+        "MITCHUM: And if she's got what it takes, she'll bounce back. No one's every criticized you, reprimanded you, critiqued you? I find that hard to believe.",
+        "RICHARD: (staring to raise his voice) This is not about me.",
+        "MITCHUM: She was in over her head. She lacked maturity.",
+        "RICHARD: She's not even 21!",
+        "MITCHUM: Look, just blame me, OK? I felt bad that she had to sit through that disastrous dinner with Shira and Pop, going on about marriage and how she can't become a Huntzberger. I don't care about any of that, so I gave her a shot, and she wasn't up to it.",
+        "RICHARD: (clearly upset) You crushed that girl!",
+        "MITCHUM: I did what I do. We should have done this on the phone. (Richard walks out of the room angrily)",
+        "(CUT to main Hall, continuous. The band is still singing. Richard walks up to Emily upset)",
+        "EMILY: Richard, there you are. This is one of your favourites, and you're missing it.",
+        "RICHARD: It's all true, all of it.",
+        "EMILY: What's true?",
+        "RICHARD: Everything she told us. Everything!",
+        "EMILY: ?Everything? who told us?",
+        "RICHARD: Lorelai. About what Mitchum did to Rory. How he said things to her, crushed her. About Logan's whole family!",
+        "EMILY: (disbelievingly) That can't be.",
+        "RICHARD: (frustrated) Mitchum just confirmed everything. He told that girl she wasn't good enough. I ought to punch him!",
+        "EMILY: Richard, calm down. People will hear.",
+        "RICHARD: They don't want her marrying into their precious family. They don't think she's good enough. He told her that she didn't have it. And you know she does! I know she does!",
+        "EMILY: Of course she does.",
+        "RICHARD: I can't stay in this room with these people.",
+        "EMILY: Richard, go outside, get some air.",
+        "RICHARD: We should go home.",
+        "EMILY: I'll catch up with you. Go outside.",
+        "RICHARD: (mad) Yeah, yeah. (Richard walks away. Emily turns slowly and menacingly and looks over at Shira's table. She walks over to her)",
+        "SHIRA: (greets Emily warmly) Emily!",
+        "EMILY: Hello, Shira. (they kiss hello) I'm here to rescue you. I've got a table for you and Mitchum right in the center.",
+        "SHIRA: Oh, bless you, Emily. I'm undeserving.",
+        "EMILY: Nonsense. It was a terrible mistake, and it must be rectified.",
+        "SHIRA: (referring to the band) Aren't they amazing?",
+        "EMILY: The whole combo is amazing. Follow me.",
+        "SHIRA: Me, I love the Beatles. Mitchum took me to see Paul McCartney last year, and I almost died. (Emily chuckles politely as Shira and her party get up. Emily holds Shira by the arm as she directs them to their new table)",
+        "EMILY: So Richard tells me we have a little problem.",
+        "SHIRA: Really? With what?",
+        "EMILY: With the kids. Logan, Rory. I understand you're not exactly thrilled with the match, that you let that be known to Rory at the dinner she had at your house. (they reach the table)",
+        "SHIRA: Oh, well, I wouldn't say \"not thrilled\".",
+        "EMILY: Then what would you say?",
+        "SHIRA: Oh, Emily, this is a party.",
+        "EMILY: I'm just curious.",
+        "SHIRA: This may not be the time and place, Emily. (she sits)",
+        "EMILY: (to two guests walking by) Hello, you two, drop by our table later. (back to Shira) Let's make it the time and place.",
+        "SHIRA: Consider the discrepancies, Emily.",
+        "EMILY: Well, that's what's confusing me. They both come from good families, both have good values. Money doesn't seem to be an issue. We all have money.",
+        "SHIRA: Frankly, Emily, there's your money, then there's our money.",
+        "EMILY: Oh?",
+        "SHIRA: And our family has a lot of responsibilities that come with that. An image to maintain.",
+        "EMILY: Ah, yes! Well let me tell you this, Shira. We are just as good as you are. You don't think Rory is good enough for your son, as if we don't know Logan's reputation. We do. But he is welcome in our home anytime, and you should extend the same courtesy to Rory.",
+        "SHIRA: Emily...",
+        "EMILY: Now let's talk about your money. (she bends over Shira?s chair) You were a two-bit gold digger, fresh off the bus from Hicksville when you met Mitchum at whatever bar you happened to stumble into. And what made Mitchum decide to choose you to marry amongst the pack of women he was bedding at the time, I'll never know. But hats off to you for bagging him. He's still a playboy, you know? Well, of course you know. That would explain why your weight goes up and down 30 pounds every other month. (Shira laughs uncomfortably) But that's your cross to bear. But these are ugly realities. No one needs to talk about them. Those kids are staying together for as long as they like. You won't stop them. Now, enjoy the event. (Emily walls away and Shira looks uncomfortable. Waving at another guest) Diane, hello! (Emily walks over to her table and sits down. The band Stops playing. The guests start to applaud as Rory walks on stage)",
+        "RORY: The Swing Dolls, everybody. (Richard walks back into the main Hall, as the people applaud) I'm Rory Gilmore, the architect of this event. (everyone starts to applaud again. Emily looks radiant) Thank you. And I'd like to take this moment to thank some others for the outstanding success this evening. To Lacey Boscombe, my right hand, my girl Friday, I could not have done it without you. To Glenda, Lance, the entire serving crew, thank you. To the kind people at KBC Audio who generously donated this amazing...(as Rory delivers her \"Thank You\" speech Richard looks at her with great sadness)",
+        "END Of Episode 6.05 - We've Got Magic To Do"
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[PREVIOUSLY_ON]",
+            "lines": [
+                [
+                    "background",
+                    "(OPEN in Luke's diner, morning. Lorelai and Luke walk in carrying a bunch of shopping bags each)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh! Winded! Too many steps."
+                ],
+                [
+                    "luke",
+                    "LUKE: I said I'd carry them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Need water. Gunga din!"
+                ],
+                [
+                    "luke",
+                    "LUKE: They're not that heavy."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah! You should take those steps out. They get in the way."
+                ],
+                [
+                    "luke",
+                    "LUKE: First thing tomorrow. Man, you bought a lot of stuff. (they set the bags on the counter, Luke goes behind it and Lorelai starts looking though them)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: All stuff I need or want, or think I might someday need or want. (excited) OK now let's find your new wallet!"
+                ],
+                [
+                    "luke",
+                    "LUKE: We can get it later."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (looking through some bags) No, it's buried in here somewhere. Have I looked in this bag already?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You didn't have to buy me a new wallet. My old wallet was fine."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Your old wallet has Velcro."
+                ],
+                [
+                    "luke",
+                    "LUKE: It works."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's disgusting. Now come on, let's find it. (notices something in one of the bags) Wait a second. What is this?"
+                ],
+                [
+                    "luke",
+                    "LUKE: (approaching Lorelai) Your underwear. (Lorelai picks out of the bag a huge pink satin pair of panties)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (stunned) Uh! Thanks a lot!"
+                ],
+                [
+                    "luke",
+                    "LUKE: (suppressing a laugh) I didn't see how big they were. What are they doing in there?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, I'm guessing probably hiding from their real owners, 'cause I would hate to be wrapped around the woman who fit those."
+                ],
+                [
+                    "luke",
+                    "LUKE: Maybe you just grabbed the wrong bag."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (takes out a huge pair of bunny slippers and sets them on the counter) Oh, poor thing, she's single. (her cell phone rings and she reaches for it. Luke clears his throat and points at the \"No Cell Phones\" sign)"
+                ],
+                [
+                    "luke",
+                    "LUKE: It still applies. (Lorelai answers the phone anyway)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hello? Sookie? Sookie, slow down, I can't understand a word you're saying."
+                ],
+                [
+                    "luke",
+                    "LUKE: (amused looking at the slippers) She's got huge feet."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The Inn's on fire?!"
+                ],
+                [
+                    "luke",
+                    "LUKE: (concerned) What?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The stove is on fire? Well, put it out. It's out? So you're saying, there was a fire, but now it's out. Good, what's the damage?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You had a fire?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, okay, good. I'll be right there. (hangs up. To Luke) The wall behind the stove caught fire. There's damage, but nothing major. Thank God."
+                ],
+                [
+                    "luke",
+                    "LUKE: (quickly walks over to Lorelai) Come on. I'll take you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, my God! Another fire at the Inn, like the Independence Inn. Oh, no! Am I a fire starter? I'm a fire starter, aren't I?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You are not a fire starter. (calls to the kitchen) Caesar, we'll be right back."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What about the bags?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Caesar will put the bags away. Let's go."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Go first, in case things burst into flames behind me as I walk."
+                ],
+                [
+                    "luke",
+                    "LUKE: Will do. (the start to exit the diner)"
+                ],
+                [
+                    "background",
+                    "OPENING CREDITS"
+                ]
+            ],
+            "participants": {
+                "lorelai": 17,
+                "luke": 17
+            }
+        },
+        {
+            "id": 2,
+            "title": "(CUT to Dragonfly Inn kitchen, morning. Luke and Jackson are working over at the stove. Lorelai, Sookie and Michel are further away talking)",
+            "lines": [
+                [
+                    "sookie",
+                    "SOOKIE: I saw my whole life pass before my eyes. That's how traumatic it was!"
+                ],
+                [
+                    "michel",
+                    "MICHEL: She's been Scarlett O'Hara for two hours. It's sickening."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: My whole life. Flash! I mean, that's upsetting! You know, not that it's been a bad life, although I could have skipped seeing \"Mummenschanz.\""
+                ],
+                [
+                    "luke",
+                    "LUKE: Do you want to hand me the screwdriver?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: I would kind of need a third hand to do that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why are the boys bickering?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: There's something in the air today."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (Luke holds up a flashlight in Jackson's direction) Could you not shine that in my face?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Just move your face."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: You mean off of my head?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, Mutt and Jeff, what's the prognosis there?"
+                ],
+                [
+                    "luke",
+                    "LUKE: When's the last time you checked your ductwork?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Never. Oh, boy, I shouldn't be allowed in a kitchen!"
+                ],
+                [
+                    "luke",
+                    "LUKE: (walking away from the stove) My guess is that the grease built up in the back, and the ventilation's not great, and the wall heated up, and it burned."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So what do we do?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Don't tell me we're shut down!"
+                ],
+                [
+                    "luke",
+                    "LUKE: You'll have to repair the wall before you put the stove back, and you're gonna have to clean your ductwork."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (walks away from the stove) Which means closing the kitchen till you do."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Well, then, fix it now."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: You need a pro to do this."
+                ],
+                [
+                    "luke",
+                    "LUKE: And if an insurance guy doesn't see it before you fix it, he won't pay."
+                ],
+                [
+                    "michel",
+                    "MICHEL: Well, I've already talked to the insurance company. They've never heard of us."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's impossible. We're customers. We send them a check every month."
+                ],
+                [
+                    "michel",
+                    "MICHEL: The people I talked to, all very rude, by the way, said they don't even cover businesses such as ours."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Again, a mistake. I'll get the policy out. I'll call them myself. (to Luke and Jackson) Thank you."
+                ],
+                [
+                    "luke",
+                    "LUKE: You really should get a second screwdriver."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Nag, nag, nag. (Luke and Jackson exit the Inn kitchen)"
+                ]
+            ],
+            "participants": {
+                "sookie": 6,
+                "michel": 3,
+                "luke": 7,
+                "jackson": 6,
+                "lorelai": 5
+            }
+        },
+        {
+            "id": 3,
+            "title": "(CUT to Gilmore mansion patio, morning. The DAR ladies, Emily and Rory are having drinks and talking)",
+            "lines": [
+                [
+                    "nora",
+                    "NORA: We should be flayed."
+                ],
+                [
+                    "nancy",
+                    "NANCY: Don't overreact, Nora."
+                ],
+                [
+                    "nora",
+                    "NORA: We should never have let it get to this point. We're all at fault here."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: It's a humiliation."
+                ],
+                [
+                    "emily",
+                    "EMILY: Ladies, we know this. No one is more embarrassed than myself, but what are we going to do?"
+                ],
+                [
+                    "nancy",
+                    "NANCY: How many tables are still unsold?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Over half."
+                ],
+                [
+                    "dar ladies",
+                    "DAR LADIES: (upset) Oh! Unbelievable!"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: This is a function for our troops."
+                ],
+                [
+                    "nora",
+                    "NORA: We'll be the laughingstock of the DAR. We'll lose our national accreditation, and this is a very weak drink."
+                ],
+                [
+                    "emily",
+                    "EMILY: It's just punch, Nora."
+                ],
+                [
+                    "nora",
+                    "NORA: My point, dear."
+                ],
+                [
+                    "emily",
+                    "EMILY: I simply don't understand people."
+                ],
+                [
+                    "dar lady2",
+                    "DAR LADY2: This money was designated for additional armor for the boys at Fort Drum."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: We've insulted the organization, insulted our troops..."
+                ],
+                [
+                    "nora",
+                    "NORA: We might as well all march to Mount Vernon, drop our drawers, and do something foul on George Washington's grave."
+                ],
+                [
+                    "emily",
+                    "EMILY: (disapprovingly) Nora!"
+                ],
+                [
+                    "nora",
+                    "NORA: I'm sorry, but I'm really upset about this, and I'm far too sober to put it in any sort of perspective."
+                ],
+                [
+                    "rory",
+                    "RORY: But the function is still a week away. There's time to fix this. (the ladies make cutesy \"Oh\" sounds)"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: Rory, you're darling."
+                ],
+                [
+                    "emily",
+                    "EMILY: She's new, ladies."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: A week is nothing."
+                ],
+                [
+                    "emily",
+                    "EMILY: Again, what do we do?"
+                ],
+                [
+                    "nancy",
+                    "NANCY: We should cancel the event."
+                ],
+                [
+                    "emily",
+                    "EMILY: This is a nightmare."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: Is Constance not showing her face on purpose?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Would you?"
+                ],
+                [
+                    "rory",
+                    "RORY: Why would Constance...?"
+                ],
+                [
+                    "emily",
+                    "EMILY: She's running the event...into the ground. I blame myself. I let her talk me into it."
+                ],
+                [
+                    "nancy",
+                    "NANCY: She's never slipped up like this before."
+                ],
+                [
+                    "rory",
+                    "RORY: Is it definitely too late to do something?"
+                ],
+                [
+                    "emily",
+                    "EMILY: To do what?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know. To publicize the event more, get those tables sold?"
+                ],
+                [
+                    "emily",
+                    "EMILY: We spent our budget for publicity. We're wiped out."
+                ],
+                [
+                    "rory",
+                    "RORY: But a budget is just an estimation. It's guesswork, fake numbers. In any business endeavour, sometimes it makes sense to run a deficit in order to achieve a bigger payoff later."
+                ],
+                [
+                    "nora",
+                    "NORA: We're lunching with Grover Norquist."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, have we tried getting the word out online? A lot can be done that way. (the ladies listen carefully and seem impressed and interested) And maybe we can add some entertainment or a theme. Send out some e-mails. E-mailing doesn't cost a thing."
+                ],
+                [
+                    "emily",
+                    "EMILY: We hadn't thought about e-mail."
+                ],
+                [
+                    "rory",
+                    "RORY: I think there's a way to correct this. A week is plenty of time."
+                ],
+                [
+                    "nora",
+                    "NORA: Well, well, well, we have a star amongst us."
+                ],
+                [
+                    "rory",
+                    "RORY: (chuckles) Who?"
+                ],
+                [
+                    "nora",
+                    "NORA: You!"
+                ],
+                [
+                    "rory",
+                    "RORY: (taken aback) Me?"
+                ],
+                [
+                    "nora",
+                    "NORA: (defiant) Take it over."
+                ],
+                [
+                    "rory",
+                    "RORY: What?"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: I think that's a wonderful idea!"
+                ],
+                [
+                    "emily",
+                    "EMILY: I don't know. We have a mountain here, ladies."
+                ],
+                [
+                    "nora",
+                    "NORA: We're screwing the pooch, Emily, and we've got to go balls out. I, for one, will not have those priggish twigs from the New York chapters lording this over us. We need to take a swing here, and Babe Ruth sits before us."
+                ],
+                [
+                    "emily",
+                    "EMILY: (to Rory) You shouldn't feel pressured."
+                ],
+                [
+                    "rory",
+                    "RORY: I know."
+                ],
+                [
+                    "nora",
+                    "NORA: My essence is, that if Rory doesn't think she can do it, she'll turn us down."
+                ],
+                [
+                    "emily",
+                    "EMILY: I suppose that's true."
+                ],
+                [
+                    "nora",
+                    "NORA: What do you say, you slugger?"
+                ],
+                [
+                    "rory",
+                    "RORY: I'll do it. (the ladies make triumphant noises and gestures)"
+                ],
+                [
+                    "nora",
+                    "NORA: Yes! Let's ring Constance."
+                ],
+                [
+                    "nancy",
+                    "NANCY: We'll put you in touch with the people at the venue immediately."
+                ],
+                [
+                    "nora",
+                    "NORA: And you'll have an assistant. Lacey. You'll love her."
+                ],
+                [
+                    "dar lady2",
+                    "DAR LADY2: I'd look at the menu."
+                ],
+                [
+                    "nora",
+                    "NORA: And we'll set up a discretionary fund. This publicity idea you were thinking of may be the key. (the ladies and Rory start talking about planning the function while Emily looks concerned)"
+                ]
+            ],
+            "participants": {
+                "nora": 16,
+                "nancy": 5,
+                "vivian": 7,
+                "emily": 16,
+                "dar ladies": 1,
+                "dar lady2": 2,
+                "rory": 12
+            }
+        },
+        {
+            "id": 4,
+            "title": "(CUT to Sookie and Jackson's house, night. Davey is watching TV, while the Lorelai, Luke and Jackson are eating dinner. Sookie is in the kitchen and starts walking towards the dinning table)",
+            "lines": [
+                [
+                    "sookie",
+                    "SOOKIE: Dig in, everybody."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm past digging, I'm burrowing. This is delicious."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Tri-tip on the barbecue, you can't beat it. Oh! (to Jackson) Hey, you turn the barbecue off?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: The barbecue is off."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good stuff, huh?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Really good."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Thanks. Excuse me. (yelling) Davey, turn the volume down!"
+                ],
+                [
+                    "luke",
+                    "LUKE: The vegetables are good, Sookie."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Thanks, Luke. (yelling) Davey, you heard your father. Turn it down!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, I'll turn it down."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: No, we want Davey to do it."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: That's how he learns. (to Davey) You heard me, son. Turn it down."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (screeching) Turn it down!"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Right now."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Ooh, I need a lemon slice. (picks up her glass and gets up and walks to the kitchen)"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: So did anybody see that new show on TV last night?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The one where they were solving crimes by cutting bodies open and poking their organs?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: No."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: The one where they're solving crimes from 30 years ago by going to graveyards and cutting open bodies and poking their organs?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: OH! The one where people are missing, and they find their bodies, and cut them open, and poke their organs, and that's how they solve crimes?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What else is on?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (shouting) You gotta turn the TV down, son!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Are you sure you don't want me to..."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: He's got to learn. (shouting) You heard me, son! Volume down!"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (from kitchen screeching) Volume down!"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Listen to your mother! (voice back to normal volume) What's that show I'm thinking of?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (walking back toward the table) I'm back. (sits down) You like the squash, Luke?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Oh, this is gonna bug me."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm not a big fan of the squash."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: OH! I forgot the pepper flakes. (gets up again)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Sookie, your food's getting cold."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (to Luke) I thought you liked squash."
+                ],
+                [
+                    "luke",
+                    "LUKE: Nope."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: What's that vegetable I thought you liked? (Luke looks at him unfazed)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey Sookie, do you have a fork for Paul Anka? He likes his own fork. Uh, plastic preferred."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Got one here."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Oh, now this is gonna bug me! What is that vegetable?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: The plastic's too high for me to reach. It's up there."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, I'll get it. You have to eat. (gets up and takes Sookie's plate with her to the kitchen)"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Jackson, what's that smell?"
+                ],
+                [
+                    "jackson",
+                    "JACKSON: Oh, man, I left the barbecue on."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: We cannot set this place on fire, too. I have had enough fires this week."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: I'll get it. (get up from the table and as he walks past the TV) Turn the volume down, Davey. I'm not gonna tell you twice."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Here you go. It's nice and lean, the way you like it. (gives PA a treat)"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Dog who doesn't like fat. That's just weird."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He's not weird. He's trying to maintain his bathing-suit figure."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: So, speaking of my least favourite word in the world, fire. Where are we with the insurance company?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh, nowhere. I got the same run-around they gave Michel."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Then let's just do the work. Forget the insurance. Give me back my kitchen."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Tom's all ready to jump in, but we can't afford to do it without the insurance money. That's why we have insurance."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: We have stupid insurance. I mean, this policy, wasn't it set up by your..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: So if we're getting the run-around does it mean that you have to...?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Sorry."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know. It seemed like a good idea at the time. I'll call him tomorrow."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (as he walk back in a baby starts crying) Barbecue's off."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Martha's up."
+                ],
+                [
+                    "jackson",
+                    "JACKSON: (walks out of the room again) I'm on it. Turn the TV down, Davey."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Turn it down. You heard us. Turn it down. I'm gonna count to 10, Davey. Then the TV is going off for the rest of the week.10...9...8...7...6...5...4...3...2...1...(as Sookie is counting down Lorelai notices Luke sitting alone at the table eating his food)"
+                ]
+            ],
+            "participants": {
+                "sookie": 22,
+                "lorelai": 17,
+                "jackson": 19,
+                "luke": 4
+            }
+        },
+        {
+            "id": 5,
+            "title": "(CUT to Gilmore mansion, night. Emily and Richard are sitting in the living room each respectively reading a book. While Richard looks completely absorbed in what he's reading, Emily seems to have other things on her mind)",
+            "lines": [
+                [
+                    "emily",
+                    "EMILY: She threw out the menu."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (distracted) Hmm?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Rory. She's changed the entire menu."
+                ],
+                [
+                    "richard",
+                    "RICHARD: What menu?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Richard, listen when I talk to you."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I'm sorry, Emily. It takes a second to emerge from Samuel Beckett. He's a strange man. (takes off his glasses and closes his book) Go on."
+                ],
+                [
+                    "emily",
+                    "EMILY: Rory threw out the entire menu for the Fort Drum event. I mean, granted, Constance was going with Cornish game hen, been there, done that. And her fetish for Brussels sprouts is upsetting. But to throw out the entire menu? So close to the event?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: I can't say that I'm a big fan of DAR cuisine. So I may not be of much help."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm trying not to butt in, but how can I not worry?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: (puts on his glasses and re-opens his book) By not thinking about it."
+                ],
+                [
+                    "emily",
+                    "EMILY: Is there still a USO?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: I think so. Why?"
+                ],
+                [
+                    "emily",
+                    "EMILY: That's the theme, the USO. Or that's where it's being held. Oh, my god, she didn't change the menu and the location? Is that possible?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: You should ask her."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm trying to keep out of it."
+                ],
+                [
+                    "richard",
+                    "RICHARD: You're doing a terrific job."
+                ],
+                [
+                    "emily",
+                    "EMILY: She's not serving salmon puffs."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (shuts his book a bit irritated) Good night, Mr.Beckett. (turns his attention to Emily)"
+                ],
+                [
+                    "emily",
+                    "EMILY: We've never not served salmon puffs. Not in 25 years have we staged an event without salmon puffs."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Emily, please. It's Rory. What she tackles, she conquers. This girl could name the state capitals at three. Recite the periodic table at four. Discuss Schopenhauer's influence on Nietzsche when she was ten. She's read every book by every author with a Russian surname and had a 4.2 grade-point average at one of the toughest schools on the east coast. If she's excluding salmon puffs, she has a good reason to exclude salmon puffs. And I, for one, have complete confidence in her ability to tackle this job, and so should you."
+                ],
+                [
+                    "emily",
+                    "EMILY: Fine, go back to your Beckett."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (goes back to reading his book) Thank you."
+                ],
+                [
+                    "emily",
+                    "EMILY: (wistful) Salmon puffs."
+                ]
+            ],
+            "participants": {
+                "emily": 12,
+                "richard": 11
+            }
+        },
+        {
+            "id": 6,
+            "title": "(CUT to Dragonfly Inn kitchen, morning. Sookie is instructing her crew. Lorelai looks on)",
+            "lines": [
+                [
+                    "sookie",
+                    "SOOKIE: We'll show 'em. Huh, guys!? (pats one of the assistant chefs on the chest) We'll show 'em, you don't need fancy stuff like stoves in order to make a delicious meal. We've got salads. Lots and lots of salads, caprese and endive and arugula and...Ooh! Cold sandwiches. And beef carpaccio and tuna carpaccio and vegetable carpaccio and...(to Lorelai) Oh, my God. I need my frigging stove back. I'm dying here!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, hang in there, hon. (to kitchen crew) Thanks. (as the crew starts to exit Richard walks in the kitchen with another man)"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Lorelai, I hope it's all right walking in like this. I knew where the kitchen was, so I just figured I'd come back. Sookie."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: You're our knight in shining armor, Mr.Gilmore."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (indicating the man he brought along) This is Harris. He'll do the inspection, get the lay of the land. Shouldn't take long. (to Harris) Go ahead and start. (Harris walks over to the stove. To Lorelai and Sookie) I should apologize for the red tape and the delay. As a rule, we don't take on small accounts like this, except under extraordinary circumstances. Until the news reached my desk, no one was sure of what to do."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh huh."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I can write you a check today. I figured that would please you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Terrific."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I'm going to go call Tom and see if he can race right over here and start the work. (to Richard) Bless you, sir. You're my golden god. (Sookie leaves. Lorelai and Richard seem uncomfortable as Harris goes on with the inspection)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, um, how's your big plan working out?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Excuse me?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, your big plan for Rory. How's that going, Dad?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Let me know if you need anything, Harris."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is she back at Yale?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Lorelai..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: oh, I take it she's not."
+                ],
+                [
+                    "richard",
+                    "RICHARD: No, she's not."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Huh. But it's in the works?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: We'll be here ten minutes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, wait! Let me guess. You're gonna trick her into going back, right? Like you'll drive up and drop her off at Yale, then you'll drive away really quickly before she catches on. Is that one of the plans?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: (staring to get mad) Is there anything I can do to expedite this, Harris?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You see that family of Logan's recently. The...Hamburgers?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Huntzbergers."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Right, right. How are the old Huntzbergers? They behaving any better than that night they humiliated your granddaughter?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: They did not humiliate her."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Rory said they did."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I know the Huntzbergers. They're fine people. What happened that night was a misunderstanding, because they have nothing against Rory."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Why would they?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ask them!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: It's not true!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, then that granddaughter of yours, what a liar."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Harris, take a couple of pictures and we'll go. (to Lorelai) We just need the quote from your contractor in writing. Send all his bills directly to me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Will do."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Goodbye. (he exits. Harris takes one last picture and follows him)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (to the, now, empty kitchen) It's been lovely."
+                ]
+            ],
+            "participants": {
+                "sookie": 3,
+                "lorelai": 17,
+                "richard": 16
+            }
+        },
+        {
+            "id": 7,
+            "title": "(CUT to pool house, morning. Rory is planning the event with the assistance of three more people)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: What about silverware?"
+                ],
+                [
+                    "glenda",
+                    "GLENDA: I can get you 1940s, the real thing. It's plates though. Plates are a toughie."
+                ],
+                [
+                    "lacey",
+                    "LACEY: Plates break."
+                ],
+                [
+                    "glenda",
+                    "GLENDA: I can get you a couple of dozen, hand-painted, not 100."
+                ],
+                [
+                    "rory",
+                    "RORY: So, what's our best bet? An off-white, new, but made to look vintage?"
+                ],
+                [
+                    "lance",
+                    "LANCE: Off-white would be super."
+                ],
+                [
+                    "rory",
+                    "RORY: They should be heavy, right? Solid?"
+                ],
+                [
+                    "glenda",
+                    "GLENDA: Oh, my servers are gonna love that."
+                ],
+                [
+                    "rory",
+                    "RORY: Then not too heavy. Lacey, get me samples of all this?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: Will do."
+                ],
+                [
+                    "rory",
+                    "RORY: Now, there must be a colour photo of the Hollywood Canteen. I mean, we've checked the Internet. The library?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: The Getty in California has one in their collection, but they're very flaky on the phone."
+                ],
+                [
+                    "rory",
+                    "RORY: Ugh, California."
+                ],
+                [
+                    "lance",
+                    "LANCE: I'm so over the west coast."
+                ],
+                [
+                    "rory",
+                    "RORY: A bunch of granola heads. (a cell phone rings. Lacey answers)"
+                ],
+                [
+                    "lacey",
+                    "LACEY: Rory Gilmore's phone...Who's calling?...One moment, please. (to Rory) It's Logan Huntzberger."
+                ],
+                [
+                    "rory",
+                    "RORY: I'll take that. (takes the phone from Lacey) Hello?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: (he's at Yale. The scene switches between Rory at the pool house and Logan at school) Oh, my God. Who was that?"
+                ],
+                [
+                    "rory",
+                    "RORY: My assistant. I forwarded my phone to hers."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You have an assistant?"
+                ],
+                [
+                    "rory",
+                    "RORY: Just for this DAR thing. I get a million calls."
+                ],
+                [
+                    "logan",
+                    "LOGAN: well I consider myself lucky to be patched through."
+                ],
+                [
+                    "rory",
+                    "RORY: You have priority clearance."
+                ],
+                [
+                    "logan",
+                    "LOGAN: So, good news. I got the PA system you wanted at the price you wanted."
+                ],
+                [
+                    "rory",
+                    "RORY: Really? Oh, cool. Lacey, PA system: Done."
+                ],
+                [
+                    "lacey",
+                    "LACEY: Excellent."
+                ],
+                [
+                    "rory",
+                    "RORY: (to Logan on phone) That's great."
+                ],
+                [
+                    "logan",
+                    "LOGAN: This guy's done the sound at every party I've ever thrown. He's the best in the business."
+                ],
+                [
+                    "rory",
+                    "RORY: (there is a knock at the door. It's Paris) And, oh, goody. Paris is here. And she looks upset."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That and a bulldozer would knock me over."
+                ],
+                [
+                    "paris",
+                    "PARIS: Excuse me? The door is locked."
+                ],
+                [
+                    "lacey",
+                    "LACEY: (to Rory) Do you know her?"
+                ],
+                [
+                    "rory",
+                    "RORY: Let her in, then hide. (to Logan on phone) I'll call you later."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Bye. (hangs up)"
+                ],
+                [
+                    "paris",
+                    "PARIS: (as Lacey opens the door for her, in mock Lacey voice) \"Do you know her?\". (back to normal voice) I'm only her best friend. Who the hell are you?"
+                ],
+                [
+                    "rory",
+                    "RORY: Paris, come here. Calm down. (Paris walks over to her) What's wrong?"
+                ],
+                [
+                    "paris",
+                    "PARIS: I'm broke."
+                ],
+                [
+                    "rory",
+                    "RORY: Broke? How?"
+                ],
+                [
+                    "paris",
+                    "PARIS: My parents flipped the bird at the IRS one too many times. They've frozen everything. All I've got is my trust fund, which doesn't kick in till I'm twenty-five. Unless you can whip out a magic wand and age me four years, I'm a goner."
+                ],
+                [
+                    "rory",
+                    "RORY: Just, sit down. Calm down. (lead her to the couch where they sit)"
+                ],
+                [
+                    "paris",
+                    "PARIS: My ATM refused me. I thought it was just that particular one. So I went to another, and it refused me, too. So I went to the bank and used a few choice expletives, and a bunch of guys in suits started closing in on me. So I started pacing and yelling, \"Attica! Attica!\", and then the manager hit a little red button under his desk, so I ran out of there and came right over here. I'm a pauper. I'll be playing a hurdy gurdy on street corners and selling pencils out of a tin cup."
+                ],
+                [
+                    "rory",
+                    "RORY: Slow down."
+                ],
+                [
+                    "paris",
+                    "PARIS: Yale's paid for, through the end of the year, thank God. But...what'll I do about everything else I need? What'll I do?"
+                ],
+                [
+                    "rory",
+                    "RORY: You'll just have to do what everyone else who needs money has to do."
+                ],
+                [
+                    "paris",
+                    "PARIS: What's that?"
+                ],
+                [
+                    "rory",
+                    "RORY: What people do."
+                ],
+                [
+                    "paris",
+                    "PARIS: What am I, a mind reader?"
+                ],
+                [
+                    "rory",
+                    "RORY: Get a job."
+                ],
+                [
+                    "paris",
+                    "PARIS: A job? I've never had a job. I don't know the first thing about having a job. All I've got on my resume is academic achievements, which will mean doodly-squat when I'm in line with 11,000 people vying for an opening in the garden department at Wal-Mart."
+                ],
+                [
+                    "rory",
+                    "RORY: Paris, wait. As you said, Yale's paid for. That's the bright side. From now on, you'll just have to keep your expenses low. And I could get you some work. Right away. How would that be?"
+                ],
+                [
+                    "paris",
+                    "PARIS: Really?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yes. I know you'll be a hard worker. That's a given."
+                ],
+                [
+                    "paris",
+                    "PARIS: I definitely would be. And, you know I speak Chinese and Farsi, if that'll help."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I need servers for the food. You could do that, right?"
+                ],
+                [
+                    "paris",
+                    "PARIS: I think so."
+                ],
+                [
+                    "rory",
+                    "RORY: See? You're on the road to recovery."
+                ],
+                [
+                    "paris",
+                    "PARIS: Oh, thanks. (they get up and Paris approaches Glenda, Lacey and the guy) And I'll work my butt off, too, Glenda. Oh, and I know a smattering of ancient Aramaic, if that helps."
+                ],
+                [
+                    "glenda",
+                    "GLENDA: It could."
+                ],
+                [
+                    "lance",
+                    "LANCE: If Christ shows up."
+                ],
+                [
+                    "paris",
+                    "PARIS: And who are you?"
+                ],
+                [
+                    "rory",
+                    "RORY: Go home, Paris. You've had a rough day."
+                ],
+                [
+                    "paris",
+                    "PARIS: I guess."
+                ],
+                [
+                    "rory",
+                    "RORY: I'll call you with the details."
+                ],
+                [
+                    "paris",
+                    "PARIS: Thanks. (walks over to Rory and whispers) Hey, uh, can you spot me a 20..."
+                ],
+                [
+                    "rory",
+                    "RORY: Sure."
+                ],
+                [
+                    "paris",
+                    "PARIS: (whispering) ...5, 25?"
+                ],
+                [
+                    "rory",
+                    "RORY: (grabs some cash and gives it to Paris) Um, here you go."
+                ],
+                [
+                    "paris",
+                    "PARIS: Thanks. (she leaves)"
+                ],
+                [
+                    "rory",
+                    "RORY: (approaching the three assistants) I owe you more than you currently realize. Okay, where were we?"
+                ]
+            ],
+            "participants": {
+                "rory": 31,
+                "glenda": 4,
+                "lacey": 6,
+                "lance": 3,
+                "logan": 7,
+                "paris": 18
+            }
+        },
+        {
+            "id": 8,
+            "title": "(CUT to Lorelai's kitchen, night. Luke is cooking as Lorelai walks in)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Mmm."
+                ],
+                [
+                    "luke",
+                    "LUKE: Pasta's almost done, sauce is close, too."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke, you could have just used the store-bought sauce I have. (starts to lay the table)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Ugh, that stuff is junk."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (insulted) It's delicious Italian sauce."
+                ],
+                [
+                    "luke",
+                    "LUKE: OK, first off, it's not. Second, all you had was four already-opened jars, two of which I couldn't get the lids off of."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Somebody needs some gym time,"
+                ],
+                [
+                    "luke",
+                    "LUKE: And one of them had a layer of white fuzz on it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That was a little gross."
+                ],
+                [
+                    "luke",
+                    "LUKE: And the last one, green fuzz."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Also gross."
+                ],
+                [
+                    "luke",
+                    "LUKE: I make better, just like mama taught me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know you do. How's Paul Anka's dinner coming?"
+                ],
+                [
+                    "luke",
+                    "LUKE: His hamburger's close, too."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You're not overcooking it, (Luke walks over to the fridge) 'cause, you know, he likes it rare plus, you know, not too rare, but not medium rare."
+                ],
+                [
+                    "luke",
+                    "LUKE: (picks up a flier from the fridge) I'm cooking it to his exacting specifications. (read the flier) Miss Patty's having a recital?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, yeah. It's her big annual show. All her kids in all her classes get to perform. It's be there or be square. Best show in town."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's a Thursday, right? That's a good night. I can have Caesar close for me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why?"
+                ],
+                [
+                    "luke",
+                    "LUKE: So I can go with you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, no. Luke, you're not going to this recital."
+                ],
+                [
+                    "luke",
+                    "LUKE: Why not?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Because it's a night of kids dancing, singing, twirling batons. You'll hate it."
+                ],
+                [
+                    "luke",
+                    "LUKE: No, I won't."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes, you will."
+                ],
+                [
+                    "luke",
+                    "LUKE: Not my first choice in entertainment, but I'll go."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke, no. You have been sacrificing too much of yourself these past few months. You go with me to my movies, you tag along when I go shopping. And that dinner at Sookie and Jackson's...how you kept from killing us all, I'll never know."
+                ],
+                [
+                    "luke",
+                    "LUKE: I haven't been complaining about any of this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know, and that has filled me with no end of guilt. You've been a saint, but you've got to do your Luke stuff, too. When was the last time you went camping or fishing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You don't like camping or fishing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That shouldn't stop you from camping or fishing."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'd go if I felt like it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, then go Thursday while I'm at the recital. I'll go with Sookie. It'll be fun with her."
+                ],
+                [
+                    "luke",
+                    "LUKE: You sure?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah! Go. You haven't been camping in forever. Be Grizzly Adams."
+                ],
+                [
+                    "luke",
+                    "LUKE: Okay, sure, I'll go camping."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (approaches Luke at the stove) Good. (notices something in a pan, PA's dinner) Oh, it's officially..."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, medium rare, not rare plus. I'll get him another. (Luke takes the hamburger out of the pan and prepares another)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 19,
+                "luke": 19
+            }
+        },
+        {
+            "id": 9,
+            "title": "(CUT to Gilmore mansion dining room, night. Richard, Emily and Rory are having dinner. Richard attempts to engage the women in some conversation but Rory seems distracted)",
+            "lines": [
+                [
+                    "richard",
+                    "RICHARD: Well, I don't know why I bother. The great books take practically a lifetime to read as it is. But if you heed the word of Mortimer Adler, one needs to read a classic three times to fully comprehend its meaning."
+                ],
+                [
+                    "rory",
+                    "RORY: (distracted) Yeah."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I wonder if Mortimer ever read \"Euclid's geometry\" three times. That's a fun read. Have you read \"Euclid's geometry\"?"
+                ],
+                [
+                    "rory",
+                    "RORY: (not any less distracted) Me? No."
+                ],
+                [
+                    "richard",
+                    "RICHARD: It doesn't get any drier. What have you been reading lately? I keep forgetting to ask. (makes a gesture to answer but instead starts texting someone with her cell phone)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Rory?"
+                ],
+                [
+                    "rory",
+                    "RORY: Sorry, guys. The event's right around the corner, and I just keep thinking of things I have to do. I'm just texting Lacey."
+                ],
+                [
+                    "emily",
+                    "EMILY: So how's that going?"
+                ],
+                [
+                    "rory",
+                    "RORY: Good, really good."
+                ],
+                [
+                    "emily",
+                    "EMILY: Good. Did Lacey mention the partitions?"
+                ],
+                [
+                    "rory",
+                    "RORY: (still texting) Partitions?"
+                ],
+                [
+                    "emily",
+                    "EMILY: At Wafford Hall. It's so big, and these partitions can cut the room wherever you like so it won't look so empty. They're not very decorative, but they work."
+                ],
+                [
+                    "rory",
+                    "RORY: Hold on just a second. (end texting and puts the phone down) Partitions?"
+                ],
+                [
+                    "emily",
+                    "EMILY: For the room."
+                ],
+                [
+                    "rory",
+                    "RORY: But we won't have any room. We're sold out."
+                ],
+                [
+                    "emily",
+                    "EMILY: Sold out? That's not possible."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, it's a fact. The theme got people's attention. Plus, the online campaign went like gangbusters. We're having to turn people away. That's what I was texting Lacey about. I'm trying to squeeze in a few more, but we're fighting the fire department over it."
+                ],
+                [
+                    "emily",
+                    "EMILY: (disbelieving and impressed) You're turning people away?"
+                ],
+                [
+                    "rory",
+                    "RORY: But still encouraging them to give a sizable donation to our boys."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Brilliant."
+                ],
+                [
+                    "emily",
+                    "EMILY: (brightly) Sold out!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: (to Rory) I knew you could do it!"
+                ],
+                [
+                    "emily",
+                    "EMILY: Good job!"
+                ],
+                [
+                    "rory",
+                    "RORY: Thank you."
+                ],
+                [
+                    "emily",
+                    "EMILY: Continue texting."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, thank you. (picks up her phone again as Richard and Emily continue eating)"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "richard": 5,
+                "rory": 11,
+                "emily": 10
+            }
+        },
+        {
+            "id": 10,
+            "title": "(CUT to Wafford Hall-venue for the DAR event, morning. Workers are setting up tables and decorations while Rory is walking through the hall thinking she's talking to someone when in reality she's talking to thin air)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Oh, when the band gets here, grab Gerry and get them to do a sound check. Make sure they're happy with the sound. Not just cheery, because...(turns around and sees nobody there) Lacey? Where's my Lacey?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: (runs towards Rory) Here."
+                ],
+                [
+                    "rory",
+                    "RORY: Come on, honey, keep up."
+                ],
+                [
+                    "lacey",
+                    "LACEY: I spotted the security guard, so I filled him in."
+                ],
+                [
+                    "rory",
+                    "RORY: Excellent. Cross that off the list. Servers are here?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: Got them all waiting in the back."
+                ],
+                [
+                    "rory",
+                    "RORY: Excellent! (as they start walking to the kitchen Rory addresses two guys putting up a poster) Wow! Treat her gently there, boys. Betty's life was tough enough."
+                ]
+            ],
+            "participants": {
+                "rory": 4,
+                "lacey": 3
+            }
+        },
+        {
+            "id": 11,
+            "title": "(CUT to Wafford Hall's kitchen, continuous. There is a bunch of people waiting. Rory walks in and sees Paris)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Hey, Paris."
+                ],
+                [
+                    "paris",
+                    "PARIS: Rory, I clocked in."
+                ],
+                [
+                    "rory",
+                    "RORY: Cool!"
+                ],
+                [
+                    "paris",
+                    "PARIS: They gave me this card, and it had my name on it. And I shoved it in the clock thing, and it made the punchy sound, and I'm officially on the job."
+                ],
+                [
+                    "rory",
+                    "RORY: Great!"
+                ],
+                [
+                    "paris",
+                    "PARIS: And I'm prepared too. I was a little nervous last night about making small talk with co-workers. So I went to the video store and rented \"Working Girl\" and the first season of \"Just Shoot Me\". Got a couple of Wendie Malick bon mots that have already come in handy."
+                ],
+                [
+                    "rory",
+                    "RORY: Very good. Welcome."
+                ],
+                [
+                    "paris",
+                    "PARIS: Thanks, boss."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm gonna welcome the whole group here."
+                ],
+                [
+                    "paris",
+                    "PARIS: No problem. (Rory walks past Paris and addresses the rest of the crowd. Paris stands behind Rory)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hello. You must be my servers. I'm Rory Gilmore. I'm running this little shindig. How are all of you today?"
+                ],
+                [
+                    "servers",
+                    "SERVERS: Good. Great."
+                ],
+                [
+                    "rory",
+                    "RORY: You all come highly recommended by Glenda, our catering manager, so I know you're all top notch..."
+                ],
+                [
+                    "paris",
+                    "PARIS: (cuts Rory off and walks up front) Yeah, super. Looks like a good group. Good group."
+                ],
+                [
+                    "rory",
+                    "RORY: (whispering to Paris) Um, you know, you should probably be standing over with the others."
+                ],
+                [
+                    "paris",
+                    "PARIS: Oh, right. I'm one of them. Got it. Sorry. (walks over to the rest of the group)"
+                ],
+                [
+                    "rory",
+                    "RORY: (to the whole group) So it's going to be hard work tonight. We have 100 people dining with us. But I want you to have fun, too. We have your outfits on a rack over here. Your name should be on them. It's a good cause, so let's get changed and go do. (walks away)"
+                ],
+                [
+                    "paris",
+                    "PARIS: (to one of the other servers) So, working hard or hardly working? (the girl giggles) Oh, my, oh, my. I love it! (the whole group approaches the rack to get their outfits)"
+                ]
+            ],
+            "participants": {
+                "rory": 9,
+                "paris": 8,
+                "servers": 1
+            }
+        },
+        {
+            "id": 12,
+            "title": "(CUT to Miss Patty's, night. The studio is filled with people. Sookie and Lorelai walk in and approach the lady passing out the programs. They each take one)",
+            "lines": [
+                [
+                    "sookie",
+                    "SOOKIE: (as she takes a program) Hey, thanks."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (as she takes a program) Thank you."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: So where's Luke tonight?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: As we speak, he's off communing with nature."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Oh, good for him. (they sit)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (reading from the program) Ooh, the ballerinas are doing \"Swan Lake\". That always makes me cry."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (opens the program) Oh, Patty's packed it all in. Baton twirling, a modelling exhibition. She's added a couple new features, too."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Yeah, what's krumping?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Um, like hip-hop dance, I think, more herky-jerky."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: And what is pubic speaking?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm hoping it's a misprint."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I hope so, too."
+                ],
+                [
+                    "patty",
+                    "PATTY: (declaring the start of the show. Everyone is now seated) Welcome, everybody, to the 28th Annual Miss Patty's School Grand Recital. (the audience applauds) Thank you. We have a lot on the program tonight. So, without further ado, please welcome my intermediate pupils as they welcome you. Hit it, boys. (a young boy in a blue outfit and a hat comes on stage as the piano starts to play)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: She always does a fun opening number."
+                ],
+                [
+                    "background",
+                    "(the boy starts singing the song \"We've Got Magic To Do\")"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Isn't he cute?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Darling."
+                ],
+                [
+                    "background",
+                    "(as he keeps up with the song a bunch of kids join him. They are taking the show off the stage and in the audience. All the kids are dancing and singing)"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Uh-oh, they're in the audience."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh! I...I hate it when they come into the audience. Okay. Yeah... (the kids start gesturing vividly in front of Lorelai and Sookie's faces) This is...this is not good."
+                ],
+                [
+                    "background",
+                    "(the kids continue their act and start throwing glitter out to the audience. They hit Sookie and Lorelai with a great amount of it. The women react)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: AAH!"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: OH!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Blowing stuff on us! (the kids continue on with their show, into the audience)"
+                ]
+            ],
+            "participants": {
+                "sookie": 10,
+                "lorelai": 11,
+                "patty": 1
+            }
+        },
+        {
+            "id": 13,
+            "title": "(CUT to Wafford Hall, night. The event is just staring up. Some guests have arrived. There is a band that are impersonating the Andrews Sisters, who are singing on stage. Rory and Lacey walk around the hall doing last minute inspections)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: People seem hungry tonight. Tell..."
+                ],
+                [
+                    "lacey",
+                    "LACEY: ...Glenda to speed the trays up a bit."
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah, and let the sound guy know..."
+                ],
+                [
+                    "lacey",
+                    "LACEY: ...that the drums are a little loud."
+                ],
+                [
+                    "rory",
+                    "RORY: And it's a tad warm."
+                ],
+                [
+                    "lacey",
+                    "LACEY: Already had them adjust the AC."
+                ],
+                [
+                    "rory",
+                    "RORY: Any incoming choppers, radar?"
+                ],
+                [
+                    "lace",
+                    "LACE: Choppers? No. What do you mean?"
+                ],
+                [
+                    "rory",
+                    "RORY: That was a joke, Lacey."
+                ],
+                [
+                    "lacey",
+                    "LACEY: Oh. Sorry."
+                ],
+                [
+                    "rory",
+                    "RORY: You're a doll. Remember to have a little fun tonight, too."
+                ],
+                [
+                    "lacey",
+                    "LACEY: Will do...Radar. I get it now. That was funny. I'll be back. (Lacey walks briskly away, Rory follows. Paris approaches a guest with a tray of appetizers)"
+                ],
+                [
+                    "paris",
+                    "PARIS: (offering the tray) Appetizers?"
+                ],
+                [
+                    "guest",
+                    "GUEST: Oh, thank you. (takes an appetizer and eats it)"
+                ],
+                [
+                    "paris",
+                    "PARIS: You're welcome. So how was that?"
+                ],
+                [
+                    "guest",
+                    "GUEST: It was fine, very good."
+                ],
+                [
+                    "paris",
+                    "PARIS: I meant the transaction. I'd love a performance review. Come on, be my Dave Navarro."
+                ],
+                [
+                    "guest",
+                    "GUEST: (a bit uncomfortable) Um, you were fine."
+                ],
+                [
+                    "paris",
+                    "PARIS: I'm gonna need more. It was T.S. Eliot who said criticism is as inevitable as breathing and said that we should be none the worse for articulating what passes in our mind when we read a book, see a play or, now I'm elaborating, pass a cheddar and olive ball. I need some feedback."
+                ],
+                [
+                    "guest",
+                    "GUEST: Really, you offered it to me well, and all seemed great, and I don't want to talk about this anymore."
+                ],
+                [
+                    "paris",
+                    "PARIS: Good. Thank you, this has been a help. (walks away from the guest. Emily and Richard have now arrived at the event. The hostess welcomes them at the door)"
+                ],
+                [
+                    "hostess",
+                    "HOSTESS: Welcome to the Hollywood Canteen."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Thank you. We're the Gilmores."
+                ],
+                [
+                    "emily",
+                    "EMILY: (impressed) Richard, look at this place!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: It's wonderful."
+                ],
+                [
+                    "hostess",
+                    "HOSTESS: Here is your table number. And take a pin, both of you."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Oh, thank you."
+                ],
+                [
+                    "emily",
+                    "EMILY: Yeah, thank you. (they enter the hall properly now) Oh, I love this song. And look at the band. It's the Andrews Sisters."
+                ],
+                [
+                    "richard",
+                    "RICHARD: They've kept in pretty good shape. (Rory walks up to the G-parents)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hi, guys."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Aw! Looks like you've got a hit on your hands."
+                ],
+                [
+                    "rory",
+                    "RORY: So far, so good. No one's dancing, though."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh, it's early. You'll see plenty of dancing after dinner."
+                ],
+                [
+                    "richard",
+                    "RICHARD: You'll see some dancing right now."
+                ],
+                [
+                    "emily",
+                    "EMILY: Richard, it's before dinner. There's no dancing during appetizers."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Come on, let's show these fuddy-duddies how it's done. (leads Emily to the dance floor and they start dancing, as Rory looks at them smiling)"
+                ]
+            ],
+            "participants": {
+                "rory": 8,
+                "lacey": 5,
+                "lace": 1,
+                "paris": 5,
+                "guest": 4,
+                "hostess": 2,
+                "richard": 7,
+                "emily": 4
+            }
+        },
+        {
+            "id": 14,
+            "title": "(CUT to woods, night. Luke is sitting alone at the campsite in front of a fire. He looks sad, upset and miserable)",
+            "lines": [],
+            "participants": {}
+        },
+        {
+            "id": 15,
+            "title": "(CUT to Wafford Hall, night. It's now dinnertime. Richard, Emily and Nancy are at the same table deep in conversation)",
+            "lines": [
+                [
+                    "richard",
+                    "RICHARD: My father was a huge Benny Goodman fan. Hated Glenn Miller, hated him. Always claimed it wasn't the enemy who shot down that plane of his, but music lovers."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh, Richard, that's a horrible thing to say."
+                ],
+                [
+                    "richard",
+                    "RICHARD: It was my father who said it."
+                ],
+                [
+                    "emily",
+                    "EMILY: But you just repeated it. (Rory approaches their table) Here's the woman of the hour."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Ah!"
+                ],
+                [
+                    "rory",
+                    "RORY: How's the food, everybody?"
+                ],
+                [
+                    "nancy",
+                    "NANCY: The macaroni and cheese, what an inspiration!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Rory, please accept my profound thanks for serving food at a DAR event which is remarkably edible."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh, Richard. We always have good food."
+                ],
+                [
+                    "richard",
+                    "RICHARD: You have fancy good food. If I never look at another duck's liver for the rest of my life, I will be a happy man. (Lacey, come up to Rory a bit upset)"
+                ],
+                [
+                    "lacey",
+                    "LACEY: Rory, could I pull you away for just a second?"
+                ],
+                [
+                    "rory",
+                    "RORY: Sure. Excuse me, everybody. (the girls walk away)"
+                ],
+                [
+                    "nancy",
+                    "NANCY: She's so poised...like you, Emily."
+                ],
+                [
+                    "lacey",
+                    "LACEY: A party's arrived. I'm looking, looking. They did not RSVP, but they're expecting a table."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, great. Where are they?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: By the war bonds table. It's Shira Huntzberger. She waltzed in with a group of ladies in tow and made it clear she expected to be accommodated."
+                ],
+                [
+                    "rory",
+                    "RORY: (starting to get worked up) Did she?"
+                ],
+                [
+                    "lacey",
+                    "LACEY: And not very nicely either."
+                ],
+                [
+                    "rory",
+                    "RORY: (sarcastically) Oh, what a shock."
+                ],
+                [
+                    "lacey",
+                    "LACEY: But you know her, right? That's your boyfriend's mother."
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah, yeah, I know her."
+                ],
+                [
+                    "lacey",
+                    "LACEY: I didn't mean to insult her before. She was just very abrupt."
+                ],
+                [
+                    "rory",
+                    "RORY: It's OK. I'll take care of it."
+                ],
+                [
+                    "lacey",
+                    "LACEY: (passes Rory a piece of paper) Here's the seating chart."
+                ],
+                [
+                    "rory",
+                    "RORY: Thanks. (takes the seating chart and exits to the kitchen)"
+                ]
+            ],
+            "participants": {
+                "richard": 5,
+                "emily": 3,
+                "rory": 8,
+                "nancy": 2,
+                "lacey": 7
+            }
+        },
+        {
+            "id": 16,
+            "title": "(CUT to Wafford Hall's kitchen, continuous. Rory enters and Paris is there working)",
+            "lines": [
+                [
+                    "paris",
+                    "PARIS: Hey, boss. It's interesting, you know. Karl Marx has come alive for me today. I never understood what he was yammering about before, and now it just seems so obviously wrong that those who control capital should make their fortunes off the labour of the working class. What's wrong with you?"
+                ],
+                [
+                    "rory",
+                    "RORY: Shira Huntzberger is here."
+                ],
+                [
+                    "paris",
+                    "PARIS: Logan's mom?"
+                ],
+                [
+                    "rory",
+                    "RORY: And she showed up with no warning. No RSVP, no donation to the cause that I know of. Just sashayed in, expecting everyone to fall at her feet."
+                ],
+                [
+                    "paris",
+                    "PARIS: I hate that."
+                ],
+                [
+                    "rory",
+                    "RORY: I hate her. Hate! Strong, unadulterated, blind...Uurrghh!"
+                ],
+                [
+                    "paris",
+                    "PARIS: Wow. You're always so Desmond Tutu-ey. This is refreshing."
+                ],
+                [
+                    "rory",
+                    "RORY: I should tell her to leave. I should march up to her and tell her to grab those arrogance-dripping, petulance-oozing, surgically cosmeticized bims she brought along and hit the bricks."
+                ],
+                [
+                    "paris",
+                    "PARIS: I bet they all have money, too. Every one of those commodity fetishists."
+                ],
+                [
+                    "rory",
+                    "RORY: How can she expect a table? The tables are for the people who are polite enough to respond to an invitation in the proper manner."
+                ],
+                [
+                    "paris",
+                    "PARIS: I bet you the Romanovs never RSVP'd either. They got theirs. Capitalist scum."
+                ],
+                [
+                    "rory",
+                    "RORY: I hate her!"
+                ],
+                [
+                    "paris",
+                    "PARIS: I hate the rich. A hard rain is gonna fall, you know what I'm saying?"
+                ],
+                [
+                    "rory",
+                    "RORY: I really hate her!"
+                ],
+                [
+                    "paris",
+                    "PARIS: They should die."
+                ],
+                [
+                    "rory",
+                    "RORY: I should probably give her a table."
+                ],
+                [
+                    "paris",
+                    "PARIS: What?"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, we have a spare table. We kept it open in case of something like this. I should give it to her."
+                ],
+                [
+                    "paris",
+                    "PARIS: But she doesn't deserve it."
+                ],
+                [
+                    "rory",
+                    "RORY: I know, but this is business. It's not personal. I should give her that table."
+                ],
+                [
+                    "paris",
+                    "PARIS: Fine. Whatever you think. You're the boss. Hey, boss, how much are you being paid in this job of yours? (Rory looks at Paris for a beat and then walks way)"
+                ]
+            ],
+            "participants": {
+                "paris": 11,
+                "rory": 10
+            }
+        },
+        {
+            "id": 17,
+            "title": "(CUT to main Hall, continuous. Rory walks out of the kitchen, takes a second to calm down and approaches Shira and her party. The whole conversation seems to be held in forced politeness)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Mrs. Huntzberger."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Rory, hi! What are you doing here?"
+                ],
+                [
+                    "rory",
+                    "RORY: I'm running this event."
+                ],
+                [
+                    "shira",
+                    "SHIRA: I didn't know."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, now you do."
+                ],
+                [
+                    "shira",
+                    "SHIRA: I think I've been bad."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, really? Why?"
+                ],
+                [
+                    "shira",
+                    "SHIRA: I just showed up without any warning. I didn't think I could come, so I didn't call. Then I could, and the group and I just came down."
+                ],
+                [
+                    "rory",
+                    "RORY: It happens."
+                ],
+                [
+                    "shira",
+                    "SHIRA: That's what I told that other girl. She was a bit rude."
+                ],
+                [
+                    "rory",
+                    "RORY: Lacey? I'll talk to her."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Could you get us a table?"
+                ],
+                [
+                    "rory",
+                    "RORY: Of course. Come."
+                ],
+                [
+                    "shira",
+                    "SHIRA: It's not a problem?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh! Not at all. (leads Shira and the ladies that accompany her to a table) Come with me. It's all set up."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Oh, you are the best."
+                ],
+                [
+                    "rory",
+                    "RORY: It's just my job."
+                ],
+                [
+                    "shira",
+                    "SHIRA: So no Logan?"
+                ],
+                [
+                    "rory",
+                    "RORY: Not tonight."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Not his thing?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, you know Logan. Here we are."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Thank you so much. (as she sits down) And you look so pretty."
+                ],
+                [
+                    "rory",
+                    "RORY: So do you. Have a good time."
+                ],
+                [
+                    "shira",
+                    "SHIRA: I'm sure we will. (Rory walks away upset)"
+                ]
+            ],
+            "participants": {
+                "rory": 12,
+                "shira": 12
+            }
+        },
+        {
+            "id": 18,
+            "title": "(CUT to Wafford Hall's bar. Richard, Emily and Vivian are having drinks and talking)",
+            "lines": [
+                [
+                    "vivian",
+                    "VIVIAN: You've created a superstar here tonight, Emily. I hope you know that."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, yes, I do."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: There's already talk of giving her the A.A."
+                ],
+                [
+                    "richard",
+                    "RICHARD: An A.A?"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: An Abigail Adams, for distinguished service above and beyond."
+                ],
+                [
+                    "emily",
+                    "EMILY: She deserves it."
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: She's made this a must-be-at event. I'm guessing that's what brought Shira here."
+                ],
+                [
+                    "emily",
+                    "EMILY: (excited) Shira? Shira Huntzberger's here?"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: Rumsfeld, himself, would probably call her and thank her for the donation she made on the way in. Hillbilly armor will be a thing of the past."
+                ],
+                [
+                    "emily",
+                    "EMILY: Where is she sitting?"
+                ],
+                [
+                    "vivian",
+                    "VIVIAN: Up front. The table by the band."
+                ],
+                [
+                    "emily",
+                    "EMILY: (shocked) Oh, my God!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: (confused) What?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh, my god. Excuse me. (Emily rushes off over to Rory at the other end of the bar) Rory, where's the seating chart?"
+                ],
+                [
+                    "rory",
+                    "RORY: What? Why?"
+                ],
+                [
+                    "emily",
+                    "EMILY: There's been a terrible mistake."
+                ],
+                [
+                    "rory",
+                    "RORY: What mistake?"
+                ],
+                [
+                    "emily",
+                    "EMILY: You sat Shira Huntzberger at the slush table."
+                ],
+                [
+                    "rory",
+                    "RORY: It was all that was available."
+                ],
+                [
+                    "emily",
+                    "EMILY: The slush table is a loser table."
+                ],
+                [
+                    "rory",
+                    "RORY: But why would we have a loser table?"
+                ],
+                [
+                    "emily",
+                    "EMILY: It's for people who show up unannounced."
+                ],
+                [
+                    "rory",
+                    "RORY: (pissy) She was unannounced."
+                ],
+                [
+                    "emily",
+                    "EMILY: There's people, then there's the Huntzbergers. They cannot sit at that table. This needs to be rectified."
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know what I can do. Every table is taken."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'll take care of it. Give me the seating chart. I'll find someone to bump. There's always someone to bump."
+                ],
+                [
+                    "rory",
+                    "RORY: (opening up the seating chart and passing it to Emily) Grandma, it doesn't seem fair to bump someone."
+                ],
+                [
+                    "emily",
+                    "EMILY: It's not. But if we don't find better seating for the Huntzbergers, it'll be a major faux pas, and it may be the only thing people remember from this otherwise wonderful event."
+                ],
+                [
+                    "rory",
+                    "RORY: Wow."
+                ],
+                [
+                    "emily",
+                    "EMILY: Yes."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, thank you for helping. And it's not the Huntzbergers."
+                ],
+                [
+                    "emily",
+                    "EMILY: (distracted by the seating chart) What?"
+                ],
+                [
+                    "rory",
+                    "RORY: You keep saying \"the Huntzbergers.\" It's only Shira and some friends."
+                ],
+                [
+                    "emily",
+                    "EMILY: And Mitchum."
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "emily",
+                    "EMILY: Yes. He's right over there. (points to Mitchum's direction. Rory looks around, notices Mitchum and starts to panic. Emily gasps gleefully) The Bettertons. Perfect! We'll bump Constance Betterton. It's a win/win. (walks away and leaves a scared looking Rory alone. Rory quickly gathers her things and walks away)"
+                ]
+            ],
+            "participants": {
+                "vivian": 6,
+                "emily": 17,
+                "richard": 2,
+                "rory": 11
+            }
+        },
+        {
+            "id": 19,
+            "title": "(CUT to Wafford Hall's kitchen, continuous. Rory walks in quickly and drops her notes on the counter. Paris seems to be taking a break)",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: (upset) Paris?!"
+                ],
+                [
+                    "paris",
+                    "PARIS: I'm just on my break. You're white as a sheet."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm having trouble...breathing."
+                ],
+                [
+                    "paris",
+                    "PARIS: (walks over to Rory) You're having a panic attack."
+                ],
+                [
+                    "rory",
+                    "RORY: I think so."
+                ],
+                [
+                    "paris",
+                    "PARIS: Don't worry. I have these all the time."
+                ],
+                [
+                    "rory",
+                    "RORY: What do I do?"
+                ],
+                [
+                    "paris",
+                    "PARIS: Well, it depends. There are different kinds. Does it feel like an elephant is sitting on your chest?"
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "paris",
+                    "PARIS: Does your chest feel like an overinflated balloon with a slow leak?"
+                ],
+                [
+                    "rory",
+                    "RORY: Uum...Not really."
+                ],
+                [
+                    "paris",
+                    "PARIS: Sharp needles, intermittently poking into your left ventricle?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know from ventricles, but there is a needle thing."
+                ],
+                [
+                    "paris",
+                    "PARIS: You need Diazepam. 50...no, 100 milligrams. I'll get my purse. (starts to leave)"
+                ],
+                [
+                    "rory",
+                    "RORY: No, wait. I don't want any Diazepam. (Paris stops and walks back up at Rory)"
+                ],
+                [
+                    "paris",
+                    "PARIS: Well, what do you want? Fluoxetine, Protriptyline? I have others floating around the bottom of my purse. I have no idea what they are, but just popping a few can't hurt. Pretty hot grab bag"
+                ],
+                [
+                    "rory",
+                    "RORY: These people...Those people, they didn't even RSVP. That's not right. This is for our boys. They need to make a donation."
+                ],
+                [
+                    "paris",
+                    "PARIS: (walks closer to Rory) Tough night for you, huh?"
+                ],
+                [
+                    "rory",
+                    "RORY: Shira's one thing. I can deal with her. But Mitchum? I can't see him. I can't face him. It's too much. After what he did, what he said to me. (voice breaks)"
+                ],
+                [
+                    "paris",
+                    "PARIS: What did he say to you?"
+                ],
+                [
+                    "rory",
+                    "RORY: If it weren't for him, I wouldn't have..."
+                ],
+                [
+                    "paris",
+                    "PARIS: you wouldn't have what? Rory?"
+                ],
+                [
+                    "rory",
+                    "RORY: Nothing, nothing. He's just...They're just not the nicest people."
+                ],
+                [
+                    "paris",
+                    "PARIS: Well, the rich never are, because they don't have to be. When you control the means of production, it reduces the incentive to humanize workers. The capitalist system..."
+                ],
+                [
+                    "background",
+                    "RORY (cuts Paris off) You know, I haven't eaten all day. I...I think I should eat. That's my problem. (walks away)"
+                ],
+                [
+                    "paris",
+                    "PARIS: Sure, boss, go eat. There's probably somewhere else where you eat, right? Special room."
+                ]
+            ],
+            "participants": {
+                "rory": 12,
+                "paris": 13
+            }
+        },
+        {
+            "id": 20,
+            "title": "(CUT to Miss Patty's, night. Some girls are on stage dancing \"Swan Lake\". Lorelai and Sookie are watching the show. Sookie is tear eyed)",
+            "lines": [
+                [
+                    "sookie",
+                    "SOOKIE: It's just so damn beautiful."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (sympathetically) I know, honey. (the dance is over and the audience starts to applaud)"
+                ],
+                [
+                    "patty",
+                    "PATTY: The Miss Patty Ballerinas, everybody. Now I would like to introduce a special new segment of my annual recital entitled \"It Was 20 Years Ago Today.\" One of our local townsmen is going to re-create an act that he performed on this very stage 20 years ago. This young man was a talented pupil of my wonderful dancing skills and a genius tumbler. He once did ninety-eight somersaults in a row without throwing up. But that's nothing compared with his talent for mime. Here to present a piece of his own creation, entitled \"The Journey Of Man\", exactly as he performed it 20 years ago is...Kirk! (The audience applauds, Lorelai whistles. The lights go down and creepy, dramatical, mystical music starts to play. Kirk walks on stage and lies down. A spotlight on him is the only thing illuminating the stage)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (whispering to Sookie) Oh, it's moments like these that make life worth living. (Kirk starts up with his number. He pretends to be a sperm swimming then an embryo. All this is done in a very Kirk like disturbing manner)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ew."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Ew. (the same dramatic music keeps playing, now accompanied by chanting. Kirk is now re-enacting birth)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (disgusted) Ew!"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (disgusted) Ew! (Kirk does some funny - well not meant to be funny, but they come off that way - faces and gestures as he does that thing where doctors hit the baby's back in order to make it cry)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So it's the birth of Lucille Ball? (Kirk is now an infant, walking like he's holding someone?s hand. Slowly he starts to stand up straight and then pretends to hold a bundle. Lorelai gasps!) He's a parent now, I get that."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: He's moving along at a nice clip. (Lorelai notices Luke's truck at the diner and sees Luke getting out and going back in)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'll be right back."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I'll catch you up when you return. (Lorelai gets up and exits the studio)"
+                ]
+            ],
+            "participants": {
+                "sookie": 5,
+                "lorelai": 6,
+                "patty": 1
+            }
+        },
+        {
+            "id": 21,
+            "title": "(CUT to Luke's diner, continuous. Luke is unpacking his camping stuff. Lorelai knocks on the diner door. Luke walks over, unlocks it for her and walks back to the counter. Lorelai comes in)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Hey, Grizzly Adams. Why are you back? The woods closed or something?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No, they weren't closed. I was...I don't know. It's...what it is. Nature."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Nature? Nature is..."
+                ],
+                [
+                    "luke",
+                    "LUKE: You know, it's there, I saw it. Trees, leaves, whatever."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: OK, that's your second answer in the form of a haiku. Let's get beyond that. Why are you back?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Because I felt like coming back. I can't do what I want to do?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Of course you can."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But camping is something you want to do."
+                ],
+                [
+                    "luke",
+                    "LUKE: No, it's what you wanted me to do."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: When did you turn against camping?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I didn't turn against camping. I'm just trying to understand, why you were trying to get rid of me tonight."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I wasn't doing that."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, you sent me off to the woods. What if I don't want to go off to the woods?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But you always want to go to the woods."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, I don't like going to the woods when I'm being banished to them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No one is banishing you."
+                ],
+                [
+                    "luke",
+                    "LUKE: It felt like it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, then, that's my fault. (sits on a nearby stool)"
+                ],
+                [
+                    "luke",
+                    "LUKE: (sighs) Look... I like doing things with you. Surprised I have to tell you that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You don't have to tell me that."
+                ],
+                [
+                    "luke",
+                    "LUKE: I like going shopping with you, I like having dinner with Sookie and Jackson. The actual shopping seems a little pointless, and Sookie's kids drive me up a wall, but you're there, and I like hanging with you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know that."
+                ],
+                [
+                    "luke",
+                    "LUKE: And, I could have been fun at this recital. I mean, you're probably sitting there mocking most of it. I can mock stuff."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, you're a great mocker. I was only thinking of you when I mentioned the camping. You haven't been camping since we got together, and I was feeling weird about that. You should do the things you like."
+                ],
+                [
+                    "luke",
+                    "LUKE: I do do the things I like."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, I wasn't getting rid of you. I want you to do whatever you want to do with me. I know that sounded dirty, and dirty things count, but I didn't mean the dirty things. You and me can hang whenever, wherever."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, well, maybe I'm being sensitive."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I really wasn't getting rid of you."
+                ],
+                [
+                    "luke",
+                    "LUKE: I mean, I'm not dying to see baton twirling."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm happy to be with a man who isn't."
+                ],
+                [
+                    "luke",
+                    "LUKE: Was there baton twirling?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, yes, and it was no fun. She didn't drop it once. You want to come back to the recital with me? Kirk is doing something strange and disturbing."
+                ],
+                [
+                    "luke",
+                    "LUKE: Nah, I think I might go back out camping. Wouldn't mind doing some fishing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. Good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: OK. (Lorelai leaves and Luke turns back his focus to his camping equipment)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 19,
+                "luke": 18
+            }
+        },
+        {
+            "id": 22,
+            "title": "(CUT to Miss Patty's Studio, continuous. Kirk is now lying on the stage and he seems to be in some sort of fit. Lorelai enters and makes her way to her seat)",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Excuse me. Thank you. Hey."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Kirk's dying."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh. Well, it's gonna happen to all of us one day. (notices Kirk twitching all over the place) Just not so spazzy. (Kirk finally seems to have *died* and the music stops. The audience starts applauding and cheering)"
+                ],
+                [
+                    "patty",
+                    "PATTY: And that's our show, everybody, and I think it was the best one ever! From all of us at the Miss Patty School, we thank you. (everyone starts to get up as music starts playing again. It's \"We Got Magic To Do\" now performed by all the pupils. The show is taken in the audience so everyone sits back down)"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: (disappointed) OOooohh..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: They're back. (as one of the kids starts singing and gesturing in front of her face) OK. (they throw glitter at them again) Oh, wow! You'd think they would have run out of glitter by now."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: This is so stressful! (the show seems to go on until the song is over)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 3,
+                "sookie": 3,
+                "patty": 1
+            }
+        },
+        {
+            "id": 23,
+            "title": "(CUT to Wafford Hall's men?s room, night. Richard is washing his hands. Apparently the DAR event is still going on. Mitchum walks in the men?s room and greats Richard)",
+            "lines": [
+                [
+                    "mitchum",
+                    "MITCHUM: Richard."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Oh, Mitchum, old boy. I didn't know you were out there."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Just got here. It's quite the affair we got going here."
+                ],
+                [
+                    "richard",
+                    "RICHARD: And for a wonderful cause."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Not stuffy like the others. No smell of mothballs."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well you know my granddaughter is responsible for it."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Oh, yeah?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Mmm. Planned the whole thing."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Well, that's nice. I didn't know that. She's a sweet kid."
+                ],
+                [
+                    "richard",
+                    "RICHARD: The sweetest."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Yeah. I wish Rory nothing but the best. (walks over to the mirror and starts fixing his hair a bit and straightening his tie) I came straight from work without looking in a mirror. Wish I had."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (chuckles) Mitchum, just out of curiosity, what happened with all of that?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: All of what?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Uh, that paper of yours in Stanford. Something apparently got blown out of proportion. There was some misunderstanding."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Oh, it was nothing much. She's a great kid."
+                ],
+                [
+                    "richard",
+                    "RICHARD: She is. And a great journalist. I've read things she's written. She's a talent."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Maybe."
+                ],
+                [
+                    "richard",
+                    "RICHARD: What do you mean \"maybe\"?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: well, I worked with her, Richard. I read her stuff, too."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Meaning?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: I've read great. I know what great is."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well, when I said great, I didn't mean she was Ben Bradley yet, but she could be."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: (looks over at Richard for a beat) Anything's possible. (starts to walk away)"
+                ],
+                [
+                    "richard",
+                    "RICHARD: What exactly happened at that paper, Mitchum? (walks over to Mitchum)"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: It didn't work out, Richard. It was just one of those things. She's better off for what I did."
+                ],
+                [
+                    "richard",
+                    "RICHARD: And what exactly did you do?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Nothing you wouldn't have done."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Oh? And what was that?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: You're in the business world. You have employees, yes?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Of course."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Say you got a guy working in your office. You brought him in. Nice guy, everybody loves him, but he just doesn't have it. He's a drain on the company. What are you gonna do?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: My granddaughter was not a drain on your company."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: My point is that I wasn't going to put her in a position to become a drain. Now, Richard, really, we should get back out there."
+                ],
+                [
+                    "richard",
+                    "RICHARD: What did you say to her?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Richard...!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: (persistent) what did you say to her, Mitchum?"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: I did what I do with everyone. I called it like I saw it. I was honest with her. I don't pussyfoot. You know that."
+                ],
+                [
+                    "richard",
+                    "RICHARD: You crushed her."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: And if she's got what it takes, she'll bounce back. No one's every criticized you, reprimanded you, critiqued you? I find that hard to believe."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (staring to raise his voice) This is not about me."
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: She was in over her head. She lacked maturity."
+                ],
+                [
+                    "richard",
+                    "RICHARD: She's not even 21!"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: Look, just blame me, OK? I felt bad that she had to sit through that disastrous dinner with Shira and Pop, going on about marriage and how she can't become a Huntzberger. I don't care about any of that, so I gave her a shot, and she wasn't up to it."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (clearly upset) You crushed that girl!"
+                ],
+                [
+                    "mitchum",
+                    "MITCHUM: I did what I do. We should have done this on the phone. (Richard walks out of the room angrily)"
+                ]
+            ],
+            "participants": {
+                "mitchum": 23,
+                "richard": 22
+            }
+        },
+        {
+            "id": 24,
+            "title": "(CUT to main Hall, continuous. The band is still singing. Richard walks up to Emily upset)",
+            "lines": [
+                [
+                    "emily",
+                    "EMILY: Richard, there you are. This is one of your favourites, and you're missing it."
+                ],
+                [
+                    "richard",
+                    "RICHARD: It's all true, all of it."
+                ],
+                [
+                    "emily",
+                    "EMILY: What's true?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Everything she told us. Everything!"
+                ],
+                [
+                    "emily",
+                    "EMILY: ?Everything? who told us?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Lorelai. About what Mitchum did to Rory. How he said things to her, crushed her. About Logan's whole family!"
+                ],
+                [
+                    "emily",
+                    "EMILY: (disbelievingly) That can't be."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (frustrated) Mitchum just confirmed everything. He told that girl she wasn't good enough. I ought to punch him!"
+                ],
+                [
+                    "emily",
+                    "EMILY: Richard, calm down. People will hear."
+                ],
+                [
+                    "richard",
+                    "RICHARD: They don't want her marrying into their precious family. They don't think she's good enough. He told her that she didn't have it. And you know she does! I know she does!"
+                ],
+                [
+                    "emily",
+                    "EMILY: Of course she does."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I can't stay in this room with these people."
+                ],
+                [
+                    "emily",
+                    "EMILY: Richard, go outside, get some air."
+                ],
+                [
+                    "richard",
+                    "RICHARD: We should go home."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'll catch up with you. Go outside."
+                ],
+                [
+                    "richard",
+                    "RICHARD: (mad) Yeah, yeah. (Richard walks away. Emily turns slowly and menacingly and looks over at Shira's table. She walks over to her)"
+                ],
+                [
+                    "shira",
+                    "SHIRA: (greets Emily warmly) Emily!"
+                ],
+                [
+                    "emily",
+                    "EMILY: Hello, Shira. (they kiss hello) I'm here to rescue you. I've got a table for you and Mitchum right in the center."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Oh, bless you, Emily. I'm undeserving."
+                ],
+                [
+                    "emily",
+                    "EMILY: Nonsense. It was a terrible mistake, and it must be rectified."
+                ],
+                [
+                    "shira",
+                    "SHIRA: (referring to the band) Aren't they amazing?"
+                ],
+                [
+                    "emily",
+                    "EMILY: The whole combo is amazing. Follow me."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Me, I love the Beatles. Mitchum took me to see Paul McCartney last year, and I almost died. (Emily chuckles politely as Shira and her party get up. Emily holds Shira by the arm as she directs them to their new table)"
+                ],
+                [
+                    "emily",
+                    "EMILY: So Richard tells me we have a little problem."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Really? With what?"
+                ],
+                [
+                    "emily",
+                    "EMILY: With the kids. Logan, Rory. I understand you're not exactly thrilled with the match, that you let that be known to Rory at the dinner she had at your house. (they reach the table)"
+                ],
+                [
+                    "shira",
+                    "SHIRA: Oh, well, I wouldn't say \"not thrilled\"."
+                ],
+                [
+                    "emily",
+                    "EMILY: Then what would you say?"
+                ],
+                [
+                    "shira",
+                    "SHIRA: Oh, Emily, this is a party."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm just curious."
+                ],
+                [
+                    "shira",
+                    "SHIRA: This may not be the time and place, Emily. (she sits)"
+                ],
+                [
+                    "emily",
+                    "EMILY: (to two guests walking by) Hello, you two, drop by our table later. (back to Shira) Let's make it the time and place."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Consider the discrepancies, Emily."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, that's what's confusing me. They both come from good families, both have good values. Money doesn't seem to be an issue. We all have money."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Frankly, Emily, there's your money, then there's our money."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh?"
+                ],
+                [
+                    "shira",
+                    "SHIRA: And our family has a lot of responsibilities that come with that. An image to maintain."
+                ],
+                [
+                    "emily",
+                    "EMILY: Ah, yes! Well let me tell you this, Shira. We are just as good as you are. You don't think Rory is good enough for your son, as if we don't know Logan's reputation. We do. But he is welcome in our home anytime, and you should extend the same courtesy to Rory."
+                ],
+                [
+                    "shira",
+                    "SHIRA: Emily..."
+                ],
+                [
+                    "emily",
+                    "EMILY: Now let's talk about your money. (she bends over Shira?s chair) You were a two-bit gold digger, fresh off the bus from Hicksville when you met Mitchum at whatever bar you happened to stumble into. And what made Mitchum decide to choose you to marry amongst the pack of women he was bedding at the time, I'll never know. But hats off to you for bagging him. He's still a playboy, you know? Well, of course you know. That would explain why your weight goes up and down 30 pounds every other month. (Shira laughs uncomfortably) But that's your cross to bear. But these are ugly realities. No one needs to talk about them. Those kids are staying together for as long as they like. You won't stop them. Now, enjoy the event. (Emily walls away and Shira looks uncomfortable. Waving at another guest) Diane, hello! (Emily walks over to her table and sits down. The band Stops playing. The guests start to applaud as Rory walks on stage)"
+                ],
+                [
+                    "rory",
+                    "RORY: The Swing Dolls, everybody. (Richard walks back into the main Hall, as the people applaud) I'm Rory Gilmore, the architect of this event. (everyone starts to applaud again. Emily looks radiant) Thank you. And I'd like to take this moment to thank some others for the outstanding success this evening. To Lacey Boscombe, my right hand, my girl Friday, I could not have done it without you. To Glenda, Lance, the entire serving crew, thank you. To the kind people at KBC Audio who generously donated this amazing...(as Rory delivers her \"Thank You\" speech Richard looks at her with great sadness)"
+                ],
+                [
+                    "background",
+                    "END Of Episode 6.05 - We've Got Magic To Do"
+                ]
+            ],
+            "participants": {
+                "emily": 20,
+                "richard": 8,
+                "shira": 12,
+                "rory": 1
+            }
+        }
+    ]
+}
