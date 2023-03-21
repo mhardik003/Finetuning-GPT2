@@ -12,7 +12,7 @@ files = os.listdir("./The_Big_Bang_Theory")
 #sort files
 files.sort(key=lambda f: int(re.sub('\D', '', f)))
 
-pprint.pprint(files)
+# pprint.pprint(files)
 final_data=[]
 for file in files:
     
@@ -43,12 +43,15 @@ only_sheldon=[]
 
 for i, sentence in enumerate(final_data):
     if sentence.find("Sheldon:") != -1:
-        index1 = final_data[i-1].find(":")
+        # index1 = final_data[i-20:i].find(":")
         index2 = final_data[i].find(":")
-        only_sheldon.append({"dialog":[{"id":0, "sender":final_data[i-1][:index1], "text":final_data[i-1][index1+1:]},{"id":1,"sender":final_data[i][:index2],"text":final_data[i][index2+1:]}]})
+        if(i-20>=0 and index2!=-1):
+            only_sheldon.append({"dialog":[{"id":0, "sender":"Question", "text":'\n'.join(n for n in final_data[i-20:i])},{"id":1,"sender":final_data[i][:index2],"text":final_data[i][index2+1:]}]})
         
+        else:
+            only_sheldon.append({"dialog":[{"id":0, "sender":"Question", "text":final_data[i-1]},{"id":1,"sender":final_data[i][:index2],"text":final_data[i][index2+1:]}]})
     
-with open("sheldon_chats.json", "w") as outfile:
+with open("sheldon_chats_bigger_context.json", "w") as outfile:
     json.dump(only_sheldon, outfile)
     
     

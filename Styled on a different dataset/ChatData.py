@@ -16,11 +16,11 @@ class ChatData(Dataset):
             except:
                 break
 
-        self.X = self.X[:6000]
+        self.X = self.X[:5000]
         
         # print(self.X[0])
 
-        self.X_encoded = tokenizer(self.X,max_length=50, truncation=True, padding="max_length", return_tensors="pt")
+        self.X_encoded = tokenizer(self.X,max_length=300, truncation=True, padding="max_length", return_tensors="pt")
         self.input_ids = self.X_encoded['input_ids']
         self.attention_mask = self.X_encoded['attention_mask']
 
