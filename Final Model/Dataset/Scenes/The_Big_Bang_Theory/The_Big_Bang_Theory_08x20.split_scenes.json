@@ -1,0 +1,1543 @@
+{
+    "Episode Number": "08x20",
+    "Episode Title": "The Fortification Implementation",
+    "Recap": [
+        "Sheldon is depressed because he was left out of a group attending a symposium at the home of Richard Feynman. Wil Wheaton has Penny on his podcast to talk about the terrible movie they worked on together, \"Serial Ape-ist 2\". Kevin Smith calls to offer her an audition for Clerks III. Leonard, who is not thrilled with her risking her good pharmaceutical job, is stunned when he learns she makes twice the money than he does and is being more mature than him. Howard now owns his mother's house after his father Sam signed it away with no contact. While discussing future plans with Raj and Bernadette, Howard is shocked when he is visited by a half-brother, Josh."
+    ],
+    "Show Title": "The Big Bang Theory",
+    "Transcript": [
+        "[ The cafeteria ]",
+        "[SCENE_BREAK]",
+        "Raj: You're wrong.",
+        "Howard: No, I'm not.",
+        "Raj: Yes, you are.",
+        "Howard: No, I'm not. Settle this. Those little animated pictures on the Internet, are they called gifs or jifs?",
+        "Leonard: Well, the G stands for graphics. That's a hard G, so I'd say gif.",
+        "Raj: The guy who invented it says it's jif.",
+        "Howard: I'm sorry, do you mean the guy or the juy?",
+        "Sheldon: Well, I'll give you three guesses why I'm so irritated.",
+        "Howard: Something happened different from the way you wanted it.",
+        "Sheldon: I guess news travels fast. It's true, a select group of scientists was invited to a weekend symposium at a former home of Richard Feynman, and I wasn't included.",
+        "Leonard: Oh, Sheldon, I'm sure it's not because they don't think you're an elite scientist.",
+        "Howard: Yeah, I bet you anything it's just 'cause you're a pain in the ass.",
+        "Sheldon: You're just saying that to make me feel better.",
+        "Leonard: Look, you can spend the rest of the day being bitter about this.",
+        "Sheldon: Agreed.",
+        "Leonard: I was gonna say or, but why bother?",
+        "[SCENE_BREAK]",
+        "\u266a Our whole universe was in a hot, dense state \u266a \u266a Then nearly 14 billion years ago expansion started... Wait! \u266a \u266a The Earth began to cool \u266a \u266a The autotrophs began to drool, Neanderthals developed tools \u266a \u266a We built the Wall \u266a \u266a We built the pyramids \u266a \u266a Math, Science, History, unraveling the mystery \u266a \u266a That all started with a big bang \u266a \u266a Bang! \u266a",
+        "Original Air Date on April 9, 2015",
+        "[SCENE_BREAK]",
+        "[ Mrs Wolowitz's house ]",
+        "[SCENE_BREAK]",
+        "Bernadette: Hey, Raj.",
+        "Raj: Hey, I got you a little gift.",
+        "Bernadette: Oh, that's a lot of Girl Scout Cookies.",
+        "Raj: You know me. I'm from India. I can't resist children begging. So, how's it going with the title to the house?",
+        "Howard: Great, it's all done. The lawyer tracked down my father and got him to sign it over. I didn't have to meet him, I didn't have to talk to him, I don't even know where he is.",
+        "Raj: Wow, so you're not curious at all?",
+        "Howard: Nope.",
+        "Raj: Hmm. What if he's in prison? What if he's a spy? What if he's in a Beatles cover band? I'm just saying, if he's got your nose and haircut, he'd make a killer Ringo.",
+        "[SCENE_BREAK]",
+        "[ Penny's apartment ]",
+        "[SCENE_BREAK]",
+        "Wil Wheaton: Thanks again for agreeing to do this.",
+        "Penny: Oh, it's cool, I've never been on a podcast before.",
+        "Leonard: Well, you picked a good one to start. Wil's had lots of great guests. Jonathan Frakes, Brent Spiner, Michael Dorn, Gates McFadden.",
+        "Penny: Those are Star Trek people.",
+        "Leonard: Yes.",
+        "Penny: I only figured that out because I've never heard of any of them.",
+        "Wil: I deserve that. I invited you on my show and I drove here.",
+        "Penny: Sorry.",
+        "Wil: Okay, so, this is basically gonna be just like a little talk show. Uh, we're gonna take some calls, we'll talk about what it was like on the set of Serial Ape-ist 2. It should be really fun.",
+        "Leonard: This is exciting.",
+        "Penny: Yeah, so, how many people listen?",
+        "Wil: Most people download it later, but usually a few thousand people listen live.",
+        "Penny: What? A few thousand people listen to you talk about nerd stuff?",
+        "Wil: Again, right in the ears, straight to the feelings.",
+        "[SCENE_BREAK]",
+        "[ The apartment ]",
+        "[SCENE_BREAK]",
+        "Amy: Can you please pass the salt?",
+        "Sheldon: Sure. It's not like I was invited to Richard Feynman's house and have anything better to do.",
+        "Amy: Is this how the rest of the night's going to be?",
+        "Sheldon: I don't know the future. Do you think there's a chance that an asteroid could hit the Earth, destroying Feynman's house and everyone in it?",
+        "Amy: No, Sheldon.",
+        "Sheldon: Then buckle up, you're in for a cranky night.",
+        "Amy: According to the codicil of the Relationship Agreement which you insisted upon, we're not allowed to pout or be moody on date night.",
+        "Sheldon: You know I just put that in because of uterus stuff.",
+        "Amy: Well, it applies to you, too.",
+        "Sheldon: I was afraid you might bring this up, so I have a work-around. There you go. As far as you're concerned, I'm smiling. Although, I must admit, I'm smiling a little bit at the moment because this loophole is so brilliant.",
+        "[SCENE_BREAK]",
+        "[ Mrs Wolowitz's house ]",
+        "[SCENE_BREAK]",
+        "Raj: So, Bernadette, have you thought about how you're going to redecorate this place?",
+        "Bernadette: You know, I'm thinking ripping up the carpets, maybe lose the wallpaper, all new light fixtures.",
+        "Raj: You know, if you knocked out this wall, it would give you an open floor plan, and then, it's a little scary, but could be fun, indoor fire pit.",
+        "(doorbell rings)",
+        "Howard: Hey, I grew up in this house, okay? No one's knocking anything down.",
+        "Bernadette: Okay, okay. When he's at Comic-Con, I'm bringing in a wrecking ball.",
+        "Howard: Can I help you?",
+        "Guy at door: Hi. Are you Howard Wolowitz?",
+        "Howard: Yes.",
+        "Guy: Um, this is a little weird, but a lawyer was trying to contact my father, because his name was still on the title for this house.",
+        "Howard: Wuh, uh, who's your father?",
+        "Guy: Sam Wolowitz.",
+        "Howard: S-Sam Wolowitz is my father.",
+        "Guy: I know.",
+        "Howard: Well, wait, so if we have the same father, are, are you saying you're my half-brother?",
+        "Guy: I think so.",
+        "Howard: Bernadette, weird things are happening out here.",
+        "[SCENE_BREAK]",
+        "[ Penny's apartment ]",
+        "[SCENE_BREAK]",
+        "Penny: I think I started to suspect it was a bad movie when I looked at the script and saw the title, Serial Ape-ist 2: Monkey See, Monkey Kill.",
+        "Wil: Uh, spoiler alert, after the monkey sees, it kills.",
+        "Leonard: Psst.",
+        "Wil: I've just been handed a note. I'm going to read it. \"Wil, do you want more Diet Coke? Also, we have juice.\"",
+        "Leonard: I-I didn't want to interrupt.",
+        "Wil: Uh, that voice you just heard belongs to Leonard, Penny's fianc\u00e9. Uh, Leonard, why don't you grab some headphones and join us?",
+        "Leonard: Really?",
+        "Wil: Yeah.",
+        "Leonard: (chuckles) Yeah, great.",
+        "Wil: So, while Leonard gets set up, let's take a call. Hello, caller, you are on with Penny and Wil from Serial Ape-ist 2.",
+        "Woman Caller: I don't have a question. I just want to say I'm a big fan of the movie. I've seen it, like, ten times.",
+        "Penny: Okay, well, I'll apologize for the first time, but the other nine are on you.",
+        "Wil: Thanks a lot, caller. You know that the movie actually has a little bit of a cult following.",
+        "Penny: Really?",
+        "Wil: Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character.",
+        "Leonard: Oh, if she was with an Indian guy dressed like a banana, that was just my friends, Howard and Raj.",
+        "Wil: All right, it's time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he's the guy who directed Clerks. Hello, Kevin Smith.",
+        "Kevn: Hey, man, yo, is everything okay, Wil? 'Cause it's been, like, two minutes and you haven't even brought up Stand By Me.",
+        "Penny: Hey, Kevin. It's really exciting to talk to you.",
+        "Leonard: It really is.",
+        "Kevin: Oh, you guys are very sweet. So, Penny, listen, I saw your movie.",
+        "Penny: Oh, wow. I wish it was better.",
+        "Wil: Oh, don't worry about it. Have you seen some of Kevin's films?",
+        "Kevin: You're cruisin' for a beatin', Wheaton. Anyway, man, I dug the ape movie, Penny. And I thought you were, like, really great in it.",
+        "Penny: Aw.",
+        "Wil: You know, I'm in the movie, too.",
+        "Kevin: Yeah, whatever. Penny. Penny, how come you're not in more stuff, man? I'd cast you in a minute.",
+        "Penny: Seriously?",
+        "Kevin: Oh, yeah, man. I'm actually in pre-production on a movie right now. Way different than anything I've ever done before. It's called Clerks 3. You should come over and read for a part.",
+        "Penny: Oh, my, I would love that.",
+        "Leonard: You have a new job.",
+        "Penny: Well, maybe I can do both.",
+        "Leonard: I don't think you can do both.",
+        "Penny: I don't think I asked you.",
+        "Kevin: Yeah, you tell him, Penny.",
+        "Leonard: Stay out of it, Kevin Smith.",
+        "[SCENE_BREAK]",
+        "[ The apartment ]",
+        "[SCENE_BREAK]",
+        "Sheldon: Do you think there comes a point in life when it stops feeling bad to be left out of things?",
+        "Amy: Probably not. It's an evolutionary advantage to be included in group activities.",
+        "Sheldon: You know what? I used to be a fan of evolution, but I've since evolved, and now I think it's dumb.",
+        "Amy: Being left out is a terrible feeling. No one understands that better than I do.",
+        "Sheldon: Hey, look at that. Even in your example, you're all by yourself.",
+        "Amy: When there was a lice epidemic at my school, everybody got it except me. I tried to fool everyone by sprinkling sugar in my hair, but I just got attacked by bees.",
+        "Sheldon: I can just picture them all right now at Feynman's house, probably discussing Schrodinger and at the same time, not discussing Schrodinger. See? They're missing out on hilarious jokes like that.",
+        "Amy: And at the same time, not.",
+        "Sheldon: It reminds me of when my stupid brother and sister would build forts in the living room and wouldn't let me in. I hated that so much.",
+        "Amy: You know, there's nothing I can do about getting you invited to the symposium, but if you wanted, we could build a fort.",
+        "Sheldon: Isn't that a little juvenile?",
+        "Amy: More juvenile than this?",
+        "Sheldon: I'll get the blankets. You Google how to have childlike fun.",
+        "[SCENE_BREAK]",
+        "[ Mrs Wolowitz's house ]",
+        "[SCENE_BREAK]",
+        "Howard: You know what, I'm being a bad host. Let me get some more coffee.",
+        "Bernadette: Oh, let me do it, Howard.",
+        "Howard: No, I got it.",
+        "Bernadette: So, Josh, what do you do?",
+        "Josh: I'm studying oceanography down in San Diego.",
+        "Bernadette: Oh, how nice. I loved Finding Nemo.",
+        "Raj: Enough chitchat. How do we know you are who you say you are?",
+        "Josh: Why would I lie?",
+        "Raj: Okay, you got me there. You here looking for money?",
+        "Josh: No.",
+        "Raj: A kidney, cornea, piece of his liver?",
+        "Josh: No.",
+        "Raj: You're in a Beatles cover band and you need Howard to replace your dad as Ringo.",
+        "Bernadette: Why don't you help with the coffee?",
+        "Raj: Okay, but something smells fishy. And not just because you work around sea animals. That actually sounds interesting, and I'd like to learn more about it. Hey, you okay?",
+        "Howard: Not really. This guy shows up out of the blue, and now I have a brother? My father has another family?",
+        "Raj: I get it. What do you want to do?",
+        "Howard: I don't know. I, I'd just like him to go away. I can't deal with this.",
+        "Raj: All right, I've got your back.",
+        "Howard: Thank you. Come on. And I'd like to point out, this wall just provided a lot of privacy.",
+        "Josh: I can't believe my brother's an astronaut. That's amazing. What was it like?",
+        "Raj: Listen, dude, it's time for you to hit the road.",
+        "Howard: Hey, hey, the young man asked a good question.",
+        "[SCENE_BREAK]",
+        "[ Penny's apartment ]",
+        "[SCENE_BREAK]",
+        "Wil: So, for those of you just tuning in, we are listening to a really fun fight between my co-star...",
+        "Leonard: No, no, no. We're not fighting, we're just having a conversation.",
+        "Wil: All right. We're listening to a really fun conversation between my co-star from Serial Ape-ist 2 and her fianc\u00e9, who doesn't believe women should have dreams.",
+        "Leonard: Give me back that juice.",
+        "Penny: What is the harm if I audition?",
+        "Leonard: Well, what if you get it?",
+        "Penny: I don't know, I make a movie, become rich and famous, win an Oscar, a Golden Globe and live an incredibly wonderful life.",
+        "Leonard: From a Kevin Smith movie?",
+        "Kevin: Oh, I'm hanging up now.",
+        "Wil: Don't you listen to him, buddy. You're awesome. You're one of the greatest directors of our time.",
+        "Kevin: I don't have a part for you, Wheaton.",
+        "Wil: And that was Kevin Smith.",
+        "Penny: Thanks a lot.",
+        "Leonard: I'm just trying to protect you. How many times did I see you get your heart broken trying to make it as an actress?",
+        "Penny: Okay, instead of protecting me, why don't you try being excited when something good happens?",
+        "Leonard: I'm always excited for you. I'm excited that you found this new job where you're making decent money.",
+        "Penny: Decent? I make twice what you make.",
+        "Leonard: Wait, twice?",
+        "Penny: Yeah.",
+        "Leonard: Like, times two twice?",
+        "Wil: For those of you at home, Leonard just found out his fianc\u00e9e makes way more money than he does. Let's listen.",
+        "Leonard: I went to school for half my life. I have a doctorate. I'm still paying off college loans.",
+        "Penny: Well, how much do you owe? Maybe I can help you out.",
+        "Leonard: Wil, can we just turn off the podcast for a little bit?",
+        "Wil: For those of you at home, I am shaking my head no.",
+        "[SCENE_BREAK]",
+        "[ The apartment. Including fort ]",
+        "[SCENE_BREAK]",
+        "Amy: How's it going, Sheldon?",
+        "Sheldon: Wonderful. I just finished hanging the lights.",
+        "Amy: Can I come in?",
+        "Sheldon: Yes, oh, but enter through the side. Batman is a load-bearing blanket.",
+        "Amy: Amazing.",
+        "Sheldon: I know. This isn't the printout. This is my real face.",
+        "Amy: What are we doing? This is a fort. Let's sit on the floor.",
+        "Sheldon: Roughing it? Okay. Everything looks so big from down here. This must be how Leonard feels.",
+        "[SCENE_BREAK]",
+        "[ Mrs Wolowitz's house ]",
+        "[SCENE_BREAK]",
+        "Howard: I'm surprised you could hear me with this Thin Mint in your ear. Yeah, pretty cool, huh?",
+        "Josh: Yeah. Anyway, I should probably get going.",
+        "Bernadette: Howie, have you noticed how often people say that when you start to do magic?",
+        "Josh: Sorry, I have a long drive.",
+        "Howard: Well, I hope I get to see you again.",
+        "Josh: (chuckles) I hope so, too. I've always dreamed of having a brother to play catch with.",
+        "Bernadette: Keep dreaming.",
+        "Howard: Hey, I threw out the first pitch at an Angels game.",
+        "Josh: Wow.",
+        "Bernadette: He did it with a robot.",
+        "Josh: You had s*x with a robot?",
+        "Howard: That's not what she meant.",
+        "Raj: But technically, yes.",
+        "[SCENE_BREAK]",
+        "[ Penny's apartment ]",
+        "[SCENE_BREAK]",
+        "Leonard: Hang on, if you're making all this money, where is it?",
+        "Penny: In a safe place.",
+        "Leonard: What does that mean, under your bed?",
+        "Penny: No, it means a diversified portfolio of stocks and bonds. I'm not overly conservative. I'm young, so my guy said I can afford to take some risks.",
+        "Leonard: Wait a minute, you have \"a guy\"?",
+        "Penny: Don't you have a guy?",
+        "Leonard: Why would I have a guy? I don't have any money.",
+        "Penny: Oh, sweetie, you should really get some money.",
+        "Wil: For those of you listening at home, how great is this?",
+        "Leonard: Wil, I'm begging you, just please turn that off.",
+        "Wil: Sure. And we're back.",
+        "Penny: Leonard, why are you making such a big deal out of this? So our roles have changed a bit over the last couple years. This is the way life is. And I'm sure in time they'll change again.",
+        "Leonard: Great, you're not only more successful than me, now you're more mature.",
+        "Penny: Okay, look, would it make you feel better if I did something dumb like sneak out of work one day to go audition for a Kevin Smith movie?",
+        "Leonard: That would be great, thank you.",
+        "Wil: I'm just gonna jump in here real quick. Leonard, a moment ago, you were dead set against Penny resuming her acting career, but now you're all for it. Is it fair to say that she played you like a violin?",
+        "Leonard: Yes, it is, Wil.",
+        "[SCENE_BREAK]",
+        "[ Mrs Wolowitz's house ]",
+        "[SCENE_BREAK]",
+        "Josh: So, I have to ask, was the robot sexy?",
+        "Howard: (chuckles) It was actually just a mechanical hand.",
+        "Josh: 'Cause that's all you need, right?",
+        "Howard: You are my brother.",
+        "[SCENE_BREAK]",
+        "[ The fort ]",
+        "[SCENE_BREAK]",
+        "Sheldon: Okay, so the final four forts in the first annual best fort ever contest, or \"fort off\", are, Fort Knox, Fort Ticonderoga, Fort Sumter and Fort Cozy McBlanket.",
+        "Amy: I'd say, Knox over Ticonderoga, 'cause it's got the gold.",
+        "Sheldon: Mm-hmm.",
+        "Amy: And McBlanket over Sumter 'cause it has a higher thread count. (phone rings) Oh. Ten o'clock. Date night's over.",
+        "Sheldon: Wait, no. We haven't picked a winner.",
+        "Amy: We both know this one's gonna win.",
+        "Sheldon: Well, of course we do. Fort Knox doesn't have a secret physics lending library.",
+        "Amy: Come on, I'll help you take this down.",
+        "Sheldon: Well, wait. What if, just this once, we suspend the date night parameters and you stay later?",
+        "Amy: Well, as long as we're suspending the parameters, I could stay really late and we could have our first sleepover.",
+        "Sheldon: That's a big step.",
+        "Amy: It's a big fort.",
+        "Sheldon: Very well. I will agree to a family-friendly, G-rated, boy-girl sleepover.",
+        "Amy: PG. Some scenes may be too intense for younger viewers.",
+        "Sheldon: G-rated, with a warning for families with babies and toddlers.",
+        "Amy: You got yourself a sleepover.",
+        "Sheldon: Do you need to borrow a toothbrush or pajamas?",
+        "Amy: Would it alarm you to know that I hid those things here two years ago just in case this ever came up?",
+        "Sheldon: It would, but you know how much I admire preparedness. How did you know we'd be in the living room?",
+        "Amy: Who says this is the only one I hid?",
+        "[SCENE_BREAK]",
+        "[ The apartment ]",
+        "[SCENE_BREAK]",
+        "Leonard: Hello? What is this?",
+        "Sheldon: We built a fort.",
+        "Leonard: Are those my sheets?",
+        "Amy: Yes, they are.",
+        "Leonard: Okay. Well, you kids have fun. I'm gonna go to sleep.",
+        "Sheldon: Well, Leonard, don't you want to see the inside of the fort?",
+        "Leonard: Yeah, I'm good.",
+        "Sheldon: Oh, come on. I really wanted to tell someone they can't come in.",
+        "Leonard: Okay, fine. Sheldon, may I please visit your fort?",
+        "Sheldon: I want to say no, but it's too glorious. Get in here.",
+        "Leonard: Thank you.",
+        "Amy: Okay, have a seat on the floor.",
+        "Sheldon: Not there. That's my spot."
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[ The cafeteria ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "raj",
+                    "Raj: You're wrong."
+                ],
+                [
+                    "howard",
+                    "Howard: No, I'm not."
+                ],
+                [
+                    "raj",
+                    "Raj: Yes, you are."
+                ],
+                [
+                    "howard",
+                    "Howard: No, I'm not. Settle this. Those little animated pictures on the Internet, are they called gifs or jifs?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Well, the G stands for graphics. That's a hard G, so I'd say gif."
+                ],
+                [
+                    "raj",
+                    "Raj: The guy who invented it says it's jif."
+                ],
+                [
+                    "howard",
+                    "Howard: I'm sorry, do you mean the guy or the juy?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, I'll give you three guesses why I'm so irritated."
+                ],
+                [
+                    "howard",
+                    "Howard: Something happened different from the way you wanted it."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I guess news travels fast. It's true, a select group of scientists was invited to a weekend symposium at a former home of Richard Feynman, and I wasn't included."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Oh, Sheldon, I'm sure it's not because they don't think you're an elite scientist."
+                ],
+                [
+                    "howard",
+                    "Howard: Yeah, I bet you anything it's just 'cause you're a pain in the ass."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: You're just saying that to make me feel better."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Look, you can spend the rest of the day being bitter about this."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Agreed."
+                ],
+                [
+                    "leonard",
+                    "Leonard: I was gonna say or, but why bother?"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "background",
+                    "\u266a Our whole universe was in a hot, dense state \u266a \u266a Then nearly 14 billion years ago expansion started... Wait! \u266a \u266a The Earth began to cool \u266a \u266a The autotrophs began to drool, Neanderthals developed tools \u266a \u266a We built the Wall \u266a \u266a We built the pyramids \u266a \u266a Math, Science, History, unraveling the mystery \u266a \u266a That all started with a big bang \u266a \u266a Bang! \u266a"
+                ],
+                [
+                    "background",
+                    "Original Air Date on April 9, 2015"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "raj": 3,
+                "howard": 5,
+                "leonard": 4,
+                "sheldon": 4
+            }
+        },
+        {
+            "id": 2,
+            "title": "[ Mrs Wolowitz's house ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Hey, Raj."
+                ],
+                [
+                    "raj",
+                    "Raj: Hey, I got you a little gift."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Oh, that's a lot of Girl Scout Cookies."
+                ],
+                [
+                    "raj",
+                    "Raj: You know me. I'm from India. I can't resist children begging. So, how's it going with the title to the house?"
+                ],
+                [
+                    "howard",
+                    "Howard: Great, it's all done. The lawyer tracked down my father and got him to sign it over. I didn't have to meet him, I didn't have to talk to him, I don't even know where he is."
+                ],
+                [
+                    "raj",
+                    "Raj: Wow, so you're not curious at all?"
+                ],
+                [
+                    "howard",
+                    "Howard: Nope."
+                ],
+                [
+                    "raj",
+                    "Raj: Hmm. What if he's in prison? What if he's a spy? What if he's in a Beatles cover band? I'm just saying, if he's got your nose and haircut, he'd make a killer Ringo."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "bernadette": 2,
+                "raj": 4,
+                "howard": 2
+            }
+        },
+        {
+            "id": 3,
+            "title": "[ Penny's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "wil wheaton",
+                    "Wil Wheaton: Thanks again for agreeing to do this."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, it's cool, I've never been on a podcast before."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Well, you picked a good one to start. Wil's had lots of great guests. Jonathan Frakes, Brent Spiner, Michael Dorn, Gates McFadden."
+                ],
+                [
+                    "penny",
+                    "Penny: Those are Star Trek people."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Yes."
+                ],
+                [
+                    "penny",
+                    "Penny: I only figured that out because I've never heard of any of them."
+                ],
+                [
+                    "wil",
+                    "Wil: I deserve that. I invited you on my show and I drove here."
+                ],
+                [
+                    "penny",
+                    "Penny: Sorry."
+                ],
+                [
+                    "wil",
+                    "Wil: Okay, so, this is basically gonna be just like a little talk show. Uh, we're gonna take some calls, we'll talk about what it was like on the set of Serial Ape-ist 2. It should be really fun."
+                ],
+                [
+                    "leonard",
+                    "Leonard: This is exciting."
+                ],
+                [
+                    "penny",
+                    "Penny: Yeah, so, how many people listen?"
+                ],
+                [
+                    "wil",
+                    "Wil: Most people download it later, but usually a few thousand people listen live."
+                ],
+                [
+                    "penny",
+                    "Penny: What? A few thousand people listen to you talk about nerd stuff?"
+                ],
+                [
+                    "wil",
+                    "Wil: Again, right in the ears, straight to the feelings."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "wil wheaton": 1,
+                "penny": 6,
+                "leonard": 3,
+                "wil": 4
+            }
+        },
+        {
+            "id": 4,
+            "title": "[ The apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "amy",
+                    "Amy: Can you please pass the salt?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Sure. It's not like I was invited to Richard Feynman's house and have anything better to do."
+                ],
+                [
+                    "amy",
+                    "Amy: Is this how the rest of the night's going to be?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I don't know the future. Do you think there's a chance that an asteroid could hit the Earth, destroying Feynman's house and everyone in it?"
+                ],
+                [
+                    "amy",
+                    "Amy: No, Sheldon."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Then buckle up, you're in for a cranky night."
+                ],
+                [
+                    "amy",
+                    "Amy: According to the codicil of the Relationship Agreement which you insisted upon, we're not allowed to pout or be moody on date night."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: You know I just put that in because of uterus stuff."
+                ],
+                [
+                    "amy",
+                    "Amy: Well, it applies to you, too."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I was afraid you might bring this up, so I have a work-around. There you go. As far as you're concerned, I'm smiling. Although, I must admit, I'm smiling a little bit at the moment because this loophole is so brilliant."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "amy": 5,
+                "sheldon": 5
+            }
+        },
+        {
+            "id": 5,
+            "title": "[ Mrs Wolowitz's house ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "raj",
+                    "Raj: So, Bernadette, have you thought about how you're going to redecorate this place?"
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: You know, I'm thinking ripping up the carpets, maybe lose the wallpaper, all new light fixtures."
+                ],
+                [
+                    "raj",
+                    "Raj: You know, if you knocked out this wall, it would give you an open floor plan, and then, it's a little scary, but could be fun, indoor fire pit."
+                ],
+                [
+                    "background",
+                    "(doorbell rings)"
+                ],
+                [
+                    "howard",
+                    "Howard: Hey, I grew up in this house, okay? No one's knocking anything down."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Okay, okay. When he's at Comic-Con, I'm bringing in a wrecking ball."
+                ],
+                [
+                    "howard",
+                    "Howard: Can I help you?"
+                ],
+                [
+                    "guy at door",
+                    "Guy at door: Hi. Are you Howard Wolowitz?"
+                ],
+                [
+                    "howard",
+                    "Howard: Yes."
+                ],
+                [
+                    "guy",
+                    "Guy: Um, this is a little weird, but a lawyer was trying to contact my father, because his name was still on the title for this house."
+                ],
+                [
+                    "howard",
+                    "Howard: Wuh, uh, who's your father?"
+                ],
+                [
+                    "guy",
+                    "Guy: Sam Wolowitz."
+                ],
+                [
+                    "howard",
+                    "Howard: S-Sam Wolowitz is my father."
+                ],
+                [
+                    "guy",
+                    "Guy: I know."
+                ],
+                [
+                    "howard",
+                    "Howard: Well, wait, so if we have the same father, are, are you saying you're my half-brother?"
+                ],
+                [
+                    "guy",
+                    "Guy: I think so."
+                ],
+                [
+                    "howard",
+                    "Howard: Bernadette, weird things are happening out here."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "raj": 2,
+                "bernadette": 2,
+                "howard": 7,
+                "guy at door": 1,
+                "guy": 4
+            }
+        },
+        {
+            "id": 6,
+            "title": "[ Penny's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "penny",
+                    "Penny: I think I started to suspect it was a bad movie when I looked at the script and saw the title, Serial Ape-ist 2: Monkey See, Monkey Kill."
+                ],
+                [
+                    "wil",
+                    "Wil: Uh, spoiler alert, after the monkey sees, it kills."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Psst."
+                ],
+                [
+                    "wil",
+                    "Wil: I've just been handed a note. I'm going to read it. \"Wil, do you want more Diet Coke? Also, we have juice.\""
+                ],
+                [
+                    "leonard",
+                    "Leonard: I-I didn't want to interrupt."
+                ],
+                [
+                    "wil",
+                    "Wil: Uh, that voice you just heard belongs to Leonard, Penny's fianc\u00e9. Uh, Leonard, why don't you grab some headphones and join us?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Really?"
+                ],
+                [
+                    "wil",
+                    "Wil: Yeah."
+                ],
+                [
+                    "leonard",
+                    "Leonard: (chuckles) Yeah, great."
+                ],
+                [
+                    "wil",
+                    "Wil: So, while Leonard gets set up, let's take a call. Hello, caller, you are on with Penny and Wil from Serial Ape-ist 2."
+                ],
+                [
+                    "woman caller",
+                    "Woman Caller: I don't have a question. I just want to say I'm a big fan of the movie. I've seen it, like, ten times."
+                ],
+                [
+                    "penny",
+                    "Penny: Okay, well, I'll apologize for the first time, but the other nine are on you."
+                ],
+                [
+                    "wil",
+                    "Wil: Thanks a lot, caller. You know that the movie actually has a little bit of a cult following."
+                ],
+                [
+                    "penny",
+                    "Penny: Really?"
+                ],
+                [
+                    "wil",
+                    "Wil: Yeah. I was at a science-fiction convention, and I saw a woman dressed as your half-ape character."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Oh, if she was with an Indian guy dressed like a banana, that was just my friends, Howard and Raj."
+                ],
+                [
+                    "wil",
+                    "Wil: All right, it's time for a very special guest caller, a friend of mine, who you probably know as the director of such movies as Clerks, or from podcasts and books where he often reminds you that he's the guy who directed Clerks. Hello, Kevin Smith."
+                ],
+                [
+                    "kevn",
+                    "Kevn: Hey, man, yo, is everything okay, Wil? 'Cause it's been, like, two minutes and you haven't even brought up Stand By Me."
+                ],
+                [
+                    "penny",
+                    "Penny: Hey, Kevin. It's really exciting to talk to you."
+                ],
+                [
+                    "leonard",
+                    "Leonard: It really is."
+                ],
+                [
+                    "kevin",
+                    "Kevin: Oh, you guys are very sweet. So, Penny, listen, I saw your movie."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, wow. I wish it was better."
+                ],
+                [
+                    "wil",
+                    "Wil: Oh, don't worry about it. Have you seen some of Kevin's films?"
+                ],
+                [
+                    "kevin",
+                    "Kevin: You're cruisin' for a beatin', Wheaton. Anyway, man, I dug the ape movie, Penny. And I thought you were, like, really great in it."
+                ],
+                [
+                    "penny",
+                    "Penny: Aw."
+                ],
+                [
+                    "wil",
+                    "Wil: You know, I'm in the movie, too."
+                ],
+                [
+                    "kevin",
+                    "Kevin: Yeah, whatever. Penny. Penny, how come you're not in more stuff, man? I'd cast you in a minute."
+                ],
+                [
+                    "penny",
+                    "Penny: Seriously?"
+                ],
+                [
+                    "kevin",
+                    "Kevin: Oh, yeah, man. I'm actually in pre-production on a movie right now. Way different than anything I've ever done before. It's called Clerks 3. You should come over and read for a part."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, my, I would love that."
+                ],
+                [
+                    "leonard",
+                    "Leonard: You have a new job."
+                ],
+                [
+                    "penny",
+                    "Penny: Well, maybe I can do both."
+                ],
+                [
+                    "leonard",
+                    "Leonard: I don't think you can do both."
+                ],
+                [
+                    "penny",
+                    "Penny: I don't think I asked you."
+                ],
+                [
+                    "kevin",
+                    "Kevin: Yeah, you tell him, Penny."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Stay out of it, Kevin Smith."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "penny": 10,
+                "wil": 10,
+                "leonard": 9,
+                "woman caller": 1,
+                "kevn": 1,
+                "kevin": 5
+            }
+        },
+        {
+            "id": 7,
+            "title": "[ The apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Do you think there comes a point in life when it stops feeling bad to be left out of things?"
+                ],
+                [
+                    "amy",
+                    "Amy: Probably not. It's an evolutionary advantage to be included in group activities."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: You know what? I used to be a fan of evolution, but I've since evolved, and now I think it's dumb."
+                ],
+                [
+                    "amy",
+                    "Amy: Being left out is a terrible feeling. No one understands that better than I do."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Hey, look at that. Even in your example, you're all by yourself."
+                ],
+                [
+                    "amy",
+                    "Amy: When there was a lice epidemic at my school, everybody got it except me. I tried to fool everyone by sprinkling sugar in my hair, but I just got attacked by bees."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I can just picture them all right now at Feynman's house, probably discussing Schrodinger and at the same time, not discussing Schrodinger. See? They're missing out on hilarious jokes like that."
+                ],
+                [
+                    "amy",
+                    "Amy: And at the same time, not."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: It reminds me of when my stupid brother and sister would build forts in the living room and wouldn't let me in. I hated that so much."
+                ],
+                [
+                    "amy",
+                    "Amy: You know, there's nothing I can do about getting you invited to the symposium, but if you wanted, we could build a fort."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Isn't that a little juvenile?"
+                ],
+                [
+                    "amy",
+                    "Amy: More juvenile than this?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I'll get the blankets. You Google how to have childlike fun."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "sheldon": 7,
+                "amy": 6
+            }
+        },
+        {
+            "id": 8,
+            "title": "[ Mrs Wolowitz's house ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "howard",
+                    "Howard: You know what, I'm being a bad host. Let me get some more coffee."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Oh, let me do it, Howard."
+                ],
+                [
+                    "howard",
+                    "Howard: No, I got it."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: So, Josh, what do you do?"
+                ],
+                [
+                    "josh",
+                    "Josh: I'm studying oceanography down in San Diego."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Oh, how nice. I loved Finding Nemo."
+                ],
+                [
+                    "raj",
+                    "Raj: Enough chitchat. How do we know you are who you say you are?"
+                ],
+                [
+                    "josh",
+                    "Josh: Why would I lie?"
+                ],
+                [
+                    "raj",
+                    "Raj: Okay, you got me there. You here looking for money?"
+                ],
+                [
+                    "josh",
+                    "Josh: No."
+                ],
+                [
+                    "raj",
+                    "Raj: A kidney, cornea, piece of his liver?"
+                ],
+                [
+                    "josh",
+                    "Josh: No."
+                ],
+                [
+                    "raj",
+                    "Raj: You're in a Beatles cover band and you need Howard to replace your dad as Ringo."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Why don't you help with the coffee?"
+                ],
+                [
+                    "raj",
+                    "Raj: Okay, but something smells fishy. And not just because you work around sea animals. That actually sounds interesting, and I'd like to learn more about it. Hey, you okay?"
+                ],
+                [
+                    "howard",
+                    "Howard: Not really. This guy shows up out of the blue, and now I have a brother? My father has another family?"
+                ],
+                [
+                    "raj",
+                    "Raj: I get it. What do you want to do?"
+                ],
+                [
+                    "howard",
+                    "Howard: I don't know. I, I'd just like him to go away. I can't deal with this."
+                ],
+                [
+                    "raj",
+                    "Raj: All right, I've got your back."
+                ],
+                [
+                    "howard",
+                    "Howard: Thank you. Come on. And I'd like to point out, this wall just provided a lot of privacy."
+                ],
+                [
+                    "josh",
+                    "Josh: I can't believe my brother's an astronaut. That's amazing. What was it like?"
+                ],
+                [
+                    "raj",
+                    "Raj: Listen, dude, it's time for you to hit the road."
+                ],
+                [
+                    "howard",
+                    "Howard: Hey, hey, the young man asked a good question."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "howard": 6,
+                "bernadette": 4,
+                "josh": 5,
+                "raj": 8
+            }
+        },
+        {
+            "id": 9,
+            "title": "[ Penny's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "wil",
+                    "Wil: So, for those of you just tuning in, we are listening to a really fun fight between my co-star..."
+                ],
+                [
+                    "leonard",
+                    "Leonard: No, no, no. We're not fighting, we're just having a conversation."
+                ],
+                [
+                    "wil",
+                    "Wil: All right. We're listening to a really fun conversation between my co-star from Serial Ape-ist 2 and her fianc\u00e9, who doesn't believe women should have dreams."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Give me back that juice."
+                ],
+                [
+                    "penny",
+                    "Penny: What is the harm if I audition?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Well, what if you get it?"
+                ],
+                [
+                    "penny",
+                    "Penny: I don't know, I make a movie, become rich and famous, win an Oscar, a Golden Globe and live an incredibly wonderful life."
+                ],
+                [
+                    "leonard",
+                    "Leonard: From a Kevin Smith movie?"
+                ],
+                [
+                    "kevin",
+                    "Kevin: Oh, I'm hanging up now."
+                ],
+                [
+                    "wil",
+                    "Wil: Don't you listen to him, buddy. You're awesome. You're one of the greatest directors of our time."
+                ],
+                [
+                    "kevin",
+                    "Kevin: I don't have a part for you, Wheaton."
+                ],
+                [
+                    "wil",
+                    "Wil: And that was Kevin Smith."
+                ],
+                [
+                    "penny",
+                    "Penny: Thanks a lot."
+                ],
+                [
+                    "leonard",
+                    "Leonard: I'm just trying to protect you. How many times did I see you get your heart broken trying to make it as an actress?"
+                ],
+                [
+                    "penny",
+                    "Penny: Okay, instead of protecting me, why don't you try being excited when something good happens?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: I'm always excited for you. I'm excited that you found this new job where you're making decent money."
+                ],
+                [
+                    "penny",
+                    "Penny: Decent? I make twice what you make."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Wait, twice?"
+                ],
+                [
+                    "penny",
+                    "Penny: Yeah."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Like, times two twice?"
+                ],
+                [
+                    "wil",
+                    "Wil: For those of you at home, Leonard just found out his fianc\u00e9e makes way more money than he does. Let's listen."
+                ],
+                [
+                    "leonard",
+                    "Leonard: I went to school for half my life. I have a doctorate. I'm still paying off college loans."
+                ],
+                [
+                    "penny",
+                    "Penny: Well, how much do you owe? Maybe I can help you out."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Wil, can we just turn off the podcast for a little bit?"
+                ],
+                [
+                    "wil",
+                    "Wil: For those of you at home, I am shaking my head no."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "wil": 6,
+                "leonard": 10,
+                "penny": 7,
+                "kevin": 2
+            }
+        },
+        {
+            "id": 10,
+            "title": "[ The apartment. Including fort ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "amy",
+                    "Amy: How's it going, Sheldon?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Wonderful. I just finished hanging the lights."
+                ],
+                [
+                    "amy",
+                    "Amy: Can I come in?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Yes, oh, but enter through the side. Batman is a load-bearing blanket."
+                ],
+                [
+                    "amy",
+                    "Amy: Amazing."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I know. This isn't the printout. This is my real face."
+                ],
+                [
+                    "amy",
+                    "Amy: What are we doing? This is a fort. Let's sit on the floor."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Roughing it? Okay. Everything looks so big from down here. This must be how Leonard feels."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "amy": 4,
+                "sheldon": 4
+            }
+        },
+        {
+            "id": 11,
+            "title": "[ Mrs Wolowitz's house ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "howard",
+                    "Howard: I'm surprised you could hear me with this Thin Mint in your ear. Yeah, pretty cool, huh?"
+                ],
+                [
+                    "josh",
+                    "Josh: Yeah. Anyway, I should probably get going."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Howie, have you noticed how often people say that when you start to do magic?"
+                ],
+                [
+                    "josh",
+                    "Josh: Sorry, I have a long drive."
+                ],
+                [
+                    "howard",
+                    "Howard: Well, I hope I get to see you again."
+                ],
+                [
+                    "josh",
+                    "Josh: (chuckles) I hope so, too. I've always dreamed of having a brother to play catch with."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Keep dreaming."
+                ],
+                [
+                    "howard",
+                    "Howard: Hey, I threw out the first pitch at an Angels game."
+                ],
+                [
+                    "josh",
+                    "Josh: Wow."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: He did it with a robot."
+                ],
+                [
+                    "josh",
+                    "Josh: You had s*x with a robot?"
+                ],
+                [
+                    "howard",
+                    "Howard: That's not what she meant."
+                ],
+                [
+                    "raj",
+                    "Raj: But technically, yes."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "howard": 4,
+                "josh": 5,
+                "bernadette": 3,
+                "raj": 1
+            }
+        },
+        {
+            "id": 12,
+            "title": "[ Penny's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Hang on, if you're making all this money, where is it?"
+                ],
+                [
+                    "penny",
+                    "Penny: In a safe place."
+                ],
+                [
+                    "leonard",
+                    "Leonard: What does that mean, under your bed?"
+                ],
+                [
+                    "penny",
+                    "Penny: No, it means a diversified portfolio of stocks and bonds. I'm not overly conservative. I'm young, so my guy said I can afford to take some risks."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Wait a minute, you have \"a guy\"?"
+                ],
+                [
+                    "penny",
+                    "Penny: Don't you have a guy?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Why would I have a guy? I don't have any money."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, sweetie, you should really get some money."
+                ],
+                [
+                    "wil",
+                    "Wil: For those of you listening at home, how great is this?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Wil, I'm begging you, just please turn that off."
+                ],
+                [
+                    "wil",
+                    "Wil: Sure. And we're back."
+                ],
+                [
+                    "penny",
+                    "Penny: Leonard, why are you making such a big deal out of this? So our roles have changed a bit over the last couple years. This is the way life is. And I'm sure in time they'll change again."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Great, you're not only more successful than me, now you're more mature."
+                ],
+                [
+                    "penny",
+                    "Penny: Okay, look, would it make you feel better if I did something dumb like sneak out of work one day to go audition for a Kevin Smith movie?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: That would be great, thank you."
+                ],
+                [
+                    "wil",
+                    "Wil: I'm just gonna jump in here real quick. Leonard, a moment ago, you were dead set against Penny resuming her acting career, but now you're all for it. Is it fair to say that she played you like a violin?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Yes, it is, Wil."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "leonard": 8,
+                "penny": 6,
+                "wil": 3
+            }
+        },
+        {
+            "id": 13,
+            "title": "[ Mrs Wolowitz's house ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "josh",
+                    "Josh: So, I have to ask, was the robot sexy?"
+                ],
+                [
+                    "howard",
+                    "Howard: (chuckles) It was actually just a mechanical hand."
+                ],
+                [
+                    "josh",
+                    "Josh: 'Cause that's all you need, right?"
+                ],
+                [
+                    "howard",
+                    "Howard: You are my brother."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "josh": 2,
+                "howard": 2
+            }
+        },
+        {
+            "id": 14,
+            "title": "[ The fort ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay, so the final four forts in the first annual best fort ever contest, or \"fort off\", are, Fort Knox, Fort Ticonderoga, Fort Sumter and Fort Cozy McBlanket."
+                ],
+                [
+                    "amy",
+                    "Amy: I'd say, Knox over Ticonderoga, 'cause it's got the gold."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Mm-hmm."
+                ],
+                [
+                    "amy",
+                    "Amy: And McBlanket over Sumter 'cause it has a higher thread count. (phone rings) Oh. Ten o'clock. Date night's over."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Wait, no. We haven't picked a winner."
+                ],
+                [
+                    "amy",
+                    "Amy: We both know this one's gonna win."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, of course we do. Fort Knox doesn't have a secret physics lending library."
+                ],
+                [
+                    "amy",
+                    "Amy: Come on, I'll help you take this down."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, wait. What if, just this once, we suspend the date night parameters and you stay later?"
+                ],
+                [
+                    "amy",
+                    "Amy: Well, as long as we're suspending the parameters, I could stay really late and we could have our first sleepover."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: That's a big step."
+                ],
+                [
+                    "amy",
+                    "Amy: It's a big fort."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Very well. I will agree to a family-friendly, G-rated, boy-girl sleepover."
+                ],
+                [
+                    "amy",
+                    "Amy: PG. Some scenes may be too intense for younger viewers."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: G-rated, with a warning for families with babies and toddlers."
+                ],
+                [
+                    "amy",
+                    "Amy: You got yourself a sleepover."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Do you need to borrow a toothbrush or pajamas?"
+                ],
+                [
+                    "amy",
+                    "Amy: Would it alarm you to know that I hid those things here two years ago just in case this ever came up?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: It would, but you know how much I admire preparedness. How did you know we'd be in the living room?"
+                ],
+                [
+                    "amy",
+                    "Amy: Who says this is the only one I hid?"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "sheldon": 10,
+                "amy": 10
+            }
+        },
+        {
+            "id": 15,
+            "title": "[ The apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Hello? What is this?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: We built a fort."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Are those my sheets?"
+                ],
+                [
+                    "amy",
+                    "Amy: Yes, they are."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Okay. Well, you kids have fun. I'm gonna go to sleep."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, Leonard, don't you want to see the inside of the fort?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Yeah, I'm good."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Oh, come on. I really wanted to tell someone they can't come in."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Okay, fine. Sheldon, may I please visit your fort?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I want to say no, but it's too glorious. Get in here."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Thank you."
+                ],
+                [
+                    "amy",
+                    "Amy: Okay, have a seat on the floor."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Not there. That's my spot."
+                ]
+            ],
+            "participants": {
+                "leonard": 6,
+                "sheldon": 5,
+                "amy": 2
+            }
+        }
+    ]
+}

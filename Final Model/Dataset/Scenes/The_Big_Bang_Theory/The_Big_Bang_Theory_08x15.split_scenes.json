@@ -1,0 +1,1446 @@
+{
+    "Episode Number": "08x15",
+    "Episode Title": "The Comic Book Store Regeneration",
+    "Recap": [
+        "Barry Kripke stops by to thank Amy for helping him with her ideas on string theory, which bothers Sheldon because she never helped him out when he was working on it. He complains to Penny who tells him to \"let it go\". Instead, Sheldon reveals that Amy was secretly performing experiments on Penny and Leonard and comparing the results with those of a chimpanzee, infuriating Penny. Leonard and Raj run into Nathan Fillion at a deli, but he denies he is an actor so he can eat in peace. Later, he admits who he is and offers to take a picture with them. Raj, who now doubts whether he is the real Nathan Fillion, asks questions to verify his identity and annoys him. Stuart has opened his newly-renovated comic book store, which impresses everyone except Howard who finds him using some of his mother's furniture. However, all arguments end when Howard gets a call from Florida where his mother is visiting, and receives news that she died in her sleep. Everyone, including Sheldon who knows how it feels to lose a family member, goes to comfort Howard. After he and Bernadette leave for Florida, the rest of the gang remember and toast Mrs. Wolowitz, with Leonard calling her \"a loving mother to all of us\"."
+    ],
+    "Show Title": "The Big Bang Theory",
+    "Transcript": [
+        "[ Amy's laboratory ]",
+        "[SCENE_BREAK]",
+        "Sheldon: I've invented a science joke, would you like to hear it?",
+        "Amy: Sure.",
+        "Sheldon: How many Edisons does it take to screw in a light bulb?",
+        "Amy: How many?",
+        "Sheldon: Who cares? He stole the idea and doesn't deserve his own joke.",
+        "Amy: Is that really true?",
+        "Sheldon: Of course, that's how you know it's a good joke. It not only entertains, it informs.",
+        "Barry: Hey, sowwy to intewupt.",
+        "Sheldon: Uh, Barry, uh, how many Edisons does it take to screw in a light bulb?",
+        "Barry: Did you know Edison didn't actuawy invent the wight bulb?",
+        "Sheldon: What do you want, Barry?",
+        "Barry: Just wanted to dwop this off as a wittle thank you for Amy.",
+        "Amy: What's this for?",
+        "Barry: Your idea weawy hewped me out. My wight-cone quantization paper's onwine alweady. The wesponse has been amazing.",
+        "Amy: Well, that's fascinating. I can't wait to read it.",
+        "Sheldon: Oh, no, me as well. Uh, please e-mail it to Sheldon at bazinga dot biz. Why dot biz? Because I just gave you the business. And also bazinga dot com was taken.",
+        "Barry: Anyway, thanks again. Cooper, suck eggs.",
+        "Sheldon: Since when do you help out Barry Kripke?",
+        "Amy: Well, I'd been thinking about a cellular automata approach to neuronal connectivity, and I thought it might have some interesting applications to string theory, it's not a big deal.",
+        "Sheldon: Oh, really? When I was doing string theory and hit a dead end, why didn't you try to help me?",
+        "Amy: I did. You said the only math biologists know is if you have three frogs and one hops away, that leaves two frogs.",
+        "Sheldon: That's pretty funny, that does sound like me. But that doesn't mean that you should be standing on street corners handing out your math to whatever guy comes along.",
+        "Amy: Sheldon, we're all scientists. I helped out a fellow colleague. You're being petty.",
+        "Sheldon: I'm being petty? You know Barry and I have a professional rivalry. You heard him, he told me to suck eggs. If we were friends, he would have suggested I suck something more pleasant. Why are you laughing? Did you learn something?",
+        "[SCENE_BREAK]",
+        "\u266a Our whole universe was in a hot, dense state \u266a \u266a Then nearly 14 billion years ago expansion started... Wait! \u266a \u266a The Earth began to cool \u266a \u266a The autotrophs began to drool, Neanderthals developed tools \u266a \u266a We built the Wall \u266a \u266a We built the pyramids \u266a \u266a Math, Science, History, unraveling the mystery \u266a \u266a That all started with a big bang \u266a \u266a Bang! \u266a",
+        "Original Air Date on February 19, 2015",
+        "[SCENE_BREAK]",
+        "[ Howard and Bernadette's apartment ]",
+        "[SCENE_BREAK]",
+        "Howard (on phone): Okay, Ma. Say hi to Aunt Gladys. Yeah, I love you, too. Bye.",
+        "Bernadette: Your mom having fun in Florida?",
+        "Howard: Mmm, she loves it. She finally found a place where everyone talks about how sweaty they are. Anyway, she wants us to go to the house and check in on Stuart because he might be lonely.",
+        "Bernadette: She's just being nice.",
+        "Howard: Well, I'm her son, how come she doesn't send someone to check on me if I'm lonely?",
+        "Bernadette: Because you have a wife.",
+        "Howard: Yeah, well, sometimes you work late.",
+        "Bernadette: I know you don't like Stuart being in the house, but the store's about to reopen, I'm sure he'll get back on his feet.",
+        "Howard: That would be great. I'd love for things between me and Mom to get back to normal.",
+        "Bernadette: Well, normal's a strong word, but sure.",
+        "[SCENE_BREAK]",
+        "[ The laundry room ]",
+        "[SCENE_BREAK]",
+        "Penny: Hey.",
+        "Sheldon: Hello.",
+        "Penny: You okay?",
+        "Sheldon: If I was okay, I would've said hello, and not the much more ominous hello.",
+        "Penny: What's going on?",
+        "Sheldon: I'm mad at Amy.",
+        "Penny: Did she leave pit stains in your favourite crop top, too?",
+        "Sheldon: No. She helped Barry Kripke make an advancement in string theory.",
+        "Penny: Oh, that sounds like a good thing.",
+        "Sheldon: Well, it would be, except that I left string theory because I decided it was a dead end. Yeah, and then she went behind my back to help someone else prove me wrong. My rival, no less. I'm sorry you had to see that.",
+        "Penny: I'm sorry I didn't have a camera.",
+        "Sheldon: Why would she do this to me?",
+        "Penny: Well, I'm sure she didn't upset you on purpose. Besides, aren't you the one who says there's nothing more important than the advancement of science?",
+        "Sheldon: No, I said there's nothing more important than me advancing science.",
+        "Penny: All right, well, if I'm understanding this right, and all she did was help out another scientist, I'm thinking you might have to let this one go.",
+        "Sheldon: Ugh, let it go. I have heard that my whole life. Every time something upsets me somebody says, let it go, you know, like it's my fault, and it's not okay to feel the way I feel.",
+        "Penny: I don't know what to tell you. I mean, why don't you talk to her?",
+        "Sheldon: Is that all you have? Shopworn tidbits like talk to her and let it go? Gee, Penny, life's giving me lemons. What should I do?",
+        "Penny: Well, you could shove them somewhere.",
+        "Sheldon: Okay, now you're getting creative.",
+        "[SCENE_BREAK]",
+        "[ The comic book store ]",
+        "[SCENE_BREAK]",
+        "Stuart: Thanks again for your help.",
+        "Leonard: No problem.",
+        "Raj: Our pleasure.",
+        "Leonard: The place really looks great.",
+        "Raj: Yeah, you should have burned it down years ago.",
+        "Stuart: I keep telling you I didn't burn it down.",
+        "Leonard: We know, we know, because burning something down for the insurance money is a crime.",
+        "Bernadette: Stuart, this place looks amazing.",
+        "Stuart: Thanks.",
+        "Howard: You really did a nice job.",
+        "Stuart: And thank you for putting up with me staying at your mom's through all this. I couldn't have done it otherwise.",
+        "Howard: I appreciate that, and I'm glad you were able to... is that my mother's furniture?",
+        "Stuart: Yeah, she said I could use it. Doesn't it look great?",
+        "Howard: Not as great as it looks in the den where it belongs.",
+        "Bernadette: Howie.",
+        "Howard: Why don't you just clean out the whole room? Take the string art clown I made her in third grade and the ribbon I got in swim class for putting my face in the water.",
+        "Stuart: What is your problem? She said it was okay.",
+        "Howard: Well, I'm her son, and I say it's not okay.",
+        "Stuart: Some son, looks like you spent ten minutes on that clown art.",
+        "Howard: Well, maybe I should've gone to a fancy art school like you. Then I could run a failed comic shop and mooch off some guy's mother.",
+        "Bernadette: Why don't we leave so you can cool off?",
+        "Stuart: I think that's a good idea. Take him out of my store.",
+        "Howard: Your store? My mother gave you the money to reopen. I'm not going anywhere.",
+        "Leonard: Why don't we go get the food for the party.",
+        "Stuart: Thank you.",
+        "Raj: Smart, looks like we're being helpful.",
+        "Leonard: Mmm, when really we're just exiting an uncomfortable situation.",
+        "[SCENE_BREAK]",
+        "[ Penny's apartment ]",
+        "[SCENE_BREAK]",
+        "Sheldon: Kripke, you know, of all the people, Barry Kripke. I'm so... Are you folding that like a crazy person to get me to do it for you?",
+        "Penny: No.",
+        "Sheldon: Oh, give me that. Just out of curiosity, if I were to let something go, how would I do that?",
+        "Penny: I don't know, just think about something else.",
+        "Sheldon: Can I think about the spiny anteater?",
+        "Penny: Sure.",
+        "Sheldon: The spiny anteater never went behind my back and worked with Barry Kripke. That didn't help at all.",
+        "Penny: You know, some people try visualization.",
+        "Sheldon: How does that work?",
+        "Penny: Okay, imagine your problems are a pen.",
+        "Sheldon: Okay.",
+        "Penny: Now imagine you're holding that pen.",
+        "Sheldon: Okay.",
+        "Penny: Now open your hand and let it go.",
+        "Sheldon: But I just got this pen. It's got my initials on it and everything. Look.",
+        "Penny: Sheldon, this isn't that hard.",
+        "Sheldon: I may have a better way that you can teach me.",
+        "Penny: How?",
+        "Sheldon: What if I told you that over the past few months Amy has secretly been giving you little puzzles to test your intelligence against chimpanzees in her lab?",
+        "Penny: What? She didn't give me any puzzles.",
+        "Sheldon: Are you sure?",
+        "Amy (in flashback): Boy, I just can't seem to get these scissors back together. Can you do it?",
+        "Amy (in flashback): Darn it. There's something in my eye, and I need to sort these coins by size. Can you help?",
+        "Amy (in flashback): Penny? I really want to eat this banana, but it's stuck inside this bamboo puzzle box.",
+        "Penny: Son of a bitch.",
+        "Sheldon: Okay, that's great. Now, let it go.",
+        "Penny: I can't believe you were testing me against a chimp.",
+        "Sheldon: Well, excuse me, Amy was testing you. I was rooting for you. Good job on that banana box, by the way.",
+        "Penny: Why would she even do this?",
+        "Sheldon: She's been conducting an experiment on apes where they're given various puzzles to solve. I was surprised at the complexity of the puzzles and thought some humans wouldn't be able to solve them. That's when Amy said, want to make this interesting?",
+        "Penny: Make this interesting? You bet money on me?",
+        "Sheldon: No, no. We designed an experiment involving you. See? Now, isn't that interesting?",
+        "Penny: It's not interesting. It's incredibly insulting.",
+        "Sheldon: Okay, maybe this will help. Imagine you're holding a pen. Before you go too far, not a special pen with your initials engraved on it, that'll make the next part really hard.",
+        "Penny: Oh, my, that's it. Get out.",
+        "Sheldon: I don't understand why you're mad at me. You should be mad at Amy. Like I was this afternoon. Hey, look at that, I let it go.",
+        "Penny: Get out.",
+        "Sheldon: Penny?",
+        "Penny: What?",
+        "Sheldon: I think I left my pen in there.",
+        "[SCENE_BREAK]",
+        "[ The comic book store ]",
+        "[SCENE_BREAK]",
+        "Bernadette: I understand why you're upset, but he worked really hard to get the store ready. And it's just furniture.",
+        "Howard: It's my mom's furniture. It belongs in the house I grew up in, next to that pile of TV Guides and in plain view of what, for a ten-year-old, was a quality piece of string art.",
+        "Bernadette: Howie, if the store succeeds, Stuart has a source of income, and he can move out of your mother's house. Seems like some old furniture is a reasonable price to pay for that.",
+        "Howard: That is a good point. But I didn't marry you for good points. I married you to blindly support me no matter how ridiculous I'm being.",
+        "Bernadette: This is why I had to rewrite our wedding vows.",
+        "[SCENE_BREAK]",
+        "[ A deli ]",
+        "[SCENE_BREAK]",
+        "Leonard: Hi, we're here to pick up an order for Comic Center.",
+        "Waitress: Sure, let me go check on that.",
+        "Raj: Dude, I, I think that's Nathan Fillion.",
+        "Leonard: Oh yeah, look at that.",
+        "Raj: And he's picking the tomatoes out of his salad just like I do. I always did feel a connection with him. Oh, I have got an idea.",
+        "Leonard: We're not selling his tomatoes on eBay.",
+        "Raj: No, if we got Captain Reynolds from Firefly to do a signing at Stuart's store, that would be amazing.",
+        "Leonard: That would be great.",
+        "Raj: So should we go talk to him?",
+        "Leonard: I don't know. I mean, if he's not nice, it's gonna make it hard for me to watch him in anything again.",
+        "Raj: What? The, the guy who plays Jon Snow was a jerk. We still watch Game of Thrones.",
+        "Leonard: He was a jerk because you rear-ended him.",
+        "Raj: I was distracted. It's weird seeing a member of the Night's Watch with a kayak strapped to his car. Come on. Hi, excuse me, s, sorry, I, I don't mean to bother you, but we're just really big fans of Firefly. And Dr. Horrible.",
+        "Nathan Fillion: Oh, uh, I think you made a mistake. I'm not an actor.",
+        "Raj: Don't say that. I mean, you're not Dame Judi Dench, but you're pretty great.",
+        "Nathan Fillion: Oh, yeah, I get it, you think I'm Nathan Fillion, but I'm not. So if you don't mind, I would just love to eat my lunch.",
+        "Leonard: Come on. Sorry to bother you.",
+        "Raj: Don't know why he's so grumpy. I got mistaken for that guy in Life of Pi once, and I'm still floating.",
+        "[SCENE_BREAK]",
+        "[ The hallway ]",
+        "[SCENE_BREAK]",
+        "Amy: Sheldon, it's me.",
+        "Penny: Oh, hey. Did you see that? I, I figured out how to open the door all by myself. Maybe I'll fling some faeces around my cage to celebrate.",
+        "Amy: What are you talking about?",
+        "Penny: I know you've been giving me secret puzzle tests.",
+        "Amy: Sheldon, open the door.",
+        "Sheldon: I can't. I'm naked.",
+        "Amy: I just saw you.",
+        "Sheldon: Hang on.",
+        "Penny: Open the door now.",
+        "Amy: Oh, hey.",
+        "Penny: Pull up your pants.",
+        "Amy: It's not a big deal. I run tests like this on undergrads all the time. If you fill out some paperwork at the university, I can get you five dollars.",
+        "Penny: I don't want five dollars. I want my dignity.",
+        "Amy: So what are we talking, like, ten bucks?",
+        "[SCENE_BREAK]",
+        "[ The deli ]",
+        "[SCENE_BREAK]",
+        "Leonard: Thank you.",
+        "Raj: Thanks.",
+        "Leonard: Sorry again.",
+        "Nathan Fillion: No problem.",
+        "Raj: Are you sure you're not him? Uh, you can tell us. We're scientists, not crazy fanboys.",
+        "Nathan Fillion: All right, fine. I'm him.",
+        "Raj: And you're eating alone at a deli. I don't buy it, you're not him.",
+        "Nathan Fillion: I just wanted to eat my lunch in peace. But I really am him. And thank you very much for being a fan. If you want, uh, let's take a picture.",
+        "Leonard: That would be great.",
+        "Raj: Great.",
+        "Leonard: Yeah, thank you.",
+        "Nathan Fillion: You bet.",
+        "Raj: Wait, hang on. If you're really Nathan Fillion, what's the line from Firefly about your bonnet?",
+        "Nathan Fillion: I swear by my pretty floral bonnet, I will end you.",
+        "Leonard: That's it, that's the line.",
+        "Raj: Although, I knew the line, doesn't make me Nathan Fillion.",
+        "Nathan Fillion: Do you want the picture or not?",
+        "Raj: I want a picture with Nathan Fillion.",
+        "Nathan: How about a picture with a guy who looks like Nathan Fillion but a little more annoyed than Nathan Fillion usually is?",
+        "Leonard: What do you think?",
+        "Raj: Ah, it's good enough for Facebook.",
+        "[SCENE_BREAK]",
+        "[ The comic book store ]",
+        "[SCENE_BREAK]",
+        "Leonard: I can't believe they did that.",
+        "Penny: I know, it's so insulting. At one point, they had me figure out how to get a banana out of a puzzle box.",
+        "Leonard: Wait, Sheldon gave me a banana in a box. He was testing me, too.",
+        "Penny: Unbelievable.",
+        "Leonard: And how could a chimp even solve that? That was impossible.",
+        "Penny: Really? You couldn't get it out?",
+        "Sheldon: Thank you.",
+        "Amy: Wow, the store looks great.",
+        "Leonard: So you guys were testing us both? What is the matter with you?",
+        "Penny: Eh, what's the matter with them is they think they're so smart they don't care if they hurt other people's feelings.",
+        "Amy: That's not true.",
+        "Sheldon: That sounds like us. I still don't understand why you're upset. You solved every puzzle faster than all of the chimps.",
+        "Amy: Well, except Barnabas, but he was on Adderall.",
+        "Howard: I'm sorry, but it's making me crazy.",
+        "Bernadette: Can you please just let it go?",
+        "Sheldon: Oh, I can help you with that. Imagine you're holding an ordinary pen. While your favourite pen is safe and secure in your pocket.",
+        "Howard: Hold that thought. (On phone) Hello?",
+        "Amy: How can I make this up to you?",
+        "Penny: The answer's in this puzzle box. Let's see if you can open it.",
+        "Stuart: You could have at least warned him about the furniture.",
+        "Raj: That's what I said when we moved it.",
+        "Bernadette: You helped him?",
+        "Raj: No, Stuart picked out those throw pillows all on his own.",
+        "Leonard: Hey, you okay?",
+        "Howard: No.",
+        "Leonard: What's wrong?",
+        "Howard: My mom died.",
+        "Bernadette: What?",
+        "Howard: Uh, that was my aunt. Ma took a nap. She never woke up.",
+        "Bernadette: Oh, my God, Howie.",
+        "Leonard: I'm so sorry.",
+        "Raj: What can we do?",
+        "Howard: I don't know.",
+        "Sheldon: May I say something?",
+        "Leonard: Not right now, Sheldon.",
+        "Sheldon: But I think it would be comforting.",
+        "Leonard: Buddy.",
+        "Howard: No, it's okay. What?",
+        "Sheldon: When I lost my own father, I didn't have any friends to help me through it. You do.",
+        "Penny: I really thought he was gonna say let it go.",
+        "[SCENE_BREAK]",
+        "[ The apartment ]",
+        "[SCENE_BREAK]",
+        "Raj (on phone): Okay, thanks, Bernadette. Travel safe. Okay, bye. Well, they've booked a flight. They're heading to the airport now.",
+        "Penny: How's Howard holding up?",
+        "Raj: He's hanging in there.",
+        "Leonard: How are you doing, Stuart?",
+        "Stuart: Still can't believe she's gone. I mean, that woman took me in. If it wasn't for her, I, I would have been homeless.",
+        "Amy: One of us would have taken you in.",
+        "Stuart: Yeah, I don't recall any offers. But, you know what, uh, I, I'm glad it worked out the way it did because I got to know this wonderful person.",
+        "Raj: Yeah. Mrs. Wolowitz was pretty special. When I first moved to America, Howard was my only friend and she made me feel so welcome in her home. Which says a lot, because, those first few years, she thought I was the gardener.",
+        "Penny: Whenever I saw her, she'd say I was too skinny and try and feed me.",
+        "Amy: She did that to me, too.",
+        "Penny: Don't take this away from me.",
+        "Sheldon: I didn't care for her yelling. But now that I'm not going to hear it again, I'm sad.",
+        "Leonard: If you want, I can yell at you later.",
+        "Sheldon: It won't be as good.",
+        "Leonard: Let's have a toast. To Mrs. Wolowitz. A loving mother to all of us. We'll miss you."
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[ Amy's laboratory ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I've invented a science joke, would you like to hear it?"
+                ],
+                [
+                    "amy",
+                    "Amy: Sure."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: How many Edisons does it take to screw in a light bulb?"
+                ],
+                [
+                    "amy",
+                    "Amy: How many?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Who cares? He stole the idea and doesn't deserve his own joke."
+                ],
+                [
+                    "amy",
+                    "Amy: Is that really true?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Of course, that's how you know it's a good joke. It not only entertains, it informs."
+                ],
+                [
+                    "barry",
+                    "Barry: Hey, sowwy to intewupt."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Uh, Barry, uh, how many Edisons does it take to screw in a light bulb?"
+                ],
+                [
+                    "barry",
+                    "Barry: Did you know Edison didn't actuawy invent the wight bulb?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: What do you want, Barry?"
+                ],
+                [
+                    "barry",
+                    "Barry: Just wanted to dwop this off as a wittle thank you for Amy."
+                ],
+                [
+                    "amy",
+                    "Amy: What's this for?"
+                ],
+                [
+                    "barry",
+                    "Barry: Your idea weawy hewped me out. My wight-cone quantization paper's onwine alweady. The wesponse has been amazing."
+                ],
+                [
+                    "amy",
+                    "Amy: Well, that's fascinating. I can't wait to read it."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Oh, no, me as well. Uh, please e-mail it to Sheldon at bazinga dot biz. Why dot biz? Because I just gave you the business. And also bazinga dot com was taken."
+                ],
+                [
+                    "barry",
+                    "Barry: Anyway, thanks again. Cooper, suck eggs."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Since when do you help out Barry Kripke?"
+                ],
+                [
+                    "amy",
+                    "Amy: Well, I'd been thinking about a cellular automata approach to neuronal connectivity, and I thought it might have some interesting applications to string theory, it's not a big deal."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Oh, really? When I was doing string theory and hit a dead end, why didn't you try to help me?"
+                ],
+                [
+                    "amy",
+                    "Amy: I did. You said the only math biologists know is if you have three frogs and one hops away, that leaves two frogs."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: That's pretty funny, that does sound like me. But that doesn't mean that you should be standing on street corners handing out your math to whatever guy comes along."
+                ],
+                [
+                    "amy",
+                    "Amy: Sheldon, we're all scientists. I helped out a fellow colleague. You're being petty."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I'm being petty? You know Barry and I have a professional rivalry. You heard him, he told me to suck eggs. If we were friends, he would have suggested I suck something more pleasant. Why are you laughing? Did you learn something?"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "background",
+                    "\u266a Our whole universe was in a hot, dense state \u266a \u266a Then nearly 14 billion years ago expansion started... Wait! \u266a \u266a The Earth began to cool \u266a \u266a The autotrophs began to drool, Neanderthals developed tools \u266a \u266a We built the Wall \u266a \u266a We built the pyramids \u266a \u266a Math, Science, History, unraveling the mystery \u266a \u266a That all started with a big bang \u266a \u266a Bang! \u266a"
+                ],
+                [
+                    "background",
+                    "Original Air Date on February 19, 2015"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "sheldon": 11,
+                "amy": 8,
+                "barry": 5
+            }
+        },
+        {
+            "id": 2,
+            "title": "[ Howard and Bernadette's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "howard (on phone)",
+                    "Howard (on phone): Okay, Ma. Say hi to Aunt Gladys. Yeah, I love you, too. Bye."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Your mom having fun in Florida?"
+                ],
+                [
+                    "howard",
+                    "Howard: Mmm, she loves it. She finally found a place where everyone talks about how sweaty they are. Anyway, she wants us to go to the house and check in on Stuart because he might be lonely."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: She's just being nice."
+                ],
+                [
+                    "howard",
+                    "Howard: Well, I'm her son, how come she doesn't send someone to check on me if I'm lonely?"
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Because you have a wife."
+                ],
+                [
+                    "howard",
+                    "Howard: Yeah, well, sometimes you work late."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: I know you don't like Stuart being in the house, but the store's about to reopen, I'm sure he'll get back on his feet."
+                ],
+                [
+                    "howard",
+                    "Howard: That would be great. I'd love for things between me and Mom to get back to normal."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Well, normal's a strong word, but sure."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "howard (on phone)": 1,
+                "bernadette": 5,
+                "howard": 4
+            }
+        },
+        {
+            "id": 3,
+            "title": "[ The laundry room ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "penny",
+                    "Penny: Hey."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Hello."
+                ],
+                [
+                    "penny",
+                    "Penny: You okay?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: If I was okay, I would've said hello, and not the much more ominous hello."
+                ],
+                [
+                    "penny",
+                    "Penny: What's going on?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I'm mad at Amy."
+                ],
+                [
+                    "penny",
+                    "Penny: Did she leave pit stains in your favourite crop top, too?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: No. She helped Barry Kripke make an advancement in string theory."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, that sounds like a good thing."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, it would be, except that I left string theory because I decided it was a dead end. Yeah, and then she went behind my back to help someone else prove me wrong. My rival, no less. I'm sorry you had to see that."
+                ],
+                [
+                    "penny",
+                    "Penny: I'm sorry I didn't have a camera."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Why would she do this to me?"
+                ],
+                [
+                    "penny",
+                    "Penny: Well, I'm sure she didn't upset you on purpose. Besides, aren't you the one who says there's nothing more important than the advancement of science?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: No, I said there's nothing more important than me advancing science."
+                ],
+                [
+                    "penny",
+                    "Penny: All right, well, if I'm understanding this right, and all she did was help out another scientist, I'm thinking you might have to let this one go."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Ugh, let it go. I have heard that my whole life. Every time something upsets me somebody says, let it go, you know, like it's my fault, and it's not okay to feel the way I feel."
+                ],
+                [
+                    "penny",
+                    "Penny: I don't know what to tell you. I mean, why don't you talk to her?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Is that all you have? Shopworn tidbits like talk to her and let it go? Gee, Penny, life's giving me lemons. What should I do?"
+                ],
+                [
+                    "penny",
+                    "Penny: Well, you could shove them somewhere."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay, now you're getting creative."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "penny": 10,
+                "sheldon": 10
+            }
+        },
+        {
+            "id": 4,
+            "title": "[ The comic book store ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "stuart",
+                    "Stuart: Thanks again for your help."
+                ],
+                [
+                    "leonard",
+                    "Leonard: No problem."
+                ],
+                [
+                    "raj",
+                    "Raj: Our pleasure."
+                ],
+                [
+                    "leonard",
+                    "Leonard: The place really looks great."
+                ],
+                [
+                    "raj",
+                    "Raj: Yeah, you should have burned it down years ago."
+                ],
+                [
+                    "stuart",
+                    "Stuart: I keep telling you I didn't burn it down."
+                ],
+                [
+                    "leonard",
+                    "Leonard: We know, we know, because burning something down for the insurance money is a crime."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Stuart, this place looks amazing."
+                ],
+                [
+                    "stuart",
+                    "Stuart: Thanks."
+                ],
+                [
+                    "howard",
+                    "Howard: You really did a nice job."
+                ],
+                [
+                    "stuart",
+                    "Stuart: And thank you for putting up with me staying at your mom's through all this. I couldn't have done it otherwise."
+                ],
+                [
+                    "howard",
+                    "Howard: I appreciate that, and I'm glad you were able to... is that my mother's furniture?"
+                ],
+                [
+                    "stuart",
+                    "Stuart: Yeah, she said I could use it. Doesn't it look great?"
+                ],
+                [
+                    "howard",
+                    "Howard: Not as great as it looks in the den where it belongs."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Howie."
+                ],
+                [
+                    "howard",
+                    "Howard: Why don't you just clean out the whole room? Take the string art clown I made her in third grade and the ribbon I got in swim class for putting my face in the water."
+                ],
+                [
+                    "stuart",
+                    "Stuart: What is your problem? She said it was okay."
+                ],
+                [
+                    "howard",
+                    "Howard: Well, I'm her son, and I say it's not okay."
+                ],
+                [
+                    "stuart",
+                    "Stuart: Some son, looks like you spent ten minutes on that clown art."
+                ],
+                [
+                    "howard",
+                    "Howard: Well, maybe I should've gone to a fancy art school like you. Then I could run a failed comic shop and mooch off some guy's mother."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Why don't we leave so you can cool off?"
+                ],
+                [
+                    "stuart",
+                    "Stuart: I think that's a good idea. Take him out of my store."
+                ],
+                [
+                    "howard",
+                    "Howard: Your store? My mother gave you the money to reopen. I'm not going anywhere."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Why don't we go get the food for the party."
+                ],
+                [
+                    "stuart",
+                    "Stuart: Thank you."
+                ],
+                [
+                    "raj",
+                    "Raj: Smart, looks like we're being helpful."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Mmm, when really we're just exiting an uncomfortable situation."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "stuart": 9,
+                "leonard": 5,
+                "raj": 3,
+                "bernadette": 3,
+                "howard": 7
+            }
+        },
+        {
+            "id": 5,
+            "title": "[ Penny's apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Kripke, you know, of all the people, Barry Kripke. I'm so... Are you folding that like a crazy person to get me to do it for you?"
+                ],
+                [
+                    "penny",
+                    "Penny: No."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Oh, give me that. Just out of curiosity, if I were to let something go, how would I do that?"
+                ],
+                [
+                    "penny",
+                    "Penny: I don't know, just think about something else."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Can I think about the spiny anteater?"
+                ],
+                [
+                    "penny",
+                    "Penny: Sure."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: The spiny anteater never went behind my back and worked with Barry Kripke. That didn't help at all."
+                ],
+                [
+                    "penny",
+                    "Penny: You know, some people try visualization."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: How does that work?"
+                ],
+                [
+                    "penny",
+                    "Penny: Okay, imagine your problems are a pen."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay."
+                ],
+                [
+                    "penny",
+                    "Penny: Now imagine you're holding that pen."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay."
+                ],
+                [
+                    "penny",
+                    "Penny: Now open your hand and let it go."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: But I just got this pen. It's got my initials on it and everything. Look."
+                ],
+                [
+                    "penny",
+                    "Penny: Sheldon, this isn't that hard."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I may have a better way that you can teach me."
+                ],
+                [
+                    "penny",
+                    "Penny: How?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: What if I told you that over the past few months Amy has secretly been giving you little puzzles to test your intelligence against chimpanzees in her lab?"
+                ],
+                [
+                    "penny",
+                    "Penny: What? She didn't give me any puzzles."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Are you sure?"
+                ],
+                [
+                    "amy (in flashback)",
+                    "Amy (in flashback): Boy, I just can't seem to get these scissors back together. Can you do it?"
+                ],
+                [
+                    "amy (in flashback)",
+                    "Amy (in flashback): Darn it. There's something in my eye, and I need to sort these coins by size. Can you help?"
+                ],
+                [
+                    "amy (in flashback)",
+                    "Amy (in flashback): Penny? I really want to eat this banana, but it's stuck inside this bamboo puzzle box."
+                ],
+                [
+                    "penny",
+                    "Penny: Son of a bitch."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay, that's great. Now, let it go."
+                ],
+                [
+                    "penny",
+                    "Penny: I can't believe you were testing me against a chimp."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Well, excuse me, Amy was testing you. I was rooting for you. Good job on that banana box, by the way."
+                ],
+                [
+                    "penny",
+                    "Penny: Why would she even do this?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: She's been conducting an experiment on apes where they're given various puzzles to solve. I was surprised at the complexity of the puzzles and thought some humans wouldn't be able to solve them. That's when Amy said, want to make this interesting?"
+                ],
+                [
+                    "penny",
+                    "Penny: Make this interesting? You bet money on me?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: No, no. We designed an experiment involving you. See? Now, isn't that interesting?"
+                ],
+                [
+                    "penny",
+                    "Penny: It's not interesting. It's incredibly insulting."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Okay, maybe this will help. Imagine you're holding a pen. Before you go too far, not a special pen with your initials engraved on it, that'll make the next part really hard."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, my, that's it. Get out."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I don't understand why you're mad at me. You should be mad at Amy. Like I was this afternoon. Hey, look at that, I let it go."
+                ],
+                [
+                    "penny",
+                    "Penny: Get out."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Penny?"
+                ],
+                [
+                    "penny",
+                    "Penny: What?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I think I left my pen in there."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "sheldon": 19,
+                "penny": 18,
+                "amy (in flashback)": 3
+            }
+        },
+        {
+            "id": 6,
+            "title": "[ The comic book store ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: I understand why you're upset, but he worked really hard to get the store ready. And it's just furniture."
+                ],
+                [
+                    "howard",
+                    "Howard: It's my mom's furniture. It belongs in the house I grew up in, next to that pile of TV Guides and in plain view of what, for a ten-year-old, was a quality piece of string art."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Howie, if the store succeeds, Stuart has a source of income, and he can move out of your mother's house. Seems like some old furniture is a reasonable price to pay for that."
+                ],
+                [
+                    "howard",
+                    "Howard: That is a good point. But I didn't marry you for good points. I married you to blindly support me no matter how ridiculous I'm being."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: This is why I had to rewrite our wedding vows."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "bernadette": 3,
+                "howard": 2
+            }
+        },
+        {
+            "id": 7,
+            "title": "[ A deli ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Hi, we're here to pick up an order for Comic Center."
+                ],
+                [
+                    "waitress",
+                    "Waitress: Sure, let me go check on that."
+                ],
+                [
+                    "raj",
+                    "Raj: Dude, I, I think that's Nathan Fillion."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Oh yeah, look at that."
+                ],
+                [
+                    "raj",
+                    "Raj: And he's picking the tomatoes out of his salad just like I do. I always did feel a connection with him. Oh, I have got an idea."
+                ],
+                [
+                    "leonard",
+                    "Leonard: We're not selling his tomatoes on eBay."
+                ],
+                [
+                    "raj",
+                    "Raj: No, if we got Captain Reynolds from Firefly to do a signing at Stuart's store, that would be amazing."
+                ],
+                [
+                    "leonard",
+                    "Leonard: That would be great."
+                ],
+                [
+                    "raj",
+                    "Raj: So should we go talk to him?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: I don't know. I mean, if he's not nice, it's gonna make it hard for me to watch him in anything again."
+                ],
+                [
+                    "raj",
+                    "Raj: What? The, the guy who plays Jon Snow was a jerk. We still watch Game of Thrones."
+                ],
+                [
+                    "leonard",
+                    "Leonard: He was a jerk because you rear-ended him."
+                ],
+                [
+                    "raj",
+                    "Raj: I was distracted. It's weird seeing a member of the Night's Watch with a kayak strapped to his car. Come on. Hi, excuse me, s, sorry, I, I don't mean to bother you, but we're just really big fans of Firefly. And Dr. Horrible."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: Oh, uh, I think you made a mistake. I'm not an actor."
+                ],
+                [
+                    "raj",
+                    "Raj: Don't say that. I mean, you're not Dame Judi Dench, but you're pretty great."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: Oh, yeah, I get it, you think I'm Nathan Fillion, but I'm not. So if you don't mind, I would just love to eat my lunch."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Come on. Sorry to bother you."
+                ],
+                [
+                    "raj",
+                    "Raj: Don't know why he's so grumpy. I got mistaken for that guy in Life of Pi once, and I'm still floating."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "leonard": 7,
+                "waitress": 1,
+                "raj": 8,
+                "nathan fillion": 2
+            }
+        },
+        {
+            "id": 8,
+            "title": "[ The hallway ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "amy",
+                    "Amy: Sheldon, it's me."
+                ],
+                [
+                    "penny",
+                    "Penny: Oh, hey. Did you see that? I, I figured out how to open the door all by myself. Maybe I'll fling some faeces around my cage to celebrate."
+                ],
+                [
+                    "amy",
+                    "Amy: What are you talking about?"
+                ],
+                [
+                    "penny",
+                    "Penny: I know you've been giving me secret puzzle tests."
+                ],
+                [
+                    "amy",
+                    "Amy: Sheldon, open the door."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I can't. I'm naked."
+                ],
+                [
+                    "amy",
+                    "Amy: I just saw you."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Hang on."
+                ],
+                [
+                    "penny",
+                    "Penny: Open the door now."
+                ],
+                [
+                    "amy",
+                    "Amy: Oh, hey."
+                ],
+                [
+                    "penny",
+                    "Penny: Pull up your pants."
+                ],
+                [
+                    "amy",
+                    "Amy: It's not a big deal. I run tests like this on undergrads all the time. If you fill out some paperwork at the university, I can get you five dollars."
+                ],
+                [
+                    "penny",
+                    "Penny: I don't want five dollars. I want my dignity."
+                ],
+                [
+                    "amy",
+                    "Amy: So what are we talking, like, ten bucks?"
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "amy": 7,
+                "penny": 5,
+                "sheldon": 2
+            }
+        },
+        {
+            "id": 9,
+            "title": "[ The deli ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Thank you."
+                ],
+                [
+                    "raj",
+                    "Raj: Thanks."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Sorry again."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: No problem."
+                ],
+                [
+                    "raj",
+                    "Raj: Are you sure you're not him? Uh, you can tell us. We're scientists, not crazy fanboys."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: All right, fine. I'm him."
+                ],
+                [
+                    "raj",
+                    "Raj: And you're eating alone at a deli. I don't buy it, you're not him."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: I just wanted to eat my lunch in peace. But I really am him. And thank you very much for being a fan. If you want, uh, let's take a picture."
+                ],
+                [
+                    "leonard",
+                    "Leonard: That would be great."
+                ],
+                [
+                    "raj",
+                    "Raj: Great."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Yeah, thank you."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: You bet."
+                ],
+                [
+                    "raj",
+                    "Raj: Wait, hang on. If you're really Nathan Fillion, what's the line from Firefly about your bonnet?"
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: I swear by my pretty floral bonnet, I will end you."
+                ],
+                [
+                    "leonard",
+                    "Leonard: That's it, that's the line."
+                ],
+                [
+                    "raj",
+                    "Raj: Although, I knew the line, doesn't make me Nathan Fillion."
+                ],
+                [
+                    "nathan fillion",
+                    "Nathan Fillion: Do you want the picture or not?"
+                ],
+                [
+                    "raj",
+                    "Raj: I want a picture with Nathan Fillion."
+                ],
+                [
+                    "nathan",
+                    "Nathan: How about a picture with a guy who looks like Nathan Fillion but a little more annoyed than Nathan Fillion usually is?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: What do you think?"
+                ],
+                [
+                    "raj",
+                    "Raj: Ah, it's good enough for Facebook."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "leonard": 6,
+                "raj": 8,
+                "nathan fillion": 6,
+                "nathan": 1
+            }
+        },
+        {
+            "id": 10,
+            "title": "[ The comic book store ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "leonard",
+                    "Leonard: I can't believe they did that."
+                ],
+                [
+                    "penny",
+                    "Penny: I know, it's so insulting. At one point, they had me figure out how to get a banana out of a puzzle box."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Wait, Sheldon gave me a banana in a box. He was testing me, too."
+                ],
+                [
+                    "penny",
+                    "Penny: Unbelievable."
+                ],
+                [
+                    "leonard",
+                    "Leonard: And how could a chimp even solve that? That was impossible."
+                ],
+                [
+                    "penny",
+                    "Penny: Really? You couldn't get it out?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Thank you."
+                ],
+                [
+                    "amy",
+                    "Amy: Wow, the store looks great."
+                ],
+                [
+                    "leonard",
+                    "Leonard: So you guys were testing us both? What is the matter with you?"
+                ],
+                [
+                    "penny",
+                    "Penny: Eh, what's the matter with them is they think they're so smart they don't care if they hurt other people's feelings."
+                ],
+                [
+                    "amy",
+                    "Amy: That's not true."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: That sounds like us. I still don't understand why you're upset. You solved every puzzle faster than all of the chimps."
+                ],
+                [
+                    "amy",
+                    "Amy: Well, except Barnabas, but he was on Adderall."
+                ],
+                [
+                    "howard",
+                    "Howard: I'm sorry, but it's making me crazy."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Can you please just let it go?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: Oh, I can help you with that. Imagine you're holding an ordinary pen. While your favourite pen is safe and secure in your pocket."
+                ],
+                [
+                    "howard",
+                    "Howard: Hold that thought. (On phone) Hello?"
+                ],
+                [
+                    "amy",
+                    "Amy: How can I make this up to you?"
+                ],
+                [
+                    "penny",
+                    "Penny: The answer's in this puzzle box. Let's see if you can open it."
+                ],
+                [
+                    "stuart",
+                    "Stuart: You could have at least warned him about the furniture."
+                ],
+                [
+                    "raj",
+                    "Raj: That's what I said when we moved it."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: You helped him?"
+                ],
+                [
+                    "raj",
+                    "Raj: No, Stuart picked out those throw pillows all on his own."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Hey, you okay?"
+                ],
+                [
+                    "howard",
+                    "Howard: No."
+                ],
+                [
+                    "leonard",
+                    "Leonard: What's wrong?"
+                ],
+                [
+                    "howard",
+                    "Howard: My mom died."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: What?"
+                ],
+                [
+                    "howard",
+                    "Howard: Uh, that was my aunt. Ma took a nap. She never woke up."
+                ],
+                [
+                    "bernadette",
+                    "Bernadette: Oh, my God, Howie."
+                ],
+                [
+                    "leonard",
+                    "Leonard: I'm so sorry."
+                ],
+                [
+                    "raj",
+                    "Raj: What can we do?"
+                ],
+                [
+                    "howard",
+                    "Howard: I don't know."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: May I say something?"
+                ],
+                [
+                    "leonard",
+                    "Leonard: Not right now, Sheldon."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: But I think it would be comforting."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Buddy."
+                ],
+                [
+                    "howard",
+                    "Howard: No, it's okay. What?"
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: When I lost my own father, I didn't have any friends to help me through it. You do."
+                ],
+                [
+                    "penny",
+                    "Penny: I really thought he was gonna say let it go."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "leonard": 9,
+                "penny": 6,
+                "sheldon": 6,
+                "amy": 4,
+                "howard": 7,
+                "bernadette": 4,
+                "stuart": 1,
+                "raj": 3
+            }
+        },
+        {
+            "id": 11,
+            "title": "[ The apartment ]",
+            "lines": [
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ],
+                [
+                    "raj (on phone)",
+                    "Raj (on phone): Okay, thanks, Bernadette. Travel safe. Okay, bye. Well, they've booked a flight. They're heading to the airport now."
+                ],
+                [
+                    "penny",
+                    "Penny: How's Howard holding up?"
+                ],
+                [
+                    "raj",
+                    "Raj: He's hanging in there."
+                ],
+                [
+                    "leonard",
+                    "Leonard: How are you doing, Stuart?"
+                ],
+                [
+                    "stuart",
+                    "Stuart: Still can't believe she's gone. I mean, that woman took me in. If it wasn't for her, I, I would have been homeless."
+                ],
+                [
+                    "amy",
+                    "Amy: One of us would have taken you in."
+                ],
+                [
+                    "stuart",
+                    "Stuart: Yeah, I don't recall any offers. But, you know what, uh, I, I'm glad it worked out the way it did because I got to know this wonderful person."
+                ],
+                [
+                    "raj",
+                    "Raj: Yeah. Mrs. Wolowitz was pretty special. When I first moved to America, Howard was my only friend and she made me feel so welcome in her home. Which says a lot, because, those first few years, she thought I was the gardener."
+                ],
+                [
+                    "penny",
+                    "Penny: Whenever I saw her, she'd say I was too skinny and try and feed me."
+                ],
+                [
+                    "amy",
+                    "Amy: She did that to me, too."
+                ],
+                [
+                    "penny",
+                    "Penny: Don't take this away from me."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: I didn't care for her yelling. But now that I'm not going to hear it again, I'm sad."
+                ],
+                [
+                    "leonard",
+                    "Leonard: If you want, I can yell at you later."
+                ],
+                [
+                    "sheldon",
+                    "Sheldon: It won't be as good."
+                ],
+                [
+                    "leonard",
+                    "Leonard: Let's have a toast. To Mrs. Wolowitz. A loving mother to all of us. We'll miss you."
+                ]
+            ],
+            "participants": {
+                "raj (on phone)": 1,
+                "penny": 3,
+                "raj": 2,
+                "leonard": 3,
+                "stuart": 2,
+                "amy": 2,
+                "sheldon": 2
+            }
+        }
+    ]
+}

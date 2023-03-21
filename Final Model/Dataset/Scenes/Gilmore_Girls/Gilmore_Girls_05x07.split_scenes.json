@@ -1,0 +1,4434 @@
+{
+    "Episode Number": "05x07",
+    "Episode Title": "You Jump, I Jump, Jack",
+    "Recap": [
+        "After Kirk spills the beans that her daughter is dating Luke, Emily demands that Lorelai bring him to dinner so that they can get reacquainted; although Lorelai tries to warn him away, Luke goes anyway and is subjected to an evening of oblique insults from a passive-aggressive Emily; after Zach announces that he's ready to start going out with Lane, they spend a cozy first date at home after banishing Brian to Lane's bedroom; having not learned his lesson with Emily, Luke agrees to accept Richard's invitation to go golfing, and both men turn a deaf ear to Lorelai's pleas to cancel; Rory gets her story on the \"Life and Death Brigade\" by being blindfolded and whisked away by Logan and his friends to observe the elaborately staged weekend in the woods, and finally, after Logan encourages her to take a risk, to participate in the event's breathtaking finale."
+    ],
+    "Show Title": "Gilmore Girls",
+    "Transcript": [
+        "[Elder Gilmore home: front door]",
+        "(Doorbell rings, maid answers the door.)",
+        "LORELAI: Oh, I'm late.",
+        "EMILY: I know.",
+        "LORELAI: Blame the insane people driving in front of me. They had a \"honk if you love to scuba dive\" bumper sticker on the back of their car, so I honked.",
+        "EMILY: You don't scuba dive.",
+        "LORELAI: Yes, but I've been testing people who have \"honk\" bumper stickers lately to see if they really want people to honk. Guess what? They don't. I lay on my horn, and this alleged scuba diver slows to a crawl in front of me just out of revenge, and I'm screwed.",
+        "EMILY: You need a hobby.",
+        "LORELAI: Yes, actually.",
+        "EMILY: Come on, Rory's waiting.",
+        "(They walk into the living room.)",
+        "RORY: Hey, what happened?",
+        "EMILY: She honked.",
+        "RORY: Oh, another bumper sticker test.",
+        "LORELAI: I just thought up a great idea for a reality show. You pull people over who have those \"honk if you love whatever\" bumper stickers, you kidnap them, and you make them do whatever the bumper sticker says they like to do, whether they do it or not. And then you make them eat bugs.",
+        "EMILY: So I hear you have a new boyfriend.",
+        "LORELAI (gasps): How did you - ?",
+        "RORY: Not from me.",
+        "EMILY: Don't jump on Rory.",
+        "LORELAI: How, Mom?",
+        "EMILY: Kirk told me.",
+        "RORY: Kirk?",
+        "LORELAI: Kirk who?",
+        "EMILY: How many Kirks do you know?",
+        "LORELAI: My Kirk? Stars Hollow Kirk? Kirk who hasn't started shaving yet, Kirk? How did you find out from him?",
+        "EMILY: I called the Inn looking for you, and Michel answered, but he was in the middle of some argument with the horse veterinarian. Then there was a cracking sound and the phone went dead. Then there was another man's voice saying \"hello\".",
+        "LORELAI: Kirk?",
+        "EMILY: Bob.",
+        "LORELAI: The gardener?",
+        "RORY: More twists than Oh Henry.",
+        "EMILY: He told me something in a heavy spanish accent, all while Michel was yelling at the vet in French -",
+        "LORELAI: I'll be, the UN erupts.",
+        "EMILY: Then Kirk came on. He was there delivering something. And when I told him I was looking for you, he said you were probably at your boyfriend Luke Danes' house. Now why were you hiding it from me?",
+        "LORELAI: I wasn't hiding it.",
+        "EMILY: You jumped on Rory when you thought she told me. You were hiding it.",
+        "RORY: She did not jump on me, Grandma.",
+        "LORELAI: Yeah, and I wasn't hiding it. The only reason I reacted to Kirk the way that I did is that he's not in this world, he's in my other world. It's as if I, out of the blue, told you I was having tea with Mrs. Van Uppity.",
+        "EMILY: Who?",
+        "LORELAI: Hortence Van Uppity, tight bun, lace collar, tiny poodle... fictional friend?",
+        "EMILY: You keep so much from me with these separate worlds of yours. It's not right.",
+        "LORELAI: I will try harder to merge the worlds. I promise.",
+        "EMILY: Well, start now. I want to meet this Luke Danes.",
+        "LORELAI: You've met him.",
+        "EMILY: Not in this capacity. I need to re-meet him.",
+        "LORELAI: Well, I'm sure that day will come.",
+        "EMILY: Next week.",
+        "LORELAI: What?",
+        "EMILY: You have a gentleman friend of significance.",
+        "LORELAI: Rhett is my gentleman friend, yes.",
+        "EMILY: So it's only proper that you introduce him to your mother. Unless he's insignificant; I don't want to meet a passing ship. That's a waste of my time. Is Luke a passing ship? Is he insignificant?",
+        "LORELAI: No, he's not",
+        "EMILY: I'll get my book and we will pick a date next week.",
+        "LORELAI: Mom -",
+        "EMILY: Next week.",
+        "LORELAI: I -",
+        "EMILY: Next week.",
+        "(She goes to get her book.)",
+        "RORY: Honk if Emily Gilmore views your mind as her personal playground.",
+        "LORELAI: Honk, honk.",
+        "[Cut to opening credits.]",
+        "[Yale newspaper office.]",
+        "DOYLE: We eat it, we breathe it, it's our heart and lungs. What is it? The three basics: accuracy, accuracy, and accuracy. It's my head that went up on a platter, okay? So go the extra yard. Protect my head.",
+        "RORY: Headache, Doyle?",
+        "DOYLE: Charles Graw used to eat aspirin like candy. He ate candy like candy, too, hence the belly like jell-o. That was mean. The man's dead. So, how's the story coming? On that secret society.",
+        "RORY: The Life and Death Brigade. Get this. I've got a contact.",
+        "DOYLE: Inside?",
+        "RORY: Deep inside.",
+        "DOYLE: Who?",
+        "RORY: Anonymous. Don't ask again.",
+        "DOYLE: Your call.",
+        "RORY: I'm going to tell this story from the inside.",
+        "DOYLE: You'll be careful?",
+        "RORY: Careful enough.",
+        "DOYLE: Well, stay on it.",
+        "RORY: You bet.",
+        "DOYLE: I love this. We just had a very All the President's Men moment.",
+        "RORY: Very.",
+        "DOYLE: Moving around the newsroom like that, felt good.",
+        "RORY: Let's do it again sometime.",
+        "DOYLE: Now?",
+        "RORY: Might look silly.",
+        "DOYLE: Carry on.",
+        "RORY: Right, Chief.",
+        "[Luke's diner: interior]",
+        "CAESAR: There you are.",
+        "LANE: Club sandwich, burger well done, fries. Let me know if you need anything.",
+        "(She sees Zach hovering outside. Goes out to talk to him.)",
+        "LANE: Hey. What's up? You're acting all squirrelly.",
+        "ZACH: I'm ready now.",
+        "LANE: For what?",
+        "ZACH: To date.",
+        "LANE: Wow.",
+        "ZACH: That offer's still good, right?",
+        "LANE: Yeah, still good.",
+        "ZACH: Okay. So, we should pick a time.",
+        "LANE: Sure.",
+        "ZACH: How about now?",
+        "LANE: I'm kind of working.",
+        "ZACH: Right. How about tonight?",
+        "LANE: I've got band practice.",
+        "ZACH: Right.",
+        "LANE: And so do you.",
+        "ZACH: 'Cause we're in the same band. Okay. So, we'll figure it out.",
+        "LANE: We'll figure it out.",
+        "ZACH: Cool.",
+        "(Lane smiles.)",
+        "ZACH: See you at home.",
+        "LANE: Yeah, see you.",
+        "ZACH: Okay.",
+        "(Lane goes back into the diner. Lorelai is right behind her.)",
+        "LORELAI: Hey, Lane, how's it going?",
+        "LANE: Good, very good.",
+        "LORELAI: Oh, well, lucky you.",
+        "LUKE: Hey.",
+        "LORELAI: How dark is it?",
+        "LUKE: How dark is what?",
+        "LORELAI: The cumulus nimbus hovering over my head.",
+        "LUKE: Huh?",
+        "LORELAI: The black cloud. Was that a drop?",
+        "LUKE: What are you talking about?",
+        "LORELAI: I have some very bad news.",
+        "LUKE: What?",
+        "LORELAI: My mother is insisting on having dinner with us.",
+        "LUKE: That's it?",
+        "LORELAI: Did you hear what I said? Mother, dinner, us? That's on a par with car, test, crash test dummy. Don't worry, I'm going to do whatever it takes to get us out of this. I promise.",
+        "LUKE: Why?",
+        "LORELAI: What do you mean, why?",
+        "LUKE: Let's just do it, get it over with. Meeting the parents comes with the territory. We can't put it off forever.",
+        "LORELAI: Oh yeah? My fourth grade teacher wanted a meeting with my parents. She was hit by a bus six years ago. Never got the meeting.",
+        "LUKE: Book it.",
+        "LORELAI: Luke!",
+        "LUKE: Book it.",
+        "LORELAI: Okay. But I'm warning you. If I call and tell her, and then you change your mind and you want to back out, we're going to have to leave the country. And have extensive facial surgery, and s*x changes. Both of us, so that we can, you know, kiss and not look funny.",
+        "LUKE: I'm not going to change my mind.",
+        "LORELAI: Okay, fine, I'll just call her now (pulls out her cell phone) - oh, whoa, what is happening? Something dark is happening here. It is heavy like iron. Oh, did you feel that ice cold wind that just passed through?",
+        "LUKE: Make the call.",
+        "LORELAI: I see dead people.",
+        "LUKE: Make the call.",
+        "(Lorelai dials the phone.)",
+        "[Elder Gilmore's house: exterior.]",
+        "(Luke and Lorelai get out of his truck and walk to the door.)",
+        "LUKE: This is a house?",
+        "LORELAI: This is a house.",
+        "LUKE: What a waste! See, this is what causes peasants to revolt. This is how heads end up on pikes.",
+        "LORELAI: Open with that. That's a great icebreaker. Now listen, I want you to be careful about your consumption of booze.",
+        "LUKE: I'm not going to drink too much.",
+        "LORELAI: No, no, no. You've got it backwards, there, Pablo. Ride the pink elephant, baby, 'cause it's your only defense against Emily Gilmore unless you're packing a Kolishnikov.",
+        "LUKE: Yeah, yeah. Shouldn't we ring the doorbell or something? (He rings the bell.)",
+        "LORELAI: Oh, a little strategy. (Picks up a plant stake and starts drawing in the dirt.) Here's the front door. We're here. Drink cart's here. It's knock, knock. Open the door. \"Hi.\" \"Hi.\" Turn left, veer right, past the couch, we're at the booze. Any questions?",
+        "LUKE: Uh, yeah. Shouldn't you get a massage or something?",
+        "LORELAI: Take off your coat.",
+        "LUKE: It's cold.",
+        "LORELAI: No, it's time consuming. Roll it in a ball and have it ready to hand off to the maid. Yeah.",
+        "(Maid opens the door.)",
+        "LORELAI: Hi, hello.",
+        "MAID: Hi, come in please.",
+        "LORELAI: Thank you. (Luke takes the plant stake.) Sorry.",
+        "MAID: Can I take your coats?",
+        "LORELAI: Yeah, got mine all ready.",
+        "(They enter.)",
+        "MAID: Alright.",
+        "LUKE: Here you go. I'm Luke.",
+        "MAID: I'm a maid.",
+        "LUKE: Yeah. Nice to meet you.",
+        "LORELAI: Oh, that was so sweet and innocent.",
+        "EMILY: Well, well, our honored guest. Welcome.",
+        "LORELAI: Mom, Luke. Luke, Mom.",
+        "EMILY: We've met, Lorelai. Several times.",
+        "LORELAI: Well, I was just \"re-introducing\" you, as per your instructions.",
+        "LUKE: Good to see you again, Mrs. Gilmore.",
+        "EMILY: Ah, no, it's Emily. I insist.",
+        "LUKE: Nice to see you, Emily.",
+        "LORELAI: Drinks?",
+        "EMILY: We're in the foyer.",
+        "LORELAI: Let's change that.",
+        "EMILY: Not if Luke wants a tour.",
+        "LORELAI (pointing): Oh, okay, well, foyer, staircase, upstairs, dining room, kitchen, weird piano area that we never really named, and right through here is the living room. (She goes.)",
+        "LUKE: Yeah, uh, I don't need a tour. Thanks.",
+        "EMILY: Well, then, let's go in the living room.",
+        "[Elder Gilmore house: living room.]",
+        "LUKE: Your house is beautiful.",
+        "EMILY: They don't make them like this anymore.",
+        "LUKE: I'll say.",
+        "EMILY: They make everything out of cardboard now. White boxes with heating vents.",
+        "LUKE: Yeah. The art of craftsmanship is dead.",
+        "LORELAI: Gin.",
+        "EMILY: Do you have Tourette's or something?",
+        "LORELAI: I'm sorry. I thought I heard you say what would I like to drink.",
+        "EMILY: I was getting there.",
+        "LORELAI: Gin martini, please.",
+        "EMILY: I already made a pitcher of martinis, but they're vodka.",
+        "LORELAI: Vodka's perfect. Double with a twist.",
+        "EMILY: So, two cold martinis with a twist, and Luke, how would you like a beer?",
+        "LUKE: Great.",
+        "LORELAI: Or maybe Luke would like to choose his own drink. That's a thought.",
+        "EMILY: Oh, yes, I'm sorry Luke. You can have whatever you like. I've got it all.",
+        "LUKE: Beer is perfect.",
+        "EMILY: Beer it is.",
+        "LORELAI: No, no, she's got everything. She's got scotch, she's got rum, she's got, uh, whiskey, she's got red wine, she's not kidding, she's got it all.",
+        "LUKE: Beer is perfect.",
+        "LORELAI: Okay, bring him a beer.",
+        "EMILY: Here we are.",
+        "LORELAI: Thank you.",
+        "LUKE: Thank you, Emily.",
+        "EMILY: The beer is nice and cold. I almost want one myself.",
+        "LUKE: Hey, uh, you can have some of mine if you want.",
+        "EMILY: So, how's that diner of yours?",
+        "LORELAI: Uh...",
+        "LUKE: It's doing great. No matter what the economic climate, people gotta eat.",
+        "EMILY: That is so true. And I thought your place was very charming. Nice and rustic. (Lorelai clears her throat.)",
+        "EMILY: Do you need a cough drop?",
+        "LUKE: She's fine.",
+        "EMILY: Where'd your martini go?",
+        "LORELAI: To a happy place.",
+        "EMILY: Do you want another?",
+        "LORELAI: Does Pavarotti want another donut?",
+        "EMILY: That's a yes?",
+        "LUKE: I'll pour it, Emily.",
+        "EMILY: Thank you, Luke. I should go check on dinner. Will you excuse me?",
+        "LUKE: Absolutely.",
+        "EMILY: Thank you. (She goes.)",
+        "LUKE: Unbelievable.",
+        "LORELAI: I know, she didn't make nearly enough.",
+        "LUKE: I meant you, you're acting crazy.",
+        "LORELAI: She's insulting you!",
+        "LUKE: No, she's not. Your mom's being great.",
+        "LORELAI: What? Were you in the room? Did you not hear the awful things she said?",
+        "LUKE: What did she say?",
+        "LORELAI: Rustic diner? Rustic?",
+        "LUKE: So?",
+        "LORELAI: Backhand slang for crap pile.",
+        "LUKE: Or she was admiring its vintage feel.",
+        "LORELAI: Oh, what was the other word she used?",
+        "LUKE: Charming?",
+        "LORELAI: Ah, slang for doggie poopy.",
+        "LUKE: Unbelievable.",
+        "LORELAI: Wait, wait, what was the beer thing? Oh my God!",
+        "LUKE: That was nice. I wanted beer, she was considerate enough to anticipate that that might be the case.",
+        "LORELAI: The word beer, backhand slang for nitwit juice.",
+        "LUKE: You're reading way too much into this.",
+        "LORELAI: Excuse me, but I would defer to the Gilmore expert here. I am the oracle. I carry all the knowledge.",
+        "LUKE: Well, I would like you to calm down, because you're making me nervous.",
+        "LORELAI: I'm trying to protect you.",
+        "LUKE: I'm a grown man, and this isn't my first foray into the big city. I've dealt with all types of people in my life. Rich, poor, snobby, proud. I can handle it.",
+        "LORELAI: But -",
+        "LUKE: And by you jumping in after everything your mother says, makes me look weak. And I don't want to look weak.",
+        "LORELAI: I don't want you to either!",
+        "LUKE: Well, then, give me my space, okay? Please.",
+        "LORELAI: Okay, I'll give you your space.",
+        "(Emily returns.)",
+        "EMILY: Dinner is going to be as good as it smells, I guarantee it.",
+        "LUKE: It smells wonderful, Emily.",
+        "EMILY: Thank you, Luke. It's nice to have a kind gentleman in the house.",
+        "LUKE: Thank you.",
+        "EMILY: So, you're recently divorced?",
+        "LUKE: Uh, yeah, I guess. Although, it depends on what you'd call recently.",
+        "EMILY: In the last year, you've been divorced in the last year, that would be recent.",
+        "LUKE: Uh, yeah. Yes.",
+        "EMILY: Terrible, the divorce rate, isn't it.",
+        "LUKE: Yes, it's terrible.",
+        "EMILY: I'm sure it was inevitable in your case.",
+        "LUKE: Turned out that way.",
+        "EMILY: I hope there weren't children.",
+        "LUKE: No.",
+        "EMILY: Divorce destroys children. But, without children, you're only harming yourself. Of course, nowadays people get married for fun. Apparently there's nothing good on TV.",
+        "(Luke looks at Lorelai with pain on his face.)",
+        "[Yale dorms: Rory's room.]",
+        "(Rory walks in and presses a button on her answering machine.)",
+        "DEAN'S VOICE: Hey. It's Dean. Uh, so, we were supposed to get together day after tomorrow, but I have to cancel - again. One day, I'm going to have one job, not three, which will simplify everything. I hope. Anyway, um, I was hoping we could somehow hook up tomorrow night, I forget if you have something going on, but I've got a three hour window, and I was thinking dinner or something. Maybe we can meet halfway between Yale and Stars Hollow. That probably puts us on the interstate, meaning the six ninety-nine surf and turf special, but hell, I'm a cheap date. Uh, so, not the most romantic get together for us, but something's better than nothing. Let me know. Bye.",
+        "(As she listens to the message, she notices an envelope taped to the outside of her window. She reaches out and opens it and reads this note: \"Be in your vestibule at four tomorrow. Blindfolded. The LDB.\" She reaches into the envelope again and pulls out a blindfold.)",
+        "ANSWERING MACHINE: End of messages.",
+        "[Elder Gilmore's house: dining room.]",
+        "EMILY: Diners are generally so filthy. I'm sure yours isn't, but the horror stories you hear. I read that one in Vermont got caught serving roadkill. Do you know what that is?",
+        "LUKE: Uh, yeah, it's, uh, dead animals from the street.",
+        "EMILY: From the street, from the backyard, fished out of pools. These diners find it and serve it. Again, probably not yours. But the fact that this place got away with it at all is astounding. I guess people who frequent diners don't look too closely at what they're eating out of self defense.",
+        "LUKE: We don't serve roadkill at my place.",
+        "EMILY: Well good for you. (pause.) I had a friend who ate at a diner once and the next day she dropped dead. Her family considered suing the place but there's nothing to get from these people. A couple of stools and a toaster. But they were sure it was a matter of hygiene and they eventually drove them out of the state. I don't want to tell you what they found when they moved the stove. Would you like another beer, Luke?",
+        "[Elder Gilmore house: outside.]",
+        "(Emily is walking Lorelai and Luke out.)",
+        "EMILY: ... Opiate for the masses. Well, so what? We all have our opiates. For some it's valet, for Luke it's baseball. Whoever I heard say it just happened to say it about what Luke likes. Oh, no! Some workman has left his filthy truck in our clean driveway! Richard must have sent for him.",
+        "LUKE: Oh, that's mine, actually.",
+        "EMILY: Oh. Well, it's nice. Rustic. I like the color.",
+        "LUKE: Thank you.",
+        "EMILY: And I like this coat of yours, there's something nice about simple cloth.",
+        "LUKE: Thanks.",
+        "EMILY: Well, this was wonderful. Don't be a stranger, all right?",
+        "LUKE: I won't. Thank you, Emily.",
+        "EMILY: Goodbye. Bye, Lorelai. (She goes back inside.)",
+        "LORELAI: Bye, Mom.",
+        "LUKE: Thanks, again.",
+        "(The door closes.)",
+        "LUKE: You know what's amazing, I mean truly amazing.",
+        "LORELAI: What?",
+        "LUKE: She never said anything directly bad about me or the diner or anything else concerning me.",
+        "LORELAI: She's good.",
+        "LUKE: And all I did was thank her. Over and over. She'd hammer me, and I'd thank her.",
+        "LORELAI: It's a talent.",
+        "LUKE: \"Rustic\" really did sound like crap pile that time.",
+        "LORELAI: Come on, babe. You'll feel better about halfway home.",
+        "LUKE: Good.",
+        "LORELAI: Then the eye-popping nausea will hit you. The rich food mixes with the bitter memories and it all gets worse, and then it gets better.",
+        "LUKE: Good.",
+        "LORELAI: Until you get to Route 44, and then you hit bottom.",
+        "LUKE: Good. Great.",
+        "LORELAI: I'll be ready with a tongue depressor to keep you from swallowing your tongue. I keep them in my purse. Step up.",
+        "[Yale dorms: vestibule.]",
+        "(Rory is standing blindfolded as other students walk by.)",
+        "LOGAN: Hey, Ace, you ready? (reaches around a corner and pulls her by the arm.)",
+        "RORY: Well -",
+        "[Black SUV: interior.]",
+        "(Rory sits blindfolded in the middle.)",
+        "LOGAN: Hit it!",
+        "FINN: Ah! Not so loud!",
+        "STEPHANIE: You're very auditorily sensitive today.",
+        "FINN: Oh, and your voice helps.",
+        "COLIN: Is the blindfold secure?",
+        "LOGAN: Secure and in place.",
+        "COLIN: Our anonymity's crucial, Logan. Crucial.",
+        "(Finn groans.)",
+        "RORY: What's wrong with Finn?",
+        "COLIN: Great job with the blindfold, Logan.",
+        "RORY: I recognized your voices, Colin.",
+        "FINN: Could everyone keep it down, please.",
+        "RORY: Can we remove the blindfold now?",
+        "LOGAN: We're also hiding our destination.",
+        "FINN: We had to leave at this ungodly hour.",
+        "RORY: It's four in the afternoon.",
+        "LOGAN: He's got a thing about the sun.",
+        "FINN: It's too bright.",
+        "RORY: So how come you're not wearing your gorilla masks?",
+        "COLIN: She can see.",
+        "RORY: I can tell because your voices aren't muffled.",
+        "STEPHANIE: She's sharp.",
+        "RORY: Who's the girl?",
+        "STEPHANIE: I've been told we've met. I've no memory of it.",
+        "RORY: Oh, Gorilla Girl.",
+        "STEPHANIE: Oh, well, isn't that a pretty nickname.",
+        "LOGAN: Oh, by the way, this thing's overnight.",
+        "RORY: Overnight?",
+        "LOGAN: Didn't I mention that before?",
+        "RORY: Oh, must have slipped your mind.",
+        "LOGAN: That doesn't screw up anything for you, does it?",
+        "RORY: No.",
+        "LOGAN: No?",
+        "RORY: Nope.",
+        "LOGAN: Hmm. Loose schedule. Good.",
+        "FINN: We like our schedules loose, like our women.",
+        "COLIN: Clever.",
+        "FINN: My God, it's early.",
+        "[Luke's diner: interior.]",
+        "(Phone rings.)",
+        "LUKE: Luke's.",
+        "VOICE: Good afternoon, I'm calling for Mr. Luke Danes.",
+        "LUKE: This is Luke Danes.",
+        "VOICE: Please hold for Mr. Gilmore.",
+        "LUKE: What? For who? Hello?",
+        "RICHARD: Luke? Richard Gilmore here.",
+        "LUKE: Uh, uh, hi, Richard. Mr. Gilmore, sir, how are you?",
+        "RICHARD: I'm fine, thank you. Listen, I thought we could meet for a round of golf, you and I.",
+        "LUKE: Golf?",
+        "RICHARD: Tomorrow afternoon's good for me.",
+        "LUKE: Uh-huh.",
+        "RICHARD: Is that good for you?",
+        "LUKE: Well, uh...",
+        "RICHARD: Good. I'll have Margie call you back with the details.",
+        "LUKE: ... Okay.",
+        "RICHARD: Wonderful, I look forward to it. See you at the club.",
+        "LUKE: Yeah, see you at the club.",
+        "(Richard hangs up. Luke looks in disbelief at the phone in his hand.)",
+        "[Woods. Cars are parked. The black SUV pulls up near a table with old-fashioned lanterns on it.]",
+        "FINN: This mountain air has revivified me. (Laughs and runs off.)",
+        "LOGAN: Make sure he doesn't run off a cliff.",
+        "COLIN: Stephanie, it's your turn.",
+        "STEPHANIE: Finn! You slow down! (Grabs a lantern and follows.)",
+        "LOGAN: You okay?",
+        "RORY: I smell trees.",
+        "LOGAN: Oh, nothing gets past you. (Grabs a lantern and leads Rory into the woods.)",
+        "RORY: So the firing squad is just up ahead?",
+        "LOGAN: Yup, and there's a line. Damn.",
+        "RORY: Seriously, Logan, is the blindfold coming off, or am I Patty Hearst-ing it the whole trip?",
+        "LOGAN: It's coming off. It's coming off right now. (Pulls it off.)",
+        "(Rory opens her eyes to see a camp full of white tents, candles & lanterns, and turn-of-the-century furniture.)",
+        "RORY: Oh, my.",
+        "[Dragonfly Inn: office]",
+        "LORELAI (on cordless phone): You cannot go golfing with my father.",
+        "LUKE: It's a done deal.",
+        "LORELAI: What is that man up to? What is he doing?",
+        "LUKE: Ouch.",
+        "[Cuts back and forth between Luke's office and Lorelai's office.]",
+        "LORELAI: What are you doing?",
+        "LUKE: I'm looking for a book my dad had somewhere around here. \"Learn Golf the Arnold Palmer Way.\" I can't find it.",
+        "LORELAI: I beseech you. Do not go golfing with my father.",
+        "LUKE: It's too late. I said yes.",
+        "LORELAI: Why? Why did you say yes?",
+        "LUKE: I had no choice.",
+        "LORELAI: Well, saying no is a choice. Did you learn nothing from the dinner with my mother?",
+        "LUKE: Apparently not.",
+        "LORELAI: Call him and cancel.",
+        "LUKE: Right, and how would he take that?",
+        "LORELAI: Badly, that's why you just hang up real quick.",
+        "LUKE: And this is a good way to start a relationship with your father.",
+        "LORELAI: No, this is the way to end it. God, you're slow. Listen, call him and tell him that, um, when he called, you had just dropped some paoti, and you were tripping, and you were seeing vapors, and that's why you agreed, but then you landed and realized that you can't go. Wait, do you smoke paoti? We should get that straight before you call him.",
+        "LUKE: Backing out will make it worse.",
+        "LORELAI: But do you even know how to play golf?",
+        "LUKE: I took a course in summer school but I accidentally hit Kent Calida in the head with a driver and got asked to leave, but I think I remember the basics. Grab the club, whack a ball. I'll fake it.",
+        "LORELAI: Luke -",
+        "LUKE: Don't worry, I'll be fine.",
+        "LORELAI (sighing): Okay. Fine then, bye.",
+        "(She hangs up, then dials another number. Scene cuts to Elder Gilmore pool house, exterior. Richard is putting.)",
+        "LORELAI: Hi, Dad. I need a favor. The biggest favor I may ever ask you for, ever.",
+        "RICHARD: I don't like the sound of this.",
+        "LORELAI: Please cancel this golf game with Luke.",
+        "RICHARD: What? No!",
+        "LORELAI: But why? Why are you doing this? What is the point?",
+        "RICHARD: How is this even your business?",
+        "LORELAI: He's my boyfriend.",
+        "RICHARD: And this is my right. Your mother already met him. At a secret dinner I only found out about because her blabbermouth maid told my valet. So now, I want to meet him.",
+        "LORELAI: But you've already met him.",
+        "RICHARD: Well I need to re-meet him.",
+        "LORELAI: Why can't you and mom meet someone once and make it stick?",
+        "RICHARD: I insist upon this golf game.",
+        "LORELAI: He doesn't even golf.",
+        "RICHARD: He said he did.",
+        "LORELAI: Yeah, well, he whacked Kent Calida in the head with a club, okay? So you're taking your life in your own hands. You want to reconsider now, huh? You like your head, huh?",
+        "RICHARD: Lorelai, tee time is set, Luke has said yes to my proposal, and tomorrow he and I are golfing.",
+        "LORELAI: Have fun.",
+        "RICHARD: This is not about having fun, this is protocol.",
+        "LORELAI: Well, have a good protocol, Dad. Bye. (hangs up.)",
+        "[SCENE_BREAK]",
+        "[Woods. Rory and Logan are walking among the tents.]",
+        "LOGAN: Is this what you expected?",
+        "RORY: No, not at all what I expected.",
+        "LOGAN: Let me guess what you were thinking: sleeping bag, flashlights, keg, three boxes of stale Triscuits, half eaten bag of Oreos, some Doritos and a bong.",
+        "RORY: That may be exactly what I pictured.",
+        "LOGAN: You can apologize later. This is yours. (Opens a tent.)",
+        "RORY: Mine?",
+        "LOGAN: Not much closet space, but the view's decent.",
+        "RORY: It's cozy. (She goes inside.)",
+        "LOGAN: Festivities start in half an hour. (He leaves.)",
+        "(Rory sits on the bed and pulls out her phone.)",
+        "RORY: Dean, hi. It's me. I got your call. I would love to have dinner with you tonight, but something unbelievably unexpected came up, and it's going to keep me busy for a couple of days. I'd give you more info, but it's all a little Dali-esque and hard to explain. I'll fill you in when I get home. If I get home. Just kidding. I hope. Bye. (She hangs up and pulls out her notepad. An owl hoots in the distance.)",
+        "[Lane's bedroom.]",
+        "(Lane is preparing for her date with Zach. She goes out and meets him in the living room.)",
+        "[Lane's living room.]",
+        "ZACH: Am I early?",
+        "LANE: Right on time.",
+        "ZACH: You look good.",
+        "LANE: Thanks, so do you. Have I seen those pants?",
+        "ZACH: I got them from the bottom of my drawer. I forgot I had them.",
+        "LANE: Cool. So what do you feel like doing?",
+        "ZACH: We could drive somewhere. We just have to stop for gas... and add some oil, and put some air in the tires, and we'd have to stop by an ATM.",
+        "LANE: Or we could hang out here.",
+        "ZACH: Sure.",
+        "LANE: Yeah.",
+        "ZACH: Okay! Cool. Let's get a pizza, and watch something, and just hang out.",
+        "LANE: Great! (She hands him her purse and jacket.) What do you want to watch?",
+        "ZACH: Want to finish watching what we started last night?",
+        "LANE: Yeah. Great. (They sit down, and Brian walks in.)",
+        "BRIAN: Hey, guys. Ooh, Stop Making Sense. Great. (He sits between them.) This is where we left off last night.",
+        "ZACH: What are you doing?",
+        "BRIAN: Watching TV.",
+        "ZACH: Uh, Brian, this is a date.",
+        "BRIAN: What?",
+        "ZACH: Lane and I are kind of on a date right now.",
+        "BRIAN: You are? But this is what we did last night.",
+        "ZACH: I know.",
+        "BRIAN: So, last night was a date, too?",
+        "LANE: That was not a date.",
+        "ZACH: I was in my underwear.",
+        "BRIAN: But we did exactly the same thing, you just had no pants.",
+        "ZACH: Well, we're kind of starting to date, and this is what we're going to do.",
+        "BRIAN: So, where do I go?",
+        "LANE: Well, how about my room?",
+        "BRIAN: Really? You never let me in your room.",
+        "LANE: Well, now's your chance.",
+        "BRIAN: Great!",
+        "ZACH: Wait, hold on. (To Lane.) Shouldn't we leave your room empty?",
+        "LANE: Why?",
+        "ZACH: You know, in case the date goes good?",
+        "LANE: Brian, go in my room.",
+        "BRIAN: Thanks! (Runs in.) Man, it smells good in here.",
+        "(Zach turns the movie back on.)",
+        "[Woods.]",
+        "(Rory comes out of her tent and sees everyone dressed in turn of the century clothes. She catches up to a couple.)",
+        "RORY: Hey. Rory Gilmore. Um, this is quite a soiree. Are all the Life and Death Brigade gatherings this elaborate? (They ignore her. She wanders over to a group of guys.)",
+        "GUY #1: How about (?) social stands?",
+        "GUY #3: Ridiculous. Total stand-still for all in his vicinity. What do you say?",
+        "GUY #4: I concur totally.",
+        "GUY #1: Crazy construct if you think for a bit.",
+        "GUY #2: Dubious logic if you ask this thoughtful guy.",
+        "RORY: Hello, everybody.",
+        "GUY #3: My God.",
+        "GUY #1: Shocking.",
+        "GUY #3: Silly girl. Not adjusting to this proud point of ours.",
+        "GUY #4: Sad, this diminishing vision.",
+        "RORY: Excuse me?",
+        "GUY #4: Full count is six, I say?",
+        "GUY #3: Six, no doubt. Ay, again I concur.",
+        "GUY #4: Point in fact, daft lady, to catch on would prompt our congratulations.",
+        "RORY: It's a game?",
+        "GUY #3: At which you totally fail.",
+        "GUY #4: You want for instruction?",
+        "RORY: Apparently.",
+        "GUY #4: Said gap 'twixt 'd' and 'f' shall not slip from lips in any word this group allows.",
+        "RORY: Said gap 'twixt 'd' and 'f' ... you're not using the letter 'e'?",
+        "GUY #4: Said this thing our group did banish.",
+        "GUY #1: Loud, for all to drink in!",
+        "GUY #3: Daft girl.",
+        "RORY: So, no one is supposed to say the letter 'e'.",
+        "GUY #4: My God, this woman hounds us with this thing I banish.",
+        "GUY #3: Dumbfound.",
+        "RORY: Um, I'll catch up with you guys later. Have fun. If that's what you're doing. (She walks away.)",
+        "GUY #4: Bloody horror, that woman.",
+        "GUY #1: Ostracism should occur, I think.",
+        "(Rory wanders through the camp.)",
+        "RORY: Hi, Stephanie.",
+        "STEPHANIE: Oh, good, you're using 'e's. No champagne?",
+        "RORY: No, I'll have a little later. So, is Logan the head of the group?",
+        "STEPHANIE: There's no head of the group, Rory. We're an anarchy collective, we don't recognize leaders per se. Plus it's a secret. I shouldn't be talking to you. (Hiccups.) Warning sign.",
+        "RORY: Because the way that people act around him, Logan kind of seems...",
+        "STEPHANIE: Cute?",
+        "RORY: No.",
+        "STEPHANIE: No?",
+        "RORY: Well, yes, but -",
+        "STEPHANIE: There's a line to get to him.",
+        "RORY: Oh, no, I'm not looking to get in a line. I'm a reporter.",
+        "STEPHANIE: Bet you're a good reporter. And a very good girl. Oh dear, I'm talking to you. I shouldn't be talking to you. I have to kill myself now - excuse me. (She walks away.)",
+        "(Rory walks up to another group of guys.)",
+        "RORY: Hi. Hi. Um, I was wondering. Is the safari thing something you always do, or do you choose different themes?",
+        "GUY: May I quote Max Ernst?",
+        "RORY: Sure.",
+        "(The group walks away.)",
+        "(Later: Rory is sitting under a tree in view of the camp. Logan walks toward her with a lantern and a plate.)",
+        "LOGAN: How goes it, pariah?",
+        "RORY: Logan?",
+        "LOGAN: Word was a bear dragged you off.",
+        "RORY: No bear, I just wanted a quiet place to collect my thoughts.",
+        "LOGAN: You found it.",
+        "RORY: Thanks, I've eaten.",
+        "LOGAN: Good. This is for me. Sorry you're not getting much from the group. Took a little arm-twisting to get them to agree to let you come in the first place.",
+        "RORY: I don't need their cooperation. I've already filled two notebooks without their cooperation. Half of one without using the letter 'e', but I could use yours.",
+        "LOGAN: Way too much salt on this.",
+        "RORY: I mean, this is pretty incredible, but it's just a preamble to the big stunt tomorrow, right?",
+        "LOGAN: It's Finn, he's Australian. They like salt.",
+        "RORY: How do you pay for this? Are there dues, or do you chip in, is there alumni sponsoring it? How is it organized? And what is happening tomorrow? Is it just as big, or bigger? And do people know that you're here? Park Rangers, or the landowner? Where are we? Are we still in Connecticut? And your answer cannot include the word salt.",
+        "LOGAN: Okay. I think it's time to fill you in on the conditions of you being here.",
+        "RORY: Okay.",
+        "LOGAN: First, no pictures. (Holds up her camera.)",
+        "RORY: Hey!",
+        "LOGAN: Aw, you'll get it back at the end of the trip. Second, no names.",
+        "RORY: I'm not exactly being introduced to anyone as it is.",
+        "LOGAN: Third, no physical descriptions of any of us. There are authority figures up and down Connecticut trying to nab us for things we may have done in the past. Naughty things.",
+        "RORY: Keep you anonymous.",
+        "LOGAN: What number am I on?",
+        "RORY: Just at third.",
+        "LOGAN: Fourth, no identification of our location.",
+        "RORY: I don't know where we are.",
+        "LOGAN: Fifth.",
+        "RORY: You're going to run out of -ifths.",
+        "LOGAN: Most important condition of all. You must agree not to interfere with the integrity of the event.",
+        "RORY: What is the event, and how could I interfere?",
+        "LOGAN: So you agree?",
+        "RORY: Yes, I agree.",
+        "(The camp breaks into song.)",
+        "RORY: It's pretty.",
+        "LOGAN: It's drunk.",
+        "RORY: Well it sounds pretty. I like it.",
+        "LOGAN: I didn't say I didn't like it.",
+        "GIRL'S VOICE: Logan?",
+        "LOGAN: Yeah?",
+        "GIRL: You coming?",
+        "LOGAN: I'll be right there. (To Rory) I'll leave the light for you, Ace. I won't need it.",
+        "GIRL: Hurry up, darling.",
+        "LOGAN: Here I am.",
+        "[Lane's house: living room.]",
+        "ZACH (turning off the TV.): David Byrne is a freak.",
+        "LANE: I love him.",
+        "ZACH: He's totally cool.",
+        "LANE: So.",
+        "ZACH: So.",
+        "LANE: This was nice.",
+        "ZACH: Yeah.",
+        "LANE: I like your place.",
+        "ZACH (laughs): Hm, right.",
+        "LANE: I have to get up early for work tomorrow.",
+        "ZACH: No problem.",
+        "LANE: So I should probably...",
+        "ZACH: Oh, right, right.",
+        "(They get up, holding hands, he walks her to her door.)",
+        "LANE: Goodnight Zach.",
+        "ZACH: Goodnight.",
+        "(She opens the door, Brian is asleep on her bed.)",
+        "LANE: Oh, no.",
+        "ZACH: This is bad news. Once he hits his REM state, Motorhead wouldn't wake him.",
+        "LANE: What do I do?",
+        "(Zach goes in and tosses Brian over his shoulder.)",
+        "LANE: He really is asleep.",
+        "ZACH: He's gained a couple of pounds, too.",
+        "(He heads toward the bunk beds, then turns back to Lane.)",
+        "ZACH: Okay, well, I had a really good time.",
+        "LANE: Me, too.",
+        "(They kiss.)",
+        "LANE: Night, Zach.",
+        "ZACH: Night, Lane.",
+        "(She goes into her room.)",
+        "[Woods: morning.]",
+        "(Logan walks through the camp in a tux. Rory comes out of her tent.)",
+        "RORY: Another day, another sartorial surprise.",
+        "LOGAN: Start getting ready yourself.",
+        "RORY: I am ready.",
+        "LOGAN: Dressed like that?",
+        "RORY: Well, I didn't have the \"it's an overnight thing\" warning, so unless you want me to fashion something out of pinecones, this is it.",
+        "LOGAN: That clothing is going to interfere with the integrity of our event and you agreed not to interfere with the integrity of our event.",
+        "RORY: All I've got is a washbowl, a towel and a toothbrush.",
+        "LOGAN: Is that all you've got? Look again, Ace.",
+        "(Rory goes back into the tent and looks around. Under the bed she finds a large white dress box.)",
+        "[Golf course.]",
+        "(Luke is waiting nervously. Richard is doing the same. They take a minute to recognize each other.)",
+        "LUKE: Excuse me, Mr. Gilmore?",
+        "RICHARD: Luke?",
+        "LUKE: Yeah, hi.",
+        "RICHARD: I don't remember you being this tall.",
+        "LUKE: Sorry.",
+        "RICHARD: Oh, it's nothing to apologize about. Where are your clubs?",
+        "LUKE: Oh, I just figured I'd, uh, rent some.",
+        "RICHARD: Oh, waste of money. Owning's the thing.",
+        "LUKE: Right.",
+        "RICHARD: There is no better place than our pro shop.",
+        "LUKE: Great.",
+        "RICHARD: Let's go get you some clubs.",
+        "LUKE: Excellent.",
+        "[Woods: Outside Rory's tent.]",
+        "(Logan waits. Rory comes out in a pale blue ball gown.)",
+        "RORY: I got your event integrity right here, mister.",
+        "LOGAN: Yep. I got an eye for dress sizes. We go this way.",
+        "[A field.]",
+        "LOGAN: Come on, hurry.",
+        "RORY: You try running in a crinoline.",
+        "LOGAN: We're late.",
+        "RORY: For what? The ritual sacrifice?",
+        "(Everyone is standing, wearing tuxes and gowns, listening to a speech.)",
+        "EMCEE: I do declare here gathered, one hundred and eighth assembly of the honorable Life and Death Brigade.",
+        "(Rory and Logan sneak in, Finn hands her a glass of champagne.)",
+        "RORY: He's using 'e's.",
+        "EMCEE: Please raise your glasses. In Omnia Paratus!",
+        "GROUP: In Omnia Paratus!",
+        "(They turn to their partners and feed each other their champagne.)",
+        "LOGAN: Now you might want to cover your ears.",
+        "(A large gong is uncovered behind them.)",
+        "RORY: Why?",
+        "(The emcee bangs the gong with a loud \"clang\". Everyone cheers and runs into the field,",
+        "LOGAN: And to think some groups just go bowling.",
+        "(Later: A game of polo. The men are carrying carts which hold the ladies, who are leaning out the side, hitting a ball with mallets. Rory watches from the side. She wanders over to another area, where some guys are playing another game. One jumps off a table sideways onto a landing mat while another shoots at him with a paintball gun.)",
+        "SHOOTER: Pull! (shoots.) Pull!",
+        "SPECTATORS: Good shot! Pure skill!",
+        "RORY: Is this safe?",
+        "SPECTATORS: No.",
+        "SHOOTER: Pull! ...Damn.",
+        "SPECTATORS: Blame the gun. I would.",
+        "(Rory walks toward Logan and Finn, who are playing the same game further away.)",
+        "FINN: Pull! Pull! All right, I'm bored. I want to be a target.",
+        "LOGAN: You're always a target, Finn.",
+        "FINN: In Omnia Paratus.",
+        "LOGAN (shooting): You want to interview Finn, Ace, you should do it quick. Pull!",
+        "RORY: Not bad.",
+        "LOGAN: Thank you.",
+        "RORY: So is this your big stunt?",
+        "LOGAN: Big stunt?",
+        "RORY: According to my research, you guys always do one big thing at your gatherings.",
+        "LOGAN: Pull!",
+        "RORY: Is this it?",
+        "LOGAN: Does it look like it?",
+        "RORY: I'm guessing no.",
+        "LOGAN: You answered your own question. Pull! You'll know it when you see it.",
+        "RORY: Good.",
+        "(Two guys walk by carrying Finn on a stretcher.)",
+        "FINN: I missed the mat.",
+        "LOGAN: Again?",
+        "FINN: I'll be fine. Don't worry about me. In Omnia! (He swoons.)",
+        "(Logan laughs.)",
+        "[Golf course: Richard is teeing up. He takes a swing.]",
+        "RICHARD'S CADDY: You're on your game today, Mr. Gilmore.",
+        "RICHARD: Indeed I am.",
+        "LUKE'S CADDY: Indeed.",
+        "LUKE: Indeed.",
+        "RICHARD: I'm going to speak to the board about these grounds. There are dry spots the length and breadth of this fairway.",
+        "LUKE: Hm. Oh, I'm up. Okay. Let's see... I think this one is... (His caddy shakes his head) not the one I want at all, but this one here... (Takes the club the caddy hands him)",
+        "LUKE'S CADDY: Oh, good choice. Let's take the tag off there.",
+        "LUKE: Good idea. Okay, ball goes down here.",
+        "RICHARD: Ah.",
+        "(Luke swings.)",
+        "LUKE: Aw, damn.",
+        "RICHARD: No problem.",
+        "LUKE: It's heading toward the wrong hole.",
+        "RICHARD: It's just a Mulligan, son. Try it again.",
+        "LUKE: Golf isn't my thing, you know. It's definitely a thing, but not my game.",
+        "RICHARD: Well, what is your main hobby?",
+        "LUKE: Uh... (to caddy) Give me a hobby, quick.",
+        "LUKE'S CADDY: Uh, reading.",
+        "LUKE: Reading. I read like crazy.",
+        "RICHARD: Wonderful! What have you been reading lately?",
+        "LUKE: Uh, books. You know, this, that. Dick!",
+        "RICHARD: Dick?",
+        "LUKE: That Dick guy, science fiction guy, Dick something, something Dick... I just read one of his.",
+        "RICHARD: Well, I'll bring Dick up on the internet, see what comes up.",
+        "LUKE: Wish I could remember that name.",
+        "RICHARD: You better hit your ball, son. We're stacking up. (Waves at the people behind them.)",
+        "LUKE: Right, yeah. Okay.",
+        "RICHARD: Just a second, guys, he's, uh, he's new.",
+        "(Luke swings.)",
+        "RICHARD: Not to worry, the cart's been dinged a thousand times.",
+        "LUKE: The guy driving it looked mad.",
+        "RICHARD: Not to worry. Let's go. (They start to walk.) So, have you put much thought into franchising?",
+        "LUKE: Franchising?",
+        "RICHARD: That diner of yours. Now is the time to jump. There are opportunities abounding in real estate right now.",
+        "LUKE: Eh, well, no, I haven't.",
+        "RICHARD: I'd concentrate on the eastern seaboard, first. Connecticut, New York, Massachusetts. I'd start with, uh, five to seven.",
+        "LUKE: Diners?",
+        "RICHARD: Something manageable. You'll need an investment banker, ah. Just ran into Herb Smith in the clubhouse, best banker in the business, I'll give him your number.",
+        "LUKE: Good.",
+        "RICHARD: So, once the first seven are a go, shoot for the moon. National expansion. Set up a public corporation, issue an I.P.O.",
+        "LUKE: Yeah, sure. An I.P.O. Gotta set up one of those.",
+        "RICHARD: Have you ever gotten a straight razor shave?",
+        "LUKE: No.",
+        "RICHARD: Shaves you close, lasts for days. I'll give you my barber's card.",
+        "[Camp. Rory is looking up at a huge scaffold that has been set up in the field. Several people are standing on top holding umbrellas. Logan joins her.]",
+        "LOGAN: Hope you're thinking up superlatives.",
+        "RORY: What are they going to do?",
+        "LOGAN: What do you think they're going to do?",
+        "RORY: They're not going to jump.",
+        "LOGAN: Jump!",
+        "RORY: That's like seven stories! They'll die!",
+        "LOGAN: We're all going to die one day.",
+        "RORY: But those four are today.",
+        "LOGAN: Six.",
+        "RORY: I see four.",
+        "LOGAN: I'm heading up.",
+        "RORY: Of course you are.",
+        "LOGAN: And Finn was supposed to do it, but few of us figured he'd make it this far, so there's an extra space.",
+        "RORY: Hmm. (Looks up, then sees the way Logan's looking at her.) No!",
+        "LOGAN: And we're not going to die. No one in the Life and Death Brigade has ever died. Old ones have.",
+        "RORY: I am not going to jump!",
+        "SETH: We're all set.",
+        "LOGAN: This is Seth, he's the genius behind all this.",
+        "SETH: It's very safe. We did a dozen successful test drops, every potato came through without a scratch.",
+        "RORY: Potato?",
+        "LOGAN: You can't test using people, that'd be dangerous!",
+        "RORY: Look, thanks for the offer, but I'm here as a journalist. An observer. Journalists do not participate.",
+        "LOGAN: Since when?",
+        "RORY: Since forever.",
+        "LOGAN: George Plimpton never participated.",
+        "RORY: What?",
+        "LOGAN: His best stuff put him in the think of it. Fighting Sugar Ray Robinson, quarterbacking for the Lions, skating for the Bruins.",
+        "RORY: So he participated.",
+        "LOGAN: Bill Buford lived with soccer hooligans in amongst the thugs. Ernie Pyle was so deep in the action in World War II, he was killed by a Japanese sniper, not that you gotta go that far.",
+        "RORY: Buford, Pyle. I know.",
+        "LOGAN: Richard Hottelet was four months in a Nazi prison working for the U.P. Hunter Thompson lived with the Hell's Angels. Got in the muck, didn't just orbit around it, and it drove his writing. He put you in those biker's parties. He put you in those biker's heads.",
+        "RORY: All right, all right, so, those guys participated. I got it, but I -",
+        "EMCEE: Jumpers to their places, please!",
+        "LOGAN: You're scared.",
+        "RORY: Well, yeah!",
+        "LOGAN: And that stops the greats?",
+        "RORY: It's stopping this great!",
+        "LOGAN: Come on, you look like you need a little adventure.",
+        "RORY: What does that mean?",
+        "LOGAN: You're just a little sheltered.",
+        "RORY: Why? Because I haven't spent time in a Nazi prison, been stomped on by hooligans and beat up by Hell's Angels? And Plimpton got banged up pretty good too.",
+        "LOGAN: It'll be fun, it'll be a thrill. Something stupid, something bad for you. Just something different. (Rory smiles.) Isn't this the point of being young? It's your choice, Ace. People can live a hundred years without really living for a minute. You climb up here with me, it's one less minute you haven't lived.",
+        "RORY: Let's go.",
+        "LOGAN: Let's go!",
+        "RORY: But I am not a fan of ladders.",
+        "LOGAN: They scare the crap out of me, too.",
+        "(They climb the scaffold.)",
+        "RORY: High. We are very high.",
+        "LOGAN: I've been higher.",
+        "RORY: I meant distance from the ground.",
+        "LOGAN: That, too.",
+        "SETH: This is totally safe. And it goes with your outfit. Nice. (He wraps a band around her waist, which a line is connected to.)",
+        "RORY (pointing down at the crowd): Why do they look so worried?",
+        "LOGAN: We're low on champagne. You can back out, you know. No one's forcing you.",
+        "RORY: I know. (She grabs an umbrella.)",
+        "(The emcee is calling up in Latin.)",
+        "LOGAN: You trust me?",
+        "RORY: You jump, I jump, Jack.",
+        "CROWD: In Omnia Paratus!",
+        "LOGAN: I really should have confirmed that those potatoes were okay.",
+        "(He grabs her hand and they jump. The crowd cheers as they land safely.)",
+        "SETH: Oh, thank God.",
+        "LOGAN: You did good, Ace!",
+        "RORY: Once in a lifetime experience!",
+        "LOGAN: Only if you want it to be.",
+        "[Dragonfly Inn.]",
+        "LORELAI: (To customers) All right, thanks. (The phone rings.) Good afternoon, Dragonfly Inn.",
+        "LUKE: I franchised my place.",
+        "LORELAI: What?",
+        "LUKE: The diner. There's going to be seven of them, and that's just on the eastern seaboard. Then, I'm going national.",
+        "LORELAI: What are you talking about?",
+        "LUKE: Your father wants to open up a chain of Luke's Diners, and I think I agreed to it.",
+        "LORELAI: No!",
+        "LUKE: I've already got a marketing guy, Herb's my banker, your father is taking care of all my insurance needs, and apparently, everyone is going to be able to buy stock!",
+        "LORELAI: Ugh! My parents, my stupid parents!",
+        "LUKE: And he wants to shave me.",
+        "LORELAI: Shave what?",
+        "LUKE: I don't know, he just kept talking about shaving me, and I'm tipsy. We hit the club bar, and I didn't want to sound dumb and just order a beer because it's nitwit juice, so I had what your dad was having which was whiskey something - more whiskey than something, let me tell you, 'cause I can't even see straight.",
+        "LORELAI: Aw, you poor thing.",
+        "LUKE: And I've got an art dealer now.",
+        "LORELAI: No!",
+        "LUKE: I'm driving to Manhattan next week to look at some Diebenkorns. What's a Diebenkorn?",
+        "LORELAI: I don't know.",
+        "LUKE: Oh, and I bought some golf clubs, they cost the same as a car.",
+        "LORELAI: Where are you now?",
+        "LUKE: I'm at the driving range, your dad's making me practice for next time.",
+        "LORELAI: No! Leave! You do not need to practice.",
+        "LUKE: Oh, and I sort of implied that I'm fond of the Greeks, so I have to read the Iliad and the Odyssey so we can chat about it, and can we not hang out with your parents for a very long time?",
+        "LORELAI: For a very long time.",
+        "LUKE: I mean, I don't hate them.",
+        "LORELAI: Leave the driving range at once.",
+        "LUKE: I don't think I can drive.",
+        "LORELAI: Honey, have some coffee and then come home.",
+        "LUKE: The Diebenkorn guy is still in there.",
+        "LORELAI: You stay away from the Diebenkorn guy.",
+        "LUKE: He's chatting with my rare coin guy.",
+        "LORELAI: Just do not go back in the clubhouse. Go straight to your car.",
+        "LUKE: Okay. I like the valet guys.",
+        "LORELAI: Good, now go.",
+        "LUKE: I'm going.",
+        "(She hangs up.)",
+        "[Elder Gilmore's pool house: at the door.]",
+        "EMILY: Why would you go golfing with that man? Why on earth?",
+        "RICHARD: Who, Luke?",
+        "EMILY: You are encouraging this ridiculous relationship.",
+        "RICHARD: Emily, please.",
+        "EMILY: He is not good enough for Lorelai, or to be Rory's stepfather! God forbid!",
+        "RICHARD: Can we be a little more of a snob, Emily?",
+        "EMILY: The fact that you paraded him around the club. Our club!",
+        "RICHARD: It happened to be a fruitful outing. I am going to assist him in franchising his diner.",
+        "EMILY: Richard! That hurts-out-loud is not capable of running a complex business!",
+        "RICHARD: Well, that's obvious, Emily! That's why he will have no significant role, he will be the frontman! We'll shave him, stick his picture on the menus. The whole thing will, hopefully, bestow some credibility on him. At least then, if this insane relationship between him and Lorelai continues, we can legitimately take him to places like the club. At least, on holidays.",
+        "EMILY: This is absurd. You're absurd, the whole thing's absurd.",
+        "RICHARD: And you're not thinking ahead. Excuse me. (He goes inside.)",
+        "[Yale dorms; Rory's bedroom.]",
+        "(Rory is going over her notes when her phone rings.)",
+        "RORY: Hi.",
+        "LORELAI: Are you typing?",
+        "RORY: No.",
+        "LORELAI: Yes, you are. I thought we agreed you wouldn't type while we talk.",
+        "RORY: Gotta break the rule just this once, I'm in a rush. It's been a crazy couple of days.",
+        "LORELAI: Oh, school?",
+        "RORY: Paper. Long story, I'll fill you in in person. Where are you off to?",
+        "LORELAI: Luke's! I have to un-stress him after his unhappy Gilmore outing. Dad tried to take over his whole life. He wants to franchise Luke's.",
+        "RORY: You're kidding.",
+        "LORELAI: Hey, do men shave anywhere except their faces?",
+        "RORY: I don't know, I've never lived with a man.",
+        "LORELAI: Same here.",
+        "RORY: Well, if he does franchise the diner get him to put one near Yale. I miss those burgers.",
+        "LORELAI: He's not franchising.",
+        "RORY: Hey, can I ask you a question?",
+        "LORELAI: Sure.",
+        "RORY: Do you think I'm too scared?",
+        "LORELAI: What?",
+        "RORY: Too scared, too timid. Do I take enough chances?",
+        "LORELAI: What kind of chances?",
+        "RORY: I don't know, life chances.",
+        "LORELAI: I think you do.",
+        "RORY: I'm not a mouse?",
+        "LORELAI: Where is this coming from?",
+        "RORY: I don't know, just something I've been thinking about lately. (She hears a knocking.) Someone's at the door. Um, say hi to Luke for me.",
+        "LORELAI: If he's out of comatose. By, honey.",
+        "RORY: Bye.",
+        "(She opens the door and finds a gorilla mask, a bottle of champagne and her camera. She looks through the shots on her camera, and sees pictures of her and Logan jumping. She smiles and closes the door.)"
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[Elder Gilmore home: front door]",
+            "lines": [
+                [
+                    "background",
+                    "(Doorbell rings, maid answers the door.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, I'm late."
+                ],
+                [
+                    "emily",
+                    "EMILY: I know."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Blame the insane people driving in front of me. They had a \"honk if you love to scuba dive\" bumper sticker on the back of their car, so I honked."
+                ],
+                [
+                    "emily",
+                    "EMILY: You don't scuba dive."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes, but I've been testing people who have \"honk\" bumper stickers lately to see if they really want people to honk. Guess what? They don't. I lay on my horn, and this alleged scuba diver slows to a crawl in front of me just out of revenge, and I'm screwed."
+                ],
+                [
+                    "emily",
+                    "EMILY: You need a hobby."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes, actually."
+                ],
+                [
+                    "emily",
+                    "EMILY: Come on, Rory's waiting."
+                ],
+                [
+                    "background",
+                    "(They walk into the living room.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hey, what happened?"
+                ],
+                [
+                    "emily",
+                    "EMILY: She honked."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, another bumper sticker test."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I just thought up a great idea for a reality show. You pull people over who have those \"honk if you love whatever\" bumper stickers, you kidnap them, and you make them do whatever the bumper sticker says they like to do, whether they do it or not. And then you make them eat bugs."
+                ],
+                [
+                    "emily",
+                    "EMILY: So I hear you have a new boyfriend."
+                ],
+                [
+                    "lorelai (gasps)",
+                    "LORELAI (gasps): How did you - ?"
+                ],
+                [
+                    "rory",
+                    "RORY: Not from me."
+                ],
+                [
+                    "emily",
+                    "EMILY: Don't jump on Rory."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How, Mom?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Kirk told me."
+                ],
+                [
+                    "rory",
+                    "RORY: Kirk?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Kirk who?"
+                ],
+                [
+                    "emily",
+                    "EMILY: How many Kirks do you know?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: My Kirk? Stars Hollow Kirk? Kirk who hasn't started shaving yet, Kirk? How did you find out from him?"
+                ],
+                [
+                    "emily",
+                    "EMILY: I called the Inn looking for you, and Michel answered, but he was in the middle of some argument with the horse veterinarian. Then there was a cracking sound and the phone went dead. Then there was another man's voice saying \"hello\"."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Kirk?"
+                ],
+                [
+                    "emily",
+                    "EMILY: Bob."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The gardener?"
+                ],
+                [
+                    "rory",
+                    "RORY: More twists than Oh Henry."
+                ],
+                [
+                    "emily",
+                    "EMILY: He told me something in a heavy spanish accent, all while Michel was yelling at the vet in French -"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'll be, the UN erupts."
+                ],
+                [
+                    "emily",
+                    "EMILY: Then Kirk came on. He was there delivering something. And when I told him I was looking for you, he said you were probably at your boyfriend Luke Danes' house. Now why were you hiding it from me?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I wasn't hiding it."
+                ],
+                [
+                    "emily",
+                    "EMILY: You jumped on Rory when you thought she told me. You were hiding it."
+                ],
+                [
+                    "rory",
+                    "RORY: She did not jump on me, Grandma."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, and I wasn't hiding it. The only reason I reacted to Kirk the way that I did is that he's not in this world, he's in my other world. It's as if I, out of the blue, told you I was having tea with Mrs. Van Uppity."
+                ],
+                [
+                    "emily",
+                    "EMILY: Who?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hortence Van Uppity, tight bun, lace collar, tiny poodle... fictional friend?"
+                ],
+                [
+                    "emily",
+                    "EMILY: You keep so much from me with these separate worlds of yours. It's not right."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I will try harder to merge the worlds. I promise."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, start now. I want to meet this Luke Danes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You've met him."
+                ],
+                [
+                    "emily",
+                    "EMILY: Not in this capacity. I need to re-meet him."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, I'm sure that day will come."
+                ],
+                [
+                    "emily",
+                    "EMILY: Next week."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "emily",
+                    "EMILY: You have a gentleman friend of significance."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Rhett is my gentleman friend, yes."
+                ],
+                [
+                    "emily",
+                    "EMILY: So it's only proper that you introduce him to your mother. Unless he's insignificant; I don't want to meet a passing ship. That's a waste of my time. Is Luke a passing ship? Is he insignificant?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, he's not"
+                ],
+                [
+                    "emily",
+                    "EMILY: I'll get my book and we will pick a date next week."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Mom -"
+                ],
+                [
+                    "emily",
+                    "EMILY: Next week."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I -"
+                ],
+                [
+                    "emily",
+                    "EMILY: Next week."
+                ],
+                [
+                    "background",
+                    "(She goes to get her book.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Honk if Emily Gilmore views your mind as her personal playground."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Honk, honk."
+                ],
+                [
+                    "background",
+                    "[Cut to opening credits.]"
+                ],
+                [
+                    "background",
+                    "[Yale newspaper office.]"
+                ],
+                [
+                    "doyle",
+                    "DOYLE: We eat it, we breathe it, it's our heart and lungs. What is it? The three basics: accuracy, accuracy, and accuracy. It's my head that went up on a platter, okay? So go the extra yard. Protect my head."
+                ],
+                [
+                    "rory",
+                    "RORY: Headache, Doyle?"
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Charles Graw used to eat aspirin like candy. He ate candy like candy, too, hence the belly like jell-o. That was mean. The man's dead. So, how's the story coming? On that secret society."
+                ],
+                [
+                    "rory",
+                    "RORY: The Life and Death Brigade. Get this. I've got a contact."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Inside?"
+                ],
+                [
+                    "rory",
+                    "RORY: Deep inside."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Who?"
+                ],
+                [
+                    "rory",
+                    "RORY: Anonymous. Don't ask again."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Your call."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm going to tell this story from the inside."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: You'll be careful?"
+                ],
+                [
+                    "rory",
+                    "RORY: Careful enough."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Well, stay on it."
+                ],
+                [
+                    "rory",
+                    "RORY: You bet."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: I love this. We just had a very All the President's Men moment."
+                ],
+                [
+                    "rory",
+                    "RORY: Very."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Moving around the newsroom like that, felt good."
+                ],
+                [
+                    "rory",
+                    "RORY: Let's do it again sometime."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Now?"
+                ],
+                [
+                    "rory",
+                    "RORY: Might look silly."
+                ],
+                [
+                    "doyle",
+                    "DOYLE: Carry on."
+                ],
+                [
+                    "rory",
+                    "RORY: Right, Chief."
+                ],
+                [
+                    "[luke's diner",
+                    "[Luke's diner: interior]"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: There you are."
+                ],
+                [
+                    "lane",
+                    "LANE: Club sandwich, burger well done, fries. Let me know if you need anything."
+                ],
+                [
+                    "background",
+                    "(She sees Zach hovering outside. Goes out to talk to him.)"
+                ],
+                [
+                    "lane",
+                    "LANE: Hey. What's up? You're acting all squirrelly."
+                ],
+                [
+                    "zach",
+                    "ZACH: I'm ready now."
+                ],
+                [
+                    "lane",
+                    "LANE: For what?"
+                ],
+                [
+                    "zach",
+                    "ZACH: To date."
+                ],
+                [
+                    "lane",
+                    "LANE: Wow."
+                ],
+                [
+                    "zach",
+                    "ZACH: That offer's still good, right?"
+                ],
+                [
+                    "lane",
+                    "LANE: Yeah, still good."
+                ],
+                [
+                    "zach",
+                    "ZACH: Okay. So, we should pick a time."
+                ],
+                [
+                    "lane",
+                    "LANE: Sure."
+                ],
+                [
+                    "zach",
+                    "ZACH: How about now?"
+                ],
+                [
+                    "lane",
+                    "LANE: I'm kind of working."
+                ],
+                [
+                    "zach",
+                    "ZACH: Right. How about tonight?"
+                ],
+                [
+                    "lane",
+                    "LANE: I've got band practice."
+                ],
+                [
+                    "zach",
+                    "ZACH: Right."
+                ],
+                [
+                    "lane",
+                    "LANE: And so do you."
+                ],
+                [
+                    "zach",
+                    "ZACH: 'Cause we're in the same band. Okay. So, we'll figure it out."
+                ],
+                [
+                    "lane",
+                    "LANE: We'll figure it out."
+                ],
+                [
+                    "zach",
+                    "ZACH: Cool."
+                ],
+                [
+                    "background",
+                    "(Lane smiles.)"
+                ],
+                [
+                    "zach",
+                    "ZACH: See you at home."
+                ],
+                [
+                    "lane",
+                    "LANE: Yeah, see you."
+                ],
+                [
+                    "zach",
+                    "ZACH: Okay."
+                ],
+                [
+                    "background",
+                    "(Lane goes back into the diner. Lorelai is right behind her.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey, Lane, how's it going?"
+                ],
+                [
+                    "lane",
+                    "LANE: Good, very good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, well, lucky you."
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How dark is it?"
+                ],
+                [
+                    "luke",
+                    "LUKE: How dark is what?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The cumulus nimbus hovering over my head."
+                ],
+                [
+                    "luke",
+                    "LUKE: Huh?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The black cloud. Was that a drop?"
+                ],
+                [
+                    "luke",
+                    "LUKE: What are you talking about?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I have some very bad news."
+                ],
+                [
+                    "luke",
+                    "LUKE: What?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: My mother is insisting on having dinner with us."
+                ],
+                [
+                    "luke",
+                    "LUKE: That's it?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Did you hear what I said? Mother, dinner, us? That's on a par with car, test, crash test dummy. Don't worry, I'm going to do whatever it takes to get us out of this. I promise."
+                ],
+                [
+                    "luke",
+                    "LUKE: Why?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What do you mean, why?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Let's just do it, get it over with. Meeting the parents comes with the territory. We can't put it off forever."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh yeah? My fourth grade teacher wanted a meeting with my parents. She was hit by a bus six years ago. Never got the meeting."
+                ],
+                [
+                    "luke",
+                    "LUKE: Book it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Book it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay. But I'm warning you. If I call and tell her, and then you change your mind and you want to back out, we're going to have to leave the country. And have extensive facial surgery, and s*x changes. Both of us, so that we can, you know, kiss and not look funny."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm not going to change my mind."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, fine, I'll just call her now (pulls out her cell phone) - oh, whoa, what is happening? Something dark is happening here. It is heavy like iron. Oh, did you feel that ice cold wind that just passed through?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Make the call."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I see dead people."
+                ],
+                [
+                    "luke",
+                    "LUKE: Make the call."
+                ],
+                [
+                    "background",
+                    "(Lorelai dials the phone.)"
+                ],
+                [
+                    "[elder gilmore's house",
+                    "[Elder Gilmore's house: exterior.]"
+                ],
+                [
+                    "background",
+                    "(Luke and Lorelai get out of his truck and walk to the door.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: This is a house?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: This is a house."
+                ],
+                [
+                    "luke",
+                    "LUKE: What a waste! See, this is what causes peasants to revolt. This is how heads end up on pikes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Open with that. That's a great icebreaker. Now listen, I want you to be careful about your consumption of booze."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm not going to drink too much."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, no, no. You've got it backwards, there, Pablo. Ride the pink elephant, baby, 'cause it's your only defense against Emily Gilmore unless you're packing a Kolishnikov."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, yeah. Shouldn't we ring the doorbell or something? (He rings the bell.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, a little strategy. (Picks up a plant stake and starts drawing in the dirt.) Here's the front door. We're here. Drink cart's here. It's knock, knock. Open the door. \"Hi.\" \"Hi.\" Turn left, veer right, past the couch, we're at the booze. Any questions?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, yeah. Shouldn't you get a massage or something?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Take off your coat."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's cold."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, it's time consuming. Roll it in a ball and have it ready to hand off to the maid. Yeah."
+                ],
+                [
+                    "background",
+                    "(Maid opens the door.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hi, hello."
+                ],
+                [
+                    "maid",
+                    "MAID: Hi, come in please."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Thank you. (Luke takes the plant stake.) Sorry."
+                ],
+                [
+                    "maid",
+                    "MAID: Can I take your coats?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, got mine all ready."
+                ],
+                [
+                    "background",
+                    "(They enter.)"
+                ],
+                [
+                    "maid",
+                    "MAID: Alright."
+                ],
+                [
+                    "luke",
+                    "LUKE: Here you go. I'm Luke."
+                ],
+                [
+                    "maid",
+                    "MAID: I'm a maid."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. Nice to meet you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, that was so sweet and innocent."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, well, our honored guest. Welcome."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Mom, Luke. Luke, Mom."
+                ],
+                [
+                    "emily",
+                    "EMILY: We've met, Lorelai. Several times."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, I was just \"re-introducing\" you, as per your instructions."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good to see you again, Mrs. Gilmore."
+                ],
+                [
+                    "emily",
+                    "EMILY: Ah, no, it's Emily. I insist."
+                ],
+                [
+                    "luke",
+                    "LUKE: Nice to see you, Emily."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Drinks?"
+                ],
+                [
+                    "emily",
+                    "EMILY: We're in the foyer."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Let's change that."
+                ],
+                [
+                    "emily",
+                    "EMILY: Not if Luke wants a tour."
+                ],
+                [
+                    "lorelai (pointing)",
+                    "LORELAI (pointing): Oh, okay, well, foyer, staircase, upstairs, dining room, kitchen, weird piano area that we never really named, and right through here is the living room. (She goes.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, uh, I don't need a tour. Thanks."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, then, let's go in the living room."
+                ],
+                [
+                    "[elder gilmore house",
+                    "[Elder Gilmore house: living room.]"
+                ],
+                [
+                    "luke",
+                    "LUKE: Your house is beautiful."
+                ],
+                [
+                    "emily",
+                    "EMILY: They don't make them like this anymore."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'll say."
+                ],
+                [
+                    "emily",
+                    "EMILY: They make everything out of cardboard now. White boxes with heating vents."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah. The art of craftsmanship is dead."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Gin."
+                ],
+                [
+                    "emily",
+                    "EMILY: Do you have Tourette's or something?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm sorry. I thought I heard you say what would I like to drink."
+                ],
+                [
+                    "emily",
+                    "EMILY: I was getting there."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Gin martini, please."
+                ],
+                [
+                    "emily",
+                    "EMILY: I already made a pitcher of martinis, but they're vodka."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Vodka's perfect. Double with a twist."
+                ],
+                [
+                    "emily",
+                    "EMILY: So, two cold martinis with a twist, and Luke, how would you like a beer?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Great."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Or maybe Luke would like to choose his own drink. That's a thought."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh, yes, I'm sorry Luke. You can have whatever you like. I've got it all."
+                ],
+                [
+                    "luke",
+                    "LUKE: Beer is perfect."
+                ],
+                [
+                    "emily",
+                    "EMILY: Beer it is."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, no, she's got everything. She's got scotch, she's got rum, she's got, uh, whiskey, she's got red wine, she's not kidding, she's got it all."
+                ],
+                [
+                    "luke",
+                    "LUKE: Beer is perfect."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, bring him a beer."
+                ],
+                [
+                    "emily",
+                    "EMILY: Here we are."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Thank you."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thank you, Emily."
+                ],
+                [
+                    "emily",
+                    "EMILY: The beer is nice and cold. I almost want one myself."
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey, uh, you can have some of mine if you want."
+                ],
+                [
+                    "emily",
+                    "EMILY: So, how's that diner of yours?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh..."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's doing great. No matter what the economic climate, people gotta eat."
+                ],
+                [
+                    "emily",
+                    "EMILY: That is so true. And I thought your place was very charming. Nice and rustic. (Lorelai clears her throat.)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Do you need a cough drop?"
+                ],
+                [
+                    "luke",
+                    "LUKE: She's fine."
+                ],
+                [
+                    "emily",
+                    "EMILY: Where'd your martini go?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: To a happy place."
+                ],
+                [
+                    "emily",
+                    "EMILY: Do you want another?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Does Pavarotti want another donut?"
+                ],
+                [
+                    "emily",
+                    "EMILY: That's a yes?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'll pour it, Emily."
+                ],
+                [
+                    "emily",
+                    "EMILY: Thank you, Luke. I should go check on dinner. Will you excuse me?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Absolutely."
+                ],
+                [
+                    "emily",
+                    "EMILY: Thank you. (She goes.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Unbelievable."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know, she didn't make nearly enough."
+                ],
+                [
+                    "luke",
+                    "LUKE: I meant you, you're acting crazy."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: She's insulting you!"
+                ],
+                [
+                    "luke",
+                    "LUKE: No, she's not. Your mom's being great."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What? Were you in the room? Did you not hear the awful things she said?"
+                ],
+                [
+                    "luke",
+                    "LUKE: What did she say?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Rustic diner? Rustic?"
+                ],
+                [
+                    "luke",
+                    "LUKE: So?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Backhand slang for crap pile."
+                ],
+                [
+                    "luke",
+                    "LUKE: Or she was admiring its vintage feel."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, what was the other word she used?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Charming?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ah, slang for doggie poopy."
+                ],
+                [
+                    "luke",
+                    "LUKE: Unbelievable."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Wait, wait, what was the beer thing? Oh my God!"
+                ],
+                [
+                    "luke",
+                    "LUKE: That was nice. I wanted beer, she was considerate enough to anticipate that that might be the case."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The word beer, backhand slang for nitwit juice."
+                ],
+                [
+                    "luke",
+                    "LUKE: You're reading way too much into this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Excuse me, but I would defer to the Gilmore expert here. I am the oracle. I carry all the knowledge."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, I would like you to calm down, because you're making me nervous."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm trying to protect you."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm a grown man, and this isn't my first foray into the big city. I've dealt with all types of people in my life. Rich, poor, snobby, proud. I can handle it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But -"
+                ],
+                [
+                    "luke",
+                    "LUKE: And by you jumping in after everything your mother says, makes me look weak. And I don't want to look weak."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I don't want you to either!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, then, give me my space, okay? Please."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, I'll give you your space."
+                ],
+                [
+                    "background",
+                    "(Emily returns.)"
+                ],
+                [
+                    "emily",
+                    "EMILY: Dinner is going to be as good as it smells, I guarantee it."
+                ],
+                [
+                    "luke",
+                    "LUKE: It smells wonderful, Emily."
+                ],
+                [
+                    "emily",
+                    "EMILY: Thank you, Luke. It's nice to have a kind gentleman in the house."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thank you."
+                ],
+                [
+                    "emily",
+                    "EMILY: So, you're recently divorced?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, yeah, I guess. Although, it depends on what you'd call recently."
+                ],
+                [
+                    "emily",
+                    "EMILY: In the last year, you've been divorced in the last year, that would be recent."
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, yeah. Yes."
+                ],
+                [
+                    "emily",
+                    "EMILY: Terrible, the divorce rate, isn't it."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes, it's terrible."
+                ],
+                [
+                    "emily",
+                    "EMILY: I'm sure it was inevitable in your case."
+                ],
+                [
+                    "luke",
+                    "LUKE: Turned out that way."
+                ],
+                [
+                    "emily",
+                    "EMILY: I hope there weren't children."
+                ],
+                [
+                    "luke",
+                    "LUKE: No."
+                ],
+                [
+                    "emily",
+                    "EMILY: Divorce destroys children. But, without children, you're only harming yourself. Of course, nowadays people get married for fun. Apparently there's nothing good on TV."
+                ],
+                [
+                    "background",
+                    "(Luke looks at Lorelai with pain on his face.)"
+                ],
+                [
+                    "[yale dorms",
+                    "[Yale dorms: Rory's room.]"
+                ],
+                [
+                    "background",
+                    "(Rory walks in and presses a button on her answering machine.)"
+                ],
+                [
+                    "dean's voice",
+                    "DEAN'S VOICE: Hey. It's Dean. Uh, so, we were supposed to get together day after tomorrow, but I have to cancel - again. One day, I'm going to have one job, not three, which will simplify everything. I hope. Anyway, um, I was hoping we could somehow hook up tomorrow night, I forget if you have something going on, but I've got a three hour window, and I was thinking dinner or something. Maybe we can meet halfway between Yale and Stars Hollow. That probably puts us on the interstate, meaning the six ninety-nine surf and turf special, but hell, I'm a cheap date. Uh, so, not the most romantic get together for us, but something's better than nothing. Let me know. Bye."
+                ],
+                [
+                    "(as she listens to the message, she notices an envelope taped to the outside of her window. she reaches out and opens it and reads this note",
+                    "(As she listens to the message, she notices an envelope taped to the outside of her window. She reaches out and opens it and reads this note: \"Be in your vestibule at four tomorrow. Blindfolded. The LDB.\" She reaches into the envelope again and pulls out a blindfold.)"
+                ],
+                [
+                    "answering machine",
+                    "ANSWERING MACHINE: End of messages."
+                ],
+                [
+                    "[elder gilmore's house",
+                    "[Elder Gilmore's house: dining room.]"
+                ],
+                [
+                    "emily",
+                    "EMILY: Diners are generally so filthy. I'm sure yours isn't, but the horror stories you hear. I read that one in Vermont got caught serving roadkill. Do you know what that is?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, yeah, it's, uh, dead animals from the street."
+                ],
+                [
+                    "emily",
+                    "EMILY: From the street, from the backyard, fished out of pools. These diners find it and serve it. Again, probably not yours. But the fact that this place got away with it at all is astounding. I guess people who frequent diners don't look too closely at what they're eating out of self defense."
+                ],
+                [
+                    "luke",
+                    "LUKE: We don't serve roadkill at my place."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well good for you. (pause.) I had a friend who ate at a diner once and the next day she dropped dead. Her family considered suing the place but there's nothing to get from these people. A couple of stools and a toaster. But they were sure it was a matter of hygiene and they eventually drove them out of the state. I don't want to tell you what they found when they moved the stove. Would you like another beer, Luke?"
+                ],
+                [
+                    "[elder gilmore house",
+                    "[Elder Gilmore house: outside.]"
+                ],
+                [
+                    "background",
+                    "(Emily is walking Lorelai and Luke out.)"
+                ],
+                [
+                    "emily",
+                    "EMILY: ... Opiate for the masses. Well, so what? We all have our opiates. For some it's valet, for Luke it's baseball. Whoever I heard say it just happened to say it about what Luke likes. Oh, no! Some workman has left his filthy truck in our clean driveway! Richard must have sent for him."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, that's mine, actually."
+                ],
+                [
+                    "emily",
+                    "EMILY: Oh. Well, it's nice. Rustic. I like the color."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thank you."
+                ],
+                [
+                    "emily",
+                    "EMILY: And I like this coat of yours, there's something nice about simple cloth."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thanks."
+                ],
+                [
+                    "emily",
+                    "EMILY: Well, this was wonderful. Don't be a stranger, all right?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I won't. Thank you, Emily."
+                ],
+                [
+                    "emily",
+                    "EMILY: Goodbye. Bye, Lorelai. (She goes back inside.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Bye, Mom."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thanks, again."
+                ],
+                [
+                    "background",
+                    "(The door closes.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: You know what's amazing, I mean truly amazing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "luke",
+                    "LUKE: She never said anything directly bad about me or the diner or anything else concerning me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: She's good."
+                ],
+                [
+                    "luke",
+                    "LUKE: And all I did was thank her. Over and over. She'd hammer me, and I'd thank her."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's a talent."
+                ],
+                [
+                    "luke",
+                    "LUKE: \"Rustic\" really did sound like crap pile that time."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Come on, babe. You'll feel better about halfway home."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Then the eye-popping nausea will hit you. The rich food mixes with the bitter memories and it all gets worse, and then it gets better."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Until you get to Route 44, and then you hit bottom."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good. Great."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'll be ready with a tongue depressor to keep you from swallowing your tongue. I keep them in my purse. Step up."
+                ],
+                [
+                    "[yale dorms",
+                    "[Yale dorms: vestibule.]"
+                ],
+                [
+                    "background",
+                    "(Rory is standing blindfolded as other students walk by.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey, Ace, you ready? (reaches around a corner and pulls her by the arm.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Well -"
+                ],
+                [
+                    "[black suv",
+                    "[Black SUV: interior.]"
+                ],
+                [
+                    "background",
+                    "(Rory sits blindfolded in the middle.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hit it!"
+                ],
+                [
+                    "finn",
+                    "FINN: Ah! Not so loud!"
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: You're very auditorily sensitive today."
+                ],
+                [
+                    "finn",
+                    "FINN: Oh, and your voice helps."
+                ],
+                [
+                    "colin",
+                    "COLIN: Is the blindfold secure?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Secure and in place."
+                ],
+                [
+                    "colin",
+                    "COLIN: Our anonymity's crucial, Logan. Crucial."
+                ],
+                [
+                    "background",
+                    "(Finn groans.)"
+                ],
+                [
+                    "rory",
+                    "RORY: What's wrong with Finn?"
+                ],
+                [
+                    "colin",
+                    "COLIN: Great job with the blindfold, Logan."
+                ],
+                [
+                    "rory",
+                    "RORY: I recognized your voices, Colin."
+                ],
+                [
+                    "finn",
+                    "FINN: Could everyone keep it down, please."
+                ],
+                [
+                    "rory",
+                    "RORY: Can we remove the blindfold now?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: We're also hiding our destination."
+                ],
+                [
+                    "finn",
+                    "FINN: We had to leave at this ungodly hour."
+                ],
+                [
+                    "rory",
+                    "RORY: It's four in the afternoon."
+                ],
+                [
+                    "logan",
+                    "LOGAN: He's got a thing about the sun."
+                ],
+                [
+                    "finn",
+                    "FINN: It's too bright."
+                ],
+                [
+                    "rory",
+                    "RORY: So how come you're not wearing your gorilla masks?"
+                ],
+                [
+                    "colin",
+                    "COLIN: She can see."
+                ],
+                [
+                    "rory",
+                    "RORY: I can tell because your voices aren't muffled."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: She's sharp."
+                ],
+                [
+                    "rory",
+                    "RORY: Who's the girl?"
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: I've been told we've met. I've no memory of it."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, Gorilla Girl."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: Oh, well, isn't that a pretty nickname."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Oh, by the way, this thing's overnight."
+                ],
+                [
+                    "rory",
+                    "RORY: Overnight?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Didn't I mention that before?"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, must have slipped your mind."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That doesn't screw up anything for you, does it?"
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "logan",
+                    "LOGAN: No?"
+                ],
+                [
+                    "rory",
+                    "RORY: Nope."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hmm. Loose schedule. Good."
+                ],
+                [
+                    "finn",
+                    "FINN: We like our schedules loose, like our women."
+                ],
+                [
+                    "colin",
+                    "COLIN: Clever."
+                ],
+                [
+                    "finn",
+                    "FINN: My God, it's early."
+                ],
+                [
+                    "[luke's diner",
+                    "[Luke's diner: interior.]"
+                ],
+                [
+                    "background",
+                    "(Phone rings.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Luke's."
+                ],
+                [
+                    "voice",
+                    "VOICE: Good afternoon, I'm calling for Mr. Luke Danes."
+                ],
+                [
+                    "luke",
+                    "LUKE: This is Luke Danes."
+                ],
+                [
+                    "voice",
+                    "VOICE: Please hold for Mr. Gilmore."
+                ],
+                [
+                    "luke",
+                    "LUKE: What? For who? Hello?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Luke? Richard Gilmore here."
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, uh, hi, Richard. Mr. Gilmore, sir, how are you?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: I'm fine, thank you. Listen, I thought we could meet for a round of golf, you and I."
+                ],
+                [
+                    "luke",
+                    "LUKE: Golf?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Tomorrow afternoon's good for me."
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh-huh."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Is that good for you?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, uh..."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Good. I'll have Margie call you back with the details."
+                ],
+                [
+                    "luke",
+                    "LUKE: ... Okay."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Wonderful, I look forward to it. See you at the club."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, see you at the club."
+                ],
+                [
+                    "background",
+                    "(Richard hangs up. Luke looks in disbelief at the phone in his hand.)"
+                ],
+                [
+                    "background",
+                    "[Woods. Cars are parked. The black SUV pulls up near a table with old-fashioned lanterns on it.]"
+                ],
+                [
+                    "finn",
+                    "FINN: This mountain air has revivified me. (Laughs and runs off.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Make sure he doesn't run off a cliff."
+                ],
+                [
+                    "colin",
+                    "COLIN: Stephanie, it's your turn."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: Finn! You slow down! (Grabs a lantern and follows.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: You okay?"
+                ],
+                [
+                    "rory",
+                    "RORY: I smell trees."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Oh, nothing gets past you. (Grabs a lantern and leads Rory into the woods.)"
+                ],
+                [
+                    "rory",
+                    "RORY: So the firing squad is just up ahead?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Yup, and there's a line. Damn."
+                ],
+                [
+                    "rory",
+                    "RORY: Seriously, Logan, is the blindfold coming off, or am I Patty Hearst-ing it the whole trip?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: It's coming off. It's coming off right now. (Pulls it off.)"
+                ],
+                [
+                    "background",
+                    "(Rory opens her eyes to see a camp full of white tents, candles & lanterns, and turn-of-the-century furniture.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, my."
+                ],
+                [
+                    "[dragonfly inn",
+                    "[Dragonfly Inn: office]"
+                ],
+                [
+                    "lorelai (on cordless phone)",
+                    "LORELAI (on cordless phone): You cannot go golfing with my father."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's a done deal."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What is that man up to? What is he doing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Ouch."
+                ],
+                [
+                    "background",
+                    "[Cuts back and forth between Luke's office and Lorelai's office.]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What are you doing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm looking for a book my dad had somewhere around here. \"Learn Golf the Arnold Palmer Way.\" I can't find it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I beseech you. Do not go golfing with my father."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's too late. I said yes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why? Why did you say yes?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I had no choice."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, saying no is a choice. Did you learn nothing from the dinner with my mother?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Apparently not."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Call him and cancel."
+                ],
+                [
+                    "luke",
+                    "LUKE: Right, and how would he take that?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Badly, that's why you just hang up real quick."
+                ],
+                [
+                    "luke",
+                    "LUKE: And this is a good way to start a relationship with your father."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, this is the way to end it. God, you're slow. Listen, call him and tell him that, um, when he called, you had just dropped some paoti, and you were tripping, and you were seeing vapors, and that's why you agreed, but then you landed and realized that you can't go. Wait, do you smoke paoti? We should get that straight before you call him."
+                ],
+                [
+                    "luke",
+                    "LUKE: Backing out will make it worse."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But do you even know how to play golf?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I took a course in summer school but I accidentally hit Kent Calida in the head with a driver and got asked to leave, but I think I remember the basics. Grab the club, whack a ball. I'll fake it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke -"
+                ],
+                [
+                    "luke",
+                    "LUKE: Don't worry, I'll be fine."
+                ],
+                [
+                    "lorelai (sighing)",
+                    "LORELAI (sighing): Okay. Fine then, bye."
+                ],
+                [
+                    "background",
+                    "(She hangs up, then dials another number. Scene cuts to Elder Gilmore pool house, exterior. Richard is putting.)"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hi, Dad. I need a favor. The biggest favor I may ever ask you for, ever."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I don't like the sound of this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Please cancel this golf game with Luke."
+                ],
+                [
+                    "richard",
+                    "RICHARD: What? No!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But why? Why are you doing this? What is the point?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: How is this even your business?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He's my boyfriend."
+                ],
+                [
+                    "richard",
+                    "RICHARD: And this is my right. Your mother already met him. At a secret dinner I only found out about because her blabbermouth maid told my valet. So now, I want to meet him."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But you've already met him."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well I need to re-meet him."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why can't you and mom meet someone once and make it stick?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: I insist upon this golf game."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He doesn't even golf."
+                ],
+                [
+                    "richard",
+                    "RICHARD: He said he did."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, well, he whacked Kent Calida in the head with a club, okay? So you're taking your life in your own hands. You want to reconsider now, huh? You like your head, huh?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Lorelai, tee time is set, Luke has said yes to my proposal, and tomorrow he and I are golfing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Have fun."
+                ],
+                [
+                    "richard",
+                    "RICHARD: This is not about having fun, this is protocol."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, have a good protocol, Dad. Bye. (hangs up.)"
+                ]
+            ],
+            "participants": {
+                "lorelai": 104,
+                "emily": 64,
+                "rory": 35,
+                "lorelai (gasps)": 1,
+                "doyle": 11,
+                "[luke's diner": 2,
+                "caesar": 1,
+                "lane": 12,
+                "zach": 11,
+                "luke": 91,
+                "[elder gilmore's house": 2,
+                "maid": 4,
+                "lorelai (pointing)": 1,
+                "[elder gilmore house": 2,
+                "[yale dorms": 2,
+                "dean's voice": 1,
+                "(as she listens to the message, she notices an envelope taped to the outside of her window. she reaches out and opens it and reads this note": 1,
+                "answering machine": 1,
+                "logan": 15,
+                "[black suv": 1,
+                "finn": 8,
+                "stephanie": 5,
+                "colin": 6,
+                "voice": 2,
+                "richard": 15,
+                "[dragonfly inn": 1,
+                "lorelai (on cordless phone)": 1,
+                "lorelai (sighing)": 1
+            }
+        },
+        {
+            "id": 2,
+            "title": "[SCENE_BREAK]",
+            "lines": [
+                [
+                    "background",
+                    "[Woods. Rory and Logan are walking among the tents.]"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Is this what you expected?"
+                ],
+                [
+                    "rory",
+                    "RORY: No, not at all what I expected."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Let me guess what you were thinking: sleeping bag, flashlights, keg, three boxes of stale Triscuits, half eaten bag of Oreos, some Doritos and a bong."
+                ],
+                [
+                    "rory",
+                    "RORY: That may be exactly what I pictured."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You can apologize later. This is yours. (Opens a tent.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Mine?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Not much closet space, but the view's decent."
+                ],
+                [
+                    "rory",
+                    "RORY: It's cozy. (She goes inside.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Festivities start in half an hour. (He leaves.)"
+                ],
+                [
+                    "background",
+                    "(Rory sits on the bed and pulls out her phone.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Dean, hi. It's me. I got your call. I would love to have dinner with you tonight, but something unbelievably unexpected came up, and it's going to keep me busy for a couple of days. I'd give you more info, but it's all a little Dali-esque and hard to explain. I'll fill you in when I get home. If I get home. Just kidding. I hope. Bye. (She hangs up and pulls out her notepad. An owl hoots in the distance.)"
+                ],
+                [
+                    "background",
+                    "[Lane's bedroom.]"
+                ],
+                [
+                    "background",
+                    "(Lane is preparing for her date with Zach. She goes out and meets him in the living room.)"
+                ],
+                [
+                    "background",
+                    "[Lane's living room.]"
+                ],
+                [
+                    "zach",
+                    "ZACH: Am I early?"
+                ],
+                [
+                    "lane",
+                    "LANE: Right on time."
+                ],
+                [
+                    "zach",
+                    "ZACH: You look good."
+                ],
+                [
+                    "lane",
+                    "LANE: Thanks, so do you. Have I seen those pants?"
+                ],
+                [
+                    "zach",
+                    "ZACH: I got them from the bottom of my drawer. I forgot I had them."
+                ],
+                [
+                    "lane",
+                    "LANE: Cool. So what do you feel like doing?"
+                ],
+                [
+                    "zach",
+                    "ZACH: We could drive somewhere. We just have to stop for gas... and add some oil, and put some air in the tires, and we'd have to stop by an ATM."
+                ],
+                [
+                    "lane",
+                    "LANE: Or we could hang out here."
+                ],
+                [
+                    "zach",
+                    "ZACH: Sure."
+                ],
+                [
+                    "lane",
+                    "LANE: Yeah."
+                ],
+                [
+                    "zach",
+                    "ZACH: Okay! Cool. Let's get a pizza, and watch something, and just hang out."
+                ],
+                [
+                    "lane",
+                    "LANE: Great! (She hands him her purse and jacket.) What do you want to watch?"
+                ],
+                [
+                    "zach",
+                    "ZACH: Want to finish watching what we started last night?"
+                ],
+                [
+                    "lane",
+                    "LANE: Yeah. Great. (They sit down, and Brian walks in.)"
+                ],
+                [
+                    "brian",
+                    "BRIAN: Hey, guys. Ooh, Stop Making Sense. Great. (He sits between them.) This is where we left off last night."
+                ],
+                [
+                    "zach",
+                    "ZACH: What are you doing?"
+                ],
+                [
+                    "brian",
+                    "BRIAN: Watching TV."
+                ],
+                [
+                    "zach",
+                    "ZACH: Uh, Brian, this is a date."
+                ],
+                [
+                    "brian",
+                    "BRIAN: What?"
+                ],
+                [
+                    "zach",
+                    "ZACH: Lane and I are kind of on a date right now."
+                ],
+                [
+                    "brian",
+                    "BRIAN: You are? But this is what we did last night."
+                ],
+                [
+                    "zach",
+                    "ZACH: I know."
+                ],
+                [
+                    "brian",
+                    "BRIAN: So, last night was a date, too?"
+                ],
+                [
+                    "lane",
+                    "LANE: That was not a date."
+                ],
+                [
+                    "zach",
+                    "ZACH: I was in my underwear."
+                ],
+                [
+                    "brian",
+                    "BRIAN: But we did exactly the same thing, you just had no pants."
+                ],
+                [
+                    "zach",
+                    "ZACH: Well, we're kind of starting to date, and this is what we're going to do."
+                ],
+                [
+                    "brian",
+                    "BRIAN: So, where do I go?"
+                ],
+                [
+                    "lane",
+                    "LANE: Well, how about my room?"
+                ],
+                [
+                    "brian",
+                    "BRIAN: Really? You never let me in your room."
+                ],
+                [
+                    "lane",
+                    "LANE: Well, now's your chance."
+                ],
+                [
+                    "brian",
+                    "BRIAN: Great!"
+                ],
+                [
+                    "zach",
+                    "ZACH: Wait, hold on. (To Lane.) Shouldn't we leave your room empty?"
+                ],
+                [
+                    "lane",
+                    "LANE: Why?"
+                ],
+                [
+                    "zach",
+                    "ZACH: You know, in case the date goes good?"
+                ],
+                [
+                    "lane",
+                    "LANE: Brian, go in my room."
+                ],
+                [
+                    "brian",
+                    "BRIAN: Thanks! (Runs in.) Man, it smells good in here."
+                ],
+                [
+                    "background",
+                    "(Zach turns the movie back on.)"
+                ],
+                [
+                    "background",
+                    "[Woods.]"
+                ],
+                [
+                    "background",
+                    "(Rory comes out of her tent and sees everyone dressed in turn of the century clothes. She catches up to a couple.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hey. Rory Gilmore. Um, this is quite a soiree. Are all the Life and Death Brigade gatherings this elaborate? (They ignore her. She wanders over to a group of guys.)"
+                ],
+                [
+                    "guy #1",
+                    "GUY #1: How about (?) social stands?"
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: Ridiculous. Total stand-still for all in his vicinity. What do you say?"
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: I concur totally."
+                ],
+                [
+                    "guy #1",
+                    "GUY #1: Crazy construct if you think for a bit."
+                ],
+                [
+                    "guy #2",
+                    "GUY #2: Dubious logic if you ask this thoughtful guy."
+                ],
+                [
+                    "rory",
+                    "RORY: Hello, everybody."
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: My God."
+                ],
+                [
+                    "guy #1",
+                    "GUY #1: Shocking."
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: Silly girl. Not adjusting to this proud point of ours."
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Sad, this diminishing vision."
+                ],
+                [
+                    "rory",
+                    "RORY: Excuse me?"
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Full count is six, I say?"
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: Six, no doubt. Ay, again I concur."
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Point in fact, daft lady, to catch on would prompt our congratulations."
+                ],
+                [
+                    "rory",
+                    "RORY: It's a game?"
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: At which you totally fail."
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: You want for instruction?"
+                ],
+                [
+                    "rory",
+                    "RORY: Apparently."
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Said gap 'twixt 'd' and 'f' shall not slip from lips in any word this group allows."
+                ],
+                [
+                    "rory",
+                    "RORY: Said gap 'twixt 'd' and 'f' ... you're not using the letter 'e'?"
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Said this thing our group did banish."
+                ],
+                [
+                    "guy #1",
+                    "GUY #1: Loud, for all to drink in!"
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: Daft girl."
+                ],
+                [
+                    "rory",
+                    "RORY: So, no one is supposed to say the letter 'e'."
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: My God, this woman hounds us with this thing I banish."
+                ],
+                [
+                    "guy #3",
+                    "GUY #3: Dumbfound."
+                ],
+                [
+                    "rory",
+                    "RORY: Um, I'll catch up with you guys later. Have fun. If that's what you're doing. (She walks away.)"
+                ],
+                [
+                    "guy #4",
+                    "GUY #4: Bloody horror, that woman."
+                ],
+                [
+                    "guy #1",
+                    "GUY #1: Ostracism should occur, I think."
+                ],
+                [
+                    "background",
+                    "(Rory wanders through the camp.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hi, Stephanie."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: Oh, good, you're using 'e's. No champagne?"
+                ],
+                [
+                    "rory",
+                    "RORY: No, I'll have a little later. So, is Logan the head of the group?"
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: There's no head of the group, Rory. We're an anarchy collective, we don't recognize leaders per se. Plus it's a secret. I shouldn't be talking to you. (Hiccups.) Warning sign."
+                ],
+                [
+                    "rory",
+                    "RORY: Because the way that people act around him, Logan kind of seems..."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: Cute?"
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: No?"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, yes, but -"
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: There's a line to get to him."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, no, I'm not looking to get in a line. I'm a reporter."
+                ],
+                [
+                    "stephanie",
+                    "STEPHANIE: Bet you're a good reporter. And a very good girl. Oh dear, I'm talking to you. I shouldn't be talking to you. I have to kill myself now - excuse me. (She walks away.)"
+                ],
+                [
+                    "background",
+                    "(Rory walks up to another group of guys.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hi. Hi. Um, I was wondering. Is the safari thing something you always do, or do you choose different themes?"
+                ],
+                [
+                    "guy",
+                    "GUY: May I quote Max Ernst?"
+                ],
+                [
+                    "rory",
+                    "RORY: Sure."
+                ],
+                [
+                    "background",
+                    "(The group walks away.)"
+                ],
+                [
+                    "(later",
+                    "(Later: Rory is sitting under a tree in view of the camp. Logan walks toward her with a lantern and a plate.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: How goes it, pariah?"
+                ],
+                [
+                    "rory",
+                    "RORY: Logan?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Word was a bear dragged you off."
+                ],
+                [
+                    "rory",
+                    "RORY: No bear, I just wanted a quiet place to collect my thoughts."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You found it."
+                ],
+                [
+                    "rory",
+                    "RORY: Thanks, I've eaten."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Good. This is for me. Sorry you're not getting much from the group. Took a little arm-twisting to get them to agree to let you come in the first place."
+                ],
+                [
+                    "rory",
+                    "RORY: I don't need their cooperation. I've already filled two notebooks without their cooperation. Half of one without using the letter 'e', but I could use yours."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Way too much salt on this."
+                ],
+                [
+                    "rory",
+                    "RORY: I mean, this is pretty incredible, but it's just a preamble to the big stunt tomorrow, right?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: It's Finn, he's Australian. They like salt."
+                ],
+                [
+                    "rory",
+                    "RORY: How do you pay for this? Are there dues, or do you chip in, is there alumni sponsoring it? How is it organized? And what is happening tomorrow? Is it just as big, or bigger? And do people know that you're here? Park Rangers, or the landowner? Where are we? Are we still in Connecticut? And your answer cannot include the word salt."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Okay. I think it's time to fill you in on the conditions of you being here."
+                ],
+                [
+                    "rory",
+                    "RORY: Okay."
+                ],
+                [
+                    "logan",
+                    "LOGAN: First, no pictures. (Holds up her camera.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hey!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Aw, you'll get it back at the end of the trip. Second, no names."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm not exactly being introduced to anyone as it is."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Third, no physical descriptions of any of us. There are authority figures up and down Connecticut trying to nab us for things we may have done in the past. Naughty things."
+                ],
+                [
+                    "rory",
+                    "RORY: Keep you anonymous."
+                ],
+                [
+                    "logan",
+                    "LOGAN: What number am I on?"
+                ],
+                [
+                    "rory",
+                    "RORY: Just at third."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Fourth, no identification of our location."
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know where we are."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Fifth."
+                ],
+                [
+                    "rory",
+                    "RORY: You're going to run out of -ifths."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Most important condition of all. You must agree not to interfere with the integrity of the event."
+                ],
+                [
+                    "rory",
+                    "RORY: What is the event, and how could I interfere?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: So you agree?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yes, I agree."
+                ],
+                [
+                    "background",
+                    "(The camp breaks into song.)"
+                ],
+                [
+                    "rory",
+                    "RORY: It's pretty."
+                ],
+                [
+                    "logan",
+                    "LOGAN: It's drunk."
+                ],
+                [
+                    "rory",
+                    "RORY: Well it sounds pretty. I like it."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I didn't say I didn't like it."
+                ],
+                [
+                    "girl's voice",
+                    "GIRL'S VOICE: Logan?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Yeah?"
+                ],
+                [
+                    "girl",
+                    "GIRL: You coming?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: I'll be right there. (To Rory) I'll leave the light for you, Ace. I won't need it."
+                ],
+                [
+                    "girl",
+                    "GIRL: Hurry up, darling."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Here I am."
+                ],
+                [
+                    "[lane's house",
+                    "[Lane's house: living room.]"
+                ],
+                [
+                    "zach (turning off the tv.)",
+                    "ZACH (turning off the TV.): David Byrne is a freak."
+                ],
+                [
+                    "lane",
+                    "LANE: I love him."
+                ],
+                [
+                    "zach",
+                    "ZACH: He's totally cool."
+                ],
+                [
+                    "lane",
+                    "LANE: So."
+                ],
+                [
+                    "zach",
+                    "ZACH: So."
+                ],
+                [
+                    "lane",
+                    "LANE: This was nice."
+                ],
+                [
+                    "zach",
+                    "ZACH: Yeah."
+                ],
+                [
+                    "lane",
+                    "LANE: I like your place."
+                ],
+                [
+                    "zach (laughs)",
+                    "ZACH (laughs): Hm, right."
+                ],
+                [
+                    "lane",
+                    "LANE: I have to get up early for work tomorrow."
+                ],
+                [
+                    "zach",
+                    "ZACH: No problem."
+                ],
+                [
+                    "lane",
+                    "LANE: So I should probably..."
+                ],
+                [
+                    "zach",
+                    "ZACH: Oh, right, right."
+                ],
+                [
+                    "background",
+                    "(They get up, holding hands, he walks her to her door.)"
+                ],
+                [
+                    "lane",
+                    "LANE: Goodnight Zach."
+                ],
+                [
+                    "zach",
+                    "ZACH: Goodnight."
+                ],
+                [
+                    "background",
+                    "(She opens the door, Brian is asleep on her bed.)"
+                ],
+                [
+                    "lane",
+                    "LANE: Oh, no."
+                ],
+                [
+                    "zach",
+                    "ZACH: This is bad news. Once he hits his REM state, Motorhead wouldn't wake him."
+                ],
+                [
+                    "lane",
+                    "LANE: What do I do?"
+                ],
+                [
+                    "background",
+                    "(Zach goes in and tosses Brian over his shoulder.)"
+                ],
+                [
+                    "lane",
+                    "LANE: He really is asleep."
+                ],
+                [
+                    "zach",
+                    "ZACH: He's gained a couple of pounds, too."
+                ],
+                [
+                    "background",
+                    "(He heads toward the bunk beds, then turns back to Lane.)"
+                ],
+                [
+                    "zach",
+                    "ZACH: Okay, well, I had a really good time."
+                ],
+                [
+                    "lane",
+                    "LANE: Me, too."
+                ],
+                [
+                    "background",
+                    "(They kiss.)"
+                ],
+                [
+                    "lane",
+                    "LANE: Night, Zach."
+                ],
+                [
+                    "zach",
+                    "ZACH: Night, Lane."
+                ],
+                [
+                    "background",
+                    "(She goes into her room.)"
+                ],
+                [
+                    "[woods",
+                    "[Woods: morning.]"
+                ],
+                [
+                    "background",
+                    "(Logan walks through the camp in a tux. Rory comes out of her tent.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Another day, another sartorial surprise."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Start getting ready yourself."
+                ],
+                [
+                    "rory",
+                    "RORY: I am ready."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Dressed like that?"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I didn't have the \"it's an overnight thing\" warning, so unless you want me to fashion something out of pinecones, this is it."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That clothing is going to interfere with the integrity of our event and you agreed not to interfere with the integrity of our event."
+                ],
+                [
+                    "rory",
+                    "RORY: All I've got is a washbowl, a towel and a toothbrush."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Is that all you've got? Look again, Ace."
+                ],
+                [
+                    "background",
+                    "(Rory goes back into the tent and looks around. Under the bed she finds a large white dress box.)"
+                ],
+                [
+                    "background",
+                    "[Golf course.]"
+                ],
+                [
+                    "background",
+                    "(Luke is waiting nervously. Richard is doing the same. They take a minute to recognize each other.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Excuse me, Mr. Gilmore?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Luke?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, hi."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I don't remember you being this tall."
+                ],
+                [
+                    "luke",
+                    "LUKE: Sorry."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Oh, it's nothing to apologize about. Where are your clubs?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, I just figured I'd, uh, rent some."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Oh, waste of money. Owning's the thing."
+                ],
+                [
+                    "luke",
+                    "LUKE: Right."
+                ],
+                [
+                    "richard",
+                    "RICHARD: There is no better place than our pro shop."
+                ],
+                [
+                    "luke",
+                    "LUKE: Great."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Let's go get you some clubs."
+                ],
+                [
+                    "luke",
+                    "LUKE: Excellent."
+                ],
+                [
+                    "[woods",
+                    "[Woods: Outside Rory's tent.]"
+                ],
+                [
+                    "background",
+                    "(Logan waits. Rory comes out in a pale blue ball gown.)"
+                ],
+                [
+                    "rory",
+                    "RORY: I got your event integrity right here, mister."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Yep. I got an eye for dress sizes. We go this way."
+                ],
+                [
+                    "background",
+                    "[A field.]"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Come on, hurry."
+                ],
+                [
+                    "rory",
+                    "RORY: You try running in a crinoline."
+                ],
+                [
+                    "logan",
+                    "LOGAN: We're late."
+                ],
+                [
+                    "rory",
+                    "RORY: For what? The ritual sacrifice?"
+                ],
+                [
+                    "background",
+                    "(Everyone is standing, wearing tuxes and gowns, listening to a speech.)"
+                ],
+                [
+                    "emcee",
+                    "EMCEE: I do declare here gathered, one hundred and eighth assembly of the honorable Life and Death Brigade."
+                ],
+                [
+                    "background",
+                    "(Rory and Logan sneak in, Finn hands her a glass of champagne.)"
+                ],
+                [
+                    "rory",
+                    "RORY: He's using 'e's."
+                ],
+                [
+                    "emcee",
+                    "EMCEE: Please raise your glasses. In Omnia Paratus!"
+                ],
+                [
+                    "group",
+                    "GROUP: In Omnia Paratus!"
+                ],
+                [
+                    "background",
+                    "(They turn to their partners and feed each other their champagne.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Now you might want to cover your ears."
+                ],
+                [
+                    "background",
+                    "(A large gong is uncovered behind them.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Why?"
+                ],
+                [
+                    "background",
+                    "(The emcee bangs the gong with a loud \"clang\". Everyone cheers and runs into the field,"
+                ],
+                [
+                    "logan",
+                    "LOGAN: And to think some groups just go bowling."
+                ],
+                [
+                    "(later",
+                    "(Later: A game of polo. The men are carrying carts which hold the ladies, who are leaning out the side, hitting a ball with mallets. Rory watches from the side. She wanders over to another area, where some guys are playing another game. One jumps off a table sideways onto a landing mat while another shoots at him with a paintball gun.)"
+                ],
+                [
+                    "shooter",
+                    "SHOOTER: Pull! (shoots.) Pull!"
+                ],
+                [
+                    "spectators",
+                    "SPECTATORS: Good shot! Pure skill!"
+                ],
+                [
+                    "rory",
+                    "RORY: Is this safe?"
+                ],
+                [
+                    "spectators",
+                    "SPECTATORS: No."
+                ],
+                [
+                    "shooter",
+                    "SHOOTER: Pull! ...Damn."
+                ],
+                [
+                    "spectators",
+                    "SPECTATORS: Blame the gun. I would."
+                ],
+                [
+                    "background",
+                    "(Rory walks toward Logan and Finn, who are playing the same game further away.)"
+                ],
+                [
+                    "finn",
+                    "FINN: Pull! Pull! All right, I'm bored. I want to be a target."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You're always a target, Finn."
+                ],
+                [
+                    "finn",
+                    "FINN: In Omnia Paratus."
+                ],
+                [
+                    "logan (shooting)",
+                    "LOGAN (shooting): You want to interview Finn, Ace, you should do it quick. Pull!"
+                ],
+                [
+                    "rory",
+                    "RORY: Not bad."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Thank you."
+                ],
+                [
+                    "rory",
+                    "RORY: So is this your big stunt?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Big stunt?"
+                ],
+                [
+                    "rory",
+                    "RORY: According to my research, you guys always do one big thing at your gatherings."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Pull!"
+                ],
+                [
+                    "rory",
+                    "RORY: Is this it?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Does it look like it?"
+                ],
+                [
+                    "rory",
+                    "RORY: I'm guessing no."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You answered your own question. Pull! You'll know it when you see it."
+                ],
+                [
+                    "rory",
+                    "RORY: Good."
+                ],
+                [
+                    "background",
+                    "(Two guys walk by carrying Finn on a stretcher.)"
+                ],
+                [
+                    "finn",
+                    "FINN: I missed the mat."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Again?"
+                ],
+                [
+                    "finn",
+                    "FINN: I'll be fine. Don't worry about me. In Omnia! (He swoons.)"
+                ],
+                [
+                    "background",
+                    "(Logan laughs.)"
+                ],
+                [
+                    "[golf course",
+                    "[Golf course: Richard is teeing up. He takes a swing.]"
+                ],
+                [
+                    "richard's caddy",
+                    "RICHARD'S CADDY: You're on your game today, Mr. Gilmore."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Indeed I am."
+                ],
+                [
+                    "luke's caddy",
+                    "LUKE'S CADDY: Indeed."
+                ],
+                [
+                    "luke",
+                    "LUKE: Indeed."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I'm going to speak to the board about these grounds. There are dry spots the length and breadth of this fairway."
+                ],
+                [
+                    "luke",
+                    "LUKE: Hm. Oh, I'm up. Okay. Let's see... I think this one is... (His caddy shakes his head) not the one I want at all, but this one here... (Takes the club the caddy hands him)"
+                ],
+                [
+                    "luke's caddy",
+                    "LUKE'S CADDY: Oh, good choice. Let's take the tag off there."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good idea. Okay, ball goes down here."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Ah."
+                ],
+                [
+                    "background",
+                    "(Luke swings.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Aw, damn."
+                ],
+                [
+                    "richard",
+                    "RICHARD: No problem."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's heading toward the wrong hole."
+                ],
+                [
+                    "richard",
+                    "RICHARD: It's just a Mulligan, son. Try it again."
+                ],
+                [
+                    "luke",
+                    "LUKE: Golf isn't my thing, you know. It's definitely a thing, but not my game."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well, what is your main hobby?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh... (to caddy) Give me a hobby, quick."
+                ],
+                [
+                    "luke's caddy",
+                    "LUKE'S CADDY: Uh, reading."
+                ],
+                [
+                    "luke",
+                    "LUKE: Reading. I read like crazy."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Wonderful! What have you been reading lately?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, books. You know, this, that. Dick!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Dick?"
+                ],
+                [
+                    "luke",
+                    "LUKE: That Dick guy, science fiction guy, Dick something, something Dick... I just read one of his."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well, I'll bring Dick up on the internet, see what comes up."
+                ],
+                [
+                    "luke",
+                    "LUKE: Wish I could remember that name."
+                ],
+                [
+                    "richard",
+                    "RICHARD: You better hit your ball, son. We're stacking up. (Waves at the people behind them.)"
+                ],
+                [
+                    "luke",
+                    "LUKE: Right, yeah. Okay."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Just a second, guys, he's, uh, he's new."
+                ],
+                [
+                    "background",
+                    "(Luke swings.)"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Not to worry, the cart's been dinged a thousand times."
+                ],
+                [
+                    "luke",
+                    "LUKE: The guy driving it looked mad."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Not to worry. Let's go. (They start to walk.) So, have you put much thought into franchising?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Franchising?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: That diner of yours. Now is the time to jump. There are opportunities abounding in real estate right now."
+                ],
+                [
+                    "luke",
+                    "LUKE: Eh, well, no, I haven't."
+                ],
+                [
+                    "richard",
+                    "RICHARD: I'd concentrate on the eastern seaboard, first. Connecticut, New York, Massachusetts. I'd start with, uh, five to seven."
+                ],
+                [
+                    "luke",
+                    "LUKE: Diners?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Something manageable. You'll need an investment banker, ah. Just ran into Herb Smith in the clubhouse, best banker in the business, I'll give him your number."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good."
+                ],
+                [
+                    "richard",
+                    "RICHARD: So, once the first seven are a go, shoot for the moon. National expansion. Set up a public corporation, issue an I.P.O."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, sure. An I.P.O. Gotta set up one of those."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Have you ever gotten a straight razor shave?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Shaves you close, lasts for days. I'll give you my barber's card."
+                ],
+                [
+                    "background",
+                    "[Camp. Rory is looking up at a huge scaffold that has been set up in the field. Several people are standing on top holding umbrellas. Logan joins her.]"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hope you're thinking up superlatives."
+                ],
+                [
+                    "rory",
+                    "RORY: What are they going to do?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: What do you think they're going to do?"
+                ],
+                [
+                    "rory",
+                    "RORY: They're not going to jump."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Jump!"
+                ],
+                [
+                    "rory",
+                    "RORY: That's like seven stories! They'll die!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: We're all going to die one day."
+                ],
+                [
+                    "rory",
+                    "RORY: But those four are today."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Six."
+                ],
+                [
+                    "rory",
+                    "RORY: I see four."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I'm heading up."
+                ],
+                [
+                    "rory",
+                    "RORY: Of course you are."
+                ],
+                [
+                    "logan",
+                    "LOGAN: And Finn was supposed to do it, but few of us figured he'd make it this far, so there's an extra space."
+                ],
+                [
+                    "rory",
+                    "RORY: Hmm. (Looks up, then sees the way Logan's looking at her.) No!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: And we're not going to die. No one in the Life and Death Brigade has ever died. Old ones have."
+                ],
+                [
+                    "rory",
+                    "RORY: I am not going to jump!"
+                ],
+                [
+                    "seth",
+                    "SETH: We're all set."
+                ],
+                [
+                    "logan",
+                    "LOGAN: This is Seth, he's the genius behind all this."
+                ],
+                [
+                    "seth",
+                    "SETH: It's very safe. We did a dozen successful test drops, every potato came through without a scratch."
+                ],
+                [
+                    "rory",
+                    "RORY: Potato?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: You can't test using people, that'd be dangerous!"
+                ],
+                [
+                    "rory",
+                    "RORY: Look, thanks for the offer, but I'm here as a journalist. An observer. Journalists do not participate."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Since when?"
+                ],
+                [
+                    "rory",
+                    "RORY: Since forever."
+                ],
+                [
+                    "logan",
+                    "LOGAN: George Plimpton never participated."
+                ],
+                [
+                    "rory",
+                    "RORY: What?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: His best stuff put him in the think of it. Fighting Sugar Ray Robinson, quarterbacking for the Lions, skating for the Bruins."
+                ],
+                [
+                    "rory",
+                    "RORY: So he participated."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Bill Buford lived with soccer hooligans in amongst the thugs. Ernie Pyle was so deep in the action in World War II, he was killed by a Japanese sniper, not that you gotta go that far."
+                ],
+                [
+                    "rory",
+                    "RORY: Buford, Pyle. I know."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Richard Hottelet was four months in a Nazi prison working for the U.P. Hunter Thompson lived with the Hell's Angels. Got in the muck, didn't just orbit around it, and it drove his writing. He put you in those biker's parties. He put you in those biker's heads."
+                ],
+                [
+                    "rory",
+                    "RORY: All right, all right, so, those guys participated. I got it, but I -"
+                ],
+                [
+                    "emcee",
+                    "EMCEE: Jumpers to their places, please!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: You're scared."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, yeah!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: And that stops the greats?"
+                ],
+                [
+                    "rory",
+                    "RORY: It's stopping this great!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Come on, you look like you need a little adventure."
+                ],
+                [
+                    "rory",
+                    "RORY: What does that mean?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: You're just a little sheltered."
+                ],
+                [
+                    "rory",
+                    "RORY: Why? Because I haven't spent time in a Nazi prison, been stomped on by hooligans and beat up by Hell's Angels? And Plimpton got banged up pretty good too."
+                ],
+                [
+                    "logan",
+                    "LOGAN: It'll be fun, it'll be a thrill. Something stupid, something bad for you. Just something different. (Rory smiles.) Isn't this the point of being young? It's your choice, Ace. People can live a hundred years without really living for a minute. You climb up here with me, it's one less minute you haven't lived."
+                ],
+                [
+                    "rory",
+                    "RORY: Let's go."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Let's go!"
+                ],
+                [
+                    "rory",
+                    "RORY: But I am not a fan of ladders."
+                ],
+                [
+                    "logan",
+                    "LOGAN: They scare the crap out of me, too."
+                ],
+                [
+                    "background",
+                    "(They climb the scaffold.)"
+                ],
+                [
+                    "rory",
+                    "RORY: High. We are very high."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I've been higher."
+                ],
+                [
+                    "rory",
+                    "RORY: I meant distance from the ground."
+                ],
+                [
+                    "logan",
+                    "LOGAN: That, too."
+                ],
+                [
+                    "seth",
+                    "SETH: This is totally safe. And it goes with your outfit. Nice. (He wraps a band around her waist, which a line is connected to.)"
+                ],
+                [
+                    "rory (pointing down at the crowd)",
+                    "RORY (pointing down at the crowd): Why do they look so worried?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: We're low on champagne. You can back out, you know. No one's forcing you."
+                ],
+                [
+                    "rory",
+                    "RORY: I know. (She grabs an umbrella.)"
+                ],
+                [
+                    "background",
+                    "(The emcee is calling up in Latin.)"
+                ],
+                [
+                    "logan",
+                    "LOGAN: You trust me?"
+                ],
+                [
+                    "rory",
+                    "RORY: You jump, I jump, Jack."
+                ],
+                [
+                    "crowd",
+                    "CROWD: In Omnia Paratus!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: I really should have confirmed that those potatoes were okay."
+                ],
+                [
+                    "background",
+                    "(He grabs her hand and they jump. The crowd cheers as they land safely.)"
+                ],
+                [
+                    "seth",
+                    "SETH: Oh, thank God."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You did good, Ace!"
+                ],
+                [
+                    "rory",
+                    "RORY: Once in a lifetime experience!"
+                ],
+                [
+                    "logan",
+                    "LOGAN: Only if you want it to be."
+                ],
+                [
+                    "background",
+                    "[Dragonfly Inn.]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: (To customers) All right, thanks. (The phone rings.) Good afternoon, Dragonfly Inn."
+                ],
+                [
+                    "luke",
+                    "LUKE: I franchised my place."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "luke",
+                    "LUKE: The diner. There's going to be seven of them, and that's just on the eastern seaboard. Then, I'm going national."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What are you talking about?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Your father wants to open up a chain of Luke's Diners, and I think I agreed to it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No!"
+                ],
+                [
+                    "luke",
+                    "LUKE: I've already got a marketing guy, Herb's my banker, your father is taking care of all my insurance needs, and apparently, everyone is going to be able to buy stock!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ugh! My parents, my stupid parents!"
+                ],
+                [
+                    "luke",
+                    "LUKE: And he wants to shave me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Shave what?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't know, he just kept talking about shaving me, and I'm tipsy. We hit the club bar, and I didn't want to sound dumb and just order a beer because it's nitwit juice, so I had what your dad was having which was whiskey something - more whiskey than something, let me tell you, 'cause I can't even see straight."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Aw, you poor thing."
+                ],
+                [
+                    "luke",
+                    "LUKE: And I've got an art dealer now."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No!"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm driving to Manhattan next week to look at some Diebenkorns. What's a Diebenkorn?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I don't know."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, and I bought some golf clubs, they cost the same as a car."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Where are you now?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm at the driving range, your dad's making me practice for next time."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No! Leave! You do not need to practice."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, and I sort of implied that I'm fond of the Greeks, so I have to read the Iliad and the Odyssey so we can chat about it, and can we not hang out with your parents for a very long time?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: For a very long time."
+                ],
+                [
+                    "luke",
+                    "LUKE: I mean, I don't hate them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Leave the driving range at once."
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't think I can drive."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Honey, have some coffee and then come home."
+                ],
+                [
+                    "luke",
+                    "LUKE: The Diebenkorn guy is still in there."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You stay away from the Diebenkorn guy."
+                ],
+                [
+                    "luke",
+                    "LUKE: He's chatting with my rare coin guy."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Just do not go back in the clubhouse. Go straight to your car."
+                ],
+                [
+                    "luke",
+                    "LUKE: Okay. I like the valet guys."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good, now go."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm going."
+                ],
+                [
+                    "background",
+                    "(She hangs up.)"
+                ],
+                [
+                    "[elder gilmore's pool house",
+                    "[Elder Gilmore's pool house: at the door.]"
+                ],
+                [
+                    "emily",
+                    "EMILY: Why would you go golfing with that man? Why on earth?"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Who, Luke?"
+                ],
+                [
+                    "emily",
+                    "EMILY: You are encouraging this ridiculous relationship."
+                ],
+                [
+                    "richard",
+                    "RICHARD: Emily, please."
+                ],
+                [
+                    "emily",
+                    "EMILY: He is not good enough for Lorelai, or to be Rory's stepfather! God forbid!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Can we be a little more of a snob, Emily?"
+                ],
+                [
+                    "emily",
+                    "EMILY: The fact that you paraded him around the club. Our club!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: It happened to be a fruitful outing. I am going to assist him in franchising his diner."
+                ],
+                [
+                    "emily",
+                    "EMILY: Richard! That hurts-out-loud is not capable of running a complex business!"
+                ],
+                [
+                    "richard",
+                    "RICHARD: Well, that's obvious, Emily! That's why he will have no significant role, he will be the frontman! We'll shave him, stick his picture on the menus. The whole thing will, hopefully, bestow some credibility on him. At least then, if this insane relationship between him and Lorelai continues, we can legitimately take him to places like the club. At least, on holidays."
+                ],
+                [
+                    "emily",
+                    "EMILY: This is absurd. You're absurd, the whole thing's absurd."
+                ],
+                [
+                    "richard",
+                    "RICHARD: And you're not thinking ahead. Excuse me. (He goes inside.)"
+                ],
+                [
+                    "background",
+                    "[Yale dorms; Rory's bedroom.]"
+                ],
+                [
+                    "background",
+                    "(Rory is going over her notes when her phone rings.)"
+                ],
+                [
+                    "rory",
+                    "RORY: Hi."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Are you typing?"
+                ],
+                [
+                    "rory",
+                    "RORY: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes, you are. I thought we agreed you wouldn't type while we talk."
+                ],
+                [
+                    "rory",
+                    "RORY: Gotta break the rule just this once, I'm in a rush. It's been a crazy couple of days."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, school?"
+                ],
+                [
+                    "rory",
+                    "RORY: Paper. Long story, I'll fill you in in person. Where are you off to?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke's! I have to un-stress him after his unhappy Gilmore outing. Dad tried to take over his whole life. He wants to franchise Luke's."
+                ],
+                [
+                    "rory",
+                    "RORY: You're kidding."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey, do men shave anywhere except their faces?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know, I've never lived with a man."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Same here."
+                ],
+                [
+                    "rory",
+                    "RORY: Well, if he does franchise the diner get him to put one near Yale. I miss those burgers."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: He's not franchising."
+                ],
+                [
+                    "rory",
+                    "RORY: Hey, can I ask you a question?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Sure."
+                ],
+                [
+                    "rory",
+                    "RORY: Do you think I'm too scared?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "rory",
+                    "RORY: Too scared, too timid. Do I take enough chances?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What kind of chances?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know, life chances."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I think you do."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm not a mouse?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Where is this coming from?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know, just something I've been thinking about lately. (She hears a knocking.) Someone's at the door. Um, say hi to Luke for me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: If he's out of comatose. By, honey."
+                ],
+                [
+                    "rory",
+                    "RORY: Bye."
+                ],
+                [
+                    "background",
+                    "(She opens the door and finds a gorilla mask, a bottle of champagne and her camera. She looks through the shots on her camera, and sees pictures of her and Logan jumping. She smiles and closes the door.)"
+                ]
+            ],
+            "participants": {
+                "logan": 70,
+                "rory": 94,
+                "zach": 25,
+                "lane": 24,
+                "brian": 10,
+                "guy #1": 5,
+                "guy #3": 7,
+                "guy #4": 9,
+                "guy #2": 1,
+                "stephanie": 6,
+                "guy": 1,
+                "(later": 2,
+                "girl's voice": 1,
+                "girl": 2,
+                "[lane's house": 1,
+                "zach (turning off the tv.)": 1,
+                "zach (laughs)": 1,
+                "[woods": 2,
+                "luke": 43,
+                "richard": 31,
+                "emcee": 3,
+                "group": 1,
+                "shooter": 2,
+                "spectators": 3,
+                "finn": 4,
+                "logan (shooting)": 1,
+                "[golf course": 1,
+                "richard's caddy": 1,
+                "luke's caddy": 3,
+                "seth": 4,
+                "rory (pointing down at the crowd)": 1,
+                "crowd": 1,
+                "lorelai": 30,
+                "[elder gilmore's pool house": 1,
+                "emily": 6
+            }
+        }
+    ]
+}

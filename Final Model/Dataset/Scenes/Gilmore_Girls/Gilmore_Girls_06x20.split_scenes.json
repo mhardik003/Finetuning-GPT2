@@ -1,0 +1,3875 @@
+{
+    "Episode Number": "06x20",
+    "Episode Title": "Super Cool Party People",
+    "Recap": [
+        "Luke decides to give April a birthday party at the diner. Lorelai volunteers to help and is hurt when Luke explains that he still thinks it's too soon for them to meet. However, Luke changes his mind when the party is a disaster, giving Lorelai a chance to bond with April. Meanwhile, Rory rushes to be with Logan at the hospital after he is seriously injured during a stunt with the Life and Death Brigade."
+    ],
+    "Show Title": "Gilmore Girls",
+    "Transcript": [
+        "[Before the teaser there is a montage of scenes from previous episodes.]",
+        "DRAGONFLY INN",
+        "[Sookie is getting coffee for Lorelai]",
+        "LORELAI: Is there something long and sharp sticking out of my head?",
+        "SOOKIE: No.",
+        "LORELAI: I want there to be. There's an effect. I need a cause.",
+        "SOOKIE: The cause was 10 giant shots of Tequila, sweetie.",
+        "LORELAI: It makes me woozy just hearing that.",
+        "SOOKIE: That's the price you pay for being the hit of Lane's wedding.",
+        "LORELAI: Hit? I was a raving lunatic. And that toast...[A pan bangs on the counter] Oh, my god! Loudest sound ever.",
+        "FRED: Sorry.",
+        "SOOKIE: Don't worry about the toast. And you weren't a lunatic. You were a character. What is Stars Hollow if not a haven for colorful characters? I mean you're not up there with Stevie the pantsless Santa Claus or Jojo the cow whisperer, but you made some strides.",
+        "LORELAI: Is this supposed to be a consolation? [More pan bangs] That's twice in 20 seconds, Fred.",
+        "FRED: Sorry.",
+        "SOOKIE: I've seen you wasted before but never like this. I mean we had you guzzling coffee, but coffee was making you energetically wasted.",
+        "LORELAI: I should borrow the reception video to see what a fool I made out of myself.",
+        "SOOKIE: And check out your audition.",
+        "LORELAI: My what? [Bangs the pans again] You want a piece of me, omelet boy?",
+        "SOOKIE: Fred why don't you let the vegetables simmer for a while? I'll look after them.",
+        "FRED: Sure, Sookie.",
+        "LORELAI: Sorry, Fred. I'm not myself this morning. [Small Laugh] So, now, what did I do in front of the camera?",
+        "SOOKIE: Well when you spotted the videographer, you got suddenly very excited to film your audition tape for \"America's Next Top Model.\"",
+        "LORELAI: Oh, my god!",
+        "SOOKIE: Yeah.",
+        "LORELAI: I thought that was a dream.",
+        "SOOKIE: It wasn't.",
+        "LORELAI: The posing, the strutting, the inappropriate gyrating?",
+        "SOOKIE: All caught on video and several of Zach's buddies' camera phones.",
+        "LORELAI: Why didn't you stop me?",
+        "SOOKIE: I tried, we all tried, but you were on a mission. You kept saying, \"I'm not here to make friends. I want to win.\" And then after that...",
+        "LORELAI: There's an \"after that\"?",
+        "SOOKIE: You tried to start a limbo contest, a poker game, and a secret club for \"supercool party people\" only. None of those really you know took off, especially the limbo, considering your choice of limbo stick was Zach's ...",
+        "LORELAI AND SOOKIE: [Together] Great-uncle's cane.",
+        "LORELAI: Oh, yeah, is he okay?",
+        "SOOKIE: He stumbled, but we caught him. He's fine.",
+        "LORELAI: So, is that all? Anything else I need to know about?",
+        "SOOKIE: Nope, after you crowned yourself Arm-Wrestling Champion of the world, Christopher and Rory scooped you up and got you home. He got you in bed okay?",
+        "LORELAI: Christopher? Yeah. Well he and Rory.",
+        "SOOKIE: He's very \"knight in shining armor,\" very chivalrous.",
+        "LORELAI: That's him...So um, is there anything else I did that I need to know about? I want to be fully informed.",
+        "SOOKIE: I told you everything.",
+        "LORELAI: Good! Now, if you'll excuse me, I'm gonna go and be nauseous out front for a while.",
+        "SOOKIE: Excellent. [Chant] Supercool party people bid you supercool adieu! [Lorelai looks at Sookie] That's how you were saying goodbye to people.",
+        "LORELAI: Super.",
+        "OPENING CREDITS",
+        "[Hospital]",
+        "RORY: Excuse me, I'm looking for Logan Huntzberger, he's... [Nurse point Rory to someone else] Excuse me, can you help me find Logan...",
+        "NURSE 1: Sorry, this isn't my floor.",
+        "RORY: Excuse me, can someone here help me find Logan Huntzberger?",
+        "NURSE 2: He was just transferred out of the I.C.U., Room 713.",
+        "RORY: How is he?",
+        "NURSE 2: Are you family?",
+        "RORY: I'm his girlfriend.",
+        "NURSE 2: All I can tell you is that he's not conscious right now and that he's in serious but stable condition.",
+        "RORY: What does that mean, \"serious but stable\"?",
+        "NURSE 2: Just what it says.",
+        "RORY: But is it more serious or stable? Which way is it leaning?",
+        "NURSE 2: I'm sorry I can only release more information to family members.",
+        "RORY: But I'm his girlfriend. We've been together a long time. It's not a casual thing. We live together.",
+        "NURSE 2: Sorry.",
+        "WOMAN ON P.A.: Dr. Morris, dial 182, please. Dr. Morris, please dial...",
+        "RORY: How is he? Is he okay?",
+        "FINN: Scuttlebutt is he's not dead.",
+        "COLIN: The man is indestructible.",
+        "FINN: Dives headfirst off the cliffs of caldera, instantly spins out of control.",
+        "COLIN: Gets totally disoriented, barely gets his chute open.",
+        "FINN: Bounces off every rock and crag in the park.",
+        "COLIN: Yet still manages to stick the landing.",
+        "FINN: We gave him a 9.7.",
+        "COLIN: Had to deduct .3 for all the screaming and bleeding.",
+        "RORY: What about his family, did you talk to them?",
+        "COLIN: Honor is on her honeymoon in Mykonos, trying to get back, and Logan's mom checked herself into some sort of spa in Arizona the moment she heard.",
+        "FINN: When the going gets tough, the tough get hot-rock massages.",
+        "RORY: What about Mitchum?",
+        "FINN: The \"Dark Lord\" we left word but haven't heard anything.",
+        "COLIN: But we've come up with a plan to get around the whole \"family only gets information\" thing. We're adopting him.",
+        "RORY: What?",
+        "FINN: [Joking] Logan will make a fine son.",
+        "COLIN: Of course, first we must be married.",
+        "FINN: Naturally, darling. I'm very old-fashioned.",
+        "COLIN: And even then, adopting as a gay couple is never easy.",
+        "FINN: We just want to give love.",
+        "COLIN: Oh, Finn.",
+        "FINN: Oh, buttercup.",
+        "RORY: What the hell is wrong with you two? Your best friend is lying unconscious in a hospital, and you don't even care.",
+        "FINN: [Taken back] Rory...",
+        "RORY: Why the hell aren't you two lying unconscious in there, huh?",
+        "COLIN: [Quite] Come on...",
+        "RORY: You don't care, because if you did, you wouldn't be like this. You couldn't. You're supposed have his back you're supposed to watch out for each other on these stupid trips of yours. But no, everything's a big joke. Everything's hilarious. You're useless. Just go home. Both of you, go home. I can't stand to look at you.",
+        "[Cut the Logan's room, he is clearly injured. A doctor comes in.]",
+        "RORY: Hi.",
+        "DR SCHULTZ: Hello.",
+        "RORY: I'm Rory Gilmore. I'm his girlfriend.",
+        "DR SCHULTZ: I'm Dr. Schultz.",
+        "RORY: Um, how is he? Is he gonna be okay?",
+        "DR SCHULTZ: I'm sorry, but I really can't get into the specifics.",
+        "RORY: But, well, he's out of the I.C.U., So that's good, right? They wouldn't have moved him up here unless he was recovering.",
+        "DR SCHULTZ: Sorry, really.",
+        "RORY: But he's had surgery, right? Does he need more surgery? Does he have broken bones, because I can donate blood if you want.",
+        "DR SCHULTZ: Miss.",
+        "RORY: You really, you can't tell me anything about what he has or what you've done or what's wrong, anything?",
+        "DR SCHULTZ: I'm sorry. It's hospital policy. We're doing everything we can.",
+        "RORY: Okay.",
+        "STARS HOLLOW TOWN SQUARE",
+        "TROUBADOUR: [Singing] A million hearts, a million minds",
+        "have lived and died in 40 years prayed for yourself and for your memories be thankful we've had 40 years",
+        "[Harmonica plays]",
+        "We've had 40 years we've had 40 years we've had 40 years",
+        "[Cut to inside the diner]",
+        "CAESAR: [Too a customer] I will get that for you in two shakes of a lamb's tale.",
+        "LUKE: Caesar, why am I still finding bananas in the fridge?",
+        "CAESAR: Oh you wanted me to take all the bananas out of the fridge?",
+        "LUKE: When I said, \"remove the bananas,\" I was referring to all the bananas. Otherwise, I would have said \"a banana\" or \"some of the bananas.\"",
+        "CAESAR: Hmm.",
+        "LUKE: What?",
+        "CAESAR: It's just that while I was running the place, that was one of my innovations, cold bananas. People really love them.",
+        "LUKE: I highly doubt that. [pointing] And get rid of those scones.",
+        "CAESAR: You know that's something else I wanted to talk to you about, Luke.",
+        "LUKE: What?",
+        "CAESAR: See your attitude. While I was running the place, people really responded to my sunny demeanor. Customers find you cold and distant. Service with a smile, it's a clich\u00e9 for a reason.",
+        "LUKE: Yeah, look, Caesar, I don't want to improve things, and I don't want to stop being cold to customers. I want you to keep my damn bananas out of the damn fridge, and I want to keep my damn doughnuts in the damn doughnut case. Can you do that for me!",
+        "CAESAR: Of course, Luke.",
+        "LUKE: Thank you.",
+        "CAESAR: Customers don't care for gratuitous profanity, either.",
+        "LUKE: Ahh. Thank god, someone sane. [the huge and kiss]",
+        "LORELAI: Hello, weary traveler.",
+        "LUKE: It's good to be back.",
+        "LORELAI: You look older, wiser.",
+        "LUKE: Well, I did spend a lot of time squinting at historical documents.",
+        "LORELAI: That's what it is, constitution face. [Seeing Miss Patty] I Patty.",
+        "LUKE: I brought you something.",
+        "LORELAI: Oh, did you steal me the constitution? 'Cause that could be the start of a really dumb movie.",
+        "LUKE: It's from Amish country. These little Amish girls handmake them.",
+        "LORELAI: Oh, it's adorable. Look, Patty, an Amish voodoo doll.",
+        "MISS PATTY: I love it. Hey, Luke, I'm still waiting on my cold banana.",
+        "LUKE: We don't serve cold bananas. [To Lorelai] It's not a voodoo doll. It's just a doll the Amish don't put faces on their dolls or pins in them.",
+        "LORELAI: Oh, well, it's my doll now. What the Amish don't know won't hurt them. Unless, of course, I want to hurt them.",
+        "LUKE: It's yours to do with what you will.",
+        "LORELAI: You seem surprisingly rested after all you've been through.",
+        "LUKE: Yeah the kids were okay. They seemed to like me, unless they were all lying.",
+        "LORELAI: Kids never lie.",
+        "LUKE: And April and I finally got into a good rhythm. She was tolerating me pretty good at the end.",
+        "LORELAI: Good.",
+        "LUKE: And guess what it's her birthday tomorrow, and I'm throwing her a party.",
+        "LORELAI: You're kidding. How did that happen?",
+        "LUKE: Well I was dropping her off this morning, and her mom mentioned to me that she was taking her to her grandmother's to celebrate, and she couldn't swing a party here with her friends, so I figured I know her friends now. I got a great place to hold a party.",
+        "LORELAI: Yeah, where?",
+        "LUKE: Here.",
+        "LORELAI: Oh.",
+        "LUKE: So, anyhow, there you go.",
+        "LORELAI: Look at you, diving into fatherhood.",
+        "LUKE: I'm doing my best.",
+        "LORELAI: So, tomorrow, huh? You prepared for all that?",
+        "LUKE: Sure. Why?",
+        "LORELAI: Well if you need a consultant, I have thrown some rockin' preteen parties in my time. Of course, I didn't have a deep fryer but...",
+        "LUKE: I think I can handle it. I'll put up some decorations. I've ordered some balloons. I got a great cake place. There'll be presents.",
+        "LORELAI: All good. I'm just saying that Rory's birthday scavenger hunt of 1998 is still talked about in hushed, reverent tones.",
+        "LUKE: Is that the one where all the kids ended up at Taylor's at 11:00 at night stealing stuff out of his fridge?",
+        "LORELAI: Shh! Hushed, reverent tones.",
+        "LUKE: I've got it all under control. Excuse me. What can I get you, Kirk?",
+        "KIRK: How about a steaming cup of chicory coffee?",
+        "LUKE: It's not on the menu, Kirk.",
+        "KIRK: I know. It's on the sign.",
+        "LUKE: [Takes the sign down] That's a mistake.",
+        "KIRK: Well, now all I can think about is chicory coffee. I'm very susceptible to signage.",
+        "LUKE: Well, come back when you're susceptible to ordering off the menu.[Too Lorelai] You want anything?",
+        "LORELAI: How about a nice plate of chicken fingers?",
+        "LUKE: Oh. [Takes down the sign] Why don't I start you off with some coffee, hmm?",
+        "LORELAI: Uh, no, thanks. I'm kind of coffee'd out.",
+        "LUKE: Oh, right. Battling the hangover.",
+        "LORELAI: [A little surprised] Oh. Did I mention my hangover?",
+        "LUKE: No, patty filled me in, you know. The tequila shots, you taking the mike.",
+        "LORELAI: Taking the mike. Uh, yeah. I, um, I really didn't know what I was saying, just empty, meaningless words you know tumbling out of my mouth.",
+        "LUKE: I hear you really belted it out.",
+        "LORELAI: Belted it out?",
+        "LUKE: \"Endless love.\"",
+        "MISS PATTY: The song, honey. Ohh...yeah. [Laughing] Oh, yes. I really belted it out. Is there any other way to sing \"endless love\"? You know if you're not gonna really belt it out, you might as well stay in your seat.",
+        "MISS PATTY: She sang it beautifully.",
+        "LUKE: Yeah everybody does embarrassing stuff at weddings.",
+        "LORELAI: Yeah, right, true.",
+        "LUKE: Be right back.",
+        "MISS PATTY: Okay, I've already gotten to the whole town, and they're all telling the \"endless love\" story. He'll never know.",
+        "LORELAI: Oh, thanks. I owe you, patty.",
+        "MISS PATTY: Oh honey, please. I've given more drunken toasts than Colin Farrell. You owe me nothing.",
+        "LORELAI: Thanks, patty. [Playing with the engagement ring]",
+        "MISS PATTY: That Luke... It may take a mule team, but you're getting him to the altar someday.",
+        "LORELAI: Yeah, someday. [Sighs]",
+        "HOSPITAL",
+        "[Rory gets her phone out to make a call]",
+        "WOMAN ON P.A.: Dr. Valentino to the O.R., Please.",
+        "[Cut to Paris's apartment]",
+        "PARIS: What?",
+        "RORY: Paris?",
+        "PARIS: Larry summers is right, Rory. Our university system is crumbling. Did you know that.",
+        "RORY: Paris. I just found out my microbiology final is an open-book exam. Can you believe that? I mean why not just have our professors take it for us? Or better yet, they can just hand us our diplomas the moment we step on campus freshman year, along with some government cheese, a bong, and a t-shirt that says \"hard work is for suckers.\"",
+        "RORY: Paris, I'm at the hospital with Logan.",
+        "PARIS: Why what happened?",
+        "RORY: He and his buddies went on some life and death brigade trip, and they parachuted off a cliff in Costa Rica, and he had a really bad fall.",
+        "PARIS: Is he okay?",
+        "RORY: I don't know. He's out of the I.C.U., So I guess that's a good thing. They said he's in serious but stable condition, but they won't tell me anything else because I'm not family.",
+        "PARIS: Is he breathing on his own?",
+        "RORY: Yeah, I mean, I think so.",
+        "PARIS: Well what's his pallor? Is he peaked? Was there internal bleeding?",
+        "RORY: I have no idea. I quickly scribbled down some things off his chart. Um, you're pre-med can I read it to you, maybe you can make some sense of it.",
+        "PARIS: Forget it I don't know how to read charts yet. I can tell you everything you wanna know about the difference between recessive and dominant eye-color genes in fruit flies, but god forbid I learn how to read a chart before I'm a fourth-year surgical resident.",
+        "RORY: Great.",
+        "PARIS: What hospital is he in?",
+        "RORY: Columbia-Presbyterian, Manhattan.",
+        "PARIS: Who's the attending?",
+        "RORY: Paris it doesn't matter they're not gonna release information to non-family.",
+        "PARIS: Just give me the name.",
+        "RORY: Dr. Schultz.",
+        "PARIS: I'll call you right back.",
+        "RORY: Paris.",
+        "[Paris hangs up, Rory watches as a nurse takes a phone call, we can just make out the conversation]",
+        "NURSE: Miss please! [getting mad] That language is certainly not necessary! Hold on. {handing the phone over] Dr. Schultz It's about Logan Huntzberger.",
+        "DR SCHULTZ: This is Dr. Schuzltz. No, that's not possible. Well, you wouldn't do that. Listen, miss... fine. Paging dr. Bender. Paging dr. Bender, please. [After a few seconds he hangs up and looks beat.]",
+        "RORY: [Rory's cell phone rings] Hello?",
+        "PARIS: Here the deal, he was bleeding internally when they brought him in, and they were worried about the oxygen levels in his blood, but he's stabilized now, and they're back up to normal, so that's no longer a concern. He was also running a high fever, so they put him on mondo doses of intravenous antibiotics. He has a partially collapsed lung...",
+        "RORY: oh, my god!",
+        "PARIS: ...Six broken ribs, a broken ankle, torn cartilage in both knees, and a severe concussion. He had surgery for the lung, and that went well. They did a Thoracoscopy, which is a couple of small incisions in the chest. [Rory looks worried] Then they put a tube into the lung to drain the fluid from the pleural space so the lung can re-expand. That's way less invasive than a Thoracotomy. Which is a similar operation but for that one, they have to butterfly you like a shrimp. And that's it.",
+        "RORY: So, what does this mean?",
+        "PARIS: It means he's out of immediate danger. He's young and healthy and they expect him to make a full recovery.",
+        "RORY: Really? Like a full recovery, like he's going to recover fully?",
+        "PARIS: That's what the doctor told me. He's need some rehab he won't be running, dancing, or jumping off a cliff anytime soon, but, yeah, he should be fine. He's a very lucky guy. Those guys are idiots.",
+        "RORY: Wow",
+        "PARIS: Yeah",
+        "RORY: Thank you so much for this. Really, Paris, thank you.",
+        "PARIS: It was fun. Anything else?",
+        "RORY: No, I feel a lot better.",
+        "PARIS: Call me if you need anything else.",
+        "RORY: I will.",
+        "STREET - UNKNOWN LOCATION",
+        "[Luke and Lorelai are walking on the side walk]",
+        "LORELAI: So, you all shopped out?",
+        "LUKE: I got a couple more stores in me.",
+        "LORELAI: You know you would make the best Sherpa and the hottest. You could move to Nepal, open your own hot-Sherpa shop, and make a fortune.",
+        "LUKE: Well this is fun for me. Besides I'd like to think I have some influence on what you buy.",
+        "LORELAI: You do?",
+        "LUKE: I don't?",
+        "LORELAI: Uh, no.",
+        "LUKE: Yes, I do.",
+        "LORELAI: No, you don't.",
+        "LUKE: I do.",
+        "LORELAI: You don't.",
+        "LUKE: But you're always asking my opinion.",
+        "LORELAI: Yeah, but it's the way I ask. \"Isn't this adorable?\" Or \"this isn't right, right?\" You know I put your answer right there in the question.",
+        "LUKE: Oh.",
+        "LORELAI: I will say, I do always like to buy one thing that you like that I don't 'cause I know it makes you happy, like that blouse.",
+        "LUKE: You don't like that, I thought you liked that.",
+        "LORELAI: Not really, but I liked how much you liked it, so I bought it.",
+        "LUKE: Huh.",
+        "LORELAI: And I will wear it because I know that every time I do, you'll notice and appreciate it, and that will make me feel so good. And then because I feel so good, I'll start wearing it more and more, and I'll eventually really grow to like it, and I'll forget that I didn't like it in the first place. And holy crap, you've picked out all my favorite clothes.",
+        "LUKE: I knew it. [pointing to a window display] Hey what do you think of that?",
+        "LORELAI: What?",
+        "LUKE: The toiletry kit.",
+        "LORELAI: What? And throw away the 5-year-old Dixie cup you use to hold your toothbrush? It's historical.",
+        "LUKE: I mean as a birthday present for April.",
+        "LORELAI: April who?",
+        "LUKE: Come on, it's cute.",
+        "LORELAI: Um, yeah. I don't think it's quite right.",
+        "LUKE: It's girly. It's got cats on it.",
+        "LORELAI: Oh, well, if it's got cats on it...",
+        "LUKE: April likes cats.",
+        "LORELAI: [small laugh] Yeah, but it's a toiletry kit. It's so hygienic.",
+        "LUKE: I saw her use soap on the trip.",
+        "LORELAI: Yeah did you see her tie her shoelaces? 'Cause you could get her shoelaces.",
+        "LUKE: I think she'll like it.",
+        "LORELAI: Luke, it's weird. It says, \"happy birthday, now go clean yourself up.\"",
+        "LUKE: If she doesn't like it, I'll get her a follow-up gift.",
+        "LORELAI: Why not just get her the perfect gift right up front?",
+        "LUKE: Why couldn't that be the perfect gift? You don't know.",
+        "LORELAI: I know girls. It's not the right gift. Hey, you know there's a store, a few blocks down that has great stuff. I could take you there and show you 50 things I know she'd like. Some of them may even have cats on them.",
+        "LUKE: I think I'm gonna get that.",
+        "LORELAI: Come on Luke I can really help you here.",
+        "LUKE: I'm not saying you can't, I know you're an expert, but I need to do this.",
+        "LORELAI: Then do it. I'm just saying, let me be part of it.",
+        "LUKE: No.",
+        "LORELAI: Why?",
+        "LUKE: Because it's too soon.",
+        "LORELAI: Why is it too soon?",
+        "LUKE: Because the minute you get involved in her life, it'll be all over for me.",
+        "LORELAI: What that's ridiculous.",
+        "LUKE: No, it's not ridiculous. You're colorful and funny. You're practically a cartoon character. Kids love you. I wouldn't hang out with me either after meeting you.",
+        "LORELAI: Luke!",
+        "LUKE: She'll like you better. That is just a fact.",
+        "LORELAI: No, you're her dad.",
+        "LUKE: Yes, I am her dad, and this is the way I want it to be.",
+        "LORELAI: Okay.",
+        "LUKE: I'll be a couple of minutes.",
+        "LORELAI: [Looking a little mad] I'll be right here.",
+        "LUKE'S DINER",
+        "[April's birthday party, the diner is full of girls April's age.]",
+        "ANNA: So you have my cell phone if there's any problems?",
+        "LUKE: I've got your cell number, your store number, your store fax number, your home numbers. You are 100% reachable.",
+        "ANNA: Good.",
+        "LUKE: And, hey, thanks again for letting me do this.",
+        "ANNA: Oh, please. She's excited about this. Plus, your chaperoning got rave reviews.",
+        "LUKE: Really?",
+        "ANNA: April said you were the least-embarrassing parent on the trip.",
+        "LUKE: Good, that's good, right?",
+        "ANNA: It's a rave. Her friends call you Hagrid.",
+        "LUKE: Really? Hagrid. Wow. [Clears his throat] I don't know what that means.",
+        "ANNA: He's a character from \"Harry Potter\", very big, very hairy, very lovable. It's a huge compliment.",
+        "LUKE: Oh I will take your word for it.",
+        "ANNA: So, I'm gonna go now. Have fun, and I'll talk to you later tonight.",
+        "LUKE: Will do.",
+        "ANNA: I'm going, April.",
+        "APRIL: [Busy with her friends] Yeah, yeah, bye, mom.",
+        "ANNA: That was from the heart.",
+        "LUKE: Totally. [They both laugh]",
+        "ANNA: Bye again. And the diner looks really great. I was here when you opened it, remember?",
+        "LUKE: I remember.",
+        "ANNA: Bye.",
+        "[Closes the door for Anna]",
+        "LUKE: Okay, can I get everyone's attention for a moment here? Just go ahead and pull your chairs around so everyone can see me.",
+        "GIRL 1: Is this a game?",
+        "LUKE: No, no games right now. Just gather. All right, I'm Luke. Some of you know me. I'm April's dad. [Cheers and applause form the girls.] So, um, before we get the party started, I just wanted to lay down some ground rules, some simple dos and don'ts. so that everybody has a good time and goes home in one piece. Okay. [Clears throat ] So, this is the party area. You are to remain in the party area at all times. The kitchen is strictly off limits. Under no circumstances are you to enter the kitchen. It's incredibly dangerous back there. [The girls look a little worried] One turn of the wrong dial, you could burn your face off. And I've got so many knives back there, you so much as trip, you could lose an arm. You could chop off a bunch off fingers. You could poke out an eye. And do not go upstairs. That is not part of the party area. Everyone must remain in the party area at all times. And finally, do not go outside. I will not give anybody permission to go outside, okay? Are we clear?",
+        "GIRLS: All right. Yes, sir.",
+        "LUKE: Then that's all I've got. So have fun.",
+        "APRIL: Uh-huh.",
+        "GIRLS: [Asking April] Is he serious?",
+        "DRAGONFLY INN - RECEPTION AREA",
+        "LORELAI: Is that our website?",
+        "MICHEL: It is.",
+        "LORELAI: What happened to it?",
+        "MICHEL: I made some modifications.",
+        "LORELAI: It's just a big picture of you.",
+        "MICHEL: Well I figured since I'm the one who put the website together and I'm the one continuously updating the website, then I should be featured prominently on the website.",
+        "LORELAI: Featured? Sure. But where's the inn? All I see is your face.",
+        "MICHEL: Aha! But if you want to hear about the inn, you click on my mouth. And if you want pictures of the inn, you click on my eyes. And if you want to post something about the inn, you click on my ears. Clever, no?",
+        "LORELAI: You want to argue about this now or later?",
+        "MICHEL: Later. I'm having too much fun.",
+        "LORELAI: [cell phone rings] Hello.",
+        "RORY: It's me.",
+        "LORELAI: Hey, how is he?",
+        "RORY: Well, I'm told he's going to be fine, but he looks awful, and he's been unconscious the whole time I've been here. It's really scary.",
+        "LORELAI: What happened?",
+        "RORY: He basically jumped off a cliff, and his parachute barely opened.",
+        "LORELAI: Oh my God!",
+        "RORY: Yeah, he has six broken ribs, a collapsed lung, a broken ankle, contusions over 1/3 of his body, and a concussion.",
+        "LORELAI: Wow, who else is there? What other family?",
+        "RORY: Well Colin and Finn were here, but none of his family's here.",
+        "LORELAI: How did you get all that information? I thought they only allowed family members to...",
+        "RORY: Paris.",
+        "LORELAI: God love her.",
+        "RORY: I'm sorry I didn't call sooner. I got you messages I've just been so overwhelmed.",
+        "LORELAI: I'm just glad to hear from you. Is there anything I can do, anything you need? It's been a while since I've sent out a care package. You could be up to your eyeballs in mad libs, silly string, malted milk balls.",
+        "RORY: No, I'm good. Colin and Finn went back to new haven to get some stuff for me. And I think I'm just gonna hang out here for a while.",
+        "NURSE: Logan is awake if you want to see him.",
+        "RORY: Oh mom, Logan's awake.",
+        "LORELAI: Okay call me if there's anything you need.",
+        "RORY: Thanks bye.",
+        "LORELAI: Bye.",
+        "HOSPITAL",
+        "[Rory walks into Logan's room]",
+        "WOMAN ON P.A.: Dr. Morris, dial 102, please.",
+        "RORY: Hey.",
+        "LOGAN: Hey.",
+        "RORY: You're awake.",
+        "LOGAN: Or hallucinating, pretty good hallucination.",
+        "RORY: Oh, you're awake.",
+        "LOGAN: I must look like crap.",
+        "RORY: Now I know why you never let me see you without makeup.",
+        "LOGAN: I guess maybe base jumping with very little preparation wasn't the hottest idea.",
+        "RORY: You're gonna be fine, you're gonna make a full recovery.",
+        "LOGAN: Hey Robocop made a full recovery. Look where that led him.",
+        "RORY: This is the best hospital in the city, and the best hospital in New York city is basically the best hospital in the country, and that's basically the best hospital in the world, so all in all, you're in the best place you could be, all things considered.",
+        "LOGAN: [Groans]",
+        "RORY: Hey, what do you think you're doing? Lay down.",
+        "LOGAN: [Sighs] I'm really sorry about this.",
+        "RORY: It's okay.",
+        "LOGAN: No, it's not okay. I was showing off. I knew it wasn't safe from that cliff. I was so drunk, I was lucky I pulled my chute at all.",
+        "RORY: But you're going to be fine, and I will be here as long as you want me to be. I've located the gift shop and the good cafeteria, \"good\" being a relative term, and the maternity ward, in case I want to play a little practical joke, swap the newborns around.",
+        "LOGAN: What about the paper, school?",
+        "RORY: I have my laptop. I can stay on top of my schoolwork. And Bill can run the paper for a while.",
+        "LOGAN: I don't want you to fall behind, miss too many classes. You already have more than enough to do without having to see me...",
+        "RORY: Shh. Logan, just relax. Get some rest. I'll be here.",
+        "LOGAN: I'm glad.",
+        "LUKE'S DINER",
+        "[It's very quite, the girls are playing in groups]",
+        "LUKE: So, how we doing? We having fun?",
+        "GIRL: [very quite] Yeah.",
+        "APRIL: Marcia, you have to discard.",
+        "MARCIA: I know, but you only need one card, and I don't want to give it to you.",
+        "APRIL: What makes you think I only need one card?",
+        "MARCIA: Oh please you pick up a card and discard like every half-second. It's so obvious.",
+        "APRIL: Well, it's my birthday. Why don't you just give me the stupid card I want?",
+        "LUKE: Hey, how do you think the temperature is?",
+        "APRIL: It's fine, I guess.",
+        "LUKE: Are you cold? Maybe it's too cold in here. How many people are cold, huh? Anyone too warm? Okay, well, good to know.",
+        "LAURA: Luke.",
+        "LUKE: Yeah.",
+        "LAURA: can I go to the bathroom?",
+        "LUKE: Of course. You don't have to ask permission to go to the bathroom.",
+        "LAURA: But it's in the restricted area. I could lose a finger.",
+        "LUKE: Oh well, the bathroom is not part of the restricted area. I didn't mean to include that. Does anyone else have to go to the bathroom? [They all raise there hands] Ah, well, all right. Well, let's line up, okay? You can use the bathroom one at a time. Laura, you first.",
+        "LAURA: Thank you.",
+        "LUKE: Uh, I'll be right out. I just have to check on something in the back.",
+        "DRAGONFLY INN - RECEPTION AREA",
+        "[Lorelai is working on the computer.]",
+        "LORELAI: [Phone rings] Mmrr [She answers the phone] Dragonfly inn.",
+        "LUKE: It's a disaster.",
+        "LORELAI: What?",
+        "LUKE: The party, it's a total disaster.",
+        "LORELAI: [sounding excited almost pleased] A disaster, why?",
+        "LUKE: Nothing is happening it's like a funeral hall in there. I didn't know 13-year-old girls could be so unhappy.",
+        "LORELAI: Where are you? I don't hear anything.",
+        "LUKE: I'm in the storage room. I come in here and hide a lot.",
+        "LORELAI: And leaving them unsupervised?",
+        "LUKE: Well, there's a peephole here I can see out of.",
+        "LORELAI: You're peeping at the girls from the storage room?",
+        "LUKE: I do not have time for any weird jokes.",
+        "LORELAI: Okay what are they doing?",
+        "LUKE: [Goes back to the peep hole] Well, April was playing cards. Some of the others were reading and playing video games. At the moment, they're all just waiting to go to the bathroom.",
+        "LORELAI: You didn't plan any activities?",
+        "LUKE: It's a birthday party. I thought that was the activity.",
+        "LORELAI: Oh, Luke.",
+        "LUKE: Is it normal for kids to fall asleep at a birthday party?",
+        "LORELAI: Luke listen are you listening?",
+        "LUKE: Yes.",
+        "LORELAI: Go upstairs and get your clock radio.",
+        "LUKE: Why, so we can watch the minutes of the world's worst birthday party tick off one by one?",
+        "LORELAI: No, go get it, bring it downstairs and put on some music, KC101. I'll be right over.",
+        "LUKE: [sounding a little panicked] You're coming here?",
+        "LORELAI: Just stall for time, I have some things to finish up, and then I'll come over, if it's okay?",
+        "LUKE: What!",
+        "LORELAI: Is it okay that I come over?",
+        "LUKE: Yes, Lorelai, come! Hurry!",
+        "LORELAI: Okay, I'll hurry.",
+        "LUKE: Hurry faster or they might start leaving.",
+        "LORELAI: Okay, bye.",
+        "LUKE'S DINER - EXTERIOR",
+        "[Luke goes out to meet Lorelai.]",
+        "LORELAI: Hey.",
+        "LUKE: So, it got worse after we hung up.",
+        "LORELAI: You get the radio?",
+        "LUKE: No I forgot the radio part was broken, and the buzzer alarm went off at one point. There was a slight up tick in the mood but that didn't last long. I think it's too late.",
+        "LORELAI: It's not too late.",
+        "LUKE: I swear I heard the word \"mutiny\" bandied around in their.",
+        "LORELAI: It's not too late. Let's get in there.",
+        "LUKE: But where's the stuff?",
+        "LORELAI: What stuff?",
+        "LUKE: The party stuff.",
+        "LORELAI: Oh, my god, I left the circus elephants in my car, and I didn't crack a window.",
+        "LUKE: But seriously where's the party stuff?",
+        "LORELAI: Come on follow my lead.",
+        "[SCENE_BREAK]",
+        "[Cut to inside the diner]",
+        "LORELAI: Hey, everybody. I'm Lorelai Gilmore. Thank you so much for your patience. I'm really glad you guys waited to start the party until I got here.",
+        "LUKE: Oh, um, that's okay, Lorelai. We didn't mind, right, girls?",
+        "LORELAI: Great. Okay, let's get this party started. Where's the birthday girl?",
+        "APRIL: Here.",
+        "LORELAI: April Nardini, front and center. You know, I met you briefly. You were filling salt and pepper shakers.",
+        "APRIL: I remember you were dressed in all black, and you had really blue eyes. They aren't quite as blue today. But I think that's just the light thing.",
+        "LORELAI: These irises are all natural, baby. All right, everybody, line up single file behind us.",
+        "APRIL: We already went to the bathroom.",
+        "LORELAI: Oh I know this is going to be so much better, now take the hand of the person in front of you and the person in back of you. Luke, you pull up the rear. I'll take the lead.",
+        "LUKE: Sure, what is this?",
+        "LORELAI: Just follow me, everybody. No matter what, do not let go of either hand.",
+        "GIRL 1: We're not allowed to go outside.",
+        "GIRL 2: Or in the kitchen.",
+        "GIRL 3: Or anywhere else.",
+        "LORELAI: What?",
+        "LUKE: You are now, girls. We got new rules.",
+        "APRIL: Should we bring our stuff?",
+        "LORELAI: No, leave it. We'll be back.",
+        "LUKE: Alright everybody try to walk at the same pace. You step on somebody's heels, you could break an ankle. And watch out for the traffic, not just cars, but bikes. People in this town ride their bikes like maniacs.",
+        "LORELAI: Luke!",
+        "LUKE: Sorry.",
+        "[Cut to outside as they make there way up the side walk.]",
+        "LORELAI: Oh, check for traffic. Always check. And go!",
+        "GIRL 1: Where are we going?",
+        "GIRL 2: No idea!",
+        "LORELAI: Serpentine, girls, serpentine.",
+        "LUKE: Is this wise to serpentine?",
+        "LORELAI: No!",
+        "[They enter the beauty shop]",
+        "GIRLS: [Giggling ]",
+        "LESLIE: Hi, Lorelai.",
+        "ALISON: Hi.",
+        "LORELAI: Hi",
+        "Hey, girls.",
+        "LORELAI: Ah, alright, I'd like you to meet the birthday girl.",
+        "ALISON: Hi, April.",
+        "LESLIE: Happy birthday.",
+        "APRIL: Hello.",
+        "LESLIE: You are adorable.",
+        "LORELAI: Alright girls I want you each to take a basket and fill it up. I want you to pick anything you want because today we're getting makeovers.",
+        "GIRLS: [Screaming]",
+        "LORELAI: These two ladies are here to help you in any way you need. That's Alison and Leslie.",
+        "GIRLS: [Wave and say \"Hi\"]",
+        "LORELAI: On your mark, get set, and shop!",
+        "GIRLS: [Giggling as the girls start to fill there baskets.]",
+        "LUKE: You're a genius.",
+        "LORELAI: Well 13-year-old girls and makeup, it's like betting on secretariat.",
+        "LUKE: Never in a million years would I have thought of something like this.",
+        "LORELAI: That's why I'm the Yin to your Yang, the Emack to your Bolio. [Too the girls] Hey, who wants hot-pink highlights?",
+        "GIRLS: Oh, me!",
+        "HOSPITAL",
+        "[Rory Is talking on he cell phone]",
+        "RORY: I hate that you're cutting your honeymoon short.",
+        "HONOR: It okay, with mom flaking out, I don't want to be here anymore. We've got seats on a flight tonight, but it's got a 5-hour layover, in Ankara so we're trying to find something more direct. Either way we should be there sometime tomorrow night.",
+        "RORY: Okay. So, have you heard anything more from your dad?",
+        "HONOR: Yeah, I just talked to him.",
+        "RORY: Is he coming down here?",
+        "HONOR: Nope.",
+        "RORY: He's out of town, too?",
+        "HONOR: No, he's home. He's just not coming.",
+        "RORY: What?",
+        "HONOR: It's the life and death brigade thing. He's very against it.",
+        "RORY: But he was in the life and death brigade.",
+        "HONOR: Yes, but he feels that he knew when to grow up and accept responsibility and that Logan doesn't. He wanted his precious boy done with that by now, so he's boycotting.",
+        "RORY: He's boycotting his injured son? Logan had emergency surgery.",
+        "HONOR: Hypocrisy runs very deep in the Huntzberger family. Anyhow, forget it. I'm sure Logan isn't expecting him. Okay so, I'll call later when I have more flight information.",
+        "RORY: Okay, bye.",
+        "WOMAN ON P.A.: Dr. Davis, telephone, please. Dr. Davis, telephone, please.",
+        "[Rory gets out a 2nd cell phone, Logan's]",
+        "RORY: Mitchum Huntzberger? Yes, it's Rory Gilmore. I just thought I'd call and remind you that Logan is lying in a hospital bed with a partially collapsed lung and a whole host of other potentially life-threatening injuries. And I'm figuring a guy like you, surrounded by nothing but a bunch of terrified sycophants might not have someone in his life with the guts to tell him what an incredibly selfish, narcissistic ass he's being, so I thought I'd jump on in. Swallow your pride, get in your car, and come down here and see your son, now!",
+        "LUKE'S DINER - NIGHT TIME",
+        "[The party is much better]",
+        "LORELAI: That looks excellent. [Gasps] Marcia, fabulous. You look like Sophia Loren.",
+        "MARCIA: I was going for Vanessa Minnillo on MTV.",
+        "LORELAI: Ah, I love her music.",
+        "MARCIA: She's a V.J.",
+        "LORELAI: No well you didn't let me finish I love her music-video introductions. You know She's so smooth and classy. Luke, more chips here.",
+        "LUKE: Coming.",
+        "GIRL: Lorelai, check this out.",
+        "LORELAI: Ooh, cool. Your eyes have eyes.",
+        "GIRL: Freaky right.",
+        "LORELAI: Yes you could fall asleep in class, and no one would know.",
+        "APRIL: Lorelai.",
+        "LORELAI: Oh, April, you look beautiful.",
+        "APRIL: Leslie says I have excellent bone structure.",
+        "LORELAI: Yes well, I agree with her.",
+        "APRIL: So it's not weird when someone compliments your skull?",
+        "LORELAI: A woman takes any compliment that comes her way.",
+        "APRIL: Got it, hey did you do that glitter heart on your cheek?",
+        "LORELAI: Happens to be my handiwork yeah you want one?",
+        "APRIL: Yes.",
+        "LORELAI: All right, sit, sit. Ah what color would you like, pink, blue, purple, florescent green?",
+        "APRIL: Purple I'm obsessed with purple, probably because I'm obsessed with \"Harold and the Purple Crayon.\"",
+        "LORELAI: Hum.",
+        "APRIL: I know I'm too old, but it's still one of my all-time-favorite books.",
+        "LORELAI: That's okay I'm too old for us weekly. It never stopped me.",
+        "APRIL: So, you have a daughter, right?",
+        "LORELAI: Yes, Rory.",
+        "APRIL: That's good. You'd be wasted on a son.",
+        "LORELAI: I'm gonna take that as a compliment.",
+        "APRIL: It is. You know you remind me of my mom.",
+        "LORELAI: Is she handy with the glitter?",
+        "APRIL: She painted a mural on my wall in nail polish one night.",
+        "LORELAI: That's cool.",
+        "APRIL: I think you'd like her.",
+        "LORELAI: All right, you're all done.",
+        "APRIL: Thanks.",
+        "[Cut to a little later]",
+        "APRIL: Oh my God that is so cool, I love it. Thanks, Marcia.",
+        "MARCIA: Your welcome.",
+        "LORELAI: She's loving her presents.",
+        "LUKE: I know.",
+        "APRIL: Okay, how about this one?",
+        "GIRL 1: It's from your dad.",
+        "GIRL 2: Yeah, open it.",
+        "LUKE: [Sounding a little panicked] You know, you don't have to open up all your presents right away. You could maybe save a few and open them tomorrow, sort of extend the experience.",
+        "GIRL 3: Bad idea, Hagrid.",
+        "APRIL: I don't want to extend the experience.",
+        "LUKE: Wait, is that my gift?",
+        "LORELAI: It says it's from Luke.",
+        "APRIL: The new \"way things work.\" I was gonna get this. And a gift certificate to the discovery store. Thanks, Luke! I love it! [She gets up and hugs Luke] Thank you so much!",
+        "LUKE: You're welcome. [Too Lorelai] Thank you.",
+        "LORELAI: My pleasure. You know what would really push this party over the top?",
+        "LUKE: What?",
+        "LORELAI: If we made it into a sleepover.",
+        "LUKE: Yeah.",
+        "LORELAI: Yeah you've got sleeping bags and blankets.",
+        "LUKE: Plus, I still got Jess' bed. We could stick a couple of them on that.",
+        "LORELAI: Why don't you ask the birthday girl if she wants to do that?",
+        "LUKE: April, come here a sec.",
+        "APRIL: What's up?",
+        "LUKE: How would you feel about making this a slumber party?",
+        "APRIL: Really?",
+        "LUKE: Really.",
+        "APRIL: [Turns to the girls] Do you guys want to sleep over?",
+        "GIRLS: That would be really cool.",
+        "LUKE: Great, ah first off, we got to call all your parents to see if it's okay with them. Okay, so with that in mind, why don't we form a single-file line behind here to the phone? [Looks up to see all the girls on their cell phones] Or you could use your own, I guess. [Sighs]",
+        "LORELAI: Hey So, um, I think I'm gonna take off.",
+        "LUKE: What, no stay. You got to stay.",
+        "LORELAI: Are you sure.",
+        "LUKE: It's a slumber party. You're the slumber-party expert. What does Hagrid know about slumber parties?",
+        "LORELAI: Would it be weird, the two of us sleeping together?",
+        "LUKE: You and the girls can sleep upstairs. I'll figure something out.",
+        "LORELAI: Are you sure?",
+        "LUKE: Yeah absolutely. You have to stay. April would want that.",
+        "LORELAI: Okay, I'll stay.",
+        "KIRK: The movie's all ready to go.",
+        "LORELAI: Okay thanks Kirk.",
+        "KIRK: I just need it back for the Weinstein retirement party. Mel Weinstein's a nut for John Hughes movies.",
+        "LORELAI: All right, girls, um, you're about to meet someone very special to me. Her name is Molly Ringwald. Now, I know you don't know who that is, but suffice it to say, she is my generation's Audrey Hepburn. And I know you don't know who that is, either, but trust me, you're gonna love her. And yes, that is the guy from \"Two and a Half Men.\" All right, enjoy.",
+        "[The projector starts and The Psychedelic Furs' \"Pretty in Pink\" plays]",
+        "[Cut to later, Luke is trying to get to sleep, you can here the girls laughing off screen]",
+        "LUKE: [Sighs]",
+        "GIRLS: Light as a feather,",
+        "stiff as a board. Light as a feather, stiff as a board. Light as a feather, stiff as a board.",
+        "DRAGONFLY INN",
+        "LORELAI: I forgot how much fun it could be just to put makeup on. You know it's become so pragmatic, such drudgery. It's like all we use it for now is to look better.",
+        "SOOKIE: And why would the two of us ever need to look better?",
+        "LORELAI: Exactly, whatever happened to the questionably attractive glories of wet 'n' wild blue eye shadow or crimping irons?",
+        "SOOKIE: Remember sun-in and aqua net and Bonne bell lip smackers? I used to love Bonne bell lip smackers.",
+        "LORELAI: Well who doesn't love a lip gloss that doubles as a necklace? And they smelled so great.",
+        "SOOKIE: Except once, I had the chocolate-fudge-flavored one, and in study hall, Trevor fink ate the whole thing, and then he threw it up all over my copy of \"the red badge of courage.\"",
+        "LORELAI: We all had a Trevor fink in our lives.",
+        "SOOKIE: So, it sounds like the party was great.",
+        "LORELAI: It was a great party and a major breakthrough. April's awesome. I think she liked me.",
+        "SOOKIE: I bet she loved you.",
+        "LORELAI: We bonded. And hopefully, things will change and I won't have to hide.",
+        "SOOKIE: Good.",
+        "LORELAI: Yeah Luke just needed that time and space. You know and in hindsight, I think it was good for him, and I'm really glad I let him have it.",
+        "SOOKIE: You were incredibly patient.",
+        "LORELAI: I was, incredibly patient, while at the same time incredibly impatient.",
+        "SOOKIE: You're a complicated woman.",
+        "LORELAI: I am, yes. I try to deny it, but there it is.",
+        "SOOKIE: I'm kind of sad I wasn't at the party. I feel like I missed out.",
+        "LORELAI: I thought you might, so I brought you some leftovers. Bonne bell lip smackers, anyone?",
+        "SOOKIE: No!",
+        "LORELAI: Yes! I've got original, glitter gloss, grape crush, and dr. Pepper.",
+        "SOOKIE: I feel like I'm 15 again. [Talking like they are 15] Jackson's so getting under my bra tonight.",
+        "LORELAI: Oh, my god!",
+        "LUKE'S DINER",
+        "CUSTOMER: Luke, there's some glitter on my pancakes.",
+        "LUKE: Sorry about that. Let me fix that up for you.",
+        "CAESAR: Wasn't any glitter in the food when I was running the place.",
+        "CUSTOMER: And cut up one of those cold bananas, will you?",
+        "ANNA: [Too Caesar] Excuse me, is Luke around?",
+        "CAESAR: Yeah, he's here. He's always here.",
+        "LUKE: Oh hey, Anna, how are you?",
+        "ANNA: Can we talk in private?",
+        "LUKE: Uh, sure. This way. Caesar, I'm gonna take a couple minutes.",
+        "CAESAR: Whatever.",
+        "[Cut to the apartment]",
+        "LUKE: So, what's up?",
+        "ANNA: I can't believe you did this.",
+        "LUKE: Did what?",
+        "ANNA: You said you wanted to throw her a party, Luke, you.",
+        "LUKE: I know, I did.",
+        "ANNA: No, you had your girlfriend throw her a party, a girlfriend I don't even know a girlfriend I've never even met. This is not our agreement.",
+        "LUKE: Wow wait a minute I did throw the party. Lorelai was just helping out.",
+        "ANNA: Helping out?",
+        "LUKE: Yes.",
+        "ANNA: April said you spent the night downstairs.",
+        "LUKE: Yeah well, I spent the night in the storage room. I though it would be a little weird...",
+        "ANNA: So when you were in the storage room, your girlfriend was upstairs with the girls.",
+        "LUKE: Well yeah.",
+        "ANNA: How am I supposed to explain that to the other girls' parents? How am I supposed to tell them that I left their kids all alone with a woman I've never even met? Who does that!",
+        "LUKE: I'm sorry. I didn't think that it was gonna cause...",
+        "ANNA: If I can't trust you, Luke, this arrangement is not gonna work. April is not a sweater that you're borrowing. She's my kid. I have to know where she is and who she's with always.",
+        "LUKE: I know, I'm sorry. You can trust me, I swear.",
+        "ANNA: You know what? I am too mad. I can't even look at you.",
+        "LUKE: Anna.",
+        "HOSPITAL",
+        "[Rory gets a snack from vending machine, she see Logan's father come in. They exchange looks, Rory points to Logan's room and Mitchum goes in.]",
+        "Woman on P.A.: Dr. Blair, dr. Blair. Dr. Jay Hamilton, Dr. Jay Hamilton.",
+        "LORELAI'S HOUSE",
+        "[Paul Anka (the dog) is sitting on a chair in the kitchen]",
+        "LUKE: Hello!",
+        "LORELAI: Ah, Kitchen! Thank god. I am so nutrition-deprived. All I've eaten in the last two days is cake, candy, cookies, and about 10 pounds of flavored lip gloss. [They kiss]",
+        "LUKE: Well, then, let's eat.",
+        "LORELAI: Good now do you want to be civilized and eat off plates or just right out of the containers? I know you don't approve, but I think there is some sort of origami thing happening with these containers that makes the food taste better in them. It's like Feng Shui for noodles. And I'm not just saying that because I'm lazy and I don't want any cleanup. That's only part of it.",
+        "LUKE: Out of the containers is fine.",
+        "LORELAI: Righteous.",
+        "LUKE: [Sighs]",
+        "LORELAI: You okay?",
+        "LUKE: Anna came by the diner.",
+        "LORELAI: Um why? What's up?",
+        "LUKE: She's mad. She's really mad.",
+        "LORELAI: What about?",
+        "LUKE: The party.",
+        "LORELAI: Well, the party was a smash.",
+        "LUKE: About you being at the party, she says she feels betrayed because I let you throw April a birthday party even though she's never met you.",
+        "LORELAI: But you were there the whole time. We both threw the party.",
+        "LUKE: I told her that, but I left you alone with them all night and didn't clear it with her first. She's really mad about that. It's not your fault. I should have seen this coming. I was stupid. I didn't think it through.",
+        "LORELAI: I'm sorry.",
+        "LUKE: Yeah, me too. I brought some beer, but I left it in the truck. Be right back.",
+        "HOSPITAL",
+        "[Logan's room]",
+        "RORY: Hey.",
+        "LOGAN: So, my dad just left.",
+        "RORY: I saw.",
+        "LOGAN: I still can't believe it. He actually visited. He was only moderately hostile, slightly condescending, and no more self-centered than usual.",
+        "RORY: Well it's good that he came. Good for him. Are you feeling any better?",
+        "LOGAN: I am. Ofcourse It could have something to do with the 27 medications they have me jacked up on.",
+        "RORY: I checked with the doctor. It's mostly cough syrup and baby aspirin.",
+        "LOGAN: What's wrong? I'm feeling better. [Rory shakes her head] What?",
+        "RORY: I'm sorry.",
+        "LOGAN: About what?",
+        "RORY: About letting you go on this trip. I should have stopped you. I was just so busy being mad at you. I didn't think I was trying to punish you, but I was trying to punish you.",
+        "LOGAN: No, Rory.",
+        "RORY: I should have stopped you.",
+        "LOGAN: Hey, you couldn't have stopped me. A team of psychiatrists with tranquilizer guns couldn't have stopped me. I was going no matter what. It's my fault. Do not feel guilty about this.",
+        "RORY: I just sent you out that door. I didn't even care. I was so cold. I just, I could have lost you.",
+        "LOGAN: You didn't lose me.",
+        "RORY: But I could have, though.",
+        "LOGAN: Look I'm the one screwing things up with us here, not you. I'm sorry you're in the hospital right now. I'm sorry about all of this. I don't what's going on with me, but I'll get better, okay? Things will calm down. I just need you to bear with me, okay? Okay?",
+        "RORY: Okay.",
+        "ANNA'S STORE",
+        "[Lorelai enters]",
+        "ANNA: Oh.",
+        "LORELAI: You okay there?",
+        "ANNA: Sorry. Spreadsheets, the bane of my existence. Combines my hatred of math with my fear of little, tiny boxes.",
+        "LORELAI: Well little, tiny boxes can be scary. Unless, of course, they contain big diamond earrings.",
+        "ANNA: [Laughs] I hear you. Feel free to look around.",
+        "LORELAI: Thanks.",
+        "ANNA: Have you been in here before?",
+        "LORELAI: No, first time. It's lovely, great stuff.",
+        "ANNA: Thank you. All the hanging clothes over there are 20% off, some of my favorite stuff, but come march 1st, I can't sell a sweater to save my life.",
+        "LORELAI: Okay, I'll check it out.",
+        "ANNA: You looking for anything in particular?",
+        "LORELAI: Uh, yeah, you, actually. I'm Lorelai Gilmore. I'm Luke's fianc\u00e9e.",
+        "ANNA: Oh.",
+        "LORELAI: I wanted to apologize for the party. It was my fault.",
+        "ANNA: It just wasn't exactly what I was expecting.",
+        "LORELAI: I know, and I'm to blame for that, not Luke. It wasn't his idea. He was having a little trouble getting the party going, and I may have thrown myself into it a little too much. I just thought that we should meet so you could see you really have nothing to worry about.",
+        "ANNA: She's a 13-year-old girl. I always have something to worry about.",
+        "LORELAI: Well, yeah, of course, but I meant in regards to me.",
+        "ANNA: Look, I'm sure you're a great person.",
+        "LORELAI: I am. I have references.",
+        "ANNA: But I'm a single mom here. I can't play fast and loose with the people in my kid's life.",
+        "LORELAI: I completely understand. I'm a single mom myself.",
+        "ANNA: Okay then you get it. What if April decided she likes you? What if she becomes attached to you? What if you become her best friend in the entire world, and then one day, you just disappear?",
+        "LORELAI: Well, that's not gonna happen.",
+        "ANNA: You don't know that. You can't guarantee that, and I can't take that chance. When it comes to my daughter, I have to have rules, hard and fast rules.",
+        "LORELAI: I would never dream of violating any of those rules. Believe me.",
+        "ANNA: April never meets any man I date unless I've dated him for years.",
+        "LORELAI: I totally get that.",
+        "ANNA: So basically, until I'm ready to get married again, she doesn't meet any of the men I date.",
+        "LORELAI: Right.",
+        "ANNA: For all she knows, I'm a nun.",
+        "LORELAI: Yeah, I went through a sister Wendy phase myself once.",
+        "ANNA: I want her to have stability.",
+        "LORELAI: Right. But Luke and I, we are engaged. We are stable.",
+        "ANNA: Engaged isn't married. People get engaged all the time.",
+        "LORELAI: Look, this is not something casual, Luke and me. This is not something we're rushing into, by any means. This has been a long time coming, a long time. This is real.",
+        "ANNA: That's wonderful, I'm really happy for you, but that doesn't change anything. Luke just came into April's life. I'm still nervous about that. He's not a kid guy, never has been, and she's getting very attached. I need to know he's sticking around first. And then, when you're married, we'll deal with that then. I'm not trying to be a hardass here. April's my world. I don't know if my way is the right way. I just have to go with my gut. This is how I want to do it...You said you're a single mom.",
+        "LORELAI: I have a daughter, just like you.",
+        "ANNA: You get where I'm coming from at all?",
+        "LORELAI: I really do. Anyway, thank you for hearing me out.",
+        "ANNA: Sure. It's no problem.",
+        "LORELAI: Okay. [Lorelai turns to leave]",
+        "ANNA: Hey. If it makes you feel better, she had a really great time at that party.",
+        "LORELAI: I'm glad. [Lorelai waves goodbye]"
+    ],
+    "Transcript Author": "bunniefuu",
+    "scenes": [
+        {
+            "id": 1,
+            "title": "[Before the teaser there is a montage of scenes from previous episodes.]",
+            "lines": [
+                [
+                    "background",
+                    "DRAGONFLY INN"
+                ],
+                [
+                    "background",
+                    "[Sookie is getting coffee for Lorelai]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is there something long and sharp sticking out of my head?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I want there to be. There's an effect. I need a cause."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: The cause was 10 giant shots of Tequila, sweetie."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It makes me woozy just hearing that."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: That's the price you pay for being the hit of Lane's wedding."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hit? I was a raving lunatic. And that toast...[A pan bangs on the counter] Oh, my god! Loudest sound ever."
+                ],
+                [
+                    "fred",
+                    "FRED: Sorry."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Don't worry about the toast. And you weren't a lunatic. You were a character. What is Stars Hollow if not a haven for colorful characters? I mean you're not up there with Stevie the pantsless Santa Claus or Jojo the cow whisperer, but you made some strides."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is this supposed to be a consolation? [More pan bangs] That's twice in 20 seconds, Fred."
+                ],
+                [
+                    "fred",
+                    "FRED: Sorry."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I've seen you wasted before but never like this. I mean we had you guzzling coffee, but coffee was making you energetically wasted."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I should borrow the reception video to see what a fool I made out of myself."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: And check out your audition."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: My what? [Bangs the pans again] You want a piece of me, omelet boy?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Fred why don't you let the vegetables simmer for a while? I'll look after them."
+                ],
+                [
+                    "fred",
+                    "FRED: Sure, Sookie."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Sorry, Fred. I'm not myself this morning. [Small Laugh] So, now, what did I do in front of the camera?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Well when you spotted the videographer, you got suddenly very excited to film your audition tape for \"America's Next Top Model.\""
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, my god!"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Yeah."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I thought that was a dream."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: It wasn't."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: The posing, the strutting, the inappropriate gyrating?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: All caught on video and several of Zach's buddies' camera phones."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why didn't you stop me?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I tried, we all tried, but you were on a mission. You kept saying, \"I'm not here to make friends. I want to win.\" And then after that..."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: There's an \"after that\"?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: You tried to start a limbo contest, a poker game, and a secret club for \"supercool party people\" only. None of those really you know took off, especially the limbo, considering your choice of limbo stick was Zach's ..."
+                ],
+                [
+                    "lorelai and sookie",
+                    "LORELAI AND SOOKIE: [Together] Great-uncle's cane."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, yeah, is he okay?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: He stumbled, but we caught him. He's fine."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, is that all? Anything else I need to know about?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Nope, after you crowned yourself Arm-Wrestling Champion of the world, Christopher and Rory scooped you up and got you home. He got you in bed okay?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Christopher? Yeah. Well he and Rory."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: He's very \"knight in shining armor,\" very chivalrous."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's him...So um, is there anything else I did that I need to know about? I want to be fully informed."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I told you everything."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good! Now, if you'll excuse me, I'm gonna go and be nauseous out front for a while."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Excellent. [Chant] Supercool party people bid you supercool adieu! [Lorelai looks at Sookie] That's how you were saying goodbye to people."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Super."
+                ],
+                [
+                    "background",
+                    "OPENING CREDITS"
+                ],
+                [
+                    "background",
+                    "[Hospital]"
+                ],
+                [
+                    "rory",
+                    "RORY: Excuse me, I'm looking for Logan Huntzberger, he's... [Nurse point Rory to someone else] Excuse me, can you help me find Logan..."
+                ],
+                [
+                    "nurse 1",
+                    "NURSE 1: Sorry, this isn't my floor."
+                ],
+                [
+                    "rory",
+                    "RORY: Excuse me, can someone here help me find Logan Huntzberger?"
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: He was just transferred out of the I.C.U., Room 713."
+                ],
+                [
+                    "rory",
+                    "RORY: How is he?"
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: Are you family?"
+                ],
+                [
+                    "rory",
+                    "RORY: I'm his girlfriend."
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: All I can tell you is that he's not conscious right now and that he's in serious but stable condition."
+                ],
+                [
+                    "rory",
+                    "RORY: What does that mean, \"serious but stable\"?"
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: Just what it says."
+                ],
+                [
+                    "rory",
+                    "RORY: But is it more serious or stable? Which way is it leaning?"
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: I'm sorry I can only release more information to family members."
+                ],
+                [
+                    "rory",
+                    "RORY: But I'm his girlfriend. We've been together a long time. It's not a casual thing. We live together."
+                ],
+                [
+                    "nurse 2",
+                    "NURSE 2: Sorry."
+                ],
+                [
+                    "woman on p.a.",
+                    "WOMAN ON P.A.: Dr. Morris, dial 182, please. Dr. Morris, please dial..."
+                ],
+                [
+                    "rory",
+                    "RORY: How is he? Is he okay?"
+                ],
+                [
+                    "finn",
+                    "FINN: Scuttlebutt is he's not dead."
+                ],
+                [
+                    "colin",
+                    "COLIN: The man is indestructible."
+                ],
+                [
+                    "finn",
+                    "FINN: Dives headfirst off the cliffs of caldera, instantly spins out of control."
+                ],
+                [
+                    "colin",
+                    "COLIN: Gets totally disoriented, barely gets his chute open."
+                ],
+                [
+                    "finn",
+                    "FINN: Bounces off every rock and crag in the park."
+                ],
+                [
+                    "colin",
+                    "COLIN: Yet still manages to stick the landing."
+                ],
+                [
+                    "finn",
+                    "FINN: We gave him a 9.7."
+                ],
+                [
+                    "colin",
+                    "COLIN: Had to deduct .3 for all the screaming and bleeding."
+                ],
+                [
+                    "rory",
+                    "RORY: What about his family, did you talk to them?"
+                ],
+                [
+                    "colin",
+                    "COLIN: Honor is on her honeymoon in Mykonos, trying to get back, and Logan's mom checked herself into some sort of spa in Arizona the moment she heard."
+                ],
+                [
+                    "finn",
+                    "FINN: When the going gets tough, the tough get hot-rock massages."
+                ],
+                [
+                    "rory",
+                    "RORY: What about Mitchum?"
+                ],
+                [
+                    "finn",
+                    "FINN: The \"Dark Lord\" we left word but haven't heard anything."
+                ],
+                [
+                    "colin",
+                    "COLIN: But we've come up with a plan to get around the whole \"family only gets information\" thing. We're adopting him."
+                ],
+                [
+                    "rory",
+                    "RORY: What?"
+                ],
+                [
+                    "finn",
+                    "FINN: [Joking] Logan will make a fine son."
+                ],
+                [
+                    "colin",
+                    "COLIN: Of course, first we must be married."
+                ],
+                [
+                    "finn",
+                    "FINN: Naturally, darling. I'm very old-fashioned."
+                ],
+                [
+                    "colin",
+                    "COLIN: And even then, adopting as a gay couple is never easy."
+                ],
+                [
+                    "finn",
+                    "FINN: We just want to give love."
+                ],
+                [
+                    "colin",
+                    "COLIN: Oh, Finn."
+                ],
+                [
+                    "finn",
+                    "FINN: Oh, buttercup."
+                ],
+                [
+                    "rory",
+                    "RORY: What the hell is wrong with you two? Your best friend is lying unconscious in a hospital, and you don't even care."
+                ],
+                [
+                    "finn",
+                    "FINN: [Taken back] Rory..."
+                ],
+                [
+                    "rory",
+                    "RORY: Why the hell aren't you two lying unconscious in there, huh?"
+                ],
+                [
+                    "colin",
+                    "COLIN: [Quite] Come on..."
+                ],
+                [
+                    "rory",
+                    "RORY: You don't care, because if you did, you wouldn't be like this. You couldn't. You're supposed have his back you're supposed to watch out for each other on these stupid trips of yours. But no, everything's a big joke. Everything's hilarious. You're useless. Just go home. Both of you, go home. I can't stand to look at you."
+                ]
+            ],
+            "participants": {
+                "lorelai": 19,
+                "sookie": 18,
+                "fred": 3,
+                "lorelai and sookie": 1,
+                "rory": 14,
+                "nurse 1": 1,
+                "nurse 2": 6,
+                "woman on p.a.": 1,
+                "finn": 11,
+                "colin": 10
+            }
+        },
+        {
+            "id": 2,
+            "title": "[Cut the Logan's room, he is clearly injured. A doctor comes in.]",
+            "lines": [
+                [
+                    "rory",
+                    "RORY: Hi."
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: Hello."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm Rory Gilmore. I'm his girlfriend."
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: I'm Dr. Schultz."
+                ],
+                [
+                    "rory",
+                    "RORY: Um, how is he? Is he gonna be okay?"
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: I'm sorry, but I really can't get into the specifics."
+                ],
+                [
+                    "rory",
+                    "RORY: But, well, he's out of the I.C.U., So that's good, right? They wouldn't have moved him up here unless he was recovering."
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: Sorry, really."
+                ],
+                [
+                    "rory",
+                    "RORY: But he's had surgery, right? Does he need more surgery? Does he have broken bones, because I can donate blood if you want."
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: Miss."
+                ],
+                [
+                    "rory",
+                    "RORY: You really, you can't tell me anything about what he has or what you've done or what's wrong, anything?"
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: I'm sorry. It's hospital policy. We're doing everything we can."
+                ],
+                [
+                    "rory",
+                    "RORY: Okay."
+                ],
+                [
+                    "background",
+                    "STARS HOLLOW TOWN SQUARE"
+                ],
+                [
+                    "troubadour",
+                    "TROUBADOUR: [Singing] A million hearts, a million minds"
+                ],
+                [
+                    "background",
+                    "have lived and died in 40 years prayed for yourself and for your memories be thankful we've had 40 years"
+                ],
+                [
+                    "background",
+                    "[Harmonica plays]"
+                ],
+                [
+                    "background",
+                    "We've had 40 years we've had 40 years we've had 40 years"
+                ]
+            ],
+            "participants": {
+                "rory": 7,
+                "dr schultz": 6,
+                "troubadour": 1
+            }
+        },
+        {
+            "id": 3,
+            "title": "[Cut to inside the diner]",
+            "lines": [
+                [
+                    "caesar",
+                    "CAESAR: [Too a customer] I will get that for you in two shakes of a lamb's tale."
+                ],
+                [
+                    "luke",
+                    "LUKE: Caesar, why am I still finding bananas in the fridge?"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Oh you wanted me to take all the bananas out of the fridge?"
+                ],
+                [
+                    "luke",
+                    "LUKE: When I said, \"remove the bananas,\" I was referring to all the bananas. Otherwise, I would have said \"a banana\" or \"some of the bananas.\""
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Hmm."
+                ],
+                [
+                    "luke",
+                    "LUKE: What?"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: It's just that while I was running the place, that was one of my innovations, cold bananas. People really love them."
+                ],
+                [
+                    "luke",
+                    "LUKE: I highly doubt that. [pointing] And get rid of those scones."
+                ],
+                [
+                    "caesar",
+                    "CAESAR: You know that's something else I wanted to talk to you about, Luke."
+                ],
+                [
+                    "luke",
+                    "LUKE: What?"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: See your attitude. While I was running the place, people really responded to my sunny demeanor. Customers find you cold and distant. Service with a smile, it's a clich\u00e9 for a reason."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, look, Caesar, I don't want to improve things, and I don't want to stop being cold to customers. I want you to keep my damn bananas out of the damn fridge, and I want to keep my damn doughnuts in the damn doughnut case. Can you do that for me!"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Of course, Luke."
+                ],
+                [
+                    "luke",
+                    "LUKE: Thank you."
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Customers don't care for gratuitous profanity, either."
+                ],
+                [
+                    "luke",
+                    "LUKE: Ahh. Thank god, someone sane. [the huge and kiss]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hello, weary traveler."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's good to be back."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You look older, wiser."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, I did spend a lot of time squinting at historical documents."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's what it is, constitution face. [Seeing Miss Patty] I Patty."
+                ],
+                [
+                    "luke",
+                    "LUKE: I brought you something."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, did you steal me the constitution? 'Cause that could be the start of a really dumb movie."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's from Amish country. These little Amish girls handmake them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, it's adorable. Look, Patty, an Amish voodoo doll."
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: I love it. Hey, Luke, I'm still waiting on my cold banana."
+                ],
+                [
+                    "luke",
+                    "LUKE: We don't serve cold bananas. [To Lorelai] It's not a voodoo doll. It's just a doll the Amish don't put faces on their dolls or pins in them."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, well, it's my doll now. What the Amish don't know won't hurt them. Unless, of course, I want to hurt them."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's yours to do with what you will."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You seem surprisingly rested after all you've been through."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah the kids were okay. They seemed to like me, unless they were all lying."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Kids never lie."
+                ],
+                [
+                    "luke",
+                    "LUKE: And April and I finally got into a good rhythm. She was tolerating me pretty good at the end."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good."
+                ],
+                [
+                    "luke",
+                    "LUKE: And guess what it's her birthday tomorrow, and I'm throwing her a party."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You're kidding. How did that happen?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well I was dropping her off this morning, and her mom mentioned to me that she was taking her to her grandmother's to celebrate, and she couldn't swing a party here with her friends, so I figured I know her friends now. I got a great place to hold a party."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, where?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Here."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh."
+                ],
+                [
+                    "luke",
+                    "LUKE: So, anyhow, there you go."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look at you, diving into fatherhood."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm doing my best."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, tomorrow, huh? You prepared for all that?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Sure. Why?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well if you need a consultant, I have thrown some rockin' preteen parties in my time. Of course, I didn't have a deep fryer but..."
+                ],
+                [
+                    "luke",
+                    "LUKE: I think I can handle it. I'll put up some decorations. I've ordered some balloons. I got a great cake place. There'll be presents."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: All good. I'm just saying that Rory's birthday scavenger hunt of 1998 is still talked about in hushed, reverent tones."
+                ],
+                [
+                    "luke",
+                    "LUKE: Is that the one where all the kids ended up at Taylor's at 11:00 at night stealing stuff out of his fridge?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Shh! Hushed, reverent tones."
+                ],
+                [
+                    "luke",
+                    "LUKE: I've got it all under control. Excuse me. What can I get you, Kirk?"
+                ],
+                [
+                    "kirk",
+                    "KIRK: How about a steaming cup of chicory coffee?"
+                ],
+                [
+                    "luke",
+                    "LUKE: It's not on the menu, Kirk."
+                ],
+                [
+                    "kirk",
+                    "KIRK: I know. It's on the sign."
+                ],
+                [
+                    "luke",
+                    "LUKE: [Takes the sign down] That's a mistake."
+                ],
+                [
+                    "kirk",
+                    "KIRK: Well, now all I can think about is chicory coffee. I'm very susceptible to signage."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, come back when you're susceptible to ordering off the menu.[Too Lorelai] You want anything?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How about a nice plate of chicken fingers?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh. [Takes down the sign] Why don't I start you off with some coffee, hmm?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh, no, thanks. I'm kind of coffee'd out."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, right. Battling the hangover."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [A little surprised] Oh. Did I mention my hangover?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No, patty filled me in, you know. The tequila shots, you taking the mike."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Taking the mike. Uh, yeah. I, um, I really didn't know what I was saying, just empty, meaningless words you know tumbling out of my mouth."
+                ],
+                [
+                    "luke",
+                    "LUKE: I hear you really belted it out."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Belted it out?"
+                ],
+                [
+                    "luke",
+                    "LUKE: \"Endless love.\""
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: The song, honey. Ohh...yeah. [Laughing] Oh, yes. I really belted it out. Is there any other way to sing \"endless love\"? You know if you're not gonna really belt it out, you might as well stay in your seat."
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: She sang it beautifully."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah everybody does embarrassing stuff at weddings."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, right, true."
+                ],
+                [
+                    "luke",
+                    "LUKE: Be right back."
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: Okay, I've already gotten to the whole town, and they're all telling the \"endless love\" story. He'll never know."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, thanks. I owe you, patty."
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: Oh honey, please. I've given more drunken toasts than Colin Farrell. You owe me nothing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Thanks, patty. [Playing with the engagement ring]"
+                ],
+                [
+                    "miss patty",
+                    "MISS PATTY: That Luke... It may take a mule team, but you're getting him to the altar someday."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, someday. [Sighs]"
+                ],
+                [
+                    "background",
+                    "HOSPITAL"
+                ],
+                [
+                    "background",
+                    "[Rory gets her phone out to make a call]"
+                ],
+                [
+                    "woman on p.a.",
+                    "WOMAN ON P.A.: Dr. Valentino to the O.R., Please."
+                ]
+            ],
+            "participants": {
+                "caesar": 8,
+                "luke": 35,
+                "lorelai": 26,
+                "miss patty": 6,
+                "kirk": 3,
+                "woman on p.a.": 1
+            }
+        },
+        {
+            "id": 4,
+            "title": "[Cut to Paris's apartment]",
+            "lines": [
+                [
+                    "paris",
+                    "PARIS: What?"
+                ],
+                [
+                    "rory",
+                    "RORY: Paris?"
+                ],
+                [
+                    "paris",
+                    "PARIS: Larry summers is right, Rory. Our university system is crumbling. Did you know that."
+                ],
+                [
+                    "rory",
+                    "RORY: Paris. I just found out my microbiology final is an open-book exam. Can you believe that? I mean why not just have our professors take it for us? Or better yet, they can just hand us our diplomas the moment we step on campus freshman year, along with some government cheese, a bong, and a t-shirt that says \"hard work is for suckers.\""
+                ],
+                [
+                    "rory",
+                    "RORY: Paris, I'm at the hospital with Logan."
+                ],
+                [
+                    "paris",
+                    "PARIS: Why what happened?"
+                ],
+                [
+                    "rory",
+                    "RORY: He and his buddies went on some life and death brigade trip, and they parachuted off a cliff in Costa Rica, and he had a really bad fall."
+                ],
+                [
+                    "paris",
+                    "PARIS: Is he okay?"
+                ],
+                [
+                    "rory",
+                    "RORY: I don't know. He's out of the I.C.U., So I guess that's a good thing. They said he's in serious but stable condition, but they won't tell me anything else because I'm not family."
+                ],
+                [
+                    "paris",
+                    "PARIS: Is he breathing on his own?"
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah, I mean, I think so."
+                ],
+                [
+                    "paris",
+                    "PARIS: Well what's his pallor? Is he peaked? Was there internal bleeding?"
+                ],
+                [
+                    "rory",
+                    "RORY: I have no idea. I quickly scribbled down some things off his chart. Um, you're pre-med can I read it to you, maybe you can make some sense of it."
+                ],
+                [
+                    "paris",
+                    "PARIS: Forget it I don't know how to read charts yet. I can tell you everything you wanna know about the difference between recessive and dominant eye-color genes in fruit flies, but god forbid I learn how to read a chart before I'm a fourth-year surgical resident."
+                ],
+                [
+                    "rory",
+                    "RORY: Great."
+                ],
+                [
+                    "paris",
+                    "PARIS: What hospital is he in?"
+                ],
+                [
+                    "rory",
+                    "RORY: Columbia-Presbyterian, Manhattan."
+                ],
+                [
+                    "paris",
+                    "PARIS: Who's the attending?"
+                ],
+                [
+                    "rory",
+                    "RORY: Paris it doesn't matter they're not gonna release information to non-family."
+                ],
+                [
+                    "paris",
+                    "PARIS: Just give me the name."
+                ],
+                [
+                    "rory",
+                    "RORY: Dr. Schultz."
+                ],
+                [
+                    "paris",
+                    "PARIS: I'll call you right back."
+                ],
+                [
+                    "rory",
+                    "RORY: Paris."
+                ],
+                [
+                    "background",
+                    "[Paris hangs up, Rory watches as a nurse takes a phone call, we can just make out the conversation]"
+                ],
+                [
+                    "nurse",
+                    "NURSE: Miss please! [getting mad] That language is certainly not necessary! Hold on. {handing the phone over] Dr. Schultz It's about Logan Huntzberger."
+                ],
+                [
+                    "dr schultz",
+                    "DR SCHULTZ: This is Dr. Schuzltz. No, that's not possible. Well, you wouldn't do that. Listen, miss... fine. Paging dr. Bender. Paging dr. Bender, please. [After a few seconds he hangs up and looks beat.]"
+                ],
+                [
+                    "rory",
+                    "RORY: [Rory's cell phone rings] Hello?"
+                ],
+                [
+                    "paris",
+                    "PARIS: Here the deal, he was bleeding internally when they brought him in, and they were worried about the oxygen levels in his blood, but he's stabilized now, and they're back up to normal, so that's no longer a concern. He was also running a high fever, so they put him on mondo doses of intravenous antibiotics. He has a partially collapsed lung..."
+                ],
+                [
+                    "rory",
+                    "RORY: oh, my god!"
+                ],
+                [
+                    "paris",
+                    "PARIS: ...Six broken ribs, a broken ankle, torn cartilage in both knees, and a severe concussion. He had surgery for the lung, and that went well. They did a Thoracoscopy, which is a couple of small incisions in the chest. [Rory looks worried] Then they put a tube into the lung to drain the fluid from the pleural space so the lung can re-expand. That's way less invasive than a Thoracotomy. Which is a similar operation but for that one, they have to butterfly you like a shrimp. And that's it."
+                ],
+                [
+                    "rory",
+                    "RORY: So, what does this mean?"
+                ],
+                [
+                    "paris",
+                    "PARIS: It means he's out of immediate danger. He's young and healthy and they expect him to make a full recovery."
+                ],
+                [
+                    "rory",
+                    "RORY: Really? Like a full recovery, like he's going to recover fully?"
+                ],
+                [
+                    "paris",
+                    "PARIS: That's what the doctor told me. He's need some rehab he won't be running, dancing, or jumping off a cliff anytime soon, but, yeah, he should be fine. He's a very lucky guy. Those guys are idiots."
+                ],
+                [
+                    "rory",
+                    "RORY: Wow"
+                ],
+                [
+                    "paris",
+                    "PARIS: Yeah"
+                ],
+                [
+                    "rory",
+                    "RORY: Thank you so much for this. Really, Paris, thank you."
+                ],
+                [
+                    "paris",
+                    "PARIS: It was fun. Anything else?"
+                ],
+                [
+                    "rory",
+                    "RORY: No, I feel a lot better."
+                ],
+                [
+                    "paris",
+                    "PARIS: Call me if you need anything else."
+                ],
+                [
+                    "rory",
+                    "RORY: I will."
+                ],
+                [
+                    "background",
+                    "STREET - UNKNOWN LOCATION"
+                ],
+                [
+                    "background",
+                    "[Luke and Lorelai are walking on the side walk]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: So, you all shopped out?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I got a couple more stores in me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You know you would make the best Sherpa and the hottest. You could move to Nepal, open your own hot-Sherpa shop, and make a fortune."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well this is fun for me. Besides I'd like to think I have some influence on what you buy."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You do?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I don't?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh, no."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes, I do."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, you don't."
+                ],
+                [
+                    "luke",
+                    "LUKE: I do."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You don't."
+                ],
+                [
+                    "luke",
+                    "LUKE: But you're always asking my opinion."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, but it's the way I ask. \"Isn't this adorable?\" Or \"this isn't right, right?\" You know I put your answer right there in the question."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I will say, I do always like to buy one thing that you like that I don't 'cause I know it makes you happy, like that blouse."
+                ],
+                [
+                    "luke",
+                    "LUKE: You don't like that, I thought you liked that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Not really, but I liked how much you liked it, so I bought it."
+                ],
+                [
+                    "luke",
+                    "LUKE: Huh."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: And I will wear it because I know that every time I do, you'll notice and appreciate it, and that will make me feel so good. And then because I feel so good, I'll start wearing it more and more, and I'll eventually really grow to like it, and I'll forget that I didn't like it in the first place. And holy crap, you've picked out all my favorite clothes."
+                ],
+                [
+                    "luke",
+                    "LUKE: I knew it. [pointing to a window display] Hey what do you think of that?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "luke",
+                    "LUKE: The toiletry kit."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What? And throw away the 5-year-old Dixie cup you use to hold your toothbrush? It's historical."
+                ],
+                [
+                    "luke",
+                    "LUKE: I mean as a birthday present for April."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: April who?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Come on, it's cute."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Um, yeah. I don't think it's quite right."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's girly. It's got cats on it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, well, if it's got cats on it..."
+                ],
+                [
+                    "luke",
+                    "LUKE: April likes cats."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [small laugh] Yeah, but it's a toiletry kit. It's so hygienic."
+                ],
+                [
+                    "luke",
+                    "LUKE: I saw her use soap on the trip."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah did you see her tie her shoelaces? 'Cause you could get her shoelaces."
+                ],
+                [
+                    "luke",
+                    "LUKE: I think she'll like it."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke, it's weird. It says, \"happy birthday, now go clean yourself up.\""
+                ],
+                [
+                    "luke",
+                    "LUKE: If she doesn't like it, I'll get her a follow-up gift."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why not just get her the perfect gift right up front?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Why couldn't that be the perfect gift? You don't know."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know girls. It's not the right gift. Hey, you know there's a store, a few blocks down that has great stuff. I could take you there and show you 50 things I know she'd like. Some of them may even have cats on them."
+                ],
+                [
+                    "luke",
+                    "LUKE: I think I'm gonna get that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Come on Luke I can really help you here."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm not saying you can't, I know you're an expert, but I need to do this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Then do it. I'm just saying, let me be part of it."
+                ],
+                [
+                    "luke",
+                    "LUKE: No."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Because it's too soon."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why is it too soon?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Because the minute you get involved in her life, it'll be all over for me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What that's ridiculous."
+                ],
+                [
+                    "luke",
+                    "LUKE: No, it's not ridiculous. You're colorful and funny. You're practically a cartoon character. Kids love you. I wouldn't hang out with me either after meeting you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke!"
+                ],
+                [
+                    "luke",
+                    "LUKE: She'll like you better. That is just a fact."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, you're her dad."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes, I am her dad, and this is the way I want it to be."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'll be a couple of minutes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [Looking a little mad] I'll be right here."
+                ],
+                [
+                    "background",
+                    "LUKE'S DINER"
+                ],
+                [
+                    "background",
+                    "[April's birthday party, the diner is full of girls April's age.]"
+                ],
+                [
+                    "anna",
+                    "ANNA: So you have my cell phone if there's any problems?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I've got your cell number, your store number, your store fax number, your home numbers. You are 100% reachable."
+                ],
+                [
+                    "anna",
+                    "ANNA: Good."
+                ],
+                [
+                    "luke",
+                    "LUKE: And, hey, thanks again for letting me do this."
+                ],
+                [
+                    "anna",
+                    "ANNA: Oh, please. She's excited about this. Plus, your chaperoning got rave reviews."
+                ],
+                [
+                    "luke",
+                    "LUKE: Really?"
+                ],
+                [
+                    "anna",
+                    "ANNA: April said you were the least-embarrassing parent on the trip."
+                ],
+                [
+                    "luke",
+                    "LUKE: Good, that's good, right?"
+                ],
+                [
+                    "anna",
+                    "ANNA: It's a rave. Her friends call you Hagrid."
+                ],
+                [
+                    "luke",
+                    "LUKE: Really? Hagrid. Wow. [Clears his throat] I don't know what that means."
+                ],
+                [
+                    "anna",
+                    "ANNA: He's a character from \"Harry Potter\", very big, very hairy, very lovable. It's a huge compliment."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh I will take your word for it."
+                ],
+                [
+                    "anna",
+                    "ANNA: So, I'm gonna go now. Have fun, and I'll talk to you later tonight."
+                ],
+                [
+                    "luke",
+                    "LUKE: Will do."
+                ],
+                [
+                    "anna",
+                    "ANNA: I'm going, April."
+                ],
+                [
+                    "april",
+                    "APRIL: [Busy with her friends] Yeah, yeah, bye, mom."
+                ],
+                [
+                    "anna",
+                    "ANNA: That was from the heart."
+                ],
+                [
+                    "luke",
+                    "LUKE: Totally. [They both laugh]"
+                ],
+                [
+                    "anna",
+                    "ANNA: Bye again. And the diner looks really great. I was here when you opened it, remember?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I remember."
+                ],
+                [
+                    "anna",
+                    "ANNA: Bye."
+                ],
+                [
+                    "background",
+                    "[Closes the door for Anna]"
+                ],
+                [
+                    "luke",
+                    "LUKE: Okay, can I get everyone's attention for a moment here? Just go ahead and pull your chairs around so everyone can see me."
+                ],
+                [
+                    "girl 1",
+                    "GIRL 1: Is this a game?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No, no games right now. Just gather. All right, I'm Luke. Some of you know me. I'm April's dad. [Cheers and applause form the girls.] So, um, before we get the party started, I just wanted to lay down some ground rules, some simple dos and don'ts. so that everybody has a good time and goes home in one piece. Okay. [Clears throat ] So, this is the party area. You are to remain in the party area at all times. The kitchen is strictly off limits. Under no circumstances are you to enter the kitchen. It's incredibly dangerous back there. [The girls look a little worried] One turn of the wrong dial, you could burn your face off. And I've got so many knives back there, you so much as trip, you could lose an arm. You could chop off a bunch off fingers. You could poke out an eye. And do not go upstairs. That is not part of the party area. Everyone must remain in the party area at all times. And finally, do not go outside. I will not give anybody permission to go outside, okay? Are we clear?"
+                ],
+                [
+                    "girls",
+                    "GIRLS: All right. Yes, sir."
+                ],
+                [
+                    "luke",
+                    "LUKE: Then that's all I've got. So have fun."
+                ],
+                [
+                    "april",
+                    "APRIL: Uh-huh."
+                ],
+                [
+                    "girls",
+                    "GIRLS: [Asking April] Is he serious?"
+                ],
+                [
+                    "background",
+                    "DRAGONFLY INN - RECEPTION AREA"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is that our website?"
+                ],
+                [
+                    "michel",
+                    "MICHEL: It is."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What happened to it?"
+                ],
+                [
+                    "michel",
+                    "MICHEL: I made some modifications."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's just a big picture of you."
+                ],
+                [
+                    "michel",
+                    "MICHEL: Well I figured since I'm the one who put the website together and I'm the one continuously updating the website, then I should be featured prominently on the website."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Featured? Sure. But where's the inn? All I see is your face."
+                ],
+                [
+                    "michel",
+                    "MICHEL: Aha! But if you want to hear about the inn, you click on my mouth. And if you want pictures of the inn, you click on my eyes. And if you want to post something about the inn, you click on my ears. Clever, no?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You want to argue about this now or later?"
+                ],
+                [
+                    "michel",
+                    "MICHEL: Later. I'm having too much fun."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [cell phone rings] Hello."
+                ],
+                [
+                    "rory",
+                    "RORY: It's me."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey, how is he?"
+                ],
+                [
+                    "rory",
+                    "RORY: Well, I'm told he's going to be fine, but he looks awful, and he's been unconscious the whole time I've been here. It's really scary."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What happened?"
+                ],
+                [
+                    "rory",
+                    "RORY: He basically jumped off a cliff, and his parachute barely opened."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh my God!"
+                ],
+                [
+                    "rory",
+                    "RORY: Yeah, he has six broken ribs, a collapsed lung, a broken ankle, contusions over 1/3 of his body, and a concussion."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Wow, who else is there? What other family?"
+                ],
+                [
+                    "rory",
+                    "RORY: Well Colin and Finn were here, but none of his family's here."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: How did you get all that information? I thought they only allowed family members to..."
+                ],
+                [
+                    "rory",
+                    "RORY: Paris."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: God love her."
+                ],
+                [
+                    "rory",
+                    "RORY: I'm sorry I didn't call sooner. I got you messages I've just been so overwhelmed."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm just glad to hear from you. Is there anything I can do, anything you need? It's been a while since I've sent out a care package. You could be up to your eyeballs in mad libs, silly string, malted milk balls."
+                ],
+                [
+                    "rory",
+                    "RORY: No, I'm good. Colin and Finn went back to new haven to get some stuff for me. And I think I'm just gonna hang out here for a while."
+                ],
+                [
+                    "nurse",
+                    "NURSE: Logan is awake if you want to see him."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh mom, Logan's awake."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay call me if there's anything you need."
+                ],
+                [
+                    "rory",
+                    "RORY: Thanks bye."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Bye."
+                ],
+                [
+                    "background",
+                    "HOSPITAL"
+                ],
+                [
+                    "background",
+                    "[Rory walks into Logan's room]"
+                ],
+                [
+                    "woman on p.a.",
+                    "WOMAN ON P.A.: Dr. Morris, dial 102, please."
+                ],
+                [
+                    "rory",
+                    "RORY: Hey."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey."
+                ],
+                [
+                    "rory",
+                    "RORY: You're awake."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Or hallucinating, pretty good hallucination."
+                ],
+                [
+                    "rory",
+                    "RORY: Oh, you're awake."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I must look like crap."
+                ],
+                [
+                    "rory",
+                    "RORY: Now I know why you never let me see you without makeup."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I guess maybe base jumping with very little preparation wasn't the hottest idea."
+                ],
+                [
+                    "rory",
+                    "RORY: You're gonna be fine, you're gonna make a full recovery."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey Robocop made a full recovery. Look where that led him."
+                ],
+                [
+                    "rory",
+                    "RORY: This is the best hospital in the city, and the best hospital in New York city is basically the best hospital in the country, and that's basically the best hospital in the world, so all in all, you're in the best place you could be, all things considered."
+                ],
+                [
+                    "logan",
+                    "LOGAN: [Groans]"
+                ],
+                [
+                    "rory",
+                    "RORY: Hey, what do you think you're doing? Lay down."
+                ],
+                [
+                    "logan",
+                    "LOGAN: [Sighs] I'm really sorry about this."
+                ],
+                [
+                    "rory",
+                    "RORY: It's okay."
+                ],
+                [
+                    "logan",
+                    "LOGAN: No, it's not okay. I was showing off. I knew it wasn't safe from that cliff. I was so drunk, I was lucky I pulled my chute at all."
+                ],
+                [
+                    "rory",
+                    "RORY: But you're going to be fine, and I will be here as long as you want me to be. I've located the gift shop and the good cafeteria, \"good\" being a relative term, and the maternity ward, in case I want to play a little practical joke, swap the newborns around."
+                ],
+                [
+                    "logan",
+                    "LOGAN: What about the paper, school?"
+                ],
+                [
+                    "rory",
+                    "RORY: I have my laptop. I can stay on top of my schoolwork. And Bill can run the paper for a while."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I don't want you to fall behind, miss too many classes. You already have more than enough to do without having to see me..."
+                ],
+                [
+                    "rory",
+                    "RORY: Shh. Logan, just relax. Get some rest. I'll be here."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I'm glad."
+                ],
+                [
+                    "background",
+                    "LUKE'S DINER"
+                ],
+                [
+                    "background",
+                    "[It's very quite, the girls are playing in groups]"
+                ],
+                [
+                    "luke",
+                    "LUKE: So, how we doing? We having fun?"
+                ],
+                [
+                    "girl",
+                    "GIRL: [very quite] Yeah."
+                ],
+                [
+                    "april",
+                    "APRIL: Marcia, you have to discard."
+                ],
+                [
+                    "marcia",
+                    "MARCIA: I know, but you only need one card, and I don't want to give it to you."
+                ],
+                [
+                    "april",
+                    "APRIL: What makes you think I only need one card?"
+                ],
+                [
+                    "marcia",
+                    "MARCIA: Oh please you pick up a card and discard like every half-second. It's so obvious."
+                ],
+                [
+                    "april",
+                    "APRIL: Well, it's my birthday. Why don't you just give me the stupid card I want?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Hey, how do you think the temperature is?"
+                ],
+                [
+                    "april",
+                    "APRIL: It's fine, I guess."
+                ],
+                [
+                    "luke",
+                    "LUKE: Are you cold? Maybe it's too cold in here. How many people are cold, huh? Anyone too warm? Okay, well, good to know."
+                ],
+                [
+                    "laura",
+                    "LAURA: Luke."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah."
+                ],
+                [
+                    "laura",
+                    "LAURA: can I go to the bathroom?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Of course. You don't have to ask permission to go to the bathroom."
+                ],
+                [
+                    "laura",
+                    "LAURA: But it's in the restricted area. I could lose a finger."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh well, the bathroom is not part of the restricted area. I didn't mean to include that. Does anyone else have to go to the bathroom? [They all raise there hands] Ah, well, all right. Well, let's line up, okay? You can use the bathroom one at a time. Laura, you first."
+                ],
+                [
+                    "laura",
+                    "LAURA: Thank you."
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, I'll be right out. I just have to check on something in the back."
+                ],
+                [
+                    "background",
+                    "DRAGONFLY INN - RECEPTION AREA"
+                ],
+                [
+                    "background",
+                    "[Lorelai is working on the computer.]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [Phone rings] Mmrr [She answers the phone] Dragonfly inn."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's a disaster."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "luke",
+                    "LUKE: The party, it's a total disaster."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: [sounding excited almost pleased] A disaster, why?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Nothing is happening it's like a funeral hall in there. I didn't know 13-year-old girls could be so unhappy."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Where are you? I don't hear anything."
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm in the storage room. I come in here and hide a lot."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: And leaving them unsupervised?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, there's a peephole here I can see out of."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You're peeping at the girls from the storage room?"
+                ],
+                [
+                    "luke",
+                    "LUKE: I do not have time for any weird jokes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay what are they doing?"
+                ],
+                [
+                    "luke",
+                    "LUKE: [Goes back to the peep hole] Well, April was playing cards. Some of the others were reading and playing video games. At the moment, they're all just waiting to go to the bathroom."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You didn't plan any activities?"
+                ],
+                [
+                    "luke",
+                    "LUKE: It's a birthday party. I thought that was the activity."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, Luke."
+                ],
+                [
+                    "luke",
+                    "LUKE: Is it normal for kids to fall asleep at a birthday party?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke listen are you listening?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Go upstairs and get your clock radio."
+                ],
+                [
+                    "luke",
+                    "LUKE: Why, so we can watch the minutes of the world's worst birthday party tick off one by one?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, go get it, bring it downstairs and put on some music, KC101. I'll be right over."
+                ],
+                [
+                    "luke",
+                    "LUKE: [sounding a little panicked] You're coming here?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Just stall for time, I have some things to finish up, and then I'll come over, if it's okay?"
+                ],
+                [
+                    "luke",
+                    "LUKE: What!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is it okay that I come over?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes, Lorelai, come! Hurry!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, I'll hurry."
+                ],
+                [
+                    "luke",
+                    "LUKE: Hurry faster or they might start leaving."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, bye."
+                ],
+                [
+                    "background",
+                    "LUKE'S DINER - EXTERIOR"
+                ],
+                [
+                    "background",
+                    "[Luke goes out to meet Lorelai.]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey."
+                ],
+                [
+                    "luke",
+                    "LUKE: So, it got worse after we hung up."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You get the radio?"
+                ],
+                [
+                    "luke",
+                    "LUKE: No I forgot the radio part was broken, and the buzzer alarm went off at one point. There was a slight up tick in the mood but that didn't last long. I think it's too late."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's not too late."
+                ],
+                [
+                    "luke",
+                    "LUKE: I swear I heard the word \"mutiny\" bandied around in their."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It's not too late. Let's get in there."
+                ],
+                [
+                    "luke",
+                    "LUKE: But where's the stuff?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What stuff?"
+                ],
+                [
+                    "luke",
+                    "LUKE: The party stuff."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, my god, I left the circus elephants in my car, and I didn't crack a window."
+                ],
+                [
+                    "luke",
+                    "LUKE: But seriously where's the party stuff?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Come on follow my lead."
+                ],
+                [
+                    "background",
+                    "[SCENE_BREAK]"
+                ]
+            ],
+            "participants": {
+                "paris": 18,
+                "rory": 41,
+                "nurse": 2,
+                "dr schultz": 1,
+                "lorelai": 67,
+                "luke": 68,
+                "anna": 11,
+                "april": 6,
+                "girl 1": 1,
+                "girls": 2,
+                "michel": 5,
+                "woman on p.a.": 1,
+                "logan": 11,
+                "girl": 1,
+                "marcia": 2,
+                "laura": 4
+            }
+        },
+        {
+            "id": 5,
+            "title": "[Cut to inside the diner]",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Hey, everybody. I'm Lorelai Gilmore. Thank you so much for your patience. I'm really glad you guys waited to start the party until I got here."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh, um, that's okay, Lorelai. We didn't mind, right, girls?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Great. Okay, let's get this party started. Where's the birthday girl?"
+                ],
+                [
+                    "april",
+                    "APRIL: Here."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: April Nardini, front and center. You know, I met you briefly. You were filling salt and pepper shakers."
+                ],
+                [
+                    "april",
+                    "APRIL: I remember you were dressed in all black, and you had really blue eyes. They aren't quite as blue today. But I think that's just the light thing."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: These irises are all natural, baby. All right, everybody, line up single file behind us."
+                ],
+                [
+                    "april",
+                    "APRIL: We already went to the bathroom."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh I know this is going to be so much better, now take the hand of the person in front of you and the person in back of you. Luke, you pull up the rear. I'll take the lead."
+                ],
+                [
+                    "luke",
+                    "LUKE: Sure, what is this?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Just follow me, everybody. No matter what, do not let go of either hand."
+                ],
+                [
+                    "girl 1",
+                    "GIRL 1: We're not allowed to go outside."
+                ],
+                [
+                    "girl 2",
+                    "GIRL 2: Or in the kitchen."
+                ],
+                [
+                    "girl 3",
+                    "GIRL 3: Or anywhere else."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You are now, girls. We got new rules."
+                ],
+                [
+                    "april",
+                    "APRIL: Should we bring our stuff?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, leave it. We'll be back."
+                ],
+                [
+                    "luke",
+                    "LUKE: Alright everybody try to walk at the same pace. You step on somebody's heels, you could break an ankle. And watch out for the traffic, not just cars, but bikes. People in this town ride their bikes like maniacs."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Luke!"
+                ],
+                [
+                    "luke",
+                    "LUKE: Sorry."
+                ]
+            ],
+            "participants": {
+                "lorelai": 9,
+                "luke": 5,
+                "april": 4,
+                "girl 1": 1,
+                "girl 2": 1,
+                "girl 3": 1
+            }
+        },
+        {
+            "id": 6,
+            "title": "[Cut to outside as they make there way up the side walk.]",
+            "lines": [
+                [
+                    "lorelai",
+                    "LORELAI: Oh, check for traffic. Always check. And go!"
+                ],
+                [
+                    "girl 1",
+                    "GIRL 1: Where are we going?"
+                ],
+                [
+                    "girl 2",
+                    "GIRL 2: No idea!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Serpentine, girls, serpentine."
+                ],
+                [
+                    "luke",
+                    "LUKE: Is this wise to serpentine?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No!"
+                ],
+                [
+                    "background",
+                    "[They enter the beauty shop]"
+                ],
+                [
+                    "girls",
+                    "GIRLS: [Giggling ]"
+                ],
+                [
+                    "leslie",
+                    "LESLIE: Hi, Lorelai."
+                ],
+                [
+                    "alison",
+                    "ALISON: Hi."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hi"
+                ],
+                [
+                    "background",
+                    "Hey, girls."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ah, alright, I'd like you to meet the birthday girl."
+                ],
+                [
+                    "alison",
+                    "ALISON: Hi, April."
+                ],
+                [
+                    "leslie",
+                    "LESLIE: Happy birthday."
+                ],
+                [
+                    "april",
+                    "APRIL: Hello."
+                ],
+                [
+                    "leslie",
+                    "LESLIE: You are adorable."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Alright girls I want you each to take a basket and fill it up. I want you to pick anything you want because today we're getting makeovers."
+                ],
+                [
+                    "girls",
+                    "GIRLS: [Screaming]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: These two ladies are here to help you in any way you need. That's Alison and Leslie."
+                ],
+                [
+                    "girls",
+                    "GIRLS: [Wave and say \"Hi\"]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: On your mark, get set, and shop!"
+                ],
+                [
+                    "girls",
+                    "GIRLS: [Giggling as the girls start to fill there baskets.]"
+                ],
+                [
+                    "luke",
+                    "LUKE: You're a genius."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well 13-year-old girls and makeup, it's like betting on secretariat."
+                ],
+                [
+                    "luke",
+                    "LUKE: Never in a million years would I have thought of something like this."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's why I'm the Yin to your Yang, the Emack to your Bolio. [Too the girls] Hey, who wants hot-pink highlights?"
+                ],
+                [
+                    "girls",
+                    "GIRLS: Oh, me!"
+                ],
+                [
+                    "background",
+                    "HOSPITAL"
+                ],
+                [
+                    "background",
+                    "[Rory Is talking on he cell phone]"
+                ],
+                [
+                    "rory",
+                    "RORY: I hate that you're cutting your honeymoon short."
+                ],
+                [
+                    "honor",
+                    "HONOR: It okay, with mom flaking out, I don't want to be here anymore. We've got seats on a flight tonight, but it's got a 5-hour layover, in Ankara so we're trying to find something more direct. Either way we should be there sometime tomorrow night."
+                ],
+                [
+                    "rory",
+                    "RORY: Okay. So, have you heard anything more from your dad?"
+                ],
+                [
+                    "honor",
+                    "HONOR: Yeah, I just talked to him."
+                ],
+                [
+                    "rory",
+                    "RORY: Is he coming down here?"
+                ],
+                [
+                    "honor",
+                    "HONOR: Nope."
+                ],
+                [
+                    "rory",
+                    "RORY: He's out of town, too?"
+                ],
+                [
+                    "honor",
+                    "HONOR: No, he's home. He's just not coming."
+                ],
+                [
+                    "rory",
+                    "RORY: What?"
+                ],
+                [
+                    "honor",
+                    "HONOR: It's the life and death brigade thing. He's very against it."
+                ],
+                [
+                    "rory",
+                    "RORY: But he was in the life and death brigade."
+                ],
+                [
+                    "honor",
+                    "HONOR: Yes, but he feels that he knew when to grow up and accept responsibility and that Logan doesn't. He wanted his precious boy done with that by now, so he's boycotting."
+                ],
+                [
+                    "rory",
+                    "RORY: He's boycotting his injured son? Logan had emergency surgery."
+                ],
+                [
+                    "honor",
+                    "HONOR: Hypocrisy runs very deep in the Huntzberger family. Anyhow, forget it. I'm sure Logan isn't expecting him. Okay so, I'll call later when I have more flight information."
+                ],
+                [
+                    "rory",
+                    "RORY: Okay, bye."
+                ],
+                [
+                    "woman on p.a.",
+                    "WOMAN ON P.A.: Dr. Davis, telephone, please. Dr. Davis, telephone, please."
+                ],
+                [
+                    "background",
+                    "[Rory gets out a 2nd cell phone, Logan's]"
+                ],
+                [
+                    "rory",
+                    "RORY: Mitchum Huntzberger? Yes, it's Rory Gilmore. I just thought I'd call and remind you that Logan is lying in a hospital bed with a partially collapsed lung and a whole host of other potentially life-threatening injuries. And I'm figuring a guy like you, surrounded by nothing but a bunch of terrified sycophants might not have someone in his life with the guts to tell him what an incredibly selfish, narcissistic ass he's being, so I thought I'd jump on in. Swallow your pride, get in your car, and come down here and see your son, now!"
+                ],
+                [
+                    "background",
+                    "LUKE'S DINER - NIGHT TIME"
+                ],
+                [
+                    "background",
+                    "[The party is much better]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That looks excellent. [Gasps] Marcia, fabulous. You look like Sophia Loren."
+                ],
+                [
+                    "marcia",
+                    "MARCIA: I was going for Vanessa Minnillo on MTV."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ah, I love her music."
+                ],
+                [
+                    "marcia",
+                    "MARCIA: She's a V.J."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No well you didn't let me finish I love her music-video introductions. You know She's so smooth and classy. Luke, more chips here."
+                ],
+                [
+                    "luke",
+                    "LUKE: Coming."
+                ],
+                [
+                    "girl",
+                    "GIRL: Lorelai, check this out."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ooh, cool. Your eyes have eyes."
+                ],
+                [
+                    "girl",
+                    "GIRL: Freaky right."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes you could fall asleep in class, and no one would know."
+                ],
+                [
+                    "april",
+                    "APRIL: Lorelai."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, April, you look beautiful."
+                ],
+                [
+                    "april",
+                    "APRIL: Leslie says I have excellent bone structure."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes well, I agree with her."
+                ],
+                [
+                    "april",
+                    "APRIL: So it's not weird when someone compliments your skull?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: A woman takes any compliment that comes her way."
+                ],
+                [
+                    "april",
+                    "APRIL: Got it, hey did you do that glitter heart on your cheek?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Happens to be my handiwork yeah you want one?"
+                ],
+                [
+                    "april",
+                    "APRIL: Yes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: All right, sit, sit. Ah what color would you like, pink, blue, purple, florescent green?"
+                ],
+                [
+                    "april",
+                    "APRIL: Purple I'm obsessed with purple, probably because I'm obsessed with \"Harold and the Purple Crayon.\""
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hum."
+                ],
+                [
+                    "april",
+                    "APRIL: I know I'm too old, but it's still one of my all-time-favorite books."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's okay I'm too old for us weekly. It never stopped me."
+                ],
+                [
+                    "april",
+                    "APRIL: So, you have a daughter, right?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes, Rory."
+                ],
+                [
+                    "april",
+                    "APRIL: That's good. You'd be wasted on a son."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm gonna take that as a compliment."
+                ],
+                [
+                    "april",
+                    "APRIL: It is. You know you remind me of my mom."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Is she handy with the glitter?"
+                ],
+                [
+                    "april",
+                    "APRIL: She painted a mural on my wall in nail polish one night."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: That's cool."
+                ],
+                [
+                    "april",
+                    "APRIL: I think you'd like her."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: All right, you're all done."
+                ],
+                [
+                    "april",
+                    "APRIL: Thanks."
+                ]
+            ],
+            "participants": {
+                "lorelai": 27,
+                "girl 1": 1,
+                "girl 2": 1,
+                "luke": 4,
+                "girls": 5,
+                "leslie": 3,
+                "alison": 2,
+                "april": 14,
+                "rory": 9,
+                "honor": 7,
+                "woman on p.a.": 1,
+                "marcia": 2,
+                "girl": 2
+            }
+        },
+        {
+            "id": 7,
+            "title": "[Cut to a little later]",
+            "lines": [
+                [
+                    "april",
+                    "APRIL: Oh my God that is so cool, I love it. Thanks, Marcia."
+                ],
+                [
+                    "marcia",
+                    "MARCIA: Your welcome."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: She's loving her presents."
+                ],
+                [
+                    "luke",
+                    "LUKE: I know."
+                ],
+                [
+                    "april",
+                    "APRIL: Okay, how about this one?"
+                ],
+                [
+                    "girl 1",
+                    "GIRL 1: It's from your dad."
+                ],
+                [
+                    "girl 2",
+                    "GIRL 2: Yeah, open it."
+                ],
+                [
+                    "luke",
+                    "LUKE: [Sounding a little panicked] You know, you don't have to open up all your presents right away. You could maybe save a few and open them tomorrow, sort of extend the experience."
+                ],
+                [
+                    "girl 3",
+                    "GIRL 3: Bad idea, Hagrid."
+                ],
+                [
+                    "april",
+                    "APRIL: I don't want to extend the experience."
+                ],
+                [
+                    "luke",
+                    "LUKE: Wait, is that my gift?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It says it's from Luke."
+                ],
+                [
+                    "april",
+                    "APRIL: The new \"way things work.\" I was gonna get this. And a gift certificate to the discovery store. Thanks, Luke! I love it! [She gets up and hugs Luke] Thank you so much!"
+                ],
+                [
+                    "luke",
+                    "LUKE: You're welcome. [Too Lorelai] Thank you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: My pleasure. You know what would really push this party over the top?"
+                ],
+                [
+                    "luke",
+                    "LUKE: What?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: If we made it into a sleepover."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah you've got sleeping bags and blankets."
+                ],
+                [
+                    "luke",
+                    "LUKE: Plus, I still got Jess' bed. We could stick a couple of them on that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Why don't you ask the birthday girl if she wants to do that?"
+                ],
+                [
+                    "luke",
+                    "LUKE: April, come here a sec."
+                ],
+                [
+                    "april",
+                    "APRIL: What's up?"
+                ],
+                [
+                    "luke",
+                    "LUKE: How would you feel about making this a slumber party?"
+                ],
+                [
+                    "april",
+                    "APRIL: Really?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Really."
+                ],
+                [
+                    "april",
+                    "APRIL: [Turns to the girls] Do you guys want to sleep over?"
+                ],
+                [
+                    "girls",
+                    "GIRLS: That would be really cool."
+                ],
+                [
+                    "luke",
+                    "LUKE: Great, ah first off, we got to call all your parents to see if it's okay with them. Okay, so with that in mind, why don't we form a single-file line behind here to the phone? [Looks up to see all the girls on their cell phones] Or you could use your own, I guess. [Sighs]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Hey So, um, I think I'm gonna take off."
+                ],
+                [
+                    "luke",
+                    "LUKE: What, no stay. You got to stay."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Are you sure."
+                ],
+                [
+                    "luke",
+                    "LUKE: It's a slumber party. You're the slumber-party expert. What does Hagrid know about slumber parties?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Would it be weird, the two of us sleeping together?"
+                ],
+                [
+                    "luke",
+                    "LUKE: You and the girls can sleep upstairs. I'll figure something out."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Are you sure?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah absolutely. You have to stay. April would want that."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, I'll stay."
+                ],
+                [
+                    "kirk",
+                    "KIRK: The movie's all ready to go."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay thanks Kirk."
+                ],
+                [
+                    "kirk",
+                    "KIRK: I just need it back for the Weinstein retirement party. Mel Weinstein's a nut for John Hughes movies."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: All right, girls, um, you're about to meet someone very special to me. Her name is Molly Ringwald. Now, I know you don't know who that is, but suffice it to say, she is my generation's Audrey Hepburn. And I know you don't know who that is, either, but trust me, you're gonna love her. And yes, that is the guy from \"Two and a Half Men.\" All right, enjoy."
+                ],
+                [
+                    "background",
+                    "[The projector starts and The Psychedelic Furs' \"Pretty in Pink\" plays]"
+                ]
+            ],
+            "participants": {
+                "april": 7,
+                "marcia": 1,
+                "lorelai": 13,
+                "luke": 15,
+                "girl 1": 1,
+                "girl 2": 1,
+                "girl 3": 1,
+                "girls": 1,
+                "kirk": 2
+            }
+        },
+        {
+            "id": 8,
+            "title": "[Cut to later, Luke is trying to get to sleep, you can here the girls laughing off screen]",
+            "lines": [
+                [
+                    "luke",
+                    "LUKE: [Sighs]"
+                ],
+                [
+                    "girls",
+                    "GIRLS: Light as a feather,"
+                ],
+                [
+                    "background",
+                    "stiff as a board. Light as a feather, stiff as a board. Light as a feather, stiff as a board."
+                ],
+                [
+                    "background",
+                    "DRAGONFLY INN"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I forgot how much fun it could be just to put makeup on. You know it's become so pragmatic, such drudgery. It's like all we use it for now is to look better."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: And why would the two of us ever need to look better?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Exactly, whatever happened to the questionably attractive glories of wet 'n' wild blue eye shadow or crimping irons?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Remember sun-in and aqua net and Bonne bell lip smackers? I used to love Bonne bell lip smackers."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well who doesn't love a lip gloss that doubles as a necklace? And they smelled so great."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Except once, I had the chocolate-fudge-flavored one, and in study hall, Trevor fink ate the whole thing, and then he threw it up all over my copy of \"the red badge of courage.\""
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: We all had a Trevor fink in our lives."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: So, it sounds like the party was great."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: It was a great party and a major breakthrough. April's awesome. I think she liked me."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I bet she loved you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: We bonded. And hopefully, things will change and I won't have to hide."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: Good."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah Luke just needed that time and space. You know and in hindsight, I think it was good for him, and I'm really glad I let him have it."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: You were incredibly patient."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I was, incredibly patient, while at the same time incredibly impatient."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: You're a complicated woman."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I am, yes. I try to deny it, but there it is."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I'm kind of sad I wasn't at the party. I feel like I missed out."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I thought you might, so I brought you some leftovers. Bonne bell lip smackers, anyone?"
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: No!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yes! I've got original, glitter gloss, grape crush, and dr. Pepper."
+                ],
+                [
+                    "sookie",
+                    "SOOKIE: I feel like I'm 15 again. [Talking like they are 15] Jackson's so getting under my bra tonight."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Oh, my god!"
+                ],
+                [
+                    "background",
+                    "LUKE'S DINER"
+                ],
+                [
+                    "customer",
+                    "CUSTOMER: Luke, there's some glitter on my pancakes."
+                ],
+                [
+                    "luke",
+                    "LUKE: Sorry about that. Let me fix that up for you."
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Wasn't any glitter in the food when I was running the place."
+                ],
+                [
+                    "customer",
+                    "CUSTOMER: And cut up one of those cold bananas, will you?"
+                ],
+                [
+                    "anna",
+                    "ANNA: [Too Caesar] Excuse me, is Luke around?"
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Yeah, he's here. He's always here."
+                ],
+                [
+                    "luke",
+                    "LUKE: Oh hey, Anna, how are you?"
+                ],
+                [
+                    "anna",
+                    "ANNA: Can we talk in private?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Uh, sure. This way. Caesar, I'm gonna take a couple minutes."
+                ],
+                [
+                    "caesar",
+                    "CAESAR: Whatever."
+                ]
+            ],
+            "participants": {
+                "luke": 4,
+                "girls": 1,
+                "lorelai": 12,
+                "sookie": 11,
+                "customer": 2,
+                "caesar": 3,
+                "anna": 2
+            }
+        },
+        {
+            "id": 9,
+            "title": "[Cut to the apartment]",
+            "lines": [
+                [
+                    "luke",
+                    "LUKE: So, what's up?"
+                ],
+                [
+                    "anna",
+                    "ANNA: I can't believe you did this."
+                ],
+                [
+                    "luke",
+                    "LUKE: Did what?"
+                ],
+                [
+                    "anna",
+                    "ANNA: You said you wanted to throw her a party, Luke, you."
+                ],
+                [
+                    "luke",
+                    "LUKE: I know, I did."
+                ],
+                [
+                    "anna",
+                    "ANNA: No, you had your girlfriend throw her a party, a girlfriend I don't even know a girlfriend I've never even met. This is not our agreement."
+                ],
+                [
+                    "luke",
+                    "LUKE: Wow wait a minute I did throw the party. Lorelai was just helping out."
+                ],
+                [
+                    "anna",
+                    "ANNA: Helping out?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Yes."
+                ],
+                [
+                    "anna",
+                    "ANNA: April said you spent the night downstairs."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah well, I spent the night in the storage room. I though it would be a little weird..."
+                ],
+                [
+                    "anna",
+                    "ANNA: So when you were in the storage room, your girlfriend was upstairs with the girls."
+                ],
+                [
+                    "luke",
+                    "LUKE: Well yeah."
+                ],
+                [
+                    "anna",
+                    "ANNA: How am I supposed to explain that to the other girls' parents? How am I supposed to tell them that I left their kids all alone with a woman I've never even met? Who does that!"
+                ],
+                [
+                    "luke",
+                    "LUKE: I'm sorry. I didn't think that it was gonna cause..."
+                ],
+                [
+                    "anna",
+                    "ANNA: If I can't trust you, Luke, this arrangement is not gonna work. April is not a sweater that you're borrowing. She's my kid. I have to know where she is and who she's with always."
+                ],
+                [
+                    "luke",
+                    "LUKE: I know, I'm sorry. You can trust me, I swear."
+                ],
+                [
+                    "anna",
+                    "ANNA: You know what? I am too mad. I can't even look at you."
+                ],
+                [
+                    "luke",
+                    "LUKE: Anna."
+                ],
+                [
+                    "background",
+                    "HOSPITAL"
+                ],
+                [
+                    "background",
+                    "[Rory gets a snack from vending machine, she see Logan's father come in. They exchange looks, Rory points to Logan's room and Mitchum goes in.]"
+                ],
+                [
+                    "woman on p.a.",
+                    "Woman on P.A.: Dr. Blair, dr. Blair. Dr. Jay Hamilton, Dr. Jay Hamilton."
+                ],
+                [
+                    "background",
+                    "LORELAI'S HOUSE"
+                ],
+                [
+                    "background",
+                    "[Paul Anka (the dog) is sitting on a chair in the kitchen]"
+                ],
+                [
+                    "luke",
+                    "LUKE: Hello!"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Ah, Kitchen! Thank god. I am so nutrition-deprived. All I've eaten in the last two days is cake, candy, cookies, and about 10 pounds of flavored lip gloss. [They kiss]"
+                ],
+                [
+                    "luke",
+                    "LUKE: Well, then, let's eat."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Good now do you want to be civilized and eat off plates or just right out of the containers? I know you don't approve, but I think there is some sort of origami thing happening with these containers that makes the food taste better in them. It's like Feng Shui for noodles. And I'm not just saying that because I'm lazy and I don't want any cleanup. That's only part of it."
+                ],
+                [
+                    "luke",
+                    "LUKE: Out of the containers is fine."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Righteous."
+                ],
+                [
+                    "luke",
+                    "LUKE: [Sighs]"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You okay?"
+                ],
+                [
+                    "luke",
+                    "LUKE: Anna came by the diner."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Um why? What's up?"
+                ],
+                [
+                    "luke",
+                    "LUKE: She's mad. She's really mad."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: What about?"
+                ],
+                [
+                    "luke",
+                    "LUKE: The party."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, the party was a smash."
+                ],
+                [
+                    "luke",
+                    "LUKE: About you being at the party, she says she feels betrayed because I let you throw April a birthday party even though she's never met you."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: But you were there the whole time. We both threw the party."
+                ],
+                [
+                    "luke",
+                    "LUKE: I told her that, but I left you alone with them all night and didn't clear it with her first. She's really mad about that. It's not your fault. I should have seen this coming. I was stupid. I didn't think it through."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm sorry."
+                ],
+                [
+                    "luke",
+                    "LUKE: Yeah, me too. I brought some beer, but I left it in the truck. Be right back."
+                ],
+                [
+                    "background",
+                    "HOSPITAL"
+                ],
+                [
+                    "background",
+                    "[Logan's room]"
+                ],
+                [
+                    "rory",
+                    "RORY: Hey."
+                ],
+                [
+                    "logan",
+                    "LOGAN: So, my dad just left."
+                ],
+                [
+                    "rory",
+                    "RORY: I saw."
+                ],
+                [
+                    "logan",
+                    "LOGAN: I still can't believe it. He actually visited. He was only moderately hostile, slightly condescending, and no more self-centered than usual."
+                ],
+                [
+                    "rory",
+                    "RORY: Well it's good that he came. Good for him. Are you feeling any better?"
+                ],
+                [
+                    "logan",
+                    "LOGAN: I am. Ofcourse It could have something to do with the 27 medications they have me jacked up on."
+                ],
+                [
+                    "rory",
+                    "RORY: I checked with the doctor. It's mostly cough syrup and baby aspirin."
+                ],
+                [
+                    "logan",
+                    "LOGAN: What's wrong? I'm feeling better. [Rory shakes her head] What?"
+                ],
+                [
+                    "rory",
+                    "RORY: I'm sorry."
+                ],
+                [
+                    "logan",
+                    "LOGAN: About what?"
+                ],
+                [
+                    "rory",
+                    "RORY: About letting you go on this trip. I should have stopped you. I was just so busy being mad at you. I didn't think I was trying to punish you, but I was trying to punish you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: No, Rory."
+                ],
+                [
+                    "rory",
+                    "RORY: I should have stopped you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Hey, you couldn't have stopped me. A team of psychiatrists with tranquilizer guns couldn't have stopped me. I was going no matter what. It's my fault. Do not feel guilty about this."
+                ],
+                [
+                    "rory",
+                    "RORY: I just sent you out that door. I didn't even care. I was so cold. I just, I could have lost you."
+                ],
+                [
+                    "logan",
+                    "LOGAN: You didn't lose me."
+                ],
+                [
+                    "rory",
+                    "RORY: But I could have, though."
+                ],
+                [
+                    "logan",
+                    "LOGAN: Look I'm the one screwing things up with us here, not you. I'm sorry you're in the hospital right now. I'm sorry about all of this. I don't what's going on with me, but I'll get better, okay? Things will calm down. I just need you to bear with me, okay? Okay?"
+                ],
+                [
+                    "rory",
+                    "RORY: Okay."
+                ],
+                [
+                    "background",
+                    "ANNA'S STORE"
+                ],
+                [
+                    "background",
+                    "[Lorelai enters]"
+                ],
+                [
+                    "anna",
+                    "ANNA: Oh."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: You okay there?"
+                ],
+                [
+                    "anna",
+                    "ANNA: Sorry. Spreadsheets, the bane of my existence. Combines my hatred of math with my fear of little, tiny boxes."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well little, tiny boxes can be scary. Unless, of course, they contain big diamond earrings."
+                ],
+                [
+                    "anna",
+                    "ANNA: [Laughs] I hear you. Feel free to look around."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Thanks."
+                ],
+                [
+                    "anna",
+                    "ANNA: Have you been in here before?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: No, first time. It's lovely, great stuff."
+                ],
+                [
+                    "anna",
+                    "ANNA: Thank you. All the hanging clothes over there are 20% off, some of my favorite stuff, but come march 1st, I can't sell a sweater to save my life."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay, I'll check it out."
+                ],
+                [
+                    "anna",
+                    "ANNA: You looking for anything in particular?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Uh, yeah, you, actually. I'm Lorelai Gilmore. I'm Luke's fianc\u00e9e."
+                ],
+                [
+                    "anna",
+                    "ANNA: Oh."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I wanted to apologize for the party. It was my fault."
+                ],
+                [
+                    "anna",
+                    "ANNA: It just wasn't exactly what I was expecting."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I know, and I'm to blame for that, not Luke. It wasn't his idea. He was having a little trouble getting the party going, and I may have thrown myself into it a little too much. I just thought that we should meet so you could see you really have nothing to worry about."
+                ],
+                [
+                    "anna",
+                    "ANNA: She's a 13-year-old girl. I always have something to worry about."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, yeah, of course, but I meant in regards to me."
+                ],
+                [
+                    "anna",
+                    "ANNA: Look, I'm sure you're a great person."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I am. I have references."
+                ],
+                [
+                    "anna",
+                    "ANNA: But I'm a single mom here. I can't play fast and loose with the people in my kid's life."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I completely understand. I'm a single mom myself."
+                ],
+                [
+                    "anna",
+                    "ANNA: Okay then you get it. What if April decided she likes you? What if she becomes attached to you? What if you become her best friend in the entire world, and then one day, you just disappear?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Well, that's not gonna happen."
+                ],
+                [
+                    "anna",
+                    "ANNA: You don't know that. You can't guarantee that, and I can't take that chance. When it comes to my daughter, I have to have rules, hard and fast rules."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I would never dream of violating any of those rules. Believe me."
+                ],
+                [
+                    "anna",
+                    "ANNA: April never meets any man I date unless I've dated him for years."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I totally get that."
+                ],
+                [
+                    "anna",
+                    "ANNA: So basically, until I'm ready to get married again, she doesn't meet any of the men I date."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Right."
+                ],
+                [
+                    "anna",
+                    "ANNA: For all she knows, I'm a nun."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Yeah, I went through a sister Wendy phase myself once."
+                ],
+                [
+                    "anna",
+                    "ANNA: I want her to have stability."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Right. But Luke and I, we are engaged. We are stable."
+                ],
+                [
+                    "anna",
+                    "ANNA: Engaged isn't married. People get engaged all the time."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Look, this is not something casual, Luke and me. This is not something we're rushing into, by any means. This has been a long time coming, a long time. This is real."
+                ],
+                [
+                    "anna",
+                    "ANNA: That's wonderful, I'm really happy for you, but that doesn't change anything. Luke just came into April's life. I'm still nervous about that. He's not a kid guy, never has been, and she's getting very attached. I need to know he's sticking around first. And then, when you're married, we'll deal with that then. I'm not trying to be a hardass here. April's my world. I don't know if my way is the right way. I just have to go with my gut. This is how I want to do it...You said you're a single mom."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I have a daughter, just like you."
+                ],
+                [
+                    "anna",
+                    "ANNA: You get where I'm coming from at all?"
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I really do. Anyway, thank you for hearing me out."
+                ],
+                [
+                    "anna",
+                    "ANNA: Sure. It's no problem."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: Okay. [Lorelai turns to leave]"
+                ],
+                [
+                    "anna",
+                    "ANNA: Hey. If it makes you feel better, she had a really great time at that party."
+                ],
+                [
+                    "lorelai",
+                    "LORELAI: I'm glad. [Lorelai waves goodbye]"
+                ]
+            ],
+            "participants": {
+                "luke": 20,
+                "anna": 31,
+                "woman on p.a.": 1,
+                "lorelai": 31,
+                "rory": 10,
+                "logan": 9
+            }
+        }
+    ]
+}
