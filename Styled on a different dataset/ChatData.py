@@ -12,7 +12,7 @@ class ChatData(Dataset):
 
         for idx, i in enumerate(self.X):
             try:
-                self.X[idx] = "<START> "+i+" <bot>: "+self.X[idx+1]+" <END>"
+                self.X[idx] = "<startofstring> "+i+" <bot>: "+self.X[idx+1]+" <endofstring>"
             except:
                 break
 
@@ -20,7 +20,7 @@ class ChatData(Dataset):
         
         # print(self.X[0])
 
-        self.X_encoded = tokenizer(self.X,max_length=300, truncation=True, padding="max_length", return_tensors="pt")
+        self.X_encoded = tokenizer(self.X,max_length=40, truncation=True, padding="max_length", return_tensors="pt")
         self.input_ids = self.X_encoded['input_ids']
         self.attention_mask = self.X_encoded['attention_mask']
 

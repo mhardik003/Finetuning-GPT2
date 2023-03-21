@@ -7,11 +7,9 @@ import torch
 
 
 def train(chatData, model, optim):
-    epochs = 20
+    epochs = 12
+
     for i in tqdm.tqdm(range(epochs)):
-        # change learning rate
-        if (i % 2 == 0):
-            optim.param_groups[0]['lr'] /= 2
         for X, a in chatData:
             X = X.to(device)
             a = a.to(device)
@@ -20,61 +18,47 @@ def train(chatData, model, optim):
             loss.backward()
             optim.step()
         torch.save(model.state_dict(), "model_state.pt")
-        print(infer("Hello, how are you?"))
+        print(infer("hello how are you?"))
 
 
 def infer(inp):
-    inp = "<START> "+inp+" <bot>: "
+    inp = "<startofstring> "+inp+" <bot>: "
     inp = tokenizer(inp, return_tensors="pt")
     X = inp["input_ids"].to(device)
     a = inp["attention_mask"].to(device)
     output = model.generate(X, attention_mask=a)
     output = tokenizer.decode(output[0])
-    output = output.replace("<START>", "Question :")
-    output = output.replace("<bot>:", "\nSheldon :")
-    output = output.replace("<END>", "")
-    output = output.replace("<pad> ", "")
     return output
 
 
 device = "cuda" if torch.cuda.is_available(
 ) else "mps" if torch.backends.mps.is_available() else "cpu"
 
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium")
+tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 tokenizer.add_special_tokens({"pad_token": "<pad>",
-                              "bos_token": "<START>",
-                              "eos_token": "<END>"})
-tokenizer.add_tokens(["<Sheldon>:"])
-tokenizer.pad_token = "<pad>"
-tokenizer.bos_token = "<START>"
-tokenizer.eos_token = "<END>"
+                              "bos_token": "<startofstring>",
+                              "eos_token": "<endofstring>"})
+tokenizer.add_tokens(["<bot>:"])
 
-model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
+model = GPT2LMHeadModel.from_pretrained("gpt2")
 model.resize_token_embeddings(len(tokenizer))
-model.config.pad_token_id = tokenizer.pad_token_id
-model.config.bos_token_id = tokenizer.bos_token_id
-model.config.eos_token_id = tokenizer.eos_token_id
-model.config.max_length = 300
-model.config.max_new_tokens = 300
 
-
-print("Using device : ", device)
 model = model.to(device)
 
 # print(tokenizer.decode(model.generate(**tokenizer("hey i was good at basketball but ",
 #                          return_tensors="pt"))[0]))
 
-chatData = ChatData("./Dataset/sheldon_chats_bigger_context.json", tokenizer)
-chatData = DataLoader(chatData, batch_size=2)
+chatData = ChatData("./Dataset/chat_data.json", tokenizer)
+chatData = DataLoader(chatData, batch_size=64)
 
 model.train()
 
-optim = Adadelta(model.parameters(), lr=1e-1)
+optim = Adam(model.parameters(), lr=1e-3)
 
 print("training .... ")
 train(chatData, model, optim)
 
 print("infer from model : ")
 while True:
-    inp = input("You :")
+    inp = input()
     print(infer(inp))
