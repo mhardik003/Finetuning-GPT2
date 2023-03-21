@@ -4,12 +4,12 @@ from ChatData import ChatData
 import torch
 
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium")
-tokenizer.add_special_tokens({"pad_token": "<pad>",
+tokenizer.add_special_tokens({"pad_token": "<PAD>",
                               "bos_token": "<START>",
                               "eos_token": "<END>"})
 
 tokenizer.add_tokens(["<bot>:"])
-tokenizer.pad_token = "<pad>"
+tokenizer.pad_token = "<PAD>"
 tokenizer.bos_token = "<START>"
 tokenizer.eos_token = "<END>"
 
@@ -46,7 +46,7 @@ def infer(inp):
     
     output = output.replace("<bot>:", "\nSheldon :")
     output = output.replace("<END>", "")
-    output = output.replace("<pad> ", "")
+    output = output.replace("<PAD> ", "")
     return output
 
 

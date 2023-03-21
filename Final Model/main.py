@@ -10,7 +10,7 @@ def train(chatData, model, optim):
     epochs = 20
     for i in tqdm.tqdm(range(epochs)):
         # change learning rate
-        if (i % 2 == 0):
+        if (i % 4 == 0):
             optim.param_groups[0]['lr'] /= 2
         for X, a in chatData:
             X = X.to(device)
@@ -69,7 +69,7 @@ chatData = DataLoader(chatData, batch_size=2)
 
 model.train()
 
-optim = Adadelta(model.parameters(), lr=1e-1)
+optim = Adam(model.parameters(), lr=1e-2)
 
 print("training .... ")
 train(chatData, model, optim)
