@@ -8,19 +8,20 @@ class ChatData(Dataset):
         self.X = []
         for i in self.data:
             for j in i['dialog']:
-                self.X.append(j['text'].replace("Sheldon", "<bot>:"))
+                self.X.append(j['text'])
 
         for idx, i in enumerate(self.X):
             try:
                 self.X[idx] = "<START> "+i+" <bot>: "+self.X[idx+1]+" <END>"
             except:
                 break
-
-        self.X = self.X[:5000]
+        
+        print(len(self.X))
+        self.X = self.X[:15000]
         
         # print(self.X[0])
 
-        self.X_encoded = tokenizer(self.X,max_length=300, truncation=True, padding="max_length", return_tensors="pt")
+        self.X_encoded = tokenizer(self.X,max_length=80, truncation=True, padding="max_length", return_tensors="pt")
         self.input_ids = self.X_encoded['input_ids']
         self.attention_mask = self.X_encoded['attention_mask']
 
