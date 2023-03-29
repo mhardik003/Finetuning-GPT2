@@ -8,7 +8,7 @@ class ChatData(Dataset):
         self.X = []
         for i in self.data:
             for j in i['dialog']:
-                self.X.append(j['text'])
+                self.X.append(j['text'].replace("Sheldon", "<bot>:"))
 
         for idx, i in enumerate(self.X):
             try:

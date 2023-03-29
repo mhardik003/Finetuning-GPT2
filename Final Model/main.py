@@ -1,14 +1,14 @@
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPTNeoForCausalLM
 from ChatData import ChatData
 from torch.optim import Adam, Adadelta
 from torch.utils.data import DataLoader
-import tqdm
+from tqdm import tqdm
 import torch
 
 
 def train(chatData, model, optim):
-    epochs = 20
-    for i in tqdm.tqdm(range(epochs)):
+    epochs = 10
+    for i in tqdm(range(epochs)):
         # change learning rate
         if (i % 4 == 0):
             optim.param_groups[0]['lr'] /= 2
@@ -40,7 +40,7 @@ def infer(inp):
 device = "cuda" if torch.cuda.is_available(
 ) else "mps" if torch.backends.mps.is_available() else "cpu"
 
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium")
+tokenizer = GPTNeoForCausalLM.from_pretrained("EleutherAI/gpt-neo-125M")
 tokenizer.add_special_tokens({"pad_token": "<pad>",
                               "bos_token": "<START>",
                               "eos_token": "<END>"})
@@ -49,7 +49,7 @@ tokenizer.pad_token = "<pad>"
 tokenizer.bos_token = "<START>"
 tokenizer.eos_token = "<END>"
 
-model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
+model = GPTNeoForCausalLM.from_pretrained("EleutherAI/gpt-neo-125M")
 model.resize_token_embeddings(len(tokenizer))
 model.config.pad_token_id = tokenizer.pad_token_id
 model.config.bos_token_id = tokenizer.bos_token_id

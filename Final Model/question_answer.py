@@ -1,9 +1,9 @@
 # load the pt file
-from transformers import GPT2LMHeadModel, GPT2Tokenizer
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPTNeoForCausalLM
 from ChatData import ChatData
 import torch
 
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium")
+tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-125M")
 tokenizer.add_special_tokens({"pad_token": "<PAD>",
                               "bos_token": "<START>",
                               "eos_token": "<END>"})
