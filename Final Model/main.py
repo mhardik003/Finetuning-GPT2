@@ -6,6 +6,9 @@ from tqdm import tqdm
 import torch
 
 
+
+FILENAME = "./Dataset/sheldon_chats_bigger_context.json"
+
 def clean_output(text):
     text = text.replace("<START>", "Question :")
     text = text.replace("<bot>:", "\nSheldon :")
@@ -18,6 +21,14 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
     
     for i in tqdm(range(NUM_EPOCHS)):
         # model.train()
+        temp=infer("Hello, how are you?")
+
+        with open("output.txt", 'a') as f:
+            blabla = "Epoch " + str(i) + "\n" + str(temp) + "\n--------------------------------------------\n\n"
+            print(blabla)
+            f.write(blabla)
+            
+            
         # change learning rate
         # if (i % 3 == 0 and optim.param_groups[0]['lr'] > 1e-3):
             # optim.param_groups[0]['lr'] /= 2
@@ -25,9 +36,38 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
             X = X.to(device)
             a = a.to(device)
             optim.zero_grad()
-            loss = model(X, attention_mask=a, labels=X).loss    
+            
+            # if (tokenizer.decode(X[0]).find("<bot>:") == -1):
+            # print('-'*100)
+            # print(tokenizer.decode(X[0]))
+            
+            
+            # calculate the sentence after <bot>: token
+            response = X[:, X[0].tolist().index(tokenizer("<bot>:").input_ids[0]):]
+            
+            # pad the response to the max length of the input
+            response = torch.nn.functional.pad(response, (0, X.shape[1]-response.shape[1]), value=tokenizer.pad_token_id)
+            
+            # print(response.shape, X.shape)
+            # print decoded response
+            # # print(tokenizer.decode(X[0]))
+            # if (tokenizer.decode(X[0]).find("<bot>:") == -1):
+            #     print   (tokenizer.decode(X[0]))
+                
+            
+            
+            
+            # calculate the output of the model 
+            output = model(X, attention_mask=a, labels=response)
+            loss = output.loss
+            
+            # output = model(X, attention_mask=a, labels=X) 
+            # compare only the sentence after <bot>: token with the actual output to calculate the loss
+
+            
             loss.backward()
             optim.step()
+            
         torch.save(model.state_dict(), "model_state.pt")
         print(infer("Hello, how are you?"))
 
@@ -87,7 +127,7 @@ model.config.max_length = 20
 model.config.use_cache = True # for faster generation of text
 # model.config.repetition_penalty = 0.75 # how much to penalize for repeating words
 # model.config.temperature = 0.35 # creativity setting (1 means most creative/random)
-model.config.max_new_tokens = 80
+model.config.max_new_tokens = 300
 
 
 
@@ -108,12 +148,12 @@ model = model.to(device)
 #                          return_tensors="pt"))[0]))
 
 
-chatData = ChatData("./Dataset/sheldon_chats.json", tokenizer)
-chatData = DataLoader(chatData, batch_size=32)
+chatData = ChatData(FILENAME, tokenizer)
+chatData = DataLoader(chatData, batch_size=2)
 
 model.train()
 
-optim = Adadelta(model.parameters(), lr=0.001)
+optim = Adam(model.parameters(), lr=1e-5)
 
 print("training .... ")
 train(chatData, model, optim, int(NUM_EPOCHS))

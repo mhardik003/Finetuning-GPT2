@@ -1,0 +1,491 @@
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : Question : Question : Question : Question : 
+Sheldon : Question : Question : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : <pad>
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : Question : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : Question : Question : Question : Question : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : <|endoftext|> Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question :  the Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+Sheldon : Question : Question : Question : Question : 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+Sheldon : Question : Question : Question : 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question :
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : Question : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : 
+Sheldon :
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 0
+Question : Hello, how are you? 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : Question : 
+Sheldon : 
+Sheldon : 
+Sheldon : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : Question : 
+--------------------------------------------
+
