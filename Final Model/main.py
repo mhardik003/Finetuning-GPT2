@@ -37,9 +37,9 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
             a = a.to(device)
             optim.zero_grad()
             
-            # if (tokenizer.decode(X[0]).find("<bot>:") == -1):
-            # print('-'*100)
-            # print(tokenizer.decode(X[0]))
+            if (i % 50 == 0):
+                print('-'*100)
+                print(tokenizer.decode(X[0]))
             
             
             # calculate the sentence after <bot>: token
@@ -48,7 +48,7 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
             # pad the response to the max length of the input
             response = torch.nn.functional.pad(response, (0, X.shape[1]-response.shape[1]), value=tokenizer.pad_token_id)
             
-            # print(response.shape, X.shape)
+            print(response.shape, X.shape)
             # print decoded response
             # # print(tokenizer.decode(X[0]))
             # if (tokenizer.decode(X[0]).find("<bot>:") == -1):
