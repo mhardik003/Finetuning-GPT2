@@ -1,4 +1,4 @@
-from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPTNeoForCausalLM, GenerationConfig, GPTNeoConfig
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPTNeoForCausalLM, GenerationConfig, GPTNeoConfig, set_seed
 from ChatData import ChatData
 from torch.optim import Adam, Adadelta, Adamax
 from torch.utils.data import DataLoader
@@ -7,11 +7,15 @@ import torch
 
 
 FILENAME = "./Dataset/sheldon_chats.json"
-BATCH_SIZE = 8
-LEARNING_RATE = 1e-4
+BATCH_SIZE = 4
+LEARNING_RATE = 1e-5
+set_seed(42)
 
 
 def clean_output(text):
+    """
+    Clean the output text
+    """
     text = text.replace("<START>", "Question :")
     text = text.replace("<bot>:", "\nSheldon :")
     text = text.replace("<END>", "")
@@ -20,7 +24,9 @@ def clean_output(text):
 
 
 def train(chatData, model, optim, NUM_EPOCHS=10):
-
+    """
+    Train the model
+    """
     for i in tqdm(range(NUM_EPOCHS)):
         model.train()
 
@@ -65,6 +71,9 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
 
 
 def infer(inp, f=0):
+    """
+    Infer from the model
+    """
     # model.eval()
     inp = "<START> "+inp+"<bot>: "
     inp = tokenizer(inp, return_tensors="pt")
@@ -82,6 +91,7 @@ def infer(inp, f=0):
     return clean_output(output)
 
 
+# check if cuda is available
 device = "cuda" if torch.cuda.is_available(
 ) else "mps" if torch.backends.mps.is_available() else "cpu"
 print("Using device : ", device)
@@ -111,7 +121,7 @@ model.config.eos_token_id = tokenizer.eos_token_id
 model.config.max_length = 20
 model.config.use_cache = True  # for faster generation of text
 # model.config.repetition_penalty = 0.75 # how much to penalize for repeating words
-# model.config.temperature = 0.35 # creativity setting (1 means most creative/random)
+# model.config.temperature = 0.85 # creativity setting (1 means most creative/random)
 model.config.max_new_tokens = 100
 model.config.attention_layers = ["global"] * 12
 

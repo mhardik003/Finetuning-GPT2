@@ -3,8 +3,13 @@ import json
 
 
 class ChatData(Dataset):
+    """
+    Dataset class for the chat data
+    """
     def __init__(self, path: str, tokenizer):
-
+        """
+        Initialize the dataset
+        """
         self.data = json.load(open(path, "r"))
 
         self.X = []
@@ -53,7 +58,13 @@ class ChatData(Dataset):
         self.attention_mask = self.X_encoded['attention_mask']
 
     def __len__(self):
+        """
+        Return the length of the dataset
+        """
         return len(self.X)
 
     def __getitem__(self, idx):
+        """
+        Return the item at the given index
+        """
         return (self.input_ids[idx], self.attention_mask[idx])
