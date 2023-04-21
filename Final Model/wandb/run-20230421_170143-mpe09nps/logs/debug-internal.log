@@ -181,3 +181,8 @@
 2023-04-21 17:04:16,920 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
 2023-04-21 17:04:21,922 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
 2023-04-21 17:04:26,923 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:29,634 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:04:29,635 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:04:31,925 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:36,926 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:41,927 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
