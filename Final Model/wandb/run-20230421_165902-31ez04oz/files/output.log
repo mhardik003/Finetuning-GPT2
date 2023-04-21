@@ -1,0 +1,19 @@
+9317
+training ....
+  0%|                                                                                                                                                                                                      | 0/5 [00:00<?, ?it/s]
+
+/home/hardk/.local/lib/python3.10/site-packages/transformers/generation/utils.py:1186: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation)
+  warnings.warn(
+  0%|                                                                                                                                                                                                      | 0/5 [00:06<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 191, in <module>
+    train(chatData, model, optim, int(NUM_EPOCHS))
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 97, in train
+    wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
+UnboundLocalError: local variable 'wandb_table' referenced before assignment
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 191, in <module>
+    train(chatData, model, optim, int(NUM_EPOCHS))
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 97, in train
+    wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
+UnboundLocalError: local variable 'wandb_table' referenced before assignment

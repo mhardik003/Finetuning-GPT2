@@ -1,0 +1,125 @@
+{
+    "os": "Linux-5.19.0-38-generic-x86_64-with-glibc2.36",
+    "python": "3.10.7",
+    "heartbeatAt": "2023-04-21T11:30:25.673423",
+    "startedAt": "2023-04-21T11:30:24.835703",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py",
+    "codePath": "Final Model/main.py",
+    "git": {
+        "remote": "https://github.com/JainitBITW/Styled_ChatBot",
+        "commit": "c5c41ec48491a47a03162de22c3444f3fc62f5dc"
+    },
+    "email": "mhardik2003@gmail.com",
+    "root": "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot",
+    "host": "amnesia",
+    "username": "hardk",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 3008.8273124999996,
+        "min": 1200.0,
+        "max": 3200.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2681.466,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 4390.417,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 4391.616,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3762.029,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2370.735,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3513.243,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1200.0,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 2726.985,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3510.188,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1782.583,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3513.483,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 1882.173,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3513.689,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3943.941,
+            "min": 1200.0,
+            "max": 3200.0
+        },
+        {
+            "current": 3758.689,
+            "min": 1200.0,
+            "max": 3200.0
+        }
+    ],
+    "disk": {
+        "total": 89.5669059753418,
+        "used": 48.11708450317383
+    },
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060 Laptop GPU",
+            "memory_total": 6442450944
+        }
+    ],
+    "memory": {
+        "total": 15.478752136230469
+    }
+}

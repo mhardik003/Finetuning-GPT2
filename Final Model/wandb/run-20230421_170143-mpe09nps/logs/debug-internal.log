@@ -1,0 +1,183 @@
+2023-04-21 17:01:43,837 INFO    StreamThr :1005021 [internal.py:wandb_internal():86] W&B internal server running at pid: 1005021, started at: 2023-04-21 17:01:43.836667
+2023-04-21 17:01:43,838 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status
+2023-04-21 17:01:43,839 INFO    WriterThread:1005021 [datastore.py:open_for_write():85] open: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/run-mpe09nps.wandb
+2023-04-21 17:01:43,840 DEBUG   SenderThread:1005021 [sender.py:send():375] send: header
+2023-04-21 17:01:43,842 DEBUG   SenderThread:1005021 [sender.py:send():375] send: run
+2023-04-21 17:01:44,508 INFO    SenderThread:1005021 [dir_watcher.py:__init__():219] watching files in: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files
+2023-04-21 17:01:44,508 INFO    SenderThread:1005021 [sender.py:_start_run_threads():1124] run started: mpe09nps with start time 1682076703.837173
+2023-04-21 17:01:44,508 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:01:44,509 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:01:44,509 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: check_version
+2023-04-21 17:01:44,509 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: check_version
+2023-04-21 17:01:44,606 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: run_start
+2023-04-21 17:01:44,610 DEBUG   HandlerThread:1005021 [system_info.py:__init__():31] System info init
+2023-04-21 17:01:44,610 DEBUG   HandlerThread:1005021 [system_info.py:__init__():46] System info init done
+2023-04-21 17:01:44,610 INFO    HandlerThread:1005021 [system_monitor.py:start():181] Starting system monitor
+2023-04-21 17:01:44,610 INFO    SystemMonitor:1005021 [system_monitor.py:_start():145] Starting system asset monitoring threads
+2023-04-21 17:01:44,610 INFO    HandlerThread:1005021 [system_monitor.py:probe():201] Collecting system info
+2023-04-21 17:01:44,611 INFO    SystemMonitor:1005021 [interfaces.py:start():190] Started cpu monitoring
+2023-04-21 17:01:44,611 INFO    SystemMonitor:1005021 [interfaces.py:start():190] Started disk monitoring
+2023-04-21 17:01:44,612 INFO    SystemMonitor:1005021 [interfaces.py:start():190] Started gpu monitoring
+2023-04-21 17:01:44,612 INFO    SystemMonitor:1005021 [interfaces.py:start():190] Started memory monitoring
+2023-04-21 17:01:44,612 INFO    SystemMonitor:1005021 [interfaces.py:start():190] Started network monitoring
+2023-04-21 17:01:44,622 DEBUG   HandlerThread:1005021 [system_info.py:probe():195] Probing system
+2023-04-21 17:01:44,623 DEBUG   HandlerThread:1005021 [system_info.py:_probe_git():180] Probing git
+2023-04-21 17:01:44,626 DEBUG   HandlerThread:1005021 [system_info.py:_probe_git():188] Probing git done
+2023-04-21 17:01:44,626 DEBUG   HandlerThread:1005021 [system_info.py:probe():240] Probing system done
+2023-04-21 17:01:44,626 DEBUG   HandlerThread:1005021 [system_monitor.py:probe():210] {'os': 'Linux-5.19.0-38-generic-x86_64-with-glibc2.36', 'python': '3.10.7', 'heartbeatAt': '2023-04-21T11:31:44.622693', 'startedAt': '2023-04-21T11:31:43.831217', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py', 'codePath': 'Final Model/main.py', 'git': {'remote': 'https://github.com/JainitBITW/Styled_ChatBot', 'commit': 'c5c41ec48491a47a03162de22c3444f3fc62f5dc'}, 'email': 'mhardik2003@gmail.com', 'root': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot', 'host': 'amnesia', 'username': 'hardk', 'executable': '/usr/bin/python3', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 3295.3665, 'min': 1200.0, 'max': 3200.0}, 'cpu_freq_per_core': [{'current': 1756.86, 'min': 1200.0, 'max': 3200.0}, {'current': 3896.083, 'min': 1200.0, 'max': 3200.0}, {'current': 3821.79, 'min': 1200.0, 'max': 3200.0}, {'current': 3916.245, 'min': 1200.0, 'max': 3200.0}, {'current': 4099.068, 'min': 1200.0, 'max': 3200.0}, {'current': 3746.052, 'min': 1200.0, 'max': 3200.0}, {'current': 3812.981, 'min': 1200.0, 'max': 3200.0}, {'current': 3200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 3200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 2164.617, 'min': 1200.0, 'max': 3200.0}, {'current': 4387.266, 'min': 1200.0, 'max': 3200.0}, {'current': 4379.4, 'min': 1200.0, 'max': 3200.0}, {'current': 3495.462, 'min': 1200.0, 'max': 3200.0}, {'current': 1200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 3718.579, 'min': 1200.0, 'max': 3200.0}, {'current': 3931.461, 'min': 1200.0, 'max': 3200.0}], 'disk': {'total': 89.5669059753418, 'used': 48.1203498840332}, 'gpu': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'memory_total': 6442450944}], 'memory': {'total': 15.478752136230469}}
+2023-04-21 17:01:44,626 INFO    HandlerThread:1005021 [system_monitor.py:probe():211] Finished collecting system info
+2023-04-21 17:01:44,626 INFO    HandlerThread:1005021 [system_monitor.py:probe():214] Publishing system info
+2023-04-21 17:01:44,626 DEBUG   HandlerThread:1005021 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-04-21 17:01:44,627 DEBUG   HandlerThread:1005021 [system_info.py:_save_pip():67] Saving pip packages done
+2023-04-21 17:01:44,627 INFO    HandlerThread:1005021 [system_monitor.py:probe():216] Finished publishing system info
+2023-04-21 17:01:44,628 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:01:44,628 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-metadata.json with policy now
+2023-04-21 17:01:44,631 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:01:44,631 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:01:44,976 DEBUG   SenderThread:1005021 [sender.py:send():375] send: telemetry
+2023-04-21 17:01:45,510 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/requirements.txt
+2023-04-21 17:01:45,510 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-metadata.json
+2023-04-21 17:01:45,510 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:01:45,643 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/6gbt95mu-wandb-metadata.json
+2023-04-21 17:01:46,509 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:01:48,510 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:01:48,858 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:01:50,511 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:01:52,444 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 17:01:52,444 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 17:01:52,512 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:01:52,513 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table/questions_answers_0_9a2adf26ab40b1988378.table.json
+2023-04-21 17:01:52,513 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table
+2023-04-21 17:01:52,513 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media
+2023-04-21 17:01:53,086 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 17:01:53,407 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/4m0rzg2x-media/table/questions_answers_0_9a2adf26ab40b1988378.table.json
+2023-04-21 17:01:54,718 INFO    wandb-upload_0:1005021 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmp9w1uz2w_
+2023-04-21 17:01:56,100 INFO    SenderThread:1005021 [sender.py:send_request_log_artifact():1438] logged artifact run-mpe09nps-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzkzNjA1', 'digest': '3fccf3cb7772e71004eee1e9d4fe2c07', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjY0MTU3', 'latestArtifact': None}, 'version': 'latest'}
+2023-04-21 17:01:56,100 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:01:56,100 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file media/table/questions_answers_0_9a2adf26ab40b1988378.table.json with policy now
+2023-04-21 17:01:56,101 DEBUG   SenderThread:1005021 [sender.py:send():375] send: history
+2023-04-21 17:01:56,101 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:01:56,101 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:01:56,102 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:01:56,514 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:01:57,063 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/auz9ngwn-media/table/questions_answers_0_9a2adf26ab40b1988378.table.json
+2023-04-21 17:01:58,514 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:01:59,632 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:01:59,632 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:01:59,776 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 17:01:59,782 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 17:01:59,921 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 17:02:00,516 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table/questions_answers_1_6241761c34b2d38dcf3d.table.json
+2023-04-21 17:02:00,516 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table
+2023-04-21 17:02:01,358 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/r3nkvpbs-media/table/questions_answers_1_6241761c34b2d38dcf3d.table.json
+2023-04-21 17:02:01,870 INFO    wandb-upload_1:1005021 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpvi6qgs1v
+2023-04-21 17:02:03,320 INFO    SenderThread:1005021 [sender.py:send_request_log_artifact():1438] logged artifact run-mpe09nps-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzkzNjc2', 'digest': '7d83ffcab6fc4ac8f740ece65586bb43', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjY0MTU3', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzkzNjA1', 'versionIndex': 0}}, 'version': 'latest'}
+2023-04-21 17:02:03,321 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:02:03,321 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file media/table/questions_answers_1_6241761c34b2d38dcf3d.table.json with policy now
+2023-04-21 17:02:03,321 DEBUG   SenderThread:1005021 [sender.py:send():375] send: history
+2023-04-21 17:02:03,321 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:02:03,321 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:03,322 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:02:03,517 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:02:04,257 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/yoommnyf-media/table/questions_answers_1_6241761c34b2d38dcf3d.table.json
+2023-04-21 17:02:04,517 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:02:06,414 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 17:02:06,414 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 17:02:06,419 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 17:02:06,518 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:02:06,518 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table/questions_answers_2_c035c827d43c625fa662.table.json
+2023-04-21 17:02:06,518 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table
+2023-04-21 17:02:07,381 INFO    wandb-upload_1:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/qoijlf1u-media/table/questions_answers_2_c035c827d43c625fa662.table.json
+2023-04-21 17:02:08,506 INFO    wandb-upload_0:1005021 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpa3xh5huc
+2023-04-21 17:02:09,953 INFO    SenderThread:1005021 [sender.py:send_request_log_artifact():1438] logged artifact run-mpe09nps-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzkzNzQw', 'digest': '1b820ecbb4f7c1a828c46e25c2f70ba5', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjY0MTU3', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzkzNjc2', 'versionIndex': 1}}, 'version': 'latest'}
+2023-04-21 17:02:09,954 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:02:09,954 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file media/table/questions_answers_2_c035c827d43c625fa662.table.json with policy now
+2023-04-21 17:02:09,954 DEBUG   SenderThread:1005021 [sender.py:send():375] send: history
+2023-04-21 17:02:09,954 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:02:09,955 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:09,955 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:02:10,519 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:02:10,904 INFO    wandb-upload_1:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/zxsmfazu-media/table/questions_answers_2_c035c827d43c625fa662.table.json
+2023-04-21 17:02:12,520 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:02:13,241 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 17:02:13,242 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 17:02:13,247 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 17:02:13,520 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table/questions_answers_3_48ed7f69132e9b063924.table.json
+2023-04-21 17:02:13,521 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table
+2023-04-21 17:02:14,386 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/8o6cb5dd-media/table/questions_answers_3_48ed7f69132e9b063924.table.json
+2023-04-21 17:02:14,632 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:02:15,218 INFO    wandb-upload_1:1005021 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmp4u74e887
+2023-04-21 17:02:16,580 INFO    SenderThread:1005021 [sender.py:send_request_log_artifact():1438] logged artifact run-mpe09nps-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzkzNzg0', 'digest': '6b30d739a1c4be20cbc42ded05948ec7', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjY0MTU3', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzkzNzQw', 'versionIndex': 2}}, 'version': 'latest'}
+2023-04-21 17:02:16,583 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:16,920 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:02:16,920 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file media/table/questions_answers_3_48ed7f69132e9b063924.table.json with policy now
+2023-04-21 17:02:16,920 DEBUG   SenderThread:1005021 [sender.py:send():375] send: history
+2023-04-21 17:02:16,920 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:02:16,922 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:02:16,922 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:02:17,522 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/config.yaml
+2023-04-21 17:02:17,522 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:02:17,870 INFO    wandb-upload_0:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/nx3ohvwe-media/table/questions_answers_3_48ed7f69132e9b063924.table.json
+2023-04-21 17:02:18,522 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:02:19,957 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 17:02:19,957 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 17:02:19,962 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 17:02:20,523 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table/questions_answers_4_44656a47e974e1f20c15.table.json
+2023-04-21 17:02:20,524 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/media/table
+2023-04-21 17:02:21,364 INFO    wandb-upload_1:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/aorvp6ap-media/table/questions_answers_4_44656a47e974e1f20c15.table.json
+2023-04-21 17:02:21,887 INFO    wandb-upload_0:1005021 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpdmawh6k_
+2023-04-21 17:02:23,301 INFO    SenderThread:1005021 [sender.py:send_request_log_artifact():1438] logged artifact run-mpe09nps-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzkzODQ2', 'digest': '07050b241ecdf61e06a6fdcb76de6c5f', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjY0MTU3', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzkzNzg0', 'versionIndex': 3}}, 'version': 'latest'}
+2023-04-21 17:02:23,302 DEBUG   SenderThread:1005021 [sender.py:send():375] send: files
+2023-04-21 17:02:23,302 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file media/table/questions_answers_4_44656a47e974e1f20c15.table.json with policy now
+2023-04-21 17:02:23,303 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:23,304 DEBUG   SenderThread:1005021 [sender.py:send():375] send: history
+2023-04-21 17:02:23,305 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 17:02:23,308 INFO    SenderThread:1005021 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 17:02:23,526 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/wandb-summary.json
+2023-04-21 17:02:24,183 INFO    wandb-upload_1:1005021 [upload_job.py:push():137] Uploaded file /tmp/tmpnd275l7xwandb/33zc47nf-media/table/questions_answers_4_44656a47e974e1f20c15.table.json
+2023-04-21 17:02:24,526 INFO    Thread-12 :1005021 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_170143-mpe09nps/files/output.log
+2023-04-21 17:02:28,310 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:29,632 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:02:29,633 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:02:33,911 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:38,913 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:43,915 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:44,613 DEBUG   SystemMonitor:1005021 [system_monitor.py:_start():159] Starting system metrics aggregation loop
+2023-04-21 17:02:44,614 DEBUG   SenderThread:1005021 [sender.py:send():375] send: stats
+2023-04-21 17:02:44,632 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:02:44,633 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:02:48,923 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:53,925 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:58,926 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:02:59,633 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:02:59,634 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:03:04,914 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:09,916 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:14,616 DEBUG   SenderThread:1005021 [sender.py:send():375] send: stats
+2023-04-21 17:03:14,633 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:03:14,633 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:03:14,917 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:19,918 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:24,919 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:29,634 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:03:29,635 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:03:29,934 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:34,935 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:39,937 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:44,617 DEBUG   SenderThread:1005021 [sender.py:send():375] send: stats
+2023-04-21 17:03:44,633 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:03:44,635 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:03:45,912 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:50,914 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:55,915 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:03:59,634 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:03:59,635 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:04:00,922 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:05,923 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:10,924 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:14,618 DEBUG   SenderThread:1005021 [sender.py:send():375] send: stats
+2023-04-21 17:04:14,633 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 17:04:14,634 DEBUG   SenderThread:1005021 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 17:04:16,920 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:21,922 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 17:04:26,923 DEBUG   HandlerThread:1005021 [handler.py:handle_request():144] handle_request: status_report

@@ -7,6 +7,7 @@ from tqdm import tqdm
 import torch
 import random
 import wandb
+import pandas as pd
 
 
 FILENAME = "./Dataset/sheldon_chats.json"
@@ -48,6 +49,7 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
     """
     Train the model
     """
+    answers= []
     for i in tqdm(range(NUM_EPOCHS)):
         model.train()
 
@@ -65,30 +67,30 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
             optim.param_groups[0]['lr'] /= 2
 
         for X, a in tqdm(chatData):
+            optim.zero_grad()
             X = X.to(device)
             a = a.to(device)
-            optim.zero_grad()
-
             # calculate the loss of the model
-            loss = model(X, attention_mask=a, labels=X).loss
-            
-           
+            loss = model(X, attention_mask=a, labels=X)[0]
             loss.backward()
             optim.step()
 
         ans_ques1 = infer("Hello, how are you?", 1)
         ans_ques2 = infer("What is your name?", 1)
         ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
-
+        
+        answers.append([ans_ques1, ans_ques2, ans_ques3])
+        question_answers = pd.DataFrame(answers, columns=["Question 1", "Question 2", "Question 3"])
+        wandb_table = wandb.Table(dataframe=question_answers)
+        
         # torch.save(model.state_dict(), "model_state.pt")
         
-        wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "Hello, how are you?": ans_ques1,
-                   "What is your name?": ans_ques2, "Is your name Sheldon? Yes or No?": ans_ques3})
+        wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
 
         print("-"*100)
-        print("Hello, how are you? : ", ans_ques1)
-        print("What is your name? : ", ans_ques2)
-        print("Is your name Sheldon? Yes or No? : ",ans_ques3)
+        print("Question : Hello, how are you? : ", ans_ques1)
+        print("Question : What is your name? : ", ans_ques2)
+        print("Question : Is your name Sheldon? Yes or No? : ",ans_ques3)
 
         # with open("output.txt", 'a') as f:
 
@@ -96,6 +98,10 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
         #     f.write(ans_ques1 + "\n")
         #     f.write(ans_ques2 + "\n")
         #     f.write(ans_ques3 + "\n")
+        
+
+    model.eval()
+
 
 
 def infer(inp, f=0):
@@ -155,7 +161,13 @@ model.config.use_cache = True  # for faster generation of text
 model.config.max_new_tokens = 100
 model.config.attention_layers = ["global"] * 12
 
-model = model.to(device)
+if(device == "cuda"):
+    model = model.cuda()
+elif (device == "mps"):
+    model = model.mps()
+else : 
+    model = model.cpu()
+    
 
 chatData = ChatData(FILENAME, tokenizer)
 chatData = DataLoader(chatData, batch_size=config["batch_size"], shuffle=True)

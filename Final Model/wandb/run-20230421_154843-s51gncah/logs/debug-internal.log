@@ -1,0 +1,177 @@
+2023-04-21 15:48:43,889 INFO    StreamThr :984071 [internal.py:wandb_internal():86] W&B internal server running at pid: 984071, started at: 2023-04-21 15:48:43.889100
+2023-04-21 15:48:43,890 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: status
+2023-04-21 15:48:43,891 INFO    WriterThread:984071 [datastore.py:open_for_write():85] open: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/run-s51gncah.wandb
+2023-04-21 15:48:43,892 DEBUG   SenderThread:984071 [sender.py:send():375] send: header
+2023-04-21 15:48:43,894 DEBUG   SenderThread:984071 [sender.py:send():375] send: run
+2023-04-21 15:48:44,587 INFO    SenderThread:984071 [dir_watcher.py:__init__():219] watching files in: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files
+2023-04-21 15:48:44,587 INFO    SenderThread:984071 [sender.py:_start_run_threads():1124] run started: s51gncah with start time 1682072323.889391
+2023-04-21 15:48:44,587 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 15:48:44,587 INFO    SenderThread:984071 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 15:48:44,589 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: check_version
+2023-04-21 15:48:44,589 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: check_version
+2023-04-21 15:48:44,687 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: run_start
+2023-04-21 15:48:44,692 DEBUG   HandlerThread:984071 [system_info.py:__init__():31] System info init
+2023-04-21 15:48:44,692 DEBUG   HandlerThread:984071 [system_info.py:__init__():46] System info init done
+2023-04-21 15:48:44,692 INFO    HandlerThread:984071 [system_monitor.py:start():181] Starting system monitor
+2023-04-21 15:48:44,692 INFO    SystemMonitor:984071 [system_monitor.py:_start():145] Starting system asset monitoring threads
+2023-04-21 15:48:44,692 INFO    HandlerThread:984071 [system_monitor.py:probe():201] Collecting system info
+2023-04-21 15:48:44,692 INFO    SystemMonitor:984071 [interfaces.py:start():190] Started cpu monitoring
+2023-04-21 15:48:44,693 INFO    SystemMonitor:984071 [interfaces.py:start():190] Started disk monitoring
+2023-04-21 15:48:44,693 INFO    SystemMonitor:984071 [interfaces.py:start():190] Started gpu monitoring
+2023-04-21 15:48:44,694 INFO    SystemMonitor:984071 [interfaces.py:start():190] Started memory monitoring
+2023-04-21 15:48:44,694 INFO    SystemMonitor:984071 [interfaces.py:start():190] Started network monitoring
+2023-04-21 15:48:44,705 DEBUG   HandlerThread:984071 [system_info.py:probe():195] Probing system
+2023-04-21 15:48:44,706 DEBUG   HandlerThread:984071 [system_info.py:_probe_git():180] Probing git
+2023-04-21 15:48:44,710 DEBUG   HandlerThread:984071 [system_info.py:_probe_git():188] Probing git done
+2023-04-21 15:48:44,710 DEBUG   HandlerThread:984071 [system_info.py:probe():240] Probing system done
+2023-04-21 15:48:44,710 DEBUG   HandlerThread:984071 [system_monitor.py:probe():210] {'os': 'Linux-5.19.0-38-generic-x86_64-with-glibc2.36', 'python': '3.10.7', 'heartbeatAt': '2023-04-21T10:18:44.705148', 'startedAt': '2023-04-21T10:18:43.883747', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py', 'codePath': 'Final Model/main.py', 'git': {'remote': 'https://github.com/JainitBITW/Styled_ChatBot', 'commit': 'c5c41ec48491a47a03162de22c3444f3fc62f5dc'}, 'email': 'mhardik2003@gmail.com', 'root': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot', 'host': 'amnesia', 'username': 'hardk', 'executable': '/usr/bin/python3', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 3741.8874999999994, 'min': 1200.0, 'max': 3200.0}, 'cpu_freq_per_core': [{'current': 4022.113, 'min': 1200.0, 'max': 3200.0}, {'current': 3428.266, 'min': 1200.0, 'max': 3200.0}, {'current': 4029.117, 'min': 1200.0, 'max': 3200.0}, {'current': 4255.527, 'min': 1200.0, 'max': 3200.0}, {'current': 4016.667, 'min': 1200.0, 'max': 3200.0}, {'current': 3785.171, 'min': 1200.0, 'max': 3200.0}, {'current': 3971.72, 'min': 1200.0, 'max': 3200.0}, {'current': 3460.36, 'min': 1200.0, 'max': 3200.0}, {'current': 4258.656, 'min': 1200.0, 'max': 3200.0}, {'current': 4190.273, 'min': 1200.0, 'max': 3200.0}, {'current': 3424.693, 'min': 1200.0, 'max': 3200.0}, {'current': 3432.071, 'min': 1200.0, 'max': 3200.0}, {'current': 3429.909, 'min': 1200.0, 'max': 3200.0}, {'current': 3433.314, 'min': 1200.0, 'max': 3200.0}, {'current': 3431.695, 'min': 1200.0, 'max': 3200.0}, {'current': 3413.261, 'min': 1200.0, 'max': 3200.0}], 'disk': {'total': 89.5669059753418, 'used': 48.12490463256836}, 'gpu': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'memory_total': 6442450944}], 'memory': {'total': 15.478752136230469}}
+2023-04-21 15:48:44,710 INFO    HandlerThread:984071 [system_monitor.py:probe():211] Finished collecting system info
+2023-04-21 15:48:44,710 INFO    HandlerThread:984071 [system_monitor.py:probe():214] Publishing system info
+2023-04-21 15:48:44,710 DEBUG   HandlerThread:984071 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-04-21 15:48:44,710 DEBUG   HandlerThread:984071 [system_info.py:_save_pip():67] Saving pip packages done
+2023-04-21 15:48:44,710 INFO    HandlerThread:984071 [system_monitor.py:probe():216] Finished publishing system info
+2023-04-21 15:48:44,712 DEBUG   SenderThread:984071 [sender.py:send():375] send: files
+2023-04-21 15:48:44,712 INFO    SenderThread:984071 [sender.py:_save_file():1378] saving file wandb-metadata.json with policy now
+2023-04-21 15:48:44,715 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 15:48:44,715 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 15:48:45,049 DEBUG   SenderThread:984071 [sender.py:send():375] send: telemetry
+2023-04-21 15:48:45,588 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-metadata.json
+2023-04-21 15:48:45,589 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-summary.json
+2023-04-21 15:48:45,589 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/requirements.txt
+2023-04-21 15:48:45,801 INFO    wandb-upload_0:984071 [upload_job.py:push():137] Uploaded file /tmp/tmp7f_ho_olwandb/tqgolpb9-wandb-metadata.json
+2023-04-21 15:48:46,588 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:48,588 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:49,022 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 15:48:50,589 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:52,589 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:52,966 DEBUG   SenderThread:984071 [sender.py:send():375] send: exit
+2023-04-21 15:48:52,966 INFO    SenderThread:984071 [sender.py:send_exit():598] handling exit code: 1
+2023-04-21 15:48:52,966 INFO    SenderThread:984071 [sender.py:send_exit():600] handling runtime: 8
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:send_exit():606] send defer
+2023-04-21 15:48:52,967 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:52,967 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 0
+2023-04-21 15:48:52,967 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 0
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 1
+2023-04-21 15:48:52,967 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:52,967 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 1
+2023-04-21 15:48:52,967 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 1
+2023-04-21 15:48:52,967 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 2
+2023-04-21 15:48:52,967 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:52,967 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 2
+2023-04-21 15:48:52,967 INFO    HandlerThread:984071 [system_monitor.py:finish():190] Stopping system monitor
+2023-04-21 15:48:52,968 DEBUG   SystemMonitor:984071 [system_monitor.py:_start():159] Starting system metrics aggregation loop
+2023-04-21 15:48:52,968 INFO    HandlerThread:984071 [interfaces.py:finish():202] Joined cpu monitor
+2023-04-21 15:48:52,968 DEBUG   SystemMonitor:984071 [system_monitor.py:_start():166] Finished system metrics aggregation loop
+2023-04-21 15:48:52,968 INFO    HandlerThread:984071 [interfaces.py:finish():202] Joined disk monitor
+2023-04-21 15:48:52,968 DEBUG   SystemMonitor:984071 [system_monitor.py:_start():170] Publishing last batch of metrics
+2023-04-21 15:48:53,000 INFO    HandlerThread:984071 [interfaces.py:finish():202] Joined gpu monitor
+2023-04-21 15:48:53,000 INFO    HandlerThread:984071 [interfaces.py:finish():202] Joined memory monitor
+2023-04-21 15:48:53,000 INFO    HandlerThread:984071 [interfaces.py:finish():202] Joined network monitor
+2023-04-21 15:48:53,001 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,001 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 2
+2023-04-21 15:48:53,001 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 3
+2023-04-21 15:48:53,001 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:53,001 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 3
+2023-04-21 15:48:53,003 DEBUG   SenderThread:984071 [sender.py:send():375] send: stats
+2023-04-21 15:48:53,003 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,003 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 3
+2023-04-21 15:48:53,003 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 4
+2023-04-21 15:48:53,003 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:53,003 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 4
+2023-04-21 15:48:53,003 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,003 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 4
+2023-04-21 15:48:53,003 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 5
+2023-04-21 15:48:53,003 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:53,004 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 5
+2023-04-21 15:48:53,004 DEBUG   SenderThread:984071 [sender.py:send():375] send: summary
+2023-04-21 15:48:53,004 INFO    SenderThread:984071 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 15:48:53,004 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,004 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 5
+2023-04-21 15:48:53,004 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 6
+2023-04-21 15:48:53,004 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:53,004 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 6
+2023-04-21 15:48:53,004 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,004 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 6
+2023-04-21 15:48:53,007 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 15:48:53,356 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 7
+2023-04-21 15:48:53,357 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:53,357 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 7
+2023-04-21 15:48:53,357 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:53,357 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 7
+2023-04-21 15:48:53,590 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-summary.json
+2023-04-21 15:48:53,590 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/config.yaml
+2023-04-21 15:48:53,967 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 15:48:54,163 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 8
+2023-04-21 15:48:54,164 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 15:48:54,165 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:54,165 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 8
+2023-04-21 15:48:54,165 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:54,165 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 8
+2023-04-21 15:48:54,181 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 9
+2023-04-21 15:48:54,181 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:54,181 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 9
+2023-04-21 15:48:54,182 DEBUG   SenderThread:984071 [sender.py:send():375] send: artifact
+2023-04-21 15:48:54,590 INFO    Thread-12 :984071 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:54,968 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 15:48:55,787 INFO    SenderThread:984071 [sender.py:send_artifact():1474] sent artifact job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py - {'id': 'QXJ0aWZhY3Q6NDI5NzQ3NzM2', 'digest': 'cc4cb143e4c817509721a91439112ab3', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py', 'alias': 'latest'}, {'artifactCollectionName': 'job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py', 'alias': 'v8'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNTE2ODA1', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzUwMTU0', 'versionIndex': 9}}, 'version': 'v8'}
+2023-04-21 15:48:55,788 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:55,788 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 9
+2023-04-21 15:48:55,788 INFO    SenderThread:984071 [dir_watcher.py:finish():365] shutting down directory watcher
+2023-04-21 15:48:56,592 INFO    SenderThread:984071 [dir_watcher.py:finish():395] scan: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files
+2023-04-21 15:48:56,592 INFO    SenderThread:984071 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/config.yaml config.yaml
+2023-04-21 15:48:56,592 INFO    SenderThread:984071 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-summary.json wandb-summary.json
+2023-04-21 15:48:56,592 INFO    SenderThread:984071 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/requirements.txt requirements.txt
+2023-04-21 15:48:56,593 INFO    SenderThread:984071 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log output.log
+2023-04-21 15:48:56,593 INFO    SenderThread:984071 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-metadata.json wandb-metadata.json
+2023-04-21 15:48:56,593 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 10
+2023-04-21 15:48:56,593 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 15:48:56,593 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:56,593 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 10
+2023-04-21 15:48:56,595 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:56,595 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 10
+2023-04-21 15:48:56,595 INFO    SenderThread:984071 [file_pusher.py:finish():168] shutting down file pusher
+2023-04-21 15:48:57,597 INFO    wandb-upload_0:984071 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/config.yaml
+2023-04-21 15:48:57,623 INFO    wandb-upload_1:984071 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/wandb-summary.json
+2023-04-21 15:48:57,773 INFO    wandb-upload_3:984071 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/output.log
+2023-04-21 15:48:57,814 INFO    wandb-upload_2:984071 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/files/requirements.txt
+2023-04-21 15:48:58,015 INFO    Thread-11 (_thread_body):984071 [sender.py:transition_state():626] send defer: 11
+2023-04-21 15:48:58,015 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:58,015 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 11
+2023-04-21 15:48:58,016 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:58,016 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 11
+2023-04-21 15:48:58,016 INFO    SenderThread:984071 [file_pusher.py:join():173] waiting for file pusher
+2023-04-21 15:48:58,016 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 12
+2023-04-21 15:48:58,016 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:58,016 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 12
+2023-04-21 15:48:58,016 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:58,016 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 12
+2023-04-21 15:48:58,359 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 13
+2023-04-21 15:48:58,360 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:58,360 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 13
+2023-04-21 15:48:58,360 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:58,360 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 13
+2023-04-21 15:48:58,360 INFO    SenderThread:984071 [sender.py:transition_state():626] send defer: 14
+2023-04-21 15:48:58,360 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 15:48:58,360 INFO    HandlerThread:984071 [handler.py:handle_request_defer():170] handle defer: 14
+2023-04-21 15:48:58,361 DEBUG   SenderThread:984071 [sender.py:send():375] send: final
+2023-04-21 15:48:58,361 DEBUG   SenderThread:984071 [sender.py:send():375] send: footer
+2023-04-21 15:48:58,361 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: defer
+2023-04-21 15:48:58,361 INFO    SenderThread:984071 [sender.py:send_request_defer():622] handle sender defer: 14
+2023-04-21 15:48:58,361 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 15:48:58,361 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: server_info
+2023-04-21 15:48:58,362 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 15:48:58,362 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: get_summary
+2023-04-21 15:48:58,362 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: sampled_history
+2023-04-21 15:48:58,362 DEBUG   SenderThread:984071 [sender.py:send_request():402] send_request: server_info
+2023-04-21 15:48:58,654 INFO    MainThread:984071 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-21 15:48:58,654 INFO    MainThread:984071 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-21 15:48:58,654 INFO    MainThread:984071 [wandb_run.py:_footer_sync_info():3434] logging synced files
+2023-04-21 15:48:58,654 DEBUG   HandlerThread:984071 [handler.py:handle_request():144] handle_request: shutdown
+2023-04-21 15:48:58,654 INFO    HandlerThread:984071 [handler.py:finish():845] shutting down handler
+2023-04-21 15:48:59,362 INFO    WriterThread:984071 [datastore.py:close():298] close: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_154843-s51gncah/run-s51gncah.wandb
+2023-04-21 15:48:59,654 INFO    SenderThread:984071 [sender.py:finish():1550] shutting down sender
+2023-04-21 15:48:59,654 INFO    SenderThread:984071 [file_pusher.py:finish():168] shutting down file pusher
+2023-04-21 15:48:59,654 INFO    SenderThread:984071 [file_pusher.py:join():173] waiting for file pusher

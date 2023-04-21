@@ -1,0 +1,376 @@
+2023-04-21 16:02:46,998 INFO    StreamThr :989595 [internal.py:wandb_internal():86] W&B internal server running at pid: 989595, started at: 2023-04-21 16:02:46.998524
+2023-04-21 16:02:47,000 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status
+2023-04-21 16:02:47,001 INFO    WriterThread:989595 [datastore.py:open_for_write():85] open: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/run-ytb6gbqi.wandb
+2023-04-21 16:02:47,001 DEBUG   SenderThread:989595 [sender.py:send():375] send: header
+2023-04-21 16:02:47,005 DEBUG   SenderThread:989595 [sender.py:send():375] send: run
+2023-04-21 16:02:47,687 INFO    SenderThread:989595 [dir_watcher.py:__init__():219] watching files in: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files
+2023-04-21 16:02:47,688 INFO    SenderThread:989595 [sender.py:_start_run_threads():1124] run started: ytb6gbqi with start time 1682073166.998939
+2023-04-21 16:02:47,688 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:02:47,688 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:02:47,689 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: check_version
+2023-04-21 16:02:47,689 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: check_version
+2023-04-21 16:02:47,819 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: run_start
+2023-04-21 16:02:47,823 DEBUG   HandlerThread:989595 [system_info.py:__init__():31] System info init
+2023-04-21 16:02:47,824 DEBUG   HandlerThread:989595 [system_info.py:__init__():46] System info init done
+2023-04-21 16:02:47,824 INFO    HandlerThread:989595 [system_monitor.py:start():181] Starting system monitor
+2023-04-21 16:02:47,824 INFO    SystemMonitor:989595 [system_monitor.py:_start():145] Starting system asset monitoring threads
+2023-04-21 16:02:47,825 INFO    HandlerThread:989595 [system_monitor.py:probe():201] Collecting system info
+2023-04-21 16:02:47,825 INFO    SystemMonitor:989595 [interfaces.py:start():190] Started cpu monitoring
+2023-04-21 16:02:47,826 INFO    SystemMonitor:989595 [interfaces.py:start():190] Started disk monitoring
+2023-04-21 16:02:47,826 INFO    SystemMonitor:989595 [interfaces.py:start():190] Started gpu monitoring
+2023-04-21 16:02:47,827 INFO    SystemMonitor:989595 [interfaces.py:start():190] Started memory monitoring
+2023-04-21 16:02:47,827 INFO    SystemMonitor:989595 [interfaces.py:start():190] Started network monitoring
+2023-04-21 16:02:47,836 DEBUG   HandlerThread:989595 [system_info.py:probe():195] Probing system
+2023-04-21 16:02:47,837 DEBUG   HandlerThread:989595 [system_info.py:_probe_git():180] Probing git
+2023-04-21 16:02:47,840 DEBUG   HandlerThread:989595 [system_info.py:_probe_git():188] Probing git done
+2023-04-21 16:02:47,840 DEBUG   HandlerThread:989595 [system_info.py:probe():240] Probing system done
+2023-04-21 16:02:47,840 DEBUG   HandlerThread:989595 [system_monitor.py:probe():210] {'os': 'Linux-5.19.0-38-generic-x86_64-with-glibc2.36', 'python': '3.10.7', 'heartbeatAt': '2023-04-21T10:32:47.836365', 'startedAt': '2023-04-21T10:32:46.992627', 'docker': None, 'cuda': None, 'args': (), 'state': 'running', 'program': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py', 'codePath': 'Final Model/main.py', 'git': {'remote': 'https://github.com/JainitBITW/Styled_ChatBot', 'commit': 'c5c41ec48491a47a03162de22c3444f3fc62f5dc'}, 'email': 'mhardik2003@gmail.com', 'root': '/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot', 'host': 'amnesia', 'username': 'hardk', 'executable': '/usr/bin/python3', 'cpu_count': 8, 'cpu_count_logical': 16, 'cpu_freq': {'current': 2547.96375, 'min': 1200.0, 'max': 3200.0}, 'cpu_freq_per_core': [{'current': 3196.261, 'min': 1200.0, 'max': 3200.0}, {'current': 2857.192, 'min': 1200.0, 'max': 3200.0}, {'current': 3944.247, 'min': 1200.0, 'max': 3200.0}, {'current': 1200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 2863.479, 'min': 1200.0, 'max': 3200.0}, {'current': 3145.256, 'min': 1200.0, 'max': 3200.0}, {'current': 3446.291, 'min': 1200.0, 'max': 3200.0}, {'current': 1200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 2571.229, 'min': 1200.0, 'max': 3200.0}, {'current': 3928.473, 'min': 1200.0, 'max': 3200.0}, {'current': 2629.066, 'min': 1200.0, 'max': 3200.0}, {'current': 1200.0, 'min': 1200.0, 'max': 3200.0}, {'current': 3104.675, 'min': 1200.0, 'max': 3200.0}, {'current': 2558.731, 'min': 1200.0, 'max': 3200.0}, {'current': 3352.405, 'min': 1200.0, 'max': 3200.0}, {'current': 1197.749, 'min': 1200.0, 'max': 3200.0}], 'disk': {'total': 89.5669059753418, 'used': 48.13079071044922}, 'gpu': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'gpu_count': 1, 'gpu_devices': [{'name': 'NVIDIA GeForce RTX 3060 Laptop GPU', 'memory_total': 6442450944}], 'memory': {'total': 15.478752136230469}}
+2023-04-21 16:02:47,840 INFO    HandlerThread:989595 [system_monitor.py:probe():211] Finished collecting system info
+2023-04-21 16:02:47,840 INFO    HandlerThread:989595 [system_monitor.py:probe():214] Publishing system info
+2023-04-21 16:02:47,840 DEBUG   HandlerThread:989595 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2023-04-21 16:02:47,841 DEBUG   HandlerThread:989595 [system_info.py:_save_pip():67] Saving pip packages done
+2023-04-21 16:02:47,841 INFO    HandlerThread:989595 [system_monitor.py:probe():216] Finished publishing system info
+2023-04-21 16:02:47,842 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:02:47,842 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-metadata.json with policy now
+2023-04-21 16:02:47,845 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:02:47,845 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:02:48,220 DEBUG   SenderThread:989595 [sender.py:send():375] send: telemetry
+2023-04-21 16:02:48,689 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:02:48,689 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/requirements.txt
+2023-04-21 16:02:48,689 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-metadata.json
+2023-04-21 16:02:49,074 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/mx4pgohr-wandb-metadata.json
+2023-04-21 16:02:49,688 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:02:51,689 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:02:52,039 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:02:53,689 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:02:54,669 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:02:54,670 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:02:54,690 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_0_af82f724d84418131558.table.json
+2023-04-21 16:02:54,690 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:02:54,690 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media
+2023-04-21 16:02:55,307 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:02:55,688 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/8r7u6p23-media/table/questions_answers_0_af82f724d84418131558.table.json
+2023-04-21 16:02:55,690 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:02:56,886 INFO    wandb-upload_0:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpzri2ergp
+2023-04-21 16:02:58,277 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5MzE2', 'digest': '0adb18ad63af414258e37b85ff39e41d', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': None}, 'version': 'latest'}
+2023-04-21 16:02:58,277 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:02:58,277 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_0_af82f724d84418131558.table.json with policy now
+2023-04-21 16:02:58,277 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:02:58,277 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:02:58,278 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:02:58,279 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:02:58,691 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:02:59,204 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/7tp4s3c0-media/table/questions_answers_0_af82f724d84418131558.table.json
+2023-04-21 16:02:59,691 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:01,353 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:01,354 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:01,361 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:01,692 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:01,692 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json
+2023-04-21 16:03:01,692 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:02,653 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/6ujwpcfo-media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json
+2023-04-21 16:03:02,846 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:03:03,285 INFO    wandb-upload_1:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpengsn647
+2023-04-21 16:03:07,847 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: keepalive
+2023-04-21 16:03:07,886 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5MzY5', 'digest': '1f014f8df1cc186b060df4a3f107f6a1', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5MzE2', 'versionIndex': 0}}, 'version': 'latest'}
+2023-04-21 16:03:07,886 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:07,886 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json with policy now
+2023-04-21 16:03:07,887 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:07,887 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:07,887 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:07,890 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:07,890 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:03:08,490 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:08,490 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:08,498 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:08,695 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:08,695 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json
+2023-04-21 16:03:08,695 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:08,963 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/vngbbt62-media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json
+2023-04-21 16:03:09,562 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/347v9r40-media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json
+2023-04-21 16:03:09,695 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:10,537 INFO    wandb-upload_0:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmp8lk7pjx9
+2023-04-21 16:03:11,907 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NDI5', 'digest': 'be5925a4acc025026d6137ecb548bb99', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5MzY5', 'versionIndex': 1}}, 'version': 'latest'}
+2023-04-21 16:03:11,907 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:11,907 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json with policy now
+2023-04-21 16:03:11,907 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:11,908 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:11,908 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:12,696 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:12,782 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/9n967lhz-media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json
+2023-04-21 16:03:12,915 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:13,696 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:15,438 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:15,439 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:15,443 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:15,697 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:15,698 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json
+2023-04-21 16:03:15,698 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:16,553 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/pw3twnvk-media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json
+2023-04-21 16:03:17,418 INFO    wandb-upload_1:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpc3cp9c7g
+2023-04-21 16:03:17,845 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:03:18,749 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NDky', 'digest': '9a1373ef3b18562cef2f46cfa89ee062', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NDI5', 'versionIndex': 2}}, 'version': 'latest'}
+2023-04-21 16:03:18,751 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:19,111 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:19,112 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json with policy now
+2023-04-21 16:03:19,112 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:19,112 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:19,113 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:19,114 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:03:19,699 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:19,699 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/config.yaml
+2023-04-21 16:03:20,006 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/kjakx4wk-media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json
+2023-04-21 16:03:21,700 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:22,237 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:22,237 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:22,242 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:22,700 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json
+2023-04-21 16:03:22,700 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:23,597 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/3ir3zkoa-media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json
+2023-04-21 16:03:24,231 INFO    wandb-upload_0:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpj28jjea7
+2023-04-21 16:03:25,835 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NTM4', 'digest': '7d763c3a44f37eeaa0f87c49f099d092', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NDky', 'versionIndex': 3}}, 'version': 'latest'}
+2023-04-21 16:03:25,835 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:25,835 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json with policy now
+2023-04-21 16:03:25,835 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:25,836 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:25,836 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:25,837 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:26,701 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:26,729 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/zz50mea4-media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json
+2023-04-21 16:03:27,702 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:28,997 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:28,997 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:29,002 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:29,702 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json
+2023-04-21 16:03:29,703 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:30,715 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/tyaj4k6g-media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json
+2023-04-21 16:03:31,056 INFO    wandb-upload_1:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmp5h389ws0
+2023-04-21 16:03:32,781 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NjA5', 'digest': 'e274bc1a15338004212b8cbb6eb18622', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NTM4', 'versionIndex': 4}}, 'version': 'latest'}
+2023-04-21 16:03:32,781 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:32,781 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json with policy now
+2023-04-21 16:03:32,782 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:32,782 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:32,782 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:32,783 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:32,845 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:03:32,846 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:03:33,704 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:33,704 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:33,871 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/4fj6ngvh-media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json
+2023-04-21 16:03:35,118 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:35,119 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:35,123 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:35,705 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:35,705 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json
+2023-04-21 16:03:35,705 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:36,592 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/qc8w3xtg-media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json
+2023-04-21 16:03:37,113 INFO    wandb-upload_0:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpl1vz374b
+2023-04-21 16:03:38,509 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NjUz', 'digest': 'c340edc6881ecd245e670cd533f66f9c', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NjA5', 'versionIndex': 5}}, 'version': 'latest'}
+2023-04-21 16:03:38,509 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:38,509 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json with policy now
+2023-04-21 16:03:38,509 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:38,509 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:38,509 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:38,511 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:38,706 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:39,540 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/hjqftnd0-media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json
+2023-04-21 16:03:39,707 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:39,929 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:39,929 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:39,934 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:40,708 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_7_d8323d39df497a406c83.table.json
+2023-04-21 16:03:40,708 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:41,708 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:41,746 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/24jjmizk-media/table/questions_answers_7_d8323d39df497a406c83.table.json
+2023-04-21 16:03:42,066 INFO    wandb-upload_1:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmprnidzljs
+2023-04-21 16:03:43,385 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5Njk0', 'digest': '230612491774c3d15b0b1cf3ff144e1a', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NjUz', 'versionIndex': 6}}, 'version': 'latest'}
+2023-04-21 16:03:43,386 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:43,386 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_7_d8323d39df497a406c83.table.json with policy now
+2023-04-21 16:03:43,386 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:43,386 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:43,387 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:43,551 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:43,709 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:44,261 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/f7jbf6sc-media/table/questions_answers_7_d8323d39df497a406c83.table.json
+2023-04-21 16:03:45,710 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:46,190 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:46,191 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:46,199 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:46,710 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_8_37949bdc46f84de980ee.table.json
+2023-04-21 16:03:46,710 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:47,550 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/6icoy3kf-media/table/questions_answers_8_37949bdc46f84de980ee.table.json
+2023-04-21 16:03:47,827 DEBUG   SystemMonitor:989595 [system_monitor.py:_start():159] Starting system metrics aggregation loop
+2023-04-21 16:03:47,846 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:03:48,186 INFO    wandb-upload_0:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmphyttb3kq
+2023-04-21 16:03:49,632 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5NzM1', 'digest': '1a54ba1e8af9f6457e60c83efef95d61', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5Njk0', 'versionIndex': 7}}, 'version': 'latest'}
+2023-04-21 16:03:49,633 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:49,633 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:49,633 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_8_37949bdc46f84de980ee.table.json with policy now
+2023-04-21 16:03:49,633 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:49,634 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:49,634 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:49,634 DEBUG   SenderThread:989595 [sender.py:send():375] send: stats
+2023-04-21 16:03:49,635 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:03:49,711 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:50,646 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/ek55woou-media/table/questions_answers_8_37949bdc46f84de980ee.table.json
+2023-04-21 16:03:51,712 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:03:52,476 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: log_artifact
+2023-04-21 16:03:52,477 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: log_artifact
+2023-04-21 16:03:52,483 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: partial_history
+2023-04-21 16:03:52,713 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_created():278] file/dir created: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_9_72d76111b9191d08fd6e.table.json
+2023-04-21 16:03:52,713 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table
+2023-04-21 16:03:53,664 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/v47dl4i9-media/table/questions_answers_9_72d76111b9191d08fd6e.table.json
+2023-04-21 16:03:54,466 INFO    wandb-upload_1:989595 [upload_job.py:push():95] Uploaded file /home/hardk/.local/share/wandb/artifacts/staging/tmpvf10_7s_
+2023-04-21 16:03:55,896 INFO    SenderThread:989595 [sender.py:send_request_log_artifact():1438] logged artifact run-ytb6gbqi-questions_answers - {'id': 'QXJ0aWZhY3Q6NDI5NzU5Nzg5', 'digest': 'df40be6b88bd7a967a6c1b6aeb0c6240', 'state': 'PENDING', 'aliases': [], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNjU1MDMx', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU5NzM1', 'versionIndex': 8}}, 'version': 'latest'}
+2023-04-21 16:03:55,897 DEBUG   SenderThread:989595 [sender.py:send():375] send: files
+2023-04-21 16:03:55,897 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file media/table/questions_answers_9_72d76111b9191d08fd6e.table.json with policy now
+2023-04-21 16:03:55,897 DEBUG   SenderThread:989595 [sender.py:send():375] send: history
+2023-04-21 16:03:55,898 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: summary_record
+2023-04-21 16:03:55,898 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:03:55,899 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:03:56,715 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:03:56,760 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /tmp/tmp4l56fcf8wandb/5uqw8iq0-media/table/questions_answers_9_72d76111b9191d08fd6e.table.json
+2023-04-21 16:03:57,716 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:04:00,900 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:04:02,846 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: stop_status
+2023-04-21 16:04:02,847 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: keepalive
+2023-04-21 16:04:02,847 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: stop_status
+2023-04-21 16:04:04,061 DEBUG   SenderThread:989595 [sender.py:send():375] send: exit
+2023-04-21 16:04:04,062 INFO    SenderThread:989595 [sender.py:send_exit():598] handling exit code: 255
+2023-04-21 16:04:04,062 INFO    SenderThread:989595 [sender.py:send_exit():600] handling runtime: 76
+2023-04-21 16:04:04,064 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:04:04,065 INFO    SenderThread:989595 [sender.py:send_exit():606] send defer
+2023-04-21 16:04:04,065 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,065 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 0
+2023-04-21 16:04:04,066 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,066 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 0
+2023-04-21 16:04:04,066 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 1
+2023-04-21 16:04:04,066 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,066 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 1
+2023-04-21 16:04:04,066 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,066 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 1
+2023-04-21 16:04:04,066 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 2
+2023-04-21 16:04:04,066 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,066 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 2
+2023-04-21 16:04:04,066 INFO    HandlerThread:989595 [system_monitor.py:finish():190] Stopping system monitor
+2023-04-21 16:04:04,067 DEBUG   SystemMonitor:989595 [system_monitor.py:_start():166] Finished system metrics aggregation loop
+2023-04-21 16:04:04,067 DEBUG   SystemMonitor:989595 [system_monitor.py:_start():170] Publishing last batch of metrics
+2023-04-21 16:04:04,068 INFO    HandlerThread:989595 [interfaces.py:finish():202] Joined cpu monitor
+2023-04-21 16:04:04,068 INFO    HandlerThread:989595 [interfaces.py:finish():202] Joined disk monitor
+2023-04-21 16:04:04,110 INFO    HandlerThread:989595 [interfaces.py:finish():202] Joined gpu monitor
+2023-04-21 16:04:04,110 INFO    HandlerThread:989595 [interfaces.py:finish():202] Joined memory monitor
+2023-04-21 16:04:04,110 INFO    HandlerThread:989595 [interfaces.py:finish():202] Joined network monitor
+2023-04-21 16:04:04,111 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,111 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 2
+2023-04-21 16:04:04,111 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 3
+2023-04-21 16:04:04,111 DEBUG   SenderThread:989595 [sender.py:send():375] send: stats
+2023-04-21 16:04:04,111 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,111 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 3
+2023-04-21 16:04:04,112 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,112 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 3
+2023-04-21 16:04:04,112 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 4
+2023-04-21 16:04:04,112 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,112 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 4
+2023-04-21 16:04:04,112 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,113 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 4
+2023-04-21 16:04:04,113 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 5
+2023-04-21 16:04:04,113 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,113 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 5
+2023-04-21 16:04:04,114 DEBUG   SenderThread:989595 [sender.py:send():375] send: summary
+2023-04-21 16:04:04,115 INFO    SenderThread:989595 [sender.py:_save_file():1378] saving file wandb-summary.json with policy end
+2023-04-21 16:04:04,115 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,115 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 5
+2023-04-21 16:04:04,115 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 6
+2023-04-21 16:04:04,116 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,116 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 6
+2023-04-21 16:04:04,116 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,116 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 6
+2023-04-21 16:04:04,116 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 7
+2023-04-21 16:04:04,117 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: status_report
+2023-04-21 16:04:04,117 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:04,117 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 7
+2023-04-21 16:04:04,117 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:04,117 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 7
+2023-04-21 16:04:04,722 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:04:05,061 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 16:04:05,480 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 8
+2023-04-21 16:04:05,481 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 16:04:05,481 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:05,481 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 8
+2023-04-21 16:04:05,482 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:05,482 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 8
+2023-04-21 16:04:05,499 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 9
+2023-04-21 16:04:05,500 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:05,500 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 9
+2023-04-21 16:04:05,501 DEBUG   SenderThread:989595 [sender.py:send():375] send: artifact
+2023-04-21 16:04:05,723 INFO    Thread-12 :989595 [dir_watcher.py:_on_file_modified():295] file/dir modified: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:04:06,063 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 16:04:06,742 INFO    SenderThread:989595 [sender.py:send_artifact():1474] sent artifact job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py - {'id': 'QXJ0aWZhY3Q6NDI5NzU2NzYz', 'digest': '74cb4699702b68ac58632e47389435bb', 'state': 'COMMITTED', 'aliases': [{'artifactCollectionName': 'job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py', 'alias': 'latest'}, {'artifactCollectionName': 'job-https___github.com_JainitBITW_Styled_ChatBot_Final_Model_main.py', 'alias': 'v11'}], 'artifactSequence': {'id': 'QXJ0aWZhY3RDb2xsZWN0aW9uOjYzNTE2ODA1', 'latestArtifact': {'id': 'QXJ0aWZhY3Q6NDI5NzU2NzYz', 'versionIndex': 11}}, 'version': 'v11'}
+2023-04-21 16:04:06,742 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:06,743 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 9
+2023-04-21 16:04:06,743 INFO    SenderThread:989595 [dir_watcher.py:finish():365] shutting down directory watcher
+2023-04-21 16:04:07,724 INFO    SenderThread:989595 [dir_watcher.py:finish():395] scan: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files
+2023-04-21 16:04:07,725 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/config.yaml config.yaml
+2023-04-21 16:04:07,725 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json wandb-summary.json
+2023-04-21 16:04:07,725 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/requirements.txt requirements.txt
+2023-04-21 16:04:07,726 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log output.log
+2023-04-21 16:04:07,726 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-metadata.json wandb-metadata.json
+2023-04-21 16:04:07,732 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_0_af82f724d84418131558.table.json media/table/questions_answers_0_af82f724d84418131558.table.json
+2023-04-21 16:04:07,732 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json media/table/questions_answers_4_57a3358cf2fcf79b0b3f.table.json
+2023-04-21 16:04:07,732 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_7_d8323d39df497a406c83.table.json media/table/questions_answers_7_d8323d39df497a406c83.table.json
+2023-04-21 16:04:07,732 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_9_72d76111b9191d08fd6e.table.json media/table/questions_answers_9_72d76111b9191d08fd6e.table.json
+2023-04-21 16:04:07,733 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json media/table/questions_answers_3_c552b8dfc0e67bdb9e72.table.json
+2023-04-21 16:04:07,733 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json media/table/questions_answers_2_1cd430ac65059fcfeb1b.table.json
+2023-04-21 16:04:07,733 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json media/table/questions_answers_6_8ced6b473352ea41fe8d.table.json
+2023-04-21 16:04:07,733 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json media/table/questions_answers_1_0f197ec43f7bc8ab1b09.table.json
+2023-04-21 16:04:07,733 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json media/table/questions_answers_5_afc4a0a38ca4b1f40abd.table.json
+2023-04-21 16:04:07,734 INFO    SenderThread:989595 [dir_watcher.py:finish():409] scan save: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/media/table/questions_answers_8_37949bdc46f84de980ee.table.json media/table/questions_answers_8_37949bdc46f84de980ee.table.json
+2023-04-21 16:04:07,734 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 10
+2023-04-21 16:04:07,734 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 16:04:07,735 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:07,736 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 10
+2023-04-21 16:04:07,736 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:07,736 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 10
+2023-04-21 16:04:07,736 INFO    SenderThread:989595 [file_pusher.py:finish():168] shutting down file pusher
+2023-04-21 16:04:08,506 INFO    wandb-upload_2:989595 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/config.yaml
+2023-04-21 16:04:08,637 INFO    wandb-upload_3:989595 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/wandb-summary.json
+2023-04-21 16:04:08,753 INFO    wandb-upload_1:989595 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/requirements.txt
+2023-04-21 16:04:08,768 INFO    wandb-upload_0:989595 [upload_job.py:push():137] Uploaded file /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/files/output.log
+2023-04-21 16:04:08,969 INFO    Thread-11 (_thread_body):989595 [sender.py:transition_state():626] send defer: 11
+2023-04-21 16:04:08,969 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:08,970 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 11
+2023-04-21 16:04:08,970 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:08,970 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 11
+2023-04-21 16:04:08,970 INFO    SenderThread:989595 [file_pusher.py:join():173] waiting for file pusher
+2023-04-21 16:04:08,970 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 12
+2023-04-21 16:04:08,970 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:08,970 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 12
+2023-04-21 16:04:08,971 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:08,971 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 12
+2023-04-21 16:04:09,986 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 13
+2023-04-21 16:04:09,986 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:09,986 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 13
+2023-04-21 16:04:09,986 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:09,986 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 13
+2023-04-21 16:04:09,986 INFO    SenderThread:989595 [sender.py:transition_state():626] send defer: 14
+2023-04-21 16:04:09,987 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: defer
+2023-04-21 16:04:09,987 INFO    HandlerThread:989595 [handler.py:handle_request_defer():170] handle defer: 14
+2023-04-21 16:04:09,987 DEBUG   SenderThread:989595 [sender.py:send():375] send: final
+2023-04-21 16:04:09,987 DEBUG   SenderThread:989595 [sender.py:send():375] send: footer
+2023-04-21 16:04:09,987 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: defer
+2023-04-21 16:04:09,987 INFO    SenderThread:989595 [sender.py:send_request_defer():622] handle sender defer: 14
+2023-04-21 16:04:09,987 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: poll_exit
+2023-04-21 16:04:09,988 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: poll_exit
+2023-04-21 16:04:09,988 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: server_info
+2023-04-21 16:04:09,988 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: get_summary
+2023-04-21 16:04:09,988 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: sampled_history
+2023-04-21 16:04:09,989 DEBUG   SenderThread:989595 [sender.py:send_request():402] send_request: server_info
+2023-04-21 16:04:10,274 INFO    MainThread:989595 [wandb_run.py:_footer_history_summary_info():3476] rendering history
+2023-04-21 16:04:10,274 INFO    MainThread:989595 [wandb_run.py:_footer_history_summary_info():3508] rendering summary
+2023-04-21 16:04:10,274 INFO    MainThread:989595 [wandb_run.py:_footer_sync_info():3434] logging synced files
+2023-04-21 16:04:10,275 DEBUG   HandlerThread:989595 [handler.py:handle_request():144] handle_request: shutdown
+2023-04-21 16:04:10,275 INFO    HandlerThread:989595 [handler.py:finish():845] shutting down handler
+2023-04-21 16:04:10,989 INFO    WriterThread:989595 [datastore.py:close():298] close: /home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/wandb/run-20230421_160246-ytb6gbqi/run-ytb6gbqi.wandb
+2023-04-21 16:04:11,274 INFO    SenderThread:989595 [sender.py:finish():1550] shutting down sender
+2023-04-21 16:04:11,274 INFO    SenderThread:989595 [file_pusher.py:finish():168] shutting down file pusher
+2023-04-21 16:04:11,274 INFO    SenderThread:989595 [file_pusher.py:join():173] waiting for file pusher

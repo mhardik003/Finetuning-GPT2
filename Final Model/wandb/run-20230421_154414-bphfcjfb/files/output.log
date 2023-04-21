@@ -1,0 +1,34 @@
+9317
+training ....
+  0%|                                                                                                                                                                                                     | 0/10 [00:00<?, ?it/s]
+
+
+
+
+/home/hardk/.local/lib/python3.10/site-packages/transformers/generation/utils.py:1186: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation)
+  warnings.warn(
+  0%|                                                                                                                                                                                                     | 0/10 [00:11<?, ?it/s]
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 179, in <module>
+    train(chatData, model, optim, int(NUM_EPOCHS))
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 81, in train
+    ans_ques1 = infer("Hello, how are you?", 1)
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 117, in infer
+    output = model.generate(X, attention_mask=a, max_length=100, do_sample=True, top_k=50, top_p=0.95, num_return_sequences=1)
+  File "/home/hardk/.local/lib/python3.10/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/hardk/.local/lib/python3.10/site-packages/transformers/generation/utils.py", line 1283, in generate
+    raise ValueError(
+ValueError: Both `max_new_tokens` and `max_length` have been set but they serve the same purpose -- setting a limit to the generated output length. Remove one of those arguments. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 179, in <module>
+    train(chatData, model, optim, int(NUM_EPOCHS))
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 81, in train
+    ans_ques1 = infer("Hello, how are you?", 1)
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 117, in infer
+    output = model.generate(X, attention_mask=a, max_length=100, do_sample=True, top_k=50, top_p=0.95, num_return_sequences=1)
+  File "/home/hardk/.local/lib/python3.10/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/home/hardk/.local/lib/python3.10/site-packages/transformers/generation/utils.py", line 1283, in generate
+    raise ValueError(
+ValueError: Both `max_new_tokens` and `max_length` have been set but they serve the same purpose -- setting a limit to the generated output length. Remove one of those arguments. Please refer to the documentation for more information. (https://huggingface.co/docs/transformers/main/en/main_classes/text_generation)

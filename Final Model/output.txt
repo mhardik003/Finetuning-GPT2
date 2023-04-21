@@ -1,0 +1,232 @@
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : Hello, I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm Penny. I'm
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : I'm not sure. I'm just trying to get my head around the fact that I'm not a scientist.  
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : I'm a little busy.  
+--------------------------------------------
+
+Epoch 4
+Question :  Hello, how are you? 
+Sheldon : I'm sorry, I'm not sure.  
+--------------------------------------------
+
+Epoch 5
+Question :  Hello, how are you? 
+Sheldon : I'm sorry, I'm not familiar with your situation.  
+--------------------------------------------
+
+Epoch 6
+Question :  Hello, how are you? 
+Sheldon : I'm Penny.  
+--------------------------------------------
+
+Epoch 7
+Question :  Hello, how are you? 
+Sheldon : I'm in a relationship with my ex-girlfriend. She's a bit of a nut.  
+--------------------------------------------
+
+Epoch 8
+Question :  Hello, how are you? 
+Sheldon : I'm a little busy, but I'm having a great time.  
+--------------------------------------------
+
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : , , , , ,,
+
+,,,,,,,,,
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : , , the 
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : Question : 
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : ,,, ,,,,,,,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------
+
+Epoch 4
+Question :  Hello, how are you? 
+Sheldon : ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------
+
+Epoch 5
+Question :  Hello, how are you? 
+Sheldon : ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------
+
+Epoch 6
+Question :  Hello, how are you? 
+Sheldon : , and , and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and, and
+--------------------------------------------
+
+Epoch 7
+Question :  Hello, how are you? 
+Sheldon :, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+--------------------------------------------
+
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : , and
+
+
+ ,
+ ,
+
+
+,
+
+,
+,
+
+
+,
+
+,
+
+,
+ ,
+
+,
+
+,
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 4
+Question :  Hello, how are you? 
+Sheldon : , 
+--------------------------------------------
+
+Epoch 5
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 6
+Question :  Hello, how are you? 
+Sheldon : , I'm, I'm not, I'm not, I'm not, I'm not, I'm not, I'm not, I'm not, I'm not, I'm not, I'm not, I 
+--------------------------------------------
+
+Epoch 7
+Question :  Hello, how are you? 
+Sheldon : , and 
+--------------------------------------------
+
+Epoch 8
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 9
+Question :  Hello, how are you? 
+Sheldon :, 
+--------------------------------------------
+
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : ,, ,, , ,
+ , 
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : , , , and , 
+--------------------------------------------
+
+Epoch 4
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 5
+Question :  Hello, how are you? 
+Sheldon : , how are you? , and , and , and, , and, and, and, the, and, the, and, and, and, the, and, and, , and
+--------------------------------------------
+
+Epoch 6
+Question :  Hello, how are you? 
+Sheldon : , I'm a a a a a a a a a a a  the  the a a a a a a 
+--------------------------------------------
+
+Epoch 7
+Question :  Hello, how are you? 
+Sheldon : ,  the, and and and and and and and and and and and , , and and and and and and and and and and and and and and  the, and and and the and and and and and
+--------------------------------------------
+
+Epoch 8
+Question :  Hello, how are you? 
+Sheldon : 
+--------------------------------------------
+
+Epoch 9
+Question :  Hello, how are you? 
+Sheldon :  the way.
+ 
+Sheldon : ,, and , and the, and the , and the, and the, and the, and the, and the, and the, and the, and the, and the, and the, and the, and the, and
+--------------------------------------------
+
+Epoch 1
+Question :  Hello, how are you? 
+Sheldon : 
+ 
+ 
+
+ 
+--------------------------------------------
+
+Epoch 2
+Question :  Hello, how are you? 
+Sheldon : , how are you, my, my, my, my, my, ,,
+--------------------------------------------
+
+Epoch 3
+Question :  Hello, how are you? 
+Sheldon : , Hello, Hello, and I'm a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a 
+--------------------------------------------
+
+Epoch 4
+Question :  Hello, how are you? 
+Sheldon : - , the-
+ , I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm,
+--------------------------------------------
+
