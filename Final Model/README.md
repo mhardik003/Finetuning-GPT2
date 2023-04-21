@@ -12,3 +12,11 @@ Change log
     - Changed the dataset to cover more context
     - Did some hyperparameter tuning according to the new dataset
     - File structure changes ( all the new changes will be done in Final Model folder and not in the 'Styled on a different dataset' folder)
+
+
+* (21/04/2023) : 
+  - Added a seed to see which one performs the best
+  - Added WandB to store the models and compare their performances ( https://wandb.ai/mhardik003/iNLP_Project)
+  - Changed the optimizer to AdamW as recommended by a lot of online resources
+  - Changed the learning rate to 1e-5 as recommended by a lot of online resources
+  

@@ -13,8 +13,8 @@ FILENAME = "./Dataset/sheldon_chats.json"
 random_seed_number = random.randint(0, 100)
 
 config = {
-    "learning_rate": 5e-5,
-    "batch_size": 4,
+    "learning_rate": 4e-5,
+    "batch_size": 8,
     "project_name": "iNLP_Project",
     "entity_name": "mhardik003",
     "random_seed": random_seed_number,
@@ -61,8 +61,8 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
                 f.write(blabla)
 
         # change learning rate
-        # if (i % 3 == 0 and optim.param_groups[0]['lr'] > 1e-5):
-        #     optim.param_groups[0]['lr'] /= 2
+        if (i % 3 == 0 and optim.param_groups[0]['lr'] > 1e-5):
+            optim.param_groups[0]['lr'] /= 2
 
         for X, a in tqdm(chatData):
             X = X.to(device)
@@ -71,12 +71,14 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
 
             # calculate the loss of the model
             loss = model(X, attention_mask=a, labels=X).loss
-            ans_ques1 = infer("Hello, how are you?", 1)
-            ans_ques2 = infer("What is your name?", 1)
-            ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
-
+            
+           
             loss.backward()
             optim.step()
+
+        ans_ques1 = infer("Hello, how are you?", 1)
+        ans_ques2 = infer("What is your name?", 1)
+        ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
 
         torch.save(model.state_dict(), "model_state.pt")
         
@@ -107,7 +109,7 @@ def infer(inp, f=0):
     X = inp["input_ids"].to(device)
     a = inp["attention_mask"].to(device)
 
-    output = model.generate(X, attention_mask=a, do_sample=True, top_k=50, top_p=0.95, num_return_sequences=2)
+    output = model.generate(X, attention_mask=a)
     output = tokenizer.decode(output[0])
 
     if (f):
@@ -126,10 +128,10 @@ NUM_EPOCHS = input("Enter number of epochs : ")
 model_type = input("Enter 1 for GPT2 and 2 for GPTNeo : ")
 
 
-selected_model = "GPT2" if model_type == "1" else "GPTNeo"
+selected_model = "GPT2Medium" if model_type == "1" else "GPTNeo"
 if model_type == "1":
-    model = GPT2LMHeadModel.from_pretrained("gpt2")
-    tokenizer = GPT2Tokenizer.from_pretrained("gpt2", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
+    model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
+    tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
     # config = model.config
 
 else:
