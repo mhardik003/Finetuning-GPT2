@@ -47,3 +47,10 @@ Sheldon : What is your name?
 Question : Is your name Sheldon? Yes or No? :
 Sheldon :  I don't have a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a
 
+100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 5/5 [00:34<00:00,  6.81s/it]
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 190, in <module>
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 190, in <module>
+KeyboardInterrupt

@@ -49,7 +49,7 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
     """
     Train the model
     """
-    answers= []
+    answers = []
     for i in tqdm(range(NUM_EPOCHS)):
         model.train()
 
@@ -78,19 +78,21 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
         ans_ques1 = infer("Hello, how are you?", 1)
         ans_ques2 = infer("What is your name?", 1)
         ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
-        
+
         answers.append([ans_ques1, ans_ques2, ans_ques3])
-        question_answers = pd.DataFrame(answers, columns=["Question 1", "Question 2", "Question 3"])
+        question_answers = pd.DataFrame(
+            answers, columns=["Question 1", "Question 2", "Question 3"])
         wandb_table = wandb.Table(dataframe=question_answers)
-        
+
         # torch.save(model.state_dict(), "model_state.pt")
-        
-        wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
+
+        wandb.log({"loss": loss, "epoch": i,
+                  "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
 
         print("-"*100)
         print("Question : Hello, how are you? : ", ans_ques1)
         print("Question : What is your name? : ", ans_ques2)
-        print("Question : Is your name Sheldon? Yes or No? : ",ans_ques3)
+        print("Question : Is your name Sheldon? Yes or No? : ", ans_ques3)
 
         # with open("output.txt", 'a') as f:
 
@@ -98,10 +100,8 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
         #     f.write(ans_ques1 + "\n")
         #     f.write(ans_ques2 + "\n")
         #     f.write(ans_ques3 + "\n")
-        
 
     model.eval()
-
 
 
 def infer(inp, f=0):
@@ -137,15 +137,17 @@ model_type = input("Enter 1 for GPT2 and 2 for GPTNeo : ")
 selected_model = "GPT2" if model_type == "1" else "GPTNeo"
 if model_type == "1":
     model = GPT2LMHeadModel.from_pretrained("gpt2")
-    tokenizer = GPT2Tokenizer.from_pretrained("gpt2", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
+    tokenizer = GPT2Tokenizer.from_pretrained(
+        "gpt2", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
     # config = model.config
 
 else:
     model = GPTNeoForCausalLM.from_pretrained("EleutherAI/gpt-neo-125M")
-    tokenizer = GPT2Tokenizer.from_pretrained("EleutherAI/gpt-neo-125M", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
+    tokenizer = GPT2Tokenizer.from_pretrained(
+        "EleutherAI/gpt-neo-125M", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
 
 
-init_wandb(selected_model,config)
+init_wandb(selected_model, config)
 
 # add special tokens
 tokenizer.add_tokens(["<bot>:"])
@@ -161,13 +163,13 @@ model.config.use_cache = True  # for faster generation of text
 model.config.max_new_tokens = 100
 model.config.attention_layers = ["global"] * 12
 
-if(device == "cuda"):
+if (device == "cuda"):
     model = model.cuda()
 elif (device == "mps"):
     model = model.mps()
-else : 
+else:
     model = model.cpu()
-    
+
 
 chatData = ChatData(FILENAME, tokenizer)
 chatData = DataLoader(chatData, batch_size=config["batch_size"], shuffle=True)
