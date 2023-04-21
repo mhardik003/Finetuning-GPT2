@@ -13,8 +13,8 @@ FILENAME = "./Dataset/sheldon_chats.json"
 random_seed_number = random.randint(0, 100)
 
 config = {
-    "learning_rate": 4e-5,
-    "batch_size": 8,
+    "learning_rate": 8e-5,
+    "batch_size": 4,
     "project_name": "iNLP_Project",
     "entity_name": "mhardik003",
     "random_seed": random_seed_number,
@@ -80,7 +80,7 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
         ans_ques2 = infer("What is your name?", 1)
         ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
 
-        torch.save(model.state_dict(), "model_state.pt")
+        # torch.save(model.state_dict(), "model_state.pt")
         
         wandb.log({"loss": loss, "epoch": i, "learning_rate": optim.param_groups[0]['lr'], "Hello, how are you?": ans_ques1,
                    "What is your name?": ans_ques2, "Is your name Sheldon? Yes or No?": ans_ques3})
@@ -90,12 +90,12 @@ def train(chatData, model, optim, NUM_EPOCHS=10):
         print("What is your name? : ", ans_ques2)
         print("Is your name Sheldon? Yes or No? : ",ans_ques3)
 
-        with open("output.txt", 'a') as f:
+        # with open("output.txt", 'a') as f:
 
-            f.write("\n" + "-"*100 + "\n")
-            f.write(ans_ques1 + "\n")
-            f.write(ans_ques2 + "\n")
-            f.write(ans_ques3 + "\n")
+        #     f.write("\n" + "-"*100 + "\n")
+        #     f.write(ans_ques1 + "\n")
+        #     f.write(ans_ques2 + "\n")
+        #     f.write(ans_ques3 + "\n")
 
 
 def infer(inp, f=0):
@@ -128,10 +128,10 @@ NUM_EPOCHS = input("Enter number of epochs : ")
 model_type = input("Enter 1 for GPT2 and 2 for GPTNeo : ")
 
 
-selected_model = "GPT2Medium" if model_type == "1" else "GPTNeo"
+selected_model = "GPT2" if model_type == "1" else "GPTNeo"
 if model_type == "1":
-    model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
-    tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
+    model = GPT2LMHeadModel.from_pretrained("gpt2")
+    tokenizer = GPT2Tokenizer.from_pretrained("gpt2", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
     # config = model.config
 
 else:
@@ -148,7 +148,7 @@ model.resize_token_embeddings(len(tokenizer))
 model.config.pad_token_id = tokenizer.pad_token_id
 model.config.bos_token_id = tokenizer.bos_token_id
 model.config.eos_token_id = tokenizer.eos_token_id
-model.config.max_length = 80
+model.config.max_length = 30
 model.config.use_cache = True  # for faster generation of text
 # model.config.repetition_penalty = 0.75 # how much to penalize for repeating words
 # model.config.temperature = 0.85 # creativity setting (1 means most creative/random)

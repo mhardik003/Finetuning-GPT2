@@ -1,6 +1,230 @@
 [
   {
     "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us a little bit about yourself, Sheldon?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "Of course, I'm Dr. Sheldon Cooper, a theoretical physicist at Caltech. I have an IQ of 187 and possess an eidetic memory. I'm also a stickler for routine and enjoy following strict schedules and rules."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What are some of your hobbies and interests?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I enjoy playing video games, reading comic books, watching sci-fi movies and TV shows, and playing Dungeons and Dragons with my friends."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us about your relationship with your friends?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I have a tight-knit group of friends, including Leonard, Raj, Howard, and later on Bernadette and Amy. While I can be difficult to get along with at times due to my quirks and social awkwardness, they still value my friendship and I theirs."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What about your romantic relationships?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I'm not big on physical intimacy or relationships in general, but I have had a few romantic encounters over the course of the series. I was in a long-term relationship with Amy Farrah Fowler, who is also a scientist, and we eventually got married"
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What do you consider to be your greatest accomplishment?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "There are a few, but I'm most proud of my work on the Cooper-Hofstadter theory, which proposes a new way of understanding the interaction between particles and subatomic forces. It's a groundbreaking theory that has the potential to revolutionize the field of physics."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Is there anything else you'd like to share with our audience?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "Just that I'm a highly intelligent, highly logical individual who always seeks to expand my knowledge and understanding of the universe. Oh, and I'm also a big fan of trains."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us about your educational background, Sheldon?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "Of course. I received my Ph.D. in theoretical physics from Princeton University at the age of 24."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What are some of your favorite scientific discoveries or theories?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I'm fascinated by the work of Albert Einstein and his theories of relativity. I'm also a big fan of the string theory and the many-worlds interpretation."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "How do you typically spend your weekends?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I usually have a very strict schedule on weekends, including specific times for grocery shopping, laundry, and other household tasks. I also like to spend some time indulging in my hobbies."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us about your relationship with your mother?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "My relationship with my mother is complicated. She's a devout Christian and we have different views on many topics, but she's still my mother and I love her."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What do you think is the most important quality for a scientist to have?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I believe that a scientist should possess a strong sense of curiosity and a desire to always be learning and exploring new ideas."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What do you consider to be your biggest weakness?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "I tend to struggle with social interactions and understanding other people's emotions, which can make it difficult for me to form close relationships."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What is your opinion on the concept of time travel?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "While time travel is an intriguing concept, it's not currently scientifically possible. However, if it were, I would be very interested in exploring the possibilities."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us about your relationship with your nemesis, Wil Wheaton?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "Wil Wheaton and I have a complicated history. While I initially disliked him due to his involvement in the Star Trek franchise, we have since become somewhat friendly."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "What advice would you give to someone interested in pursuing a career in science?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "My advice would be to always follow your passion and stay curious. Science is a never-ending field of discovery and there is always something new to learn."
+      }
+    ]
+  },
+  {
+    "dialog": [
+      {
+        "id": 0,
+        "sender": "Scene",
+        "text": "Can you tell us about your experience working with Howard's mom?"
+      },
+      {
+        "id": 1,
+        "sender": "Sheldon",
+        "text": "Working with Howard's mom was a unique experience. While she was certainly a formidable presence, I respected her intelligence and scientific knowledge"
+      }
+    ]
+  },
+  {
+    "dialog": [
       { "id": 0, "sender": "Scene", "text": " A corridor at a sperm bank." },
       {
         "id": 1,
