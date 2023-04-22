@@ -20,3 +20,7 @@ Change log
   - Changed the optimizer to AdamW as recommended by a lot of online resources
   - Changed the learning rate to 1e-5 as recommended by a lot of online resources
   
+
+* (22/04/2023) :
+ - Added scheduler
+ - Froze the first 6 layers of the model

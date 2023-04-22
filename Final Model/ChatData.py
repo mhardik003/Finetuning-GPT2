@@ -44,7 +44,7 @@ class ChatData(Dataset):
         self.X = X_new
         print(len(self.X))
 
-        self.X = self.X[:6500]
+        self.X = self.X[:9500]
         
         
         # maxi = 0
@@ -65,6 +65,6 @@ class ChatData(Dataset):
 
     def __getitem__(self, idx):
         """
-        Return the item at the given index
+        Return the input_ids and attention_mask for the given index
         """
         return (self.input_ids[idx], self.attention_mask[idx])

@@ -1,0 +1,1098 @@
+9359
+training ....
+  0%|                                                                                                           | 0/10 [00:00<?, ?it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/home/hardk/.local/lib/python3.10/site-packages/transformers/generation/utils.py:1186: UserWarning: You have modified the pretrained model configuration to control generation. This is a deprecated strategy to control generation and will be removed soon, in a future version. Please use a generation configuration file (see https://huggingface.co/docs/transformers/main_classes/text_generation)
+  warnings.warn(
+ 10%|█████████▊                                                                                        | 1/10 [03:15<29:17, 195.27s/it]
+  2%|██▌                                                                                                   | 58/2340 [00:04<03:08, 12.09it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm sorry, but I'm not sure how to answer your question.
+Question : What is your name?
+Sheldon : I'm a little bit of a stranger.
+Question : Is your name Sheldon? Yes or No?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:16<00:00, 12.26it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm not sure.
+Question : What is your name?
+Sheldon : I'm not sure.
+Question : Is your name Sheldon? Yes or No?
+ 20%|███████████████████▌                                                                              | 2/10 [06:32<26:09, 196.20s/it]6it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:13<00:00, 12.27it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm sorry, I'm not going to the party.
+Question : What is your name?
+Sheldon : I'm Dr. Sheldon Cooper.
+Question : Is your name Sheldon? Yes or No?
+ 30%|█████████████████████████████▍                                                                    | 3/10 [09:46<22:47, 195.37s/it]7it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:13<00:00, 12.44it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm sorry, I'm not sure.
+Question : What is your name?
+Sheldon : I'm Dr.
+Question : Is your name Sheldon? Yes or No?
+ 40%|███████████████████████████████████████▏                                                          | 4/10 [13:00<19:29, 194.92s/it]4it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:13<00:00, 12.23it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm fine. I'm just a little busy.
+Question : What is your name?
+Sheldon : I'm Sheldon Cooper.
+Question : Is your name Sheldon? Yes or No?
+ 50%|█████████████████████████████████████████████████                                                 | 5/10 [16:14<16:12, 194.55s/it]3it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:13<00:00, 12.26it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm not sure.
+Question : What is your name?
+Sheldon : I'm Dr. Cooper.
+Question : Is your name Sheldon? Yes or No?
+ 60%|██████████████████████████████████████████████████████████▊                                       | 6/10 [19:28<12:57, 194.45s/it]6it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:13<00:00, 12.34it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm sorry, I'm just trying to get you to stop thinking about me.
+Question : What is your name?
+Sheldon : My name is Dr. Sheldon Cooper.
+Question : Is your name Sheldon? Yes or No?
+ 70%|████████████████████████████████████████████████████████████████████▌                             | 7/10 [22:43<09:43, 194.48s/it]4it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:14<00:00, 12.46it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm Dr. Cooper.
+Question : What is your name?
+Sheldon : I'm Dr. Cooper.
+Question : Is your name Sheldon? Yes or No?
+ 80%|██████████████████████████████████████████████████████████████████████████████▍                   | 8/10 [25:58<06:29, 194.67s/it]6it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2340/2340 [03:09<00:00, 12.53it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm a scientist.
+Question : What is your name?
+Sheldon : My name is Sheldon.
+Question : Is your name Sheldon? Yes or No?
+ 90%|████████████████████████████████████████████████████████████████████████████████████████▏         | 9/10 [29:08<03:13, 193.25s/it]3it/s]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|█████████████████████████████████████████████████████████████████████████████████████████████████| 10/10 [32:16<00:00, 193.69s/it]0it/s]
+----------------------------------------------------------------------------------------------------
+Question : Hello, how are you?
+Sheldon : I'm fine.
+Question : What is your name?
+Sheldon : I'm Dr. Sheldon Cooper.
+Question : Is your name Sheldon? Yes or No?
+Sheldon : No, I'm not.
+infer from model :
+Sheldon : I'm sorry, I'm not sure I can.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Sheldon :   I'm not going to do that.
+Sheldon : I'm not going to do that.
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 226, in <module>
+    inp = input("You :")
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "/home/hardk/AMNESIA/College/Sem 4/NLP/Project/Jainit Repo/Styled_ChatBot/Final Model/main.py", line 226, in <module>
+    inp = input("You :")
+KeyboardInterrupt
