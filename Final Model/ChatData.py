@@ -44,7 +44,7 @@ class ChatData(Dataset):
         self.X = X_new
         print(len(self.X))
 
-        self.X = self.X[:9500]
+        self.X = self.X[:9358]
         
         
         # maxi = 0

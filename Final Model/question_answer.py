@@ -3,7 +3,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPTNeoForCausalLM
 from ChatData import ChatData
 import torch
 
-tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+tokenizer = GPT2Tokenizer.from_pretrained("gpt2-medium")
 tokenizer.add_special_tokens({"pad_token": "<PAD>",
                               "bos_token": "<START>",
                               "eos_token": "<END>"})
@@ -26,34 +26,51 @@ model.config.max_length = 300
 model.config.max_new_tokens = 300
 
 
-model.load_state_dict(torch.load('model_state.pt'))
+model.load_state_dict(torch.load('./models/best_model.pt'))
 model = model.to(device)
 
 model.eval()
 
-def infer(inp):
-    inp = "<START> "+inp+" <bot>: "
+
+def clean_output(text):
+    """
+    Clean the output text
+    """
+    text = text.replace("<START>", "")
+    text = text.replace("<bot>:", "\nSheldon :")
+    text = text.replace("<END>", "")
+    text = text.replace("<pad> ", "")
+    text = text.replace("<pad>", "")
+
+    return text
+
+
+def infer(inp, f=0):
+    """
+    Infer from the model
+    """
+    # model.eval()
+    inp = "<START> "+inp+"<bot>: "
     inp = tokenizer(inp, return_tensors="pt")
+
     X = inp["input_ids"].to(device)
     a = inp["attention_mask"].to(device)
+
     output = model.generate(X, attention_mask=a)
     output = tokenizer.decode(output[0])
-    output = output.replace("<START>", "Question :")
-    
-    
-    index = output.find("<bot>:")
-    output = output[index:]
-    
-    output = output.replace("<bot>:", "\nSheldon :")
-    output = output.replace("<END>", "")
-    output = output.replace("<PAD> ", "")
-    return output
+
+    if (f):
+        index = output.find("<bot>:")
+        output = output[index:]
+    # model.train()
+    return clean_output(output)
+
 
 
 while True:
     inp = input("You: ")
     if inp == "exit":
         break
-    print(infer(inp))
+    print(infer(inp,1))
     
     

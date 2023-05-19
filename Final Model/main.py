@@ -19,7 +19,7 @@ random_seed_number = random.randint(0, 200)
 # epochs will be changed and then fixed once an approximation is found as to where the model starts overfitting
 
 config = {
-    "learning_rate": 4e-5,
+    "learning_rate": 8e-5,
     "batch_size": 4,
     "project_name": "iNLP_Project",
     "entity_name": "mhardik003",
@@ -65,50 +65,67 @@ def train(chatData, model, optim, scheduler, NUM_EPOCHS=10):
     answers = []
     total_loss = 0
     avg_loss = 0
-    for i in tqdm(range(NUM_EPOCHS)):
-        # change learning rate
-        if (i % 5 == 0 and optim.param_groups[0]['lr'] > 1e-5):
-            optim.param_groups[0]['lr'] /= 2
+    try:
+        for i in tqdm(range(NUM_EPOCHS)):
+            # change learning rate
+            # if (i % 3 == 0 and optim.param_groups[0]['lr'] > 1e-5):
+            #     optim.param_groups[0]['lr'] /= 2
 
-        for X, a in tqdm(chatData):
-            model.zero_grad()
-            optim.zero_grad()
-            X = X.to(device)
-            a = a.to(device)
-            # calculate the loss of the model
-            loss = model(X, attention_mask=a, labels=X)[0]
-            total_loss += loss.item()
-            loss.backward()
-            optim.step()
-            scheduler.step()
+            for X, a in tqdm(chatData):
+                model.zero_grad()
+                optim.zero_grad()
+                X = X.to(device)
+                a = a.to(device)
+                # calculate the loss of the model
+                loss = model(X, attention_mask=a, labels=X)[0]
+                total_loss += loss.item()
+                loss.backward()
+                optim.step()
+                scheduler.step()
 
-        avg_loss = total_loss / len(chatData)
-        ans_ques1 = infer("Hello, how are you?", 1)
-        ans_ques2 = infer("What is your name?", 1)
-        ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
+            avg_loss = total_loss / (len(chatData)*(i+1))
+            ans_ques1 = infer("Hello, how are you?", 1)
+            ans_ques2 = infer("What is your name?", 1)
+            ans_ques3 = infer("Is your name Sheldon? Yes or No?", 1)
+            ans_ques4 = infer("Who are your friends?", 1)
+            ans_ques5 = infer("Where do you work at?", 1)
+            ans_ques6 = infer(
+                "What inspired you to pursue a career in physics?", 1)
+            ans_ques7 = infer("What is your girlfriend's name?", 1)
+            ans_ques8 = infer("What does your girlfriend do?", 1)
+            model_name = "model_state_" + str(random_seed_number) + ".pt"
+            torch.save(model.state_dict(), "./models/" + model_name)
+            answers.append([ans_ques1, ans_ques2, ans_ques3, ans_ques4,
+                           ans_ques5, ans_ques6, ans_ques7, ans_ques8])
+            question_answers = pd.DataFrame(
+                answers, columns=["Hello, how are you?", "What is your name?", "Is your name Sheldon? Yes or No?", "Who are your friends?", "Where do you work at?", "What inspired you to pursue a career in physics?", "What is your girlfriend's name?", "What does your girlfriend do?"])
+            wandb_table = wandb.Table(dataframe=question_answers)
 
-        # torch.save(model.state_dict(), "model_state.pt")
-        answers.append([ans_ques1, ans_ques2, ans_ques3])
-        question_answers = pd.DataFrame(
-            answers, columns=["Hello, how are you?", "What is your name?", "Is your name Sheldon? Yes or No?"])
-        wandb_table = wandb.Table(dataframe=question_answers)
+            wandb.log({"loss": loss, "Average Loss": avg_loss, "epoch": i,
+                       "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
 
-        wandb.log({"loss": loss, "Average Loss": avg_loss, "epoch": i,
-                  "learning_rate": optim.param_groups[0]['lr'], "questions_answers": wandb_table})
+            print("-"*100)
+            print("Question : Hello, how are you?", ans_ques1)
+            print("Question : What is your name?", ans_ques2)
+            print("Question : Is your name Sheldon? Yes or No?", ans_ques3)
+            print("Question : Who are your friends?", ans_ques4)
+            print("Question : Where do you work at?", ans_ques5)
+            print(
+                "Question : What inspired you to pursue a career in physics?", ans_ques6)
+            print("Question : What is your girlfriend's name?", ans_ques7)
+            print("Question : What does your girlfriend do?", ans_ques8)
 
-        print("-"*100)
-        print("Question : Hello, how are you?", ans_ques1)
-        print("Question : What is your name?", ans_ques2)
-        print("Question : Is your name Sheldon? Yes or No?", ans_ques3)
+            # with open("output.txt", 'a') as f:
 
-        # with open("output.txt", 'a') as f:
+            #     f.write("\n" + "-"*100 + "\n")
+            #     f.write(ans_ques1 + "\n")
+            #     f.write(ans_ques2 + "\n")
+            #     f.write(ans_ques3 + "\n")
+            model.eval()
 
-        #     f.write("\n" + "-"*100 + "\n")
-        #     f.write(ans_ques1 + "\n")
-        #     f.write(ans_ques2 + "\n")
-        #     f.write(ans_ques3 + "\n")
-
-    model.eval()
+    except KeyboardInterrupt:
+        model.eval()
+        pass
 
 
 def infer(inp, f=0):
@@ -139,11 +156,11 @@ print("Using device : ", device)
 
 NUM_EPOCHS = int(input("Enter number of epochs : "))
 
-selected_model = "GPT2"
+selected_model = "GPT2Medium"
 
-model = GPT2LMHeadModel.from_pretrained("gpt2")
+model = GPT2LMHeadModel.from_pretrained("gpt2-medium")
 tokenizer = GPT2Tokenizer.from_pretrained(
-    "gpt2", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
+    "gpt2-medium", pad_token="<pad>", bos_token="<START>", eos_token="<END>")
 # config = model.config
 
 init_wandb(selected_model, config)
